@@ -398,7 +398,6 @@ def convertlabel(label):
         return(2)
     elif label == "query":
         return(3)
-        print "Here is one"
     else:
         print(label)
 
