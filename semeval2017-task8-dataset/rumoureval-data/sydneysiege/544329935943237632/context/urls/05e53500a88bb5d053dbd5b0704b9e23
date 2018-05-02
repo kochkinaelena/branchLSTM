@@ -1,0 +1,2632 @@
+<!DOCTYPE html>
+<html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs LoggedOut NoSidebar  Responsive" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app10.us.archive.org";archive_analytics.values.server_ms=576;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	
+		<base href="/web/20141210185235/http://uberpeople.net/" />
+		<script>
+			var _b = document.getElementsByTagName('base')[0], _bH = "/web/20141210185235/http://uberpeople.net/";
+			if (_b && _b.href != _bH) _b.href = _bH;
+		</script>
+	
+
+	<title>Complaints | Uber Drivers Forum</title>
+	
+	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=1&amp;dir=LTR&amp;d=1418089661" />
+	<link rel="stylesheet" type="text/css" href="misc/custom-node-icons?d=1400719621" /><link rel="stylesheet" href="css.php?css=discussion_list,facebook,google,login_bar,nat_public_css,panel_scroller,waindigo_lastpostavatar,xfa_blogs_nav&amp;style=1&amp;dir=LTR&amp;d=1418089661" />
+	
+	
+
+	
+		<script src="js/jquery/jquery-1.11.0.min.js"></script>	
+		
+	<script src="js/xenforo/xenforo.js?_v=c1ae77dc"></script>
+	<script src="js/xenforo/discussion_list.js?_v=c1ae77dc"></script>
+
+	
+	<link rel="apple-touch-icon" href="http://uberpeople.net/styles/default/xenforo/logo.og.png" />
+	<link rel="alternate" type="application/rss+xml" title="RSS feed for Uber Drivers Forum" href="forums/-/index.rss" />
+	<meta name="description" content="Let it all out.   Someone must feel for you and your gripes." />
+	<link rel="next" href="forums/Complaints/page-2" />
+	<link rel="canonical" href="http://uberpeople.net/forums/Complaints/" />
+	<link rel="alternate" type="application/rss+xml" title="RSS feed for Complaints" href="forums/Complaints/index.rss" />
+	<meta property="og:site_name" content="Uber Drivers Forum" />
+	
+	<meta property="og:image" content="http://uberpeople.net/styles/default/xenforo/logo.og.png" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://uberpeople.net/forums/Complaints/" />
+	<meta property="og:title" content="Complaints" />
+	<meta property="og:description" content="Let it all out.   Someone must feel for you and your gripes." />
+	
+	<meta property="fb:app_id" content="1449178735324688" />
+	
+
+
+<meta name="keywords" content="uber drivers, uber community, uber network, uber driver, uber forum, driving for uber, ride sharing, lyft drivers, sidecar drivers, driver complaints, uber news, uber technique" />
+
+</head>
+
+<body class="node15 node101">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://uberpeople.net/forums/Complaints";
+
+var firstYear = 1996;
+var displayDay = "10";
+var displayMonth = "Dec";
+var displayYear = "2014";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(525, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://uberpeople.net/forums/Complaints" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20141210185235" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20141104074306/http://uberpeople.net/forums/Complaints/" title="4 Nov 2014">NOV</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 18:52:35 Dec 10, 2014">DEC</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20150111035347/http://uberpeople.net/forums/Complaints" title="11 Jan 2015"><strong>JAN</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20141205134735/http://uberpeople.net/forums/Complaints/" title="13:47:35 Dec 5, 2014"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 18:52:35 Dec 10, 2014">10</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20141216074839/http://uberpeople.net/forums/Complaints" title="7:48:39 Dec 16, 2014"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   2013
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 18:52:35 Dec 10, 2014">2014</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20151213141853/http://uberpeople.net/forums/Complaints/" title="13 Dec 2015"><strong>2015</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20141210185235*/http://uberpeople.net/forums/Complaints" title="See a list of every capture for this URL">167 captures</a>
+           <div class="r" title="Timespan for captures of this URL">23 Jul 14 - 8 Jul 16</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="525"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=525_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000000000_2012:-1:000000000000_2013:-1:000000000000_2014:11:00000012583a_2015:-1:a9fadc9799a9_2016:-1:a02010100000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+
+
+
+	
+
+<div id="loginBar">
+	<div class="pageWidth">
+		<div class="pageContent">	
+			<h3 id="loginBarHandle">
+				<label for="LoginControl"><a href="login/" class="concealed noOutline">Log in or Sign up</a></label>
+			</h3>
+			
+			<span class="helper"></span>
+
+			
+		</div>
+	</div>
+</div>
+
+
+<div id="headerMover">
+	<div id="headerProxy"></div>
+
+<div id="content" class="forum_view ">
+	<div class="pageWidth">
+		<div class="pageContent ">
+			<!-- main content area -->
+			
+			
+			
+			
+						
+						
+
+                
+						
+						
+						<div class="breadBoxTop ">
+							
+							
+
+<nav>
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-15" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><!--Jump to...--></a>
+			
+		<div class="boardTitle"><strong>Uber Drivers Forum</strong></div>
+		
+		<span class="crumbs">
+			
+			
+			
+				<span class="crust selectedTabCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="/web/20141210185235/http://uberpeople.net/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Forums</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="/web/20141210185235/http://uberpeople.net/categories/community.101/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Community</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav>
+						</div>
+						
+						
+						
+					
+						<!--[if lt IE 8]>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="/web/20141210185235/https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
+						<![endif]-->
+
+						
+						
+
+
+
+
+<div class="PanelScroller" id="Notices" data-vertical="0" data-speed="400" data-interval="4000">
+	<div class="scrollContainer">
+		<div class="PanelContainer">
+			<ol class="Panels">
+				
+					<li class="panel Notice DismissParent notice_1">
+	<div class="baseHtml noticeContent">UberPeople.NET - Independent community of rideshare drivers.   It's FREE to be a person and enjoy all the benefits of membership.   Sign-up <a href="/web/20141210185235/http://uberpeople.net/register">HERE!</a></div>
+	
+	
+</li>
+				
+			</ol>
+		</div>
+	</div>
+	
+	
+</div>
+
+						
+						
+						
+						
+												
+							<!-- h1 title, description -->
+							<div class="titleBar">
+								
+								<h1>Complaints</h1>
+								
+								<p id="pageDescription" class="muted baseHtml">Let it all out.   Someone must feel for you and your gripes.</p>
+							</div>
+						
+						
+						
+						
+						
+						<!-- main template -->
+						
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+        <div style="text-align: center; padding: 8px 0 4px 0; border-bottom: 1px solid rgb(196, 221, 225)">
+            <script type="text/javascript">
+            google_ad_client = "ca-pub-8125817622569061";
+            width = document.documentElement.clientWidth;
+            /* Thread List Below Stickies Responsive 2 */
+            google_ad_slot = "5390693033";
+            google_ad_width = 300;
+            google_ad_height = 250;
+                if (width > 483) {
+                /* Thread List Below Stickies Responsive 1 */
+                google_ad_slot = "1375099434";
+                google_ad_width = 468;
+                google_ad_height = 60;
+                }
+                    if (width > 743) {
+                    /* Thread List Below Stickies */
+                    google_ad_slot = "8708393030";
+                    google_ad_width = 728;
+                    google_ad_height = 90;
+                    }
+            </script>
+            <script type="text/javascript"
+            src="/web/20141210185235js_/http://pagead2.googlesyndication.com/pagead/show_ads.js">
+            </script>
+        </div>
+
+                                                     
+
+
+
+<div class="pageNavLinkGroup">
+
+	<div class="linkGroup SelectionCountContainer">
+		
+	</div>
+
+	
+
+
+<div class="PageNav"
+	data-page="1"
+	data-range="2"
+	data-start="2"
+	data-end="6"
+	data-last="43"
+	data-sentinel="{{sentinel}}"
+	data-baseurl="forums/Complaints/page-{{sentinel}}">
+	
+	<span class="pageNavHeader">Page 1 of 43</span>
+	
+	<nav>
+		
+		
+		<a href="forums/Complaints/" class="currentPage " rel="start">1</a>
+		
+		
+			<a class="PageNavPrev hidden"><b>&larr;</b></a> <span class="scrollable"><span class="items">
+		
+		
+		
+			<a href="forums/Complaints/page-2" class="">2</a>
+		
+			<a href="forums/Complaints/page-3" class="">3</a>
+		
+			<a href="forums/Complaints/page-4" class="">4</a>
+		
+			<a href="forums/Complaints/page-5" class="">5</a>
+		
+			<a href="forums/Complaints/page-6" class="">6</a>
+		
+		
+		
+			</span></span> <a class="PageNavNext ">&rarr;</a>
+		
+		
+		<a href="forums/Complaints/page-43" class="">43</a>
+		
+		
+			<a href="forums/Complaints/page-2" class="text">Next &gt;</a>
+			
+		
+	</nav>	
+	
+	
+</div>
+
+
+</div>
+
+
+
+<div class="discussionList section sectionMain">
+	
+
+
+<form action="inline-mod/thread/switch" method="post"
+	class="DiscussionList InlineModForm"
+	data-cookieName="threads"
+	data-controls="#InlineModControls"
+	data-imodOptions="#ModerationSelect option">
+	
+	
+
+	<dl class="sectionHeaders">
+		<dt class="posterAvatar"><a><span>Sort by:</span></a></dt>
+		<dd class="main">
+			<a href="forums/Complaints/?order=title" class="title"><span>Title</span></a>
+			<a href="forums/Complaints/?order=post_date" class="postDate"><span>Start Date</span></a>
+		</dd>
+		<dd class="stats">
+			<a href="forums/Complaints/?order=reply_count" class="major"><span>Replies</span></a>
+			<a href="forums/Complaints/?order=view_count" class="minor"><span>Views</span></a>
+		</dd>
+		<dd class="lastPost"><a href="forums/Complaints/?direction=asc"><span>Last Message &darr;</span></a></dd>
+	</dl>
+
+	<ol class="discussionListItems">
+	
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+			
+
+
+
+<li id="thread-8637" class="discussionListItem visible  " data-author="Goober">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/goober.3389/" class="avatar Av3389s" data-avatarhtml="true"><img src="data/avatars/s/3/3389.jpg?1413425469" width="48" height="48" alt="Goober" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/5-donation-button-for-no-kid-hungry.8637/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/5-donation-button-for-no-kid-hungry.8637/preview">$5 donation button for No Kid Hungry</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/goober.3389/" class="username" dir="auto" title="Thread starter">Goober</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1418149710" data-diff="87845" data-datestring="Dec 9, 2014" data-timestring="10:28 AM">Dec 9, 2014 at 10:28 AM</abbr></a></span>
+
+					
+						<span class="itemPageNav">
+							<span>...</span>
+							
+								<a href="threads/5-donation-button-for-no-kid-hungry.8637/page-2">2</a>
+							
+						</span>
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 4">
+		<dl class="major"><dt>Replies:</dt> <dd>24</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>303</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/lauberx.167/" class="avatar Av167s" data-avatarhtml="true"><img src="data/avatars/s/0/167.jpg?1403365945" width="48" height="48" alt="LAuberX" /></a>
+	
+
+
+				<dt><a href="members/lauberx.167/" class="username" dir="auto">LAuberX</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418237409" data-diff="146" data-datestring="Dec 10, 2014" data-timestring="10:50 AM">Dec 10, 2014 at 10:50 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-5474" class="discussionListItem visible  " data-author="Eric S.">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/eric-s.2646/" class="avatar Av2646s" data-avatarhtml="true"><img src="data/avatars/s/2/2646.jpg?1411655558" width="48" height="48" alt="Eric S." /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/deactivated-with-4-6.5474/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/deactivated-with-4-6.5474/preview">DEACTIVATED WITH 4.6</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/eric-s.2646/" class="username" dir="auto" title="Thread starter">Eric S.</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Oct 22, 2014</span></a></span>
+
+					
+						<span class="itemPageNav">
+							<span>...</span>
+							
+								<a href="threads/deactivated-with-4-6.5474/page-4">4</a>
+							
+								<a href="threads/deactivated-with-4-6.5474/page-5">5</a>
+							
+								<a href="threads/deactivated-with-4-6.5474/page-6">6</a>
+							
+						</span>
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 3">
+		<dl class="major"><dt>Replies:</dt> <dd>102</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>5,947</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/casuale-haberdasher.5870/" class="avatar Av5870s" data-avatarhtml="true"><img src="styles/default/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Casuale Haberdasher" /></a>
+	
+
+
+				<dt><a href="members/casuale-haberdasher.5870/" class="username" dir="auto">Casuale Haberdasher</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418237296" data-diff="259" data-datestring="Dec 10, 2014" data-timestring="10:48 AM">Dec 10, 2014 at 10:48 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-8311" class="discussionListItem visible  " data-author="UberRiderMI">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/uberridermi.5181/" class="avatar Av5181s" data-avatarhtml="true"><img src="styles/default/xenforo/avatars/avatar_female_s.png" width="48" height="48" alt="UberRiderMI" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/tipping-from-the-perspective-of-a-rider.8311/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/tipping-from-the-perspective-of-a-rider.8311/preview">Tipping from the Perspective of a Rider</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/uberridermi.5181/" class="username" dir="auto" title="Thread starter">UberRiderMI</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1417720077" data-diff="517478" data-datestring="Dec 4, 2014" data-timestring="11:07 AM">Dec 4, 2014 at 11:07 AM</abbr></a></span>
+
+					
+						<span class="itemPageNav">
+							<span>...</span>
+							
+								<a href="threads/tipping-from-the-perspective-of-a-rider.8311/page-6">6</a>
+							
+								<a href="threads/tipping-from-the-perspective-of-a-rider.8311/page-7">7</a>
+							
+								<a href="threads/tipping-from-the-perspective-of-a-rider.8311/page-8">8</a>
+							
+						</span>
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 11">
+		<dl class="major"><dt>Replies:</dt> <dd>147</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>2,066</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/ivan-jurgenhoff.5141/" class="avatar Av5141s" data-avatarhtml="true"><img src="data/avatars/s/5/5141.jpg?1416538786" width="48" height="48" alt="ivan jurgenhoff" /></a>
+	
+
+
+				<dt><a href="members/ivan-jurgenhoff.5141/" class="username" dir="auto">ivan jurgenhoff</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418232231" data-diff="5324" data-datestring="Dec 10, 2014" data-timestring="9:23 AM">Dec 10, 2014 at 9:23 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-8693" class="discussionListItem visible  " data-author="JaxBeachDriver">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/jaxbeachdriver.5419/" class="avatar Av5419s" data-avatarhtml="true"><img src="data/avatars/s/5/5419.jpg?1417089066" width="48" height="48" alt="JaxBeachDriver" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/truth-in-advertising.8693/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/truth-in-advertising.8693/preview">Truth in Advertising...</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/jaxbeachdriver.5419/" class="username" dir="auto" title="Thread starter">JaxBeachDriver</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1418220883" data-diff="16672" data-datestring="Dec 10, 2014" data-timestring="6:14 AM">Dec 10, 2014 at 6:14 AM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 2">
+		<dl class="major"><dt>Replies:</dt> <dd>11</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>77</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/teleski.5744/" class="avatar Av5744s" data-avatarhtml="true"><img src="data/avatars/s/5/5744.jpg?1417719567" width="48" height="48" alt="TeleSki" /></a>
+	
+
+
+				<dt><a href="members/teleski.5744/" class="username" dir="auto">TeleSki</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418230821" data-diff="6734" data-datestring="Dec 10, 2014" data-timestring="9:00 AM">Dec 10, 2014 at 9:00 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-8685" class="discussionListItem visible  " data-author="painfreepc">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/painfreepc.571/" class="avatar Av571s" data-avatarhtml="true"><img src="data/avatars/s/0/571.jpg?1410240213" width="48" height="48" alt="painfreepc" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/what-is-your-longest-eta-to-uber-lyft-pickup.8685/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/what-is-your-longest-eta-to-uber-lyft-pickup.8685/preview">what is your longest ETA to Uber/Lyft pickup</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/painfreepc.571/" class="username" dir="auto" title="Thread starter">painfreepc</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1418193071" data-diff="44484" data-datestring="Dec 9, 2014" data-timestring="10:31 PM">Dec 9, 2014 at 10:31 PM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>5</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>73</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/lauberx.167/" class="avatar Av167s" data-avatarhtml="true"><img src="data/avatars/s/0/167.jpg?1403365945" width="48" height="48" alt="LAuberX" /></a>
+	
+
+
+				<dt><a href="members/lauberx.167/" class="username" dir="auto">LAuberX</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418227859" data-diff="9696" data-datestring="Dec 10, 2014" data-timestring="8:10 AM">Dec 10, 2014 at 8:10 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-8691" class="discussionListItem visible  " data-author="AintWorthIt">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/aintworthit.2816/" class="avatar Av2816s" data-avatarhtml="true"><img src="data/avatars/s/2/2816.jpg?1412089958" width="48" height="48" alt="AintWorthIt" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/welp-its-official.8691/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/welp-its-official.8691/preview">Welp it's Official....</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/aintworthit.2816/" class="username" dir="auto" title="Thread starter">AintWorthIt</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1418220577" data-diff="16978" data-datestring="Dec 10, 2014" data-timestring="6:09 AM">Dec 10, 2014 at 6:09 AM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 1">
+		<dl class="major"><dt>Replies:</dt> <dd>2</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>74</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/just-drive.4033/" class="avatar Av4033s" data-avatarhtml="true"><img src="data/avatars/s/4/4033.jpg?1416504206" width="48" height="48" alt="just drive" /></a>
+	
+
+
+				<dt><a href="members/just-drive.4033/" class="username" dir="auto">just drive</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418224826" data-diff="12729" data-datestring="Dec 10, 2014" data-timestring="7:20 AM">Dec 10, 2014 at 7:20 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-8635" class="discussionListItem visible  " data-author="bscott">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/bscott.5714/" class="avatar Av5714s" data-avatarhtml="true"><img src="data/avatars/s/5/5714.jpg?1417654932" width="48" height="48" alt="bscott" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/drivers-tipping-perspective.8635/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/drivers-tipping-perspective.8635/preview">drivers tipping perspective</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/bscott.5714/" class="username" dir="auto" title="Thread starter">bscott</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1418148407" data-diff="89148" data-datestring="Dec 9, 2014" data-timestring="10:06 AM">Dec 9, 2014 at 10:06 AM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 1">
+		<dl class="major"><dt>Replies:</dt> <dd>10</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>202</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/uberdc.500/" class="avatar Av500s" data-avatarhtml="true"><img src="data/avatars/s/0/500.jpg?1417699743" width="48" height="48" alt="UberDC" /></a>
+	
+
+
+				<dt><a href="members/uberdc.500/" class="username" dir="auto">UberDC</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418221188" data-diff="16367" data-datestring="Dec 10, 2014" data-timestring="6:19 AM">Dec 10, 2014 at 6:19 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-6441" class="discussionListItem visible  " data-author="scrurbscrud">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/scrurbscrud.2111/" class="avatar Av2111s" data-avatarhtml="true"><img src="data/avatars/s/2/2111.jpg?1414196677" width="48" height="48" alt="scrurbscrud" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/the-latest-surge-driver-manipulation-stunts.6441/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/the-latest-surge-driver-manipulation-stunts.6441/preview">The Latest Surge/Driver Manipulation Stunts</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/scrurbscrud.2111/" class="username" dir="auto" title="Thread starter">scrurbscrud</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Nov 8, 2014</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 5">
+		<dl class="major"><dt>Replies:</dt> <dd>19</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>867</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/uberone.4131/" class="avatar Av4131s" data-avatarhtml="true"><img src="data/avatars/s/4/4131.jpg?1414740155" width="48" height="48" alt="UberOne" /></a>
+	
+
+
+				<dt><a href="members/uberone.4131/" class="username" dir="auto">UberOne</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418217281" data-diff="20274" data-datestring="Dec 10, 2014" data-timestring="5:14 AM">Dec 10, 2014 at 5:14 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-8644" class="discussionListItem visible  " data-author="UberRey">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/uberrey.1704/" class="avatar Av1704s" data-avatarhtml="true"><img src="data/avatars/s/1/1704.jpg?1409552828" width="48" height="48" alt="UberRey" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/uber-wants-to-honor-us.8644/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/uber-wants-to-honor-us.8644/preview">Uber Wants To Honor Us!</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/uberrey.1704/" class="username" dir="auto" title="Thread starter">UberRey</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1418156876" data-diff="80679" data-datestring="Dec 9, 2014" data-timestring="12:27 PM">Dec 9, 2014 at 12:27 PM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>18</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>266</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/driverj.1694/" class="avatar Av1694s" data-avatarhtml="true"><img src="styles/default/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="DriverJ" /></a>
+	
+
+
+				<dt><a href="members/driverj.1694/" class="username" dir="auto">DriverJ</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418215449" data-diff="22106" data-datestring="Dec 10, 2014" data-timestring="4:44 AM">Dec 10, 2014 at 4:44 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-4098" class="discussionListItem visible  " data-author="C Chase">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/c-chase.493/" class="avatar Av493s" data-avatarhtml="true"><img src="data/avatars/s/0/493.jpg?1405111840" width="48" height="48" alt="C Chase" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/uber-union-anyone.4098/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/uber-union-anyone.4098/preview">Uber Union anyone?</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/c-chase.493/" class="username" dir="auto" title="Thread starter">C Chase</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Sep 24, 2014</span></a></span>
+
+					
+						<span class="itemPageNav">
+							<span>...</span>
+							
+								<a href="threads/uber-union-anyone.4098/page-2">2</a>
+							
+						</span>
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>31</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>1,052</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/lidman.4744/" class="avatar Av4744s" data-avatarhtml="true"><img src="data/avatars/s/4/4744.jpg?1417457714" width="48" height="48" alt="Lidman" /></a>
+	
+
+
+				<dt><a href="members/lidman.4744/" class="username" dir="auto">Lidman</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418208219" data-diff="29336" data-datestring="Dec 10, 2014" data-timestring="2:43 AM">Dec 10, 2014 at 2:43 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-8688" class="discussionListItem visible  " data-author="jimx200">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/jimx200.4145/" class="avatar Av4145s" data-avatarhtml="true"><img src="styles/default/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="jimx200" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/looks-like-uber-is-in-trouble-in-ca.8688/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/looks-like-uber-is-in-trouble-in-ca.8688/preview">Looks Like Uber is in Trouble in CA.</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/jimx200.4145/" class="username" dir="auto" title="Thread starter">jimx200</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1418197346" data-diff="40209" data-datestring="Dec 9, 2014" data-timestring="11:42 PM">Dec 9, 2014 at 11:42 PM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 1">
+		<dl class="major"><dt>Replies:</dt> <dd>1</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>131</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/gemgirlla.3393/" class="avatar Av3393s" data-avatarhtml="true"><img src="data/avatars/s/3/3393.jpg?1413836244" width="48" height="48" alt="Gemgirlla" /></a>
+	
+
+
+				<dt><a href="members/gemgirlla.3393/" class="username" dir="auto">Gemgirlla</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418204812" data-diff="32743" data-datestring="Dec 10, 2014" data-timestring="1:46 AM">Dec 10, 2014 at 1:46 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-5044" class="discussionListItem visible  " data-author="LAuberX">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/lauberx.167/" class="avatar Av167s" data-avatarhtml="true"><img src="data/avatars/s/0/167.jpg?1403365945" width="48" height="48" alt="LAuberX" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/bullshit-rider-names-do-you-cancel.5044/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/bullshit-rider-names-do-you-cancel.5044/preview">Bullshit rider names, do you cancel?</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/lauberx.167/" class="username" dir="auto" title="Thread starter">LAuberX</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Oct 14, 2014</span></a></span>
+
+					
+						<span class="itemPageNav">
+							<span>...</span>
+							
+								<a href="threads/bullshit-rider-names-do-you-cancel.5044/page-2">2</a>
+							
+								<a href="threads/bullshit-rider-names-do-you-cancel.5044/page-3">3</a>
+							
+						</span>
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 17">
+		<dl class="major"><dt>Replies:</dt> <dd>53</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>2,420</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/prdelnik666.2389/" class="avatar Av2389s" data-avatarhtml="true"><img src="styles/default/xenforo/avatars/avatar_s.png" width="48" height="48" alt="prdelnik666" /></a>
+	
+
+
+				<dt><a href="members/prdelnik666.2389/" class="username" dir="auto">prdelnik666</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418186652" data-diff="50903" data-datestring="Dec 9, 2014" data-timestring="8:44 PM">Dec 9, 2014 at 8:44 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-8679" class="discussionListItem visible  " data-author="grUBBER">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/grubber.2092/" class="avatar Av2092s" data-avatarhtml="true"><img src="data/avatars/s/2/2092.jpg?1410649189" width="48" height="48" alt="grUBBER" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/saved-a-lot-of-on-gas-doing-uberplus-switching-to-uberx-again.8679/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/saved-a-lot-of-on-gas-doing-uberplus-switching-to-uberx-again.8679/preview">Saved a lot of $$$ on gas doing uberPLUS switching to uberX again</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/grubber.2092/" class="username" dir="auto" title="Thread starter">grUBBER</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1418186151" data-diff="51404" data-datestring="Dec 9, 2014" data-timestring="8:35 PM">Dec 9, 2014 at 8:35 PM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>0</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>63</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/grubber.2092/" class="avatar Av2092s" data-avatarhtml="true"><img src="data/avatars/s/2/2092.jpg?1410649189" width="48" height="48" alt="grUBBER" /></a>
+	
+
+
+				<dt><a href="members/grubber.2092/" class="username" dir="auto">grUBBER</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418186151" data-diff="51404" data-datestring="Dec 9, 2014" data-timestring="8:35 PM">Dec 9, 2014 at 8:35 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-7663" class="discussionListItem visible  " data-author="Rexbarberry">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/rexbarberry.5315/" class="avatar Av5315s" data-avatarhtml="true"><img src="data/avatars/s/5/5315.jpg?1416881433" width="48" height="48" alt="Rexbarberry" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/news-flash-riders-uber-is-not-a-chauffeur-service.7663/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/news-flash-riders-uber-is-not-a-chauffeur-service.7663/preview">News Flash Riders...Uber is not a Chauffeur Service.</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/rexbarberry.5315/" class="username" dir="auto" title="Thread starter">Rexbarberry</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Nov 24, 2014</span></a></span>
+
+					
+						<span class="itemPageNav">
+							<span>...</span>
+							
+								<a href="threads/news-flash-riders-uber-is-not-a-chauffeur-service.7663/page-2">2</a>
+							
+						</span>
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 1">
+		<dl class="major"><dt>Replies:</dt> <dd>23</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>824</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/monica-rodriguez.4855/" class="avatar Av4855s" data-avatarhtml="true"><img src="data/avatars/s/4/4855.jpg?1416096794" width="48" height="48" alt="Monica rodriguez" /></a>
+	
+
+
+				<dt><a href="members/monica-rodriguez.4855/" class="username" dir="auto">Monica rodriguez</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418184112" data-diff="53443" data-datestring="Dec 9, 2014" data-timestring="8:01 PM">Dec 9, 2014 at 8:01 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-2988" class="discussionListItem visible  " data-author="puber">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/puber.1681/" class="avatar Av1681s" data-avatarhtml="true"><img src="data/avatars/s/1/1681.jpg?1409815532" width="48" height="48" alt="puber" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/i-hate-riders-who-want-me-use-waze-in-la.2988/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/i-hate-riders-who-want-me-use-waze-in-la.2988/preview">I hate riders who want me use Waze in LA.</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/puber.1681/" class="username" dir="auto" title="Thread starter">puber</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Sep 3, 2014</span></a></span>
+
+					
+						<span class="itemPageNav">
+							<span>...</span>
+							
+								<a href="threads/i-hate-riders-who-want-me-use-waze-in-la.2988/page-2">2</a>
+							
+						</span>
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 1">
+		<dl class="major"><dt>Replies:</dt> <dd>28</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>1,413</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/jaymaxx44.2458/" class="avatar Av2458s" data-avatarhtml="true"><img src="data/avatars/s/2/2458.jpg?1417231315" width="48" height="48" alt="jaymaxx44" /></a>
+	
+
+
+				<dt><a href="members/jaymaxx44.2458/" class="username" dir="auto">jaymaxx44</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418180082" data-diff="57473" data-datestring="Dec 9, 2014" data-timestring="6:54 PM">Dec 9, 2014 at 6:54 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-8351" class="discussionListItem visible  " data-author="mamey">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/mamey.5775/" class="avatar Av5775s" data-avatarhtml="true"><img src="styles/default/xenforo/avatars/avatar_s.png" width="48" height="48" alt="mamey" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/uber-international-bogota-colombia-a-mess-administration.8351/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/uber-international-bogota-colombia-a-mess-administration.8351/preview">UBER international... Bogota Colombia a mess administration</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/mamey.5775/" class="username" dir="auto" title="Thread starter">mamey</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1417783742" data-diff="453813" data-datestring="Dec 5, 2014" data-timestring="4:49 AM">Dec 5, 2014 at 4:49 AM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 1">
+		<dl class="major"><dt>Replies:</dt> <dd>2</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>73</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/mamey.5775/" class="avatar Av5775s" data-avatarhtml="true"><img src="styles/default/xenforo/avatars/avatar_s.png" width="48" height="48" alt="mamey" /></a>
+	
+
+
+				<dt><a href="members/mamey.5775/" class="username" dir="auto">mamey</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418177813" data-diff="59742" data-datestring="Dec 9, 2014" data-timestring="6:16 PM">Dec 9, 2014 at 6:16 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-8646" class="discussionListItem visible  " data-author="Roogy">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/roogy.4287/" class="avatar Av4287s" data-avatarhtml="true"><img src="data/avatars/s/4/4287.jpg?1415223176" width="48" height="48" alt="Roogy" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/would-you-take-a-1-star-rating-for-13.8646/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/would-you-take-a-1-star-rating-for-13.8646/preview">Would you take a 1-star rating for $13?</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/roogy.4287/" class="username" dir="auto" title="Thread starter">Roogy</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1418158290" data-diff="79265" data-datestring="Dec 9, 2014" data-timestring="12:51 PM">Dec 9, 2014 at 12:51 PM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>9</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>194</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/grams777.197/" class="avatar Av197s" data-avatarhtml="true"><img src="data/avatars/s/0/197.jpg?1403350996" width="48" height="48" alt="grams777" /></a>
+	
+
+
+				<dt><a href="members/grams777.197/" class="username" dir="auto">grams777</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418172977" data-diff="64578" data-datestring="Dec 9, 2014" data-timestring="4:56 PM">Dec 9, 2014 at 4:56 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-4019" class="discussionListItem visible  " data-author="Alan">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/alan.1083/" class="avatar Av1083s" data-avatarhtml="true"><img src="data/avatars/s/1/1083.jpg?1408016065" width="48" height="48" alt="Alan" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/more-supply-less-demand.4019/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/more-supply-less-demand.4019/preview">more supply less demand?</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/alan.1083/" class="username" dir="auto" title="Thread starter">Alan</a><span class="startDate">,
+					<a class="faint"><span class="DateTime" title="">Sep 23, 2014</span></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>5</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>224</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/centralflfuber.5171/" class="avatar Av5171s" data-avatarhtml="true"><img src="styles/default/xenforo/avatars/avatar_female_s.png" width="48" height="48" alt="centralFLFuber" /></a>
+	
+
+
+				<dt><a href="members/centralflfuber.5171/" class="username" dir="auto">centralFLFuber</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418167965" data-diff="69590" data-datestring="Dec 9, 2014" data-timestring="3:32 PM">Dec 9, 2014 at 3:32 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-8563" class="discussionListItem visible  " data-author="Chiefben">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/chiefben.5898/" class="avatar Av5898s" data-avatarhtml="true"><img src="styles/default/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Chiefben" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/uber-atlanta-will-not-accept-my-2007-toyota-camry-hybrid.8563/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/uber-atlanta-will-not-accept-my-2007-toyota-camry-hybrid.8563/preview">Uber Atlanta will not accept my 2007 Toyota Camry Hybrid ???</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/chiefben.5898/" class="username" dir="auto" title="Thread starter">Chiefben</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1418060814" data-diff="176741" data-datestring="Dec 8, 2014" data-timestring="9:46 AM">Dec 8, 2014 at 9:46 AM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>11</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>274</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/chiefben.5898/" class="avatar Av5898s" data-avatarhtml="true"><img src="styles/default/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Chiefben" /></a>
+	
+
+
+				<dt><a href="members/chiefben.5898/" class="username" dir="auto">Chiefben</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418160729" data-diff="76826" data-datestring="Dec 9, 2014" data-timestring="1:32 PM">Dec 9, 2014 at 1:32 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+			
+
+
+
+<li id="thread-8642" class="discussionListItem visible  " data-author="prdelnik666">
+
+	<div class="listBlock posterAvatar">
+		<span class="avatarContainer">
+			<a href="members/prdelnik666.2389/" class="avatar Av2389s" data-avatarhtml="true"><img src="styles/default/xenforo/avatars/avatar_s.png" width="48" height="48" alt="prdelnik666" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock main">
+
+		<div class="titleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/hope-travis-is-next.8642/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/hope-travis-is-next.8642/preview">Hope Travis is next</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/prdelnik666.2389/" class="username" dir="auto" title="Thread starter">prdelnik666</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1418155826" data-diff="81729" data-datestring="Dec 9, 2014" data-timestring="12:10 PM">Dec 9, 2014 at 12:10 PM</abbr></a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="listBlock stats pairsJustified" title="Members who liked the first message: 1">
+		<dl class="major"><dt>Replies:</dt> <dd>4</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>124</dd></dl>
+	</div>
+
+	<div class="listBlock lastPost">
+		
+			<dl class="lastPostInfo">
+
+
+	
+		<a href="members/driversoftheworldunite.4635/" class="avatar Av4635s" data-avatarhtml="true"><img src="data/avatars/s/4/4635.jpg?1416076670" width="48" height="48" alt="DriversOfTheWorldUnite" /></a>
+	
+
+
+				<dt><a href="members/driversoftheworldunite.4635/" class="username" dir="auto">DriversOfTheWorldUnite</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1418159351" data-diff="78204" data-datestring="Dec 9, 2014" data-timestring="1:09 PM">Dec 9, 2014 at 1:09 PM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+		
+		
+		
+		
+	
+	
+	</ol>
+
+	
+		<div class="sectionFooter InlineMod SelectionCountContainer">
+			<span class="contentSummary">Showing threads 1 to 20 of 855</span>
+
+			
+		</div>
+	
+
+	<input type="hidden" name="_xfToken" value="" />
+</form>
+
+<h3 id="DiscussionListOptionsHandle" class="JsOnly"><a href="#">Thread Display Options</a></h3>
+
+<form action="forums/Complaints/" method="post" class="DiscussionListOptions secondaryContent">
+
+	
+	<div class="controlGroup">
+		<label for="ctrl_order">Sort threads by:</label>
+		<select name="order" id="ctrl_order" class="textCtrl">
+			<option value="last_post_date"  selected="selected">Last message time</option>
+			<option value="post_date" >Thread creation time</option>
+			<option value="title" >Title (alphabetical)</option>
+			<option value="reply_count" >Number of replies</option>
+			<option value="view_count" >Number of views</option>
+			<option value="first_post_likes" >First message likes</option>
+		</select>
+	</div>
+
+	<div class="controlGroup">
+		<label for="ctrl_direction">Order threads in:</label>
+		<select name="direction" id="ctrl_direction" class="textCtrl">
+			<option value="desc"  selected="selected">Descending order</option>
+			<option value="asc" >Ascending order</option>
+		</select>
+	</div>
+	
+	
+
+	<div class="buttonGroup">
+		<input type="submit" class="button primary" value="Set Options" />
+		<input type="reset" class="button" value="Cancel" />
+	</div>
+	
+
+	<input type="hidden" name="_xfToken" value="" />
+</form>
+
+<div id="PreviewTooltip">
+	<span class="arrow"><span></span></span>
+	
+	<div class="section">
+		<div class="primaryContent previewContent">
+			<span class="PreviewContents">Loading...</span>
+		</div>
+	</div>
+</div>
+</div>
+	
+<div class="pageNavLinkGroup afterDiscussionListHandle">
+	<div class="linkGroup">
+		
+			<label for="LoginControl"><a href="login/" class="concealed element">(You must log in or sign up to post here.)</a></label>
+		
+	</div>
+	<div class="linkGroup" style="display: none"><a href="javascript:" class="muted JsOnly DisplayIgnoredContent Tooltip" title="Show hidden content by ">Show Ignored Content</a></div>
+	
+	
+
+
+<div class="PageNav"
+	data-page="1"
+	data-range="2"
+	data-start="2"
+	data-end="6"
+	data-last="43"
+	data-sentinel="{{sentinel}}"
+	data-baseurl="forums/Complaints/page-{{sentinel}}">
+	
+	<span class="pageNavHeader">Page 1 of 43</span>
+	
+	<nav>
+		
+		
+		<a href="forums/Complaints/" class="currentPage " rel="start">1</a>
+		
+		
+			<a class="PageNavPrev hidden"><b>&larr;</b></a> <span class="scrollable"><span class="items">
+		
+		
+		
+			<a href="forums/Complaints/page-2" class="">2</a>
+		
+			<a href="forums/Complaints/page-3" class="">3</a>
+		
+			<a href="forums/Complaints/page-4" class="">4</a>
+		
+			<a href="forums/Complaints/page-5" class="">5</a>
+		
+			<a href="forums/Complaints/page-6" class="">6</a>
+		
+		
+		
+			</span></span> <a class="PageNavNext ">&rarr;</a>
+		
+		
+		<a href="forums/Complaints/page-43" class="">43</a>
+		
+		
+			<a href="forums/Complaints/page-2" class="text">Next &gt;</a>
+			
+		
+	</nav>	
+	
+	
+</div>
+
+</div>
+						
+						
+						
+						
+							<!-- login form, to be moved to the upper drop-down -->
+							
+
+
+
+
+
+
+
+<form action="login/login" method="post" class="xenForm eAuth" id="login" style="display:none">
+
+	
+		<ul id="eAuthUnit">
+			
+				
+				
+					
+					<li><a href="register/facebook?reg=1" class="fbLogin" tabindex="110"><span>Log in with Facebook</span></a></li>
+				
+				
+				
+				
+				
+					
+					<li><span class="googleLogin GoogleLogin JsOnly" tabindex="110" data-client-id="744649296478-e44rs9mcanjpmadrtk5po0i1585s6i70.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=5abrMBqzeJ4_vHXW"><span>Log in with Google</span></span></li>
+				
+				
+			
+		</ul>
+	
+
+	<div class="ctrlWrapper">
+		<dl class="ctrlUnit">
+			<dt><label for="LoginControl">Your name or email address:</label></dt>
+			<dd><input type="text" name="login" id="LoginControl" class="textCtrl" tabindex="101" /></dd>
+		</dl>
+	
+	
+		<dl class="ctrlUnit">
+			<dt>
+				<label for="ctrl_password">Do you already have an account?</label>
+			</dt>
+			<dd>
+				<ul>
+					<li><label for="ctrl_not_registered"><input type="radio" name="register" value="1" id="ctrl_not_registered" tabindex="105" />
+						No, create an account now.</label></li>
+					<li><label for="ctrl_registered"><input type="radio" name="register" value="0" id="ctrl_registered" tabindex="105" checked="checked" class="Disabler" />
+						Yes, my password is:</label></li>
+					<li id="ctrl_registered_Disabler">
+						<input type="password" name="password" class="textCtrl" id="ctrl_password" tabindex="102" />
+						<div class="lostPassword"><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="106">Forgot your password?</a></div>
+					</li>
+				</ul>
+			</dd>
+		</dl>
+	
+		
+		<dl class="ctrlUnit submitUnit">
+			<dt></dt>
+			<dd>
+				<input type="submit" class="button primary" value="Log in" tabindex="104" data-loginPhrase="Log in" data-signupPhrase="Sign up" />
+				<label for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_remember" tabindex="103" /> Stay logged in</label>
+			</dd>
+		</dl>
+	</div>
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="redirect" value="/forums/Complaints/" />
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+						
+						
+					
+			
+						
+			<div class="breadBoxBottom">
+
+<nav>
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-15" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><!--Jump to...--></a>
+			
+		<div class="boardTitle"><strong>Uber Drivers Forum</strong></div>
+		
+		<span class="crumbs">
+			
+			
+			
+				<span class="crust selectedTabCrumb">
+					<a href="/web/20141210185235/http://uberpeople.net/" class="crumb"><span>Forums</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+				
+					<span class="crust">
+						<a href="/web/20141210185235/http://uberpeople.net/categories/community.101/" class="crumb"><span>Community</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav></div>
+			
+						
+			
+
+
+
+   
+        <div style="text-align: center; padding: 8px 0 4px 0; border-bottom: 1px solid rgb(196, 221, 225)">
+            <script type="text/javascript">
+            google_ad_client = "ca-pub-8125817622569061";
+            width = document.documentElement.clientWidth;
+            /* Thread List Below Stickies Responsive 2 */
+            google_ad_slot = "5390693033";
+            google_ad_width = 300;
+            google_ad_height = 250;
+                if (width > 483) {
+                /* Thread List Below Stickies Responsive 1 */
+                google_ad_slot = "1375099434";
+                google_ad_width = 468;
+                google_ad_height = 60;
+                }
+                    if (width > 743) {
+                    /* Thread List Below Stickies */
+                    google_ad_slot = "8708393030";
+                    google_ad_width = 728;
+                    google_ad_height = 90;
+                    }
+            </script>
+            <script type="text/javascript"
+            src="/web/20141210185235js_/http://pagead2.googlesyndication.com/pagead/show_ads.js">
+            </script>
+        </div>
+
+                                                     
+
+
+						
+		</div>
+	</div>
+</div>
+
+<header>
+	
+
+
+<div id="header">
+	<div id="logoBlock">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+
+			
+			<div id="logo"><a href="/web/20141210185235/http://uberpeople.net/">
+				<span></span>
+				<img src="uberdrivers.png" alt="Uber Drivers Forum" />
+			</a></div>
+			
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+	
+
+<div id="navigation" class="pageWidth withSearch">
+	<div class="pageContent">
+		<nav>
+
+<div class="navTabs">
+	<ul class="publicTabs">
+	
+		<!-- home -->
+		
+		
+		
+		<!-- extra tabs: home -->
+		
+		
+		
+		<!-- forums -->
+		
+			<li class="navTab forums selected">
+			
+				<a href="/web/20141210185235/http://uberpeople.net/" class="navLink">Forums</a>
+				<a href="/web/20141210185235/http://uberpeople.net/" class="SplitCtrl" rel="Menu"></a>
+				
+				<div class="tabLinks forumsTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Forums</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+						
+						<li><a href="search/?type=post">Search Forums</a></li>
+						
+						<li><a href="find-new/posts" rel="nofollow">Recent Posts</a></li>
+					<li><a href='find-popular/content'>TOP 10</a></li>
+					</ul>
+				</div>
+			</li>
+		
+		
+		
+		<!-- extra tabs: middle -->
+		
+		
+			
+				<li class="navTab xfa-blogs Popup PopupControl PopupClosed">
+			
+				<a href="xfa-blog-home/" class="navLink">Blogs</a>
+				<a href="xfa-blog-home/" class="SplitCtrl" rel="Menu"></a>
+				
+				<div class="Menu JsOnly tabMenu xfa-blogsTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Blogs</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+	<li><a href="xfa-blog-home/">Blogs Home Page</a></li>
+	<li><a href="xfa-blog-list/">All Blogs</a></li>	
+	
+</ul>
+				</div>
+			</li>
+			
+		
+		
+		
+		
+		<!-- members -->
+		
+			<li class="navTab members Popup PopupControl PopupClosed">
+			
+				<a href="/web/20141210185235/http://uberpeople.net/members/" class="navLink">Members</a>
+				<a href="/web/20141210185235/http://uberpeople.net/members/" class="SplitCtrl" rel="Menu"></a>
+				
+				<div class="Menu JsOnly tabMenu membersTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Members</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+						<li><a href="members/">Notable Members</a></li>
+						
+						<li><a href="online/">Current Visitors</a></li>
+						<li><a href="recent-activity/">Recent Activity</a></li>
+						<li><a href="find-new/profile-posts">New Profile Posts</a></li>
+					
+					</ul>
+				</div>
+			</li>
+						
+		
+		<!-- extra tabs: end -->
+		
+		
+			
+				<li class="navTab nodetab23 PopupClosed">
+					<a href="/web/20141210185235/http://uberpeople.net/categories/resources.23/" class="navLink">Resources</a>
+					
+				</li>
+			
+		
+		
+
+		<!-- responsive popup -->
+		<li class="navTab navigationHiddenTabs Popup PopupControl PopupClosed" style="display:none">	
+						
+			<a rel="Menu" class="navLink NoPopupGadget"><span class="menuIcon">Menu</span></a>
+			
+			<div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu"></div>
+		</li>
+			
+		
+		<!-- no selection -->
+		
+		
+	</ul>
+	
+	
+</div>
+
+<span class="helper"></span>
+			
+		</nav>	
+	</div>
+</div>
+	
+
+<div id="searchBar" class="pageWidth">
+	
+	<span id="QuickSearchPlaceholder" title="Search">Search</span>
+	<fieldset id="QuickSearch">
+		<form action="search/search" method="post" class="formPopup">
+			
+			<div class="primaryControls">
+				<!-- block: primaryControls -->
+				<input type="search" name="keywords" value="" class="textCtrl" placeholder="Search..." results="0" title="Enter your search and hit enter" id="QuickSearchQuery" />				
+				<!-- end block: primaryControls -->
+			</div>
+			
+			<div class="secondaryControls">
+				<div class="controlsWrapper">
+				
+					<!-- block: secondaryControls -->
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+							<li><label><input type="checkbox" name="title_only" value="1"
+								id="search_bar_title_only" class="AutoChecker"
+								data-uncheck="#search_bar_thread" /> Search titles only</label></li>
+						</ul></dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_users">Posted by Member:</label></dt>
+						<dd>
+							<input type="text" name="users" value="" class="textCtrl AutoComplete" id="searchBar_users" />
+							<p class="explain">Separate names with a comma.</p>
+						</dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_date">Newer Than:</label></dt>
+						<dd><input type="date" name="date" value="" class="textCtrl" id="searchBar_date" /></dd>
+					</dl>
+					
+					
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+								
+									<li><label title="Search only Complaints"><input type="checkbox" name="nodes[]" value="15"
+	id="search_bar_nodes" class="Disabler AutoChecker" checked="checked"
+	data-uncheck="#search_bar_thread" /> Search this forum only</label>
+	<ul id="search_bar_nodes_Disabler">
+		<li><label><input type="checkbox" name="type[post][group_discussion]" value="1"
+			id="search_bar_group_discussion" class="AutoChecker"
+			data-uncheck="#search_bar_thread" /> Display results as threads</label></li>
+	</ul></li>
+								
+						</ul></dd>
+					</dl>
+					
+				</div>
+				<!-- end block: secondaryControls -->
+				
+				<dl class="ctrlUnit submitUnit">
+					<dt></dt>
+					<dd>
+						<input type="submit" value="Search" class="button primary Tooltip" title="Find Now" />
+						<div class="Popup" id="commonSearches">
+							<a rel="Menu" class="button NoPopupGadget Tooltip" title="Useful Searches" data-tipclass="flipped"><span class="arrowWidget"></span></a>
+							<div class="Menu">
+								<div class="primaryContent menuHeader">
+									<h3>Useful Searches</h3>
+								</div>
+								<ul class="secondaryContent blockLinksList">
+									<!-- block: useful_searches -->
+									<li><a href="find-new/posts?recent=1" rel="nofollow">Recent Posts</a></li>
+									
+									<!-- end block: useful_searches -->
+								</ul>
+							</div>
+						</div>
+						<a href="search/" class="button moreOptions Tooltip" title="Advanced search">More...</a>
+					</dd>
+				</dl>
+				
+			</div>
+			
+			<input type="hidden" name="_xfToken" value="" />
+		</form>		
+	</fieldset>
+	
+</div>
+</div>
+
+	
+	
+</header>
+
+</div>
+
+<footer>
+	
+
+
+<div class="footer">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+			
+			<ul class="footerLinks">
+			
+				
+					<li><a href="misc/contact" class="OverlayTrigger" data-overlayOptions="{&quot;fixed&quot;:false}">Contact Us</a></li>
+				
+				<li><a href="help/">Help</a></li>
+<li><a href="faq/">FAQ</a></li>
+				<li><a href="/web/20141210185235/http://uberpeople.net/" class="homeLink">Home</a></li>
+				<li><a href="/web/20141210185235/http://uberpeople.net/forums/Complaints/#navigation" class="topLink">Top</a></li>
+				<li><a href="forums/-/index.rss" rel="alternate" class="globalFeed" target="_blank"
+					title="RSS feed for Uber Drivers Forum">RSS</a></li>
+			
+			</ul>
+			
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+
+<div class="footerLegal">
+	<div class="pageWidth">
+		<div class="pageContent">
+			<ul id="legal">
+			
+				<li><a href="help/terms">Terms and Rules</a></li>
+				
+			
+			</ul>
+			
+			<div id="copyright"><a href="/web/20141210185235/http://xenforo.com/" class="concealed">Forum software by XenForo&trade; <span>&copy;2010-2014 XenForo Ltd.</span></a> 
+
+            </div>
+			
+		
+			
+			
+			<span class="helper"></span>
+		</div>
+	<div class= "muted" style="float: right; font-size: 11px;">Tac Anti Spam from <a href = "/web/20141210185235/http://www.surreyforum.co.uk/">Surrey Forum</a></div></div>	
+</div>
+
+</footer>
+
+<script>
+
+
+jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 0 },
+	serverTimeInfo:
+	{
+		now: 1418237555,
+		today: 1418198400,
+		todayDow: 3
+	},
+	_lightBoxUniversal: "0",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "1",
+	_overlayConfig:
+	{
+		top: "10%",
+		speed: 200,
+		closeSpeed: 100,
+		mask:
+		{
+			color: "rgb(255, 255, 255)",
+			opacity: "0.6",
+			loadSpeed: 200,
+			closeSpeed: 100
+		}
+	},
+	_ignoredUsers: [],
+	_loadedScripts: {"xfa_blogs_nav":true,"nat_public_css":true,"discussion_list":true,"waindigo_lastpostavatar":true,"login_bar":true,"panel_scroller":true,"facebook":true,"google":true,"js\/xenforo\/discussion_list.js?_v=c1ae77dc":true},
+	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
+	_csrfToken: "",
+	_csrfRefreshUrl: "login/csrf-token-refresh",
+	_jsVersion: "c1ae77dc"
+});
+jQuery.extend(XenForo.phrases,
+{
+	cancel: "Cancel",
+
+	a_moment_ago:    "A moment ago",
+	one_minute_ago:  "1 minute ago",
+	x_minutes_ago:   "%minutes% minutes ago",
+	today_at_x:      "Today at %time%",
+	yesterday_at_x:  "Yesterday at %time%",
+	day_x_at_time_y: "%day% at %time%",
+
+	day0: "Sunday",
+	day1: "Monday",
+	day2: "Tuesday",
+	day3: "Wednesday",
+	day4: "Thursday",
+	day5: "Friday",
+	day6: "Saturday",
+
+	_months: "January,February,March,April,May,June,July,August,September,October,November,December",
+	_daysShort: "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+
+	following_error_occurred: "The following error occurred",
+	server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+	logging_in: "Logging in",
+	click_image_show_full_size_version: "Click this image to show the full-size version.",
+	show_hidden_content_by_x: "Show hidden content by {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "1449178735324688";
+XenForo.Facebook.forceInit = false;
+
+
+
+
+
+</script>
+
+
+
+
+</body>
+</html>
+
+
+
+
+<!--
+     FILE ARCHIVED ON 18:52:35 Dec 10, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:34:01 Sep 13, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

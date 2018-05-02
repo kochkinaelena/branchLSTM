@@ -1,0 +1,1908 @@
+<!DOCTYPE html>
+  <!--[if lt IE 7]>      <html lang="en-AU" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+  <!--[if IE 7]>         <html lang="en-AU" class="lt-ie9 lt-ie8"> <![endif]-->
+  <!--[if IE 8]>         <html lang="en-AU" class="lt-ie9"> <![endif]-->
+  <!--[if gt IE 8]><!--> <html lang="en-AU"> <!--<![endif]-->
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app15.us.archive.org";archive_analytics.values.server_ms=5582;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+  <title>ABC News 24 - ABC News (Australian Broadcasting Corporation)</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+<link rel="schema.iptc" href="urn:newsml:iptc.org:20031010:topicset.iptc-genre:8"/>
+<link rel="canonical" data-abc-platform="standard" href="http://www.abc.net.au/news/abcnews24/"/>
+<meta name="title" content="ABC News 24"/>
+                <meta name="description" content="Australia&#039;s most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more."/>
+                <meta name="ContentId" content="48230"/>
+                <meta name="ABC.site" content="ABC News"/>
+                <meta name="ABC_WCMS_sitesearch_include" content="false"/>
+                <meta name="twitter:card" content="summary"/>
+                <meta name="DC.Publisher.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.rights" scheme="DCTERMS.URI" content="http://www.abc.net.au/conditions.htm#UseOfContent"/>
+        <meta name="DC.type" content="Collection"/>
+                <meta name="DC.creator.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.format" scheme="DCTERMS.IMT" content="text/html"/>
+        <meta name="DC.identifier" scheme="DCTERMS.URI" content="http://www.abc.net.au/news/abcnews24/"/>
+          <meta property="og:site_name" content="ABC News"/>
+                <meta name="twitter:site" content="@abcnews24"/>
+                <meta name="apple-mobile-web-app-title" content="ABC News"/>
+                <link rel="alternate" data-abc-platform="mobile" media="only screen and (max-width: 640px)" href="http://mobile.abc.net.au/news/abcnews24/"/>
+  <link media="screen, projection" rel="stylesheet" type="text/css"
+                                                                              href="/web/20141214121008cs_/http://www.abc.net.au/res/bundles/2.0.5/styles/abc.bundle.2.0.5.min.css"/>
+    <link rel="stylesheet" type="text/css"
+                                                                              href="/web/20141214121008cs_/http://www.abc.net.au/res/sites/news/styles/min/abc.news.css?2014-12-12"/>
+    <!--[if lte IE 7]>
+            <link rel="stylesheet" type="text/css" href="/web/20141214121008/http://www.abc.net.au/res/sites/news/styles/yaml/core/slim_iehacks.css" media="screen, projection"/>
+           <![endif]-->
+         <link rel="alternate" type="application/rss+xml" title="Just In" href="/news/feed/51120/rss.xml">
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://www.abc.net.au/news/contentblob/4355908/News+iOS+icon+57x57/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.abc.net.au/news/contentblob/4355924/News+iOS+icon+72x72/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.abc.net.au/news/contentblob/4355926/News+iOS+icon+114x114/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.abc.net.au/news/contentblob/4355930/News+iOS+icon+144x144/data.png"/>
+    <script type="text/javascript" src="/web/20141214121008js_/http://www.abc.net.au/news/ajax/48230/managed.js"></script>
+<script type="text/javascript" src="/web/20141214121008js_/http://www.abc.net.au/news/code/4410056/news.js"></script>
+    <!--[if lt IE 9]><script type="text/javascript" src="/web/20141214121008/http://www.abc.net.au/res/bundles/2.0.5/scripts/html5shiv.js"></script><![endif]-->
+    <script type="text/javascript" src="/web/20141214121008js_/http://www.abc.net.au/res/libraries/jquery/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="/web/20141214121008js_/http://www.abc.net.au/res/libraries/location/abc.location-1.latest.min.js"></script>
+    <script type="text/javascript" src="/web/20141214121008js_/http://www.abc.net.au/res/bundles/platforms/abc.bundle.platforms-1.0.min.js"></script>
+    <script type="text/javascript" src="/web/20141214121008js_/http://www.abc.net.au/res/libraries/jquery/plugins/jquery.viewport.mini.js"></script>
+    <script type="text/javascript" src="/web/20141214121008js_/http://www.abc.net.au/res/libraries/swfobject/swfobject-2.2.js"></script>
+    <script type="text/javascript" src="/web/20141214121008js_/http://www.abc.net.au/res/libraries/cinerama2/scripts/cinerama2.js"></script>
+    <script type="text/javascript" src="/web/20141214121008js_/http://www.abc.net.au/res/sites/news/scripts/min/abc.news.js?2014-12-12"></script>
+    </head>
+<body id="newshome" class="platform-standard news">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.abc.net.au/news/abcnews24/";
+
+var firstYear = 1996;
+var displayDay = "14";
+var displayMonth = "Dec";
+var displayYear = "2014";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(525, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.abc.net.au/news/abcnews24/" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20141214121008" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20141113142157/http://www.abc.net.au/news/abcnews24/" title="13 Nov 2014">NOV</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 12:10:08 Dec 14, 2014">DEC</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20150114145837/http://www.abc.net.au/news/abcnews24/" title="14 Jan 2015"><strong>JAN</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20141214113950/http://www.abc.net.au/news/abcnews24/" title="11:39:50 Dec 14, 2014"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 12:10:08 Dec 14, 2014">14</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20141215003844/http://www.abc.net.au/news/abcnews24/" title="0:38:44 Dec 15, 2014"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20131214102826/http://www.abc.net.au/news/abcnews24/" title="14 Dec 2013"><strong>2013</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 12:10:08 Dec 14, 2014">2014</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20151214192752/http://www.abc.net.au/news/abcnews24/" title="14 Dec 2015"><strong>2015</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20141214121008*/http://www.abc.net.au/news/abcnews24/" title="See a list of every capture for this URL">3,360 captures</a>
+           <div class="r" title="Timespan for captures of this URL">18 Apr 10 - 12 Sep 16</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="525"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=525_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:0003255a9987_2011:-1:998677bccddd_2012:-1:ededeeeeefee_2013:-1:ededdeccabde_2014:11:edddddccdccd_2015:-1:d9dcac7babdd_2016:-1:dbca1b7a9000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<!--noindex-->
+<!-- Start ABC Bundle Header 2.0.5 -->
+<nav id="abcHeader" class="global" role="navigation" aria-label="ABC Network Navigation" data-resourcebase="http://www.abc.net.au/res/bundles/2.0.5/" data-scriptsbase="http://www.abc.net.au/res/bundles/2.0.5/scripts/" data-version="2.0.5">
+ <a class="abcLink home" href="/web/20141214121008/http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/"><img src="/web/20141214121008im_/http://www.abc.net.au/res/bundles/2.0.5/images/logo-abc@2x.png" width="72" height="18" alt="" />ABC Home</a>
+ <div class="sites">
+  <a class="controller" href="javascript:;" aria-controls="abcNavSites"><img src="/web/20141214121008im_/http://www.abc.net.au/res/bundles/2.0.5/images/icon-menu-grey@1x.gif" 
+   data-src="images/icon-menu-grey@1x.gif" data-hover="images/icon-menu-blue@1x.gif" class="icon" alt="" /><span class='text'><span>Open</span> Sites <span>menu</span></span></a>
+  <div id="abcNavSites" class="menu" role="menu" aria-expanded="false">
+   <ul>
+    <li class='odd'><a class="abcLink" role="menuitem" href="/web/20141214121008/http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/">ABC Home</a></li>
+    <li><a class="abcLink" role="menuitem" href="/web/20141214121008/http://www.abc.net.au/news/" data-mobile="http://mobile.abc.net.au/news/">News</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="/web/20141214121008/http://www.abc.net.au/iview/" data-mobile="http://www.abc.net.au/iview/">iview</a></li>
+    <li><a class="abcLink" role="menuitem" href="/web/20141214121008/http://www.abc.net.au/tv/" data-mobile="">TV</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="/web/20141214121008/http://www.abc.net.au/radio/" data-mobile="http://www.abc.net.au/radio/">Radio</a></li>
+    <li><a class="abcLink" role="menuitem" href="/web/20141214121008/http://www.abc.net.au/children/" data-mobile="http://mobile.abc.net.au/children/">Kids</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="/web/20141214121008/https://shop.abc.net.au/" data-mobile="https://shop.abc.net.au/">Shop</a></li>
+    <li><a class="abcLink more" role="menuitem" href="/web/20141214121008/http://www.abc.net.au/more/" data-mobile="http://www.abc.net.au/more/">More</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="accounts">
+  <!-- Accounts is currently injected due to different URLs --><span data-src="images/icon-user-grey@1x.png" data-hover="images/icon-user-blue@1x.png"></span>
+ </div>
+ <a class="abcLink search" href="/web/20141214121008/http://search.abc.net.au/s/search.html?collection=abcall_meta&amp;form=simple"
+  data-mobile="http://mobile.search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"><span>Search</span>
+  <img src="/web/20141214121008im_/http://www.abc.net.au/res/bundles/2.0.5/images/icon-search-grey@1x.png" data-hover="images/icon-search-blue@1x.png" class="icon" alt="" /></a>
+</nav>
+<!-- End ABC Bundle Header 2.0.5 -->
+<!--endnoindex-->
+<!--noindex-->
+<div class="page_margins">
+  <div id="header" class="header">
+    <div class="brand">
+        <a href="/web/20141214121008/http://www.abc.net.au/news/"><img class="print" src="/web/20141214121008im_/http://www.abc.net.au/news/linkableblob/49430/data.png" alt="ABC News" width="194" height="50" />
+                <img class="noprint" src="/web/20141214121008im_/http://www.abc.net.au/news/linkableblob/5340830/data/news-logo-data.png" alt="ABC News" width="242" height="80" />
+                </a></div>
+      <a href="/web/20141214121008/http://www.abc.net.au/news/australia/" class="location-widget">Australia</a><a href="/web/20141214121008/http://www.abc.net.au/news/weather/" class="weather-widget">Weather</a></div>
+  <div id="nav" class="nav">           
+  <ul id="primary-nav">
+        <li id="n-news" class=""><a href="/web/20141214121008/http://www.abc.net.au/news/">News Home</a></li><li id="n-justin" class=""><a href="/web/20141214121008/http://www.abc.net.au/news/justin/">Just In</a></li><li id="n-australia" class="dropdown"><a href="/web/20141214121008/http://www.abc.net.au/news/australia/">Australia</a><div class="drop">
+    <ul>
+ <li class="first"><a href="/web/20141214121008/http://www.abc.net.au/news/national/">National</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/act/allstories/">Australian Capital Territory</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/nsw/allstories/">New South Wales</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/nt/allstories/">Northern Territory</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/qld/allstories/">Queensland</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/sa/allstories/">South Australia</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/tas/allstories/">Tasmania</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/vic/allstories/">Victoria</a></li>
+ <li class="last"><a href="/web/20141214121008/http://www.abc.net.au/news/wa/allstories/">Western Australia</a></li>
+ </ul></div>
+  </li><li id="n-world" class=""><a href="/web/20141214121008/http://www.abc.net.au/news/world/">World</a></li><li id="n-business" class=""><a href="/web/20141214121008/http://www.abc.net.au/news/business/">Business</a></li><li id="n-sport" class=""><a href="/web/20141214121008/http://www.abc.net.au/news/sport/">Sport</a></li><li id="n-thedrumdummy" class=""><a href="/web/20141214121008/http://www.abc.net.au/news/thedrum/">Analysis &amp; Opinion</a></li><li id="n-factcheck" class=""><a href="/web/20141214121008/http://www.abc.net.au/news/factcheck/">Fact Check</a></li><li id="n-programs" class="dropdown">
+  <a href="/web/20141214121008/http://www.abc.net.au/news/programs/">Programs</a><div class="wide drop">
+        <div class="subcolumns">
+          <div class="c63l">
+              <div class="section">
+                <h2>Television</h2>
+              </div>
+              <div class="c30l">
+                  <div class="section">
+                    <ul>
+ <li class="first"><a href="/web/20141214121008/http://www.abc.net.au/7.30/">7.30</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/programs/talkaboutit/">#TalkAboutIt</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/austory/">Australian Story</a></li>
+ <li><a href="/web/20141214121008/http://abc.net.au/btn/">Behind the News</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/tv/bigideas/">Big Ideas</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/programs/the-business/">The Business</a></li>
+ <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/programs/capital-hill/"
+    >
+  
+
+  
+    
+        <span>Capital Hill</span>
+    
+    
+  
+
+  </a>
+</li>
+ <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/thedrum/"
+    >
+  
+
+  
+    
+        <span>The Drum</span>
+    
+    
+  
+
+  </a>
+</li>
+ <li class="last"><a href="/web/20141214121008/http://www.abc.net.au/foreign">Foreign Correspondent</a></li>
+ </ul></div>
+                </div>
+              <div class="c30l">
+                  <div class="section">
+                    <ul>
+ <li class="first"><a href="/web/20141214121008/http://www.abc.net.au/4corners">Four Corners</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/programs/future-forum/">Future Forum</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/insiders">Insiders</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/landline">Landline</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/lateline">Lateline</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/programs/national-press-club/">National Press Club</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/programs/news-exchange/">News Exchange</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/programs/the-world/">The World</a></li>
+ <li class="last"><a href="/web/20141214121008/http://www.abc.net.au/abc3/news/">News on 3</a></li>
+ </ul></div>
+                </div>
+              <div class="c30l">
+                  <div class="section">
+                    <ul>
+ <li class="first"><a href="/web/20141214121008/http://www.abc.net.au/sport/offsiders">Offsiders</a></li>
+ <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/programs/one-plus-one/"
+    >
+  
+
+  
+    
+        <span>One Plus One</span>
+    
+    
+  
+
+  </a>
+</li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/tv/qanda/">Q &amp; A</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/programs/retrospect/">Retrospect</a></li>
+ <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/programs/the-quarters/"
+    >
+  
+
+  
+    
+        <span>The Quarters</span>
+    
+    
+  
+
+  </a>
+</li>
+ <li class="last">
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/programs/the-mix/"
+    >
+  
+
+  
+    
+        <span>The Mix</span>
+    
+    
+  
+
+  </a>
+</li>
+ </ul></div>
+                </div>
+              </div>
+          <div class="c37r">
+              <div class="section">
+                <h2>Radio</h2>
+              </div>
+              <div class="c50l">
+                  <div class="section">
+                    <ul>
+ <li class="first"><a href="/web/20141214121008/http://www.abc.net.au/am">AM</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/correspondents/">Correspondents Report</a></li>
+ <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/programs/friday-late/"
+    >
+  
+
+  
+    
+        <span>Friday Late</span>
+    
+    
+  
+
+  </a>
+</li>
+ <li class="last"><a href="/web/20141214121008/http://www.abc.net.au/pm">PM</a></li>
+ </ul></div>
+                </div>
+              <div class="c50r">
+                  <div class="section">
+                    <ul>
+ <li class="first"><a href="/web/20141214121008/http://www.abc.net.au/worldtoday/">The World Today</a></li>
+ <li><a href="/web/20141214121008/http://www.radioaustralia.net.au/international/">Radio Australia News</a></li>
+ <li class="last"><a href="/web/20141214121008/http://www.abc.net.au/newsradio/">NewsRadio</a></li>
+ </ul></div>
+                </div>
+              </div>
+          </div>
+      </div>
+    </li><li id="n-more" class="dropdown">
+  <a href="#sitemap">More</a><div class="wide drop">
+        <div class="subcolumns">
+          <div class="c25l">
+              <div class="section">
+                <ul>
+ <li class="first"><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/">ABC News 24</a></li>
+ <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/arts/read/"
+    >
+  
+
+  
+    
+        <span>Arts</span>
+    
+    
+  
+
+  </a>
+</li>
+ <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/corrections/"
+    >
+  
+
+  
+    
+        <span>Corrections &amp; Clarifications</span>
+    
+    
+  
+
+  </a>
+</li>
+ <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/rampup"
+    >
+  
+
+  
+    
+        <span>Disability - Ramp Up</span>
+    
+    
+  
+
+  </a>
+</li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/entertainment/">Entertainment</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/environment/">Environment</a></li>
+ <li class="last"><a href="/web/20141214121008/http://www.abc.net.au/news/factcheck/">Fact Check</a></li>
+ </ul></div>
+            </div>
+          <div class="c25l">
+              <div class="section">
+                <ul>
+ <li class="first"><a href="/web/20141214121008/http://www.abc.net.au/health/">Health</a></li>
+ <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/indigenous/"
+    >
+  
+
+  
+    
+        <span>Indigenous</span>
+    
+    
+  
+
+  </a>
+</li>
+ <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/local/"
+    >
+  
+
+  
+    
+        <span>Local</span>
+    
+    
+  
+
+  </a>
+</li>
+ <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/religion/"
+    >
+  
+
+  
+    
+        <span>Religion &amp; Ethics</span>
+    
+    
+  
+
+  </a>
+</li>
+ <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/rural/"
+    >
+  
+
+  
+    
+        <span>Rural</span>
+    
+    
+  
+
+  </a>
+</li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/science/">Science</a></li>
+ <li class="last">
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/technology/"
+    >
+  
+
+  
+    
+        <span>Technology &amp; Games</span>
+    
+    
+  
+
+  </a>
+</li>
+ </ul></div>
+            </div>
+          <div class="c25l">
+              <div class="section">
+                <ul>
+ <li class="first"><a href="/web/20141214121008/http://www.abc.net.au/news/weather/">Weather</a></li>
+ <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://blogs.abc.net.au/weatherman/"
+    >
+  
+
+  
+    
+        <span>The Weather Man</span>
+    
+    
+  
+
+  </a>
+</li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/elections/">Elections</a></li>
+ <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/vic-election-2014/"
+    >
+  
+
+  
+    
+        <span>Victorian Election 2014</span>
+    
+    
+  
+
+  </a>
+</li>
+ <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://blogs.abc.net.au/antonygreen/"
+    >
+  
+
+  
+    
+        <span>Antony Green&#039;s Election Blog</span>
+    
+    
+  
+
+  </a>
+</li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/archive/">Archive</a></li>
+ <li class="last">
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/video/"
+    >
+  
+
+  
+    
+        <span>Video</span>
+    
+    
+  
+
+  </a>
+</li>
+ </ul></div>
+            </div>
+          <div class="c25r">
+              <div class="section">
+                <ul>
+ <li class="first"><a href="/web/20141214121008/http://www.abc.net.au/news/audio/">Audio</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/photos/">Photos</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/alerts/">NewsMail</a></li>
+ <li><a href="/web/20141214121008/http://www.abc.net.au/news/feeds/">Podcasts</a></li>
+ <li class="last"><a href="/web/20141214121008/http://www.abc.net.au/news/contact/">Contact Us</a></li>
+ </ul></div>
+            </div>
+          </div>
+      </div>
+    </li></ul>
+  </div>
+<!-- A modules - start -->
+  <div class="section media-article">
+    <div class="inline-content video article">
+    <script type="text/javascript" charset="utf-8">
+          if (typeof inlineVideoData == 'undefined') var inlineVideoData = new Array();
+          inlineVideoData.push([
+          
+              {'url': '/web/20141214121008/http://www.abc.net.au/res/streaming/video/mrss/news24_med.xml', 'contentType': 'video/x-flv', 'codec': 'Flash 8', 'bitrate': '400', 'width': '512', 'height': '288', 'filesize': '0'}
+            ,
+              {'url': '/web/20141214121008/http://www.abc.net.au/res/streaming/video/hls/news24.m3u8', 'contentType': 'video/mp4', 'codec': 'H264', 'bitrate': '480', 'width': '512', 'height': '288', 'filesize': '0'}
+            
+            ]);
+            </script>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2011-05-03/abc-news-24-stream/167392" class="inline-video">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/web/20141214121008im_/http://www.abc.net.au/news/image/5833010-16x9-512x288.jpg" alt="ABC News 24 live stream" title="Generic Video Poster Image" width="512" height="288"/>
+</a></div>
+</div>
+<div class="section">
+	<div id="epg">
+	<div id="epg-header">
+		<h1>Program Guide</h1>
+		<p class="view-full"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/">View Full TV Guide</a></p>
+		<p class="print-guide">Times in AEDT</p>
+	</div>
+	<div id="epg-content">
+		<ul><li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1436H100D2014-12-14T060000.htm" id="NU1436H100">ABC News Update</a></span><span class="itemTime">6:00am</span><span class="itemRealTime">6:00am</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">The latest news headlines and today's top stories from across Australia and around the world.</span><span class="itemDuration">1 min</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/AR1308H001D2014-12-14T060130.htm" id="AR1308H001">Big Ideas Arts</a></span><span class="itemTime">6:00am</span><span class="itemRealTime">6:01am</span><span class="itemRating">PG</span><span class="itemGenre">Documentary/Factual</span><span class="itemDesc">Martin Amis has a wide ranging chat with QandA's Tony Jones at Perth Writers Festival about the genius of Nabokov; his dad, Kingsley Amis; scope & inspiration for his last 2 novels & homage to his friend Christopher Hitchens.</span><span class="itemDuration">56 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1463H050D2014-12-14T070000.htm" id="NU1463H050">Weekend Breakfast</a></span><span class="itemTime">7:00am</span><span class="itemRealTime">7:00am</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Hosted by Andrew Geoghegan & Eliza Harvey, covering the latest news from Australia and the world, with in-depth analysis and interviews, as well as regular news updates, sport, weather and what's happening in the arts.</span><span class="itemDuration">57 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1485H050D2014-12-14T080000.htm" id="NU1485H050">Weekend Breakfast</a></span><span class="itemTime">8:00am</span><span class="itemRealTime">8:00am</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Hosted by Andrew Geoghegan and Eliza Harvey, covering the latest news from Australia and the world, with in-depth analysis and interviews, as well as regular news updates, sport, weather and what's happening in the arts.</span><span class="itemDuration">1 hr 57 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1486H050D2014-12-14T100000.htm" id="NU1486H050">Weekend Breakfast</a></span><span class="itemTime">10:00am</span><span class="itemRealTime">10:00am</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Hosted by Andrew Geoghegan & Eliza Harvey, covering the latest news from Australia and the world, with in-depth analysis and interviews, as well as regular news updates, sport, weather and what's happening in the arts.</span><span class="itemDuration">56 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1446H054D2014-12-14T110000.htm" id="NU1446H054">ABC News</a></span><span class="itemTime">11:00am</span><span class="itemRealTime">11:00am</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Live across Australia, the latest from ABC News, following today's top stories and live coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</span><span class="itemDuration">28 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/abc-news-24"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1454H050D2014-12-14T113000.htm" id="NU1454H050">The World This Week</a></span><span class="itemTime">11:30am</span><span class="itemRealTime">11:30am</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Beverley O'Connor presents a review of the ABC's best international news stories, with extended reports from Australia's largest network of reporters and foreign correspondents.</span><span class="itemDuration">27 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/world-this-week"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1421H100D2014-12-14T120000.htm" id="NU1421H100">ABC News</a></span><span class="itemTime">12:00pm</span><span class="itemRealTime">12:00pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Live across Australia, the latest from ABC News, following today's top stories and live coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</span><span class="itemDuration">32 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/abc-news-24"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/FR1308H004D2014-12-14T123200.htm" id="FR1308H004">Big Ideas</a></span><span class="itemTime">12:30pm</span><span class="itemRealTime">12:32pm</span><span class="itemRating">G</span><span class="itemGenre">Documentary/Factual</span><span class="itemDesc">Dr Fiona Wood is in conversation with John Bertrand in this leadership series for Monash University. Best known for developing 'spray on skin', cell technology for the treatment of burns. She reflects here on her life & work.</span><span class="itemDuration">26 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1495H041D2014-12-14T130000.htm" id="NU1495H041">ABC News</a></span><span class="itemTime">1:00pm</span><span class="itemRealTime">1:00pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Live across Australia, the latest from ABC News, following today's top stories and live coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</span><span class="itemDuration">32 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/abc-news-24"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/AP1474V020D2014-12-14T133200.htm" id="AP1474V020">#TalkAboutIt</a></span><span class="itemTime">1:30pm</span><span class="itemRealTime">1:32pm</span><span class="itemRating">Exempt</span><span class="itemGenre">Current Affairs</span><span class="itemDesc">This week Talk About It takes a look at mental illness and finds out what options are available to those who need help. #TalkAboutIt</span><span class="itemDuration">26 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/talkaboutit"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1422H100D2014-12-14T140000.htm" id="NU1422H100">ABC News</a></span><span class="itemTime">2:00pm</span><span class="itemRealTime">2:00pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Live across Australia, the latest from ABC News, following today's top stories and live coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</span><span class="itemDuration">28 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/abc-news-24"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1456H045D2014-12-14T143000.htm" id="NU1456H045">State To State</a></span><span class="itemTime">2:30pm</span><span class="itemRealTime">2:30pm</span><span class="itemRating">Exempt</span><span class="itemGenre">Current Affairs</span><span class="itemDesc">Stories from all corners of Australia - the best feature stories of 2014 from the states and territories.</span><span class="itemDuration">27 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1423H100D2014-12-14T150000.htm" id="NU1423H100">ABC News</a></span><span class="itemTime">3:00pm</span><span class="itemRealTime">3:00pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Live across Australia, the latest from ABC News, following today's top stories and live coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</span><span class="itemDuration">28 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/abc-news-24"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1434H100D2014-12-14T153000.htm" id="NU1434H100">ABC News Update</a></span><span class="itemTime">3:30pm</span><span class="itemRealTime">3:30pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">The latest news headlines and today's top stories from across Australia and around the world.</span><span class="itemDuration">1 min</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1308H007D2014-12-14T153130.htm" id="NU1308H007">Inside Edge</a></span><span class="itemTime">3:30pm</span><span class="itemRealTime">3:31pm</span><span class="itemRating">Exempt</span><span class="itemGenre">Current Affairs</span><span class="itemDesc">Inside Edge is a weekly interview show for ABC News 24. Presented by Angela Pulvirenti, the program features face-to-face interviews with Australian sporting icons, looking back on their experiences both on and off the field.</span><span class="itemDuration">28 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1424H100D2014-12-14T160000.htm" id="NU1424H100">ABC News</a></span><span class="itemTime">4:00pm</span><span class="itemRealTime">4:00pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Live across Australia, the latest from ABC News, following today's top stories and live coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</span><span class="itemDuration">28 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/abc-news-24"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1468Q005D2014-12-14T163000.htm" id="NU1468Q005">Landline</a></span><span class="itemTime">4:30pm</span><span class="itemRealTime">4:30pm</span><span class="itemRating">Exempt</span><span class="itemGenre">Current Affairs</span><span class="itemDesc">Australia's national rural program, with reports from around the country on rural and urban issues. Presented by Pip Courtney.</span><span class="itemDuration">28 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1425H100D2014-12-14T170000.htm" id="NU1425H100">ABC News</a></span><span class="itemTime">5:00pm</span><span class="itemRealTime">5:00pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Live across Australia, the latest from ABC News, following today's top stories and live coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</span><span class="itemDuration">28 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/abc-news-24"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1435H100D2014-12-14T173000.htm" id="NU1435H100">ABC News Update</a></span><span class="itemTime">5:30pm</span><span class="itemRealTime">5:30pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">The latest news headlines and today's top stories from across Australia and around the world.</span><span class="itemDuration">1 min</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1496H027D2014-12-14T173130.htm" id="NU1496H027">The Mix</a></span><span class="itemTime">5:30pm</span><span class="itemRealTime">5:31pm</span><span class="itemRating">Exempt</span><span class="itemGenre">Current Affairs</span><span class="itemDesc">James Valentine delivers your weekly fix of arts, showbiz and entertainment news. This half-hour program covers some things you know about, some you love, and some things only your kids will have heard of. #TheMixTV</span><span class="itemDuration">28 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/mix"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1426H108D2014-12-14T180000.htm" id="NU1426H108">ABC News</a></span><span class="itemTime">6:00pm</span><span class="itemRealTime">6:00pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Live across Australia, the latest from ABC News, following today's top stories and live coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</span><span class="itemDuration">28 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/abc-news-24"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1439H100D2014-12-14T183000.htm" id="NU1439H100">ABC News Update</a></span><span class="itemTime">6:30pm</span><span class="itemRealTime">6:30pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">The latest news headlines and today's top stories from across Australia and around the world.</span><span class="itemDuration">1 min</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NC1456Q027D2014-12-14T183130.htm" id="NC1456Q027">Australian Story</a></span><span class="itemTime">6:30pm</span><span class="itemRealTime">6:31pm</span><span class="itemRating">Exempt</span><span class="itemGenre">Current Affairs</span><span class="itemDesc">How an activist, nearing 70, has united former sworn enemies - farmers and greenies - and become the mastermind of a big and effective people power campaign against coal seam gas - but at a very high personal cost.</span><span class="itemDuration">27 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/australian-story"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1427H100D2014-12-14T190000.htm" id="NU1427H100">ABC News</a></span><span class="itemTime">7:00pm</span><span class="itemRealTime">7:00pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Live across Australia, the latest from ABC News, following today's top stories and live coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</span><span class="itemDuration">28 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/abc-news-24"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1440H146D2014-12-14T193000.htm" id="NU1440H146">ABC News Update</a></span><span class="itemTime">7:30pm</span><span class="itemRealTime">7:30pm</span><span class="itemRating">Exempt</span><span class="itemGenre"></span><span class="itemDesc">The latest news headlines and today's top stories from across Australia and around the world.</span><span class="itemDuration">1 min</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1454H050D2014-12-14T193130.htm" id="NU1454H050">The World This Week</a></span><span class="itemTime">7:30pm</span><span class="itemRealTime">7:31pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Beverley O'Connor presents a review of the ABC's best international news stories, with extended reports from Australia's largest network of reporters and foreign correspondents.</span><span class="itemDuration">27 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/world-this-week"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1441H100D2014-12-14T200000.htm" id="NU1441H100">ABC News Update</a></span><span class="itemTime">8:00pm</span><span class="itemRealTime">8:00pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">The latest news headlines and today's top stories from across Australia and around the world.</span><span class="itemDuration">1 min</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NS1424H001D2014-12-14T200130.htm" id="NS1424H001">The Australian Walkley Awards 2014 - Highlights</a></span><span class="itemTime">8:00pm</span><span class="itemRealTime">8:01pm</span><span class="itemRating">Exempt</span><span class="itemGenre">Current Affairs</span><span class="itemDesc">Sarah Ferguson presents the 2014 Australian Walkley Awards for Excellence in Journalism, featuring category winners, including the most prestigious journalism award - the Gold Walkley.</span><span class="itemDuration">58 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/australian-walkley-awards-for-excellence-in-journalism"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1428H108D2014-12-14T210000.htm" id="NU1428H108">ABC News</a></span><span class="itemTime">9:00pm</span><span class="itemRealTime">9:00pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Live across Australia, the latest from ABC News, following today's top stories and live coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</span><span class="itemDuration">32 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/abc-news-24"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1452H051D2014-12-14T213200.htm" id="NU1452H051">One Plus One</a></span><span class="itemTime">9:30pm</span><span class="itemRealTime">9:32pm</span><span class="itemRating">Exempt</span><span class="itemGenre">Current Affairs</span><span class="itemDesc">As head of the United Nations Development Program, Helen Clark is considered one of the most powerful women in the world. Speculation is now mounting that the former PM of New Zealand could be in line for the UN's top job.</span><span class="itemDuration">28 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/one-plus-one"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1429H108D2014-12-14T220000.htm" id="NU1429H108">ABC News</a></span><span class="itemTime">10:00pm</span><span class="itemRealTime">10:00pm</span><span class="itemRating"></span><span class="itemGenre">News</span><span class="itemDesc">Live across Australia, the latest from ABC News, following today's top stories and live coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</span><span class="itemDuration">28 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/abc-news-24"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1443H100D2014-12-14T223000.htm" id="NU1443H100">ABC News Update</a></span><span class="itemTime">10:30pm</span><span class="itemRealTime">10:30pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">The latest news headlines and today's top stories from across Australia and around the world.</span><span class="itemDuration">1 min</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1496H027D2014-12-14T223130.htm" id="NU1496H027">The Mix</a></span><span class="itemTime">10:30pm</span><span class="itemRealTime">10:31pm</span><span class="itemRating">Exempt</span><span class="itemGenre">Current Affairs</span><span class="itemDesc">James Valentine delivers your weekly fix of arts, showbiz and entertainment news. This half-hour program covers some things you know about, some you love, and some things only your kids will have heard of. #TheMixTV</span><span class="itemDuration">28 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/mix"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1430H100D2014-12-14T230000.htm" id="NU1430H100">ABC News</a></span><span class="itemTime">11:00pm</span><span class="itemRealTime">11:00pm</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Live across Australia, the latest from ABC News, following today's top stories and live coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</span><span class="itemDuration">28 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/abc-news-24"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/FR1308H004D2014-12-14T233000.htm" id="FR1308H004">Big Ideas</a></span><span class="itemTime">11:30pm</span><span class="itemRealTime">11:30pm</span><span class="itemRating">G</span><span class="itemGenre">Documentary/Factual</span><span class="itemDesc">Dr Fiona Wood is in conversation with John Bertrand in this leadership series for Monash University. Best known for developing 'spray on skin', cell technology for the treatment of burns. She reflects here on her life & work.</span><span class="itemDuration">26 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1445H100D2014-12-15T000000.htm" id="NU1445H100">ABC News Update</a></span><span class="itemTime">12:00am</span><span class="itemRealTime">12:00am</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">The latest news headlines and today's top stories from across Australia and around the world.</span><span class="itemDuration">1 min</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1499Q003D2014-12-15T000100.htm" id="NU1499Q003">The Best Of Landline</a></span><span class="itemTime">12:00am</span><span class="itemRealTime">12:01am</span><span class="itemRating">Exempt</span><span class="itemGenre">Current Affairs</span><span class="itemDesc">Australia's national rural program, with reports from around the country on rural and urban issues. Presented by Pip Courtney.</span><span class="itemDuration">59 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/best-of-landline"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/ZX9817A100D2014-12-15T010002.htm" id="ZX9817A100">BBC World News</a></span><span class="itemTime">1:00am</span><span class="itemRealTime">1:00am</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Live overnight news from the global resources of BBC World News.</span><span class="itemDuration">26 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1469H130D2014-12-15T012602.htm" id="NU1469H130">ABC Open</a></span><span class="itemTime">1:25am</span><span class="itemRealTime">1:26am</span><span class="itemRating">Exempt</span><span class="itemGenre"></span><span class="itemDesc">Keep up to date with what the locals are doing with these real stories from around Australia, made by people just like you.  To get involved and share your story visit abc.net.au/open to contact your nearest producer.</span><span class="itemDuration">3 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1454H050D2014-12-15T013000.htm" id="NU1454H050">The World This Week</a></span><span class="itemTime">1:30am</span><span class="itemRealTime">1:30am</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Beverley O'Connor presents a review of the ABC's best international news stories, with extended reports from Australia's largest network of reporters and foreign correspondents.</span><span class="itemDuration">27 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://iview.abc.net.au/programs/world-this-week"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_iview.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/ZX9815A348D2014-12-15T020004.htm" id="ZX9815A348">Al Jazeera Newshour</a></span><span class="itemTime">2:00am</span><span class="itemRealTime">2:00am</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Live, breaking and in-depth news reports from Al Jazeera with special focus on Asia, Africa, Europe and the Americas.</span><span class="itemDuration">58 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/ZX9822A150D2014-12-15T030002.htm" id="ZX9822A150">BBC World News</a></span><span class="itemTime">3:00am</span><span class="itemRealTime">3:00am</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Live overnight news coverage continues using the global resources of BBC World News.</span><span class="itemDuration">26 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1469H133D2014-12-15T032602.htm" id="NU1469H133">ABC Open</a></span><span class="itemTime">3:25am</span><span class="itemRealTime">3:26am</span><span class="itemRating">Exempt</span><span class="itemGenre"></span><span class="itemDesc">Keep up to date with what the locals are doing with these real stories from around Australia, made by people just like you.  To get involved and share your story visit abc.net.au/open to contact your nearest producer.</span><span class="itemDuration">2 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NC1354D034D2014-12-15T033000.htm" id="NC1354D034">Court Up North</a></span><span class="itemTime">3:30am</span><span class="itemRealTime">3:30am</span><span class="itemRating">Exempt</span><span class="itemGenre">Current Affairs</span><span class="itemDesc">Territory based current affairs. Danielle Parry examines the local issues concerning the Northern Territory.</span><span class="itemDuration">28 mins</span><span class="itemIcons"><a href="/web/20141214121008/http://www.abc.net.au/7.30/nt"><img src="/web/20141214121008im_/http://www.abc.net.au/tv/guide/img/icon_epg_web.gif"/></a></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/FA1308H009D2014-12-15T040000.htm" id="FA1308H009">Big Ideas</a></span><span class="itemTime">4:00am</span><span class="itemRealTime">4:00am</span><span class="itemRating">PG</span><span class="itemGenre">Documentary/Factual</span><span class="itemDesc">Emile Sherman produced the film based on Robyn Davidson's famous 1977 journey from Alice to the WA coast & subsequent book Tracks. Sherman & Davidson are in conversation with Michaela Kalowski at Sydney Writers' Festival 2013</span><span class="itemDuration">55 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/NU1469H121D2014-12-15T045515.htm" id="NU1469H121">ABC Open</a></span><span class="itemTime">4:55am</span><span class="itemRealTime">4:55am</span><span class="itemRating">Exempt</span><span class="itemGenre"></span><span class="itemDesc">Keep up to date with what the locals are doing with these real stories from around Australia, made by people just like you.  To get involved and share your story visit abc.net.au/open to contact your nearest producer.</span><span class="itemDuration">3 mins</span><span class="itemIcons"></span></li>
+<li><span class="itemTitle"><a href="/web/20141214121008/http://www.abc.net.au/tv/guide/abcnews24/201412/programs/ZX9816A348D2014-12-15T050004.htm" id="ZX9816A348">Al Jazeera Newshour</a></span><span class="itemTime">5:00am</span><span class="itemRealTime">5:00am</span><span class="itemRating">Exempt</span><span class="itemGenre">News</span><span class="itemDesc">Live, breaking and in-depth news reports from Al Jazeera with special focus on Asia, Africa, Europe and the Americas.</span><span class="itemDuration">58 mins</span><span class="itemIcons"></span></li>
+
+</ul>
+	</div>
+</div></div><!-- A modules - end -->
+  <div class="page section">
+    <div class="subcolumns">
+    <div class="c75l">
+      <!-- B modules - start -->
+      <div class="subcolumns ">
+    <div class="c50l">
+      <!-- First Half: 50 modules - start -->
+      <div class="inline-content uberlist ng3ts title-align default-image-width-100 default-image-ratio-3x2 heading-small teaser-text-small show-image-icon-doctypes">
+
+  <div class="section module-heading">
+      <h2>Video on Demand</h2>
+        </div>
+  <div class="section module-body">
+    <ol data-cmid="48234" data-cmjson="http://www.abc.net.au/news/ajax/48234/json"
+>
+      <li class="doctype-channel" data-cmid="167356" data-image-cmid="5872344" data-importance="" data-first-published="2011-05-10T20:50+1000" data-last-published="2014-11-06T17:43+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/news-in-90-seconds/">News in 90 Seconds</a></h3>
+    <p>The top headlines from at home and abroad, updated across the day.</p></li>
+<li class="doctype-channel" data-cmid="167352" data-image-cmid="5872348" data-importance="" data-first-published="2011-05-03T10:13+1000" data-last-published="2014-11-06T17:43+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/business-in-90-seconds/">Business in 90 Seconds</a></h3>
+    <p>A snapshot of the state of play in business and finance.</p></li>
+<li class="doctype-channel" data-cmid="167360" data-image-cmid="5872752" data-importance="" data-first-published="2011-05-03T10:13+1000" data-last-published="2014-11-06T17:43+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/sport-in-90-seconds/">Sport in 90 Seconds</a></h3>
+    <p>Everything that's making news in the world of sport.</p></li>
+<li class="doctype-channel" data-cmid="167358" data-image-cmid="5872762" data-importance="" data-first-published="2011-05-03T10:13+1000" data-last-published="2014-11-06T17:43+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/weather-in-90-seconds/">Weather in 90 Seconds</a></h3>
+    <p>A national round-up of today's weather outlook.</p></li>
+</ol>
+  </div>
+
+  </div>
+  <div class="divider"></div>
+    <div class="inline-content uberlist ng3ts title-align default-image-width-100 default-image-ratio-3x2 heading-small teaser-text-small show-image-icon-doctypes">
+
+  <div class="section module-heading">
+      <h2><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/programs/one-plus-one/">One Plus One</a></h2>
+        </div>
+  <div class="section module-body">
+    <ol data-cmid="5306028" data-cmjson="http://www.abc.net.au/news/ajax/5306028/json"
+>
+      <li class="doctype-video" data-cmid="5963656" data-image-cmid="5963658" data-importance="5" data-first-published="2014-12-12T10:30+1100" data-last-published="2014-12-12T13:02+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-12-12/one-plus-one-helen-clark/5963656">One Plus One: Helen Clark</a></h3>
+    <p>As head of the United Nations Development Programme, Helen Clark is considered one of the most powerful women in the world. Speculation is now mounting that Ms Clark, former prime minister of New Zealand, could be in line for the UN’s top job.</p></li>
+<li class="doctype-video" data-cmid="5963460" data-image-cmid="5963462" data-importance="5" data-first-published="2014-12-05T10:30+1100" data-last-published="2014-12-12T12:19+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-12-05/one-plus-one-john-olsen/5963460">One Plus One: John Olsen</a></h3>
+    <p>John Olsen is one of Australia’s greatest artists whose life and six-decade career have proved every bit as colourful as his paintings. He shares his memories with Jane Hutcheon.</p></li>
+<li class="doctype-video" data-cmid="5962612" data-image-cmid="" data-importance="5" data-first-published="2014-11-28T10:00+1100" data-last-published="2014-12-12T09:45+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-11-28/one-plus-one-pamela-stephenson-connolly/5962612">One Plus One: Pamela Stephenson Connolly</a></h3>
+    <p>Pamela Stephenson Connolly is a comedy actor, writer and clinical psychologist whose lifelong love of dance has inspired yet another career move. She speaks with Jane Hutcheon about family, fame and the health of her comedian husband, Billy Connolly.</p></li>
+<li class="doctype-video" data-cmid="5908806" data-image-cmid="5908808" data-importance="5" data-first-published="2014-11-21T10:00+1100" data-last-published="2014-11-21T10:51+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-11-21/one-plus-one-molly-meldrum/5908806">One Plus One: Molly Meldrum</a></h3>
+    <p>Ian “Molly” Meldrum is a legendary figure in the Australian pop music industry but, he tells Jane Hutcheon, there is nothing he hates more than to be called a powerbroker.</p></li>
+<li class="doctype-video" data-cmid="5891358" data-image-cmid="5891360" data-importance="5" data-first-published="2014-11-14T10:00+1100" data-last-published="2014-11-14T11:57+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-11-14/one-plus-one-kim-williams/5891358">One Plus One: Kim Williams</a></h3>
+    <p>Kim Williams had his heart set on a career in music, but became of Australia’s most powerful media figures. The former News Corp CEO speaks with Jane Hutcheon about life, loss and leadership.</p></li>
+<li class="doctype-video" data-cmid="5874346" data-image-cmid="5874348" data-importance="5" data-first-published="2014-11-07T10:00+1100" data-last-published="2014-11-07T11:35+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-11-07/one-plus-one-jane-turner/5874346">One Plus One: Jane Turner</a></h3>
+    <p>Jane Turner became a household name for her portrayal of the suburban housewife Kath Day-Knight in the comedy series Kath and Kim. But what lies beneath the wig? She opens up to Jane Hutcheon.</p></li>
+<li class="doctype-video" data-cmid="5859294" data-image-cmid="5859296" data-importance="5" data-first-published="2014-10-31T20:30+1100" data-last-published="2014-10-31T21:35+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-10-31/one-plus-one-damien-thomlinson/5859294">One Plus One: Damien Thomlinson</a></h3>
+    <p>The final of a three-part series on survivors. Damien Thomlinson was a Special Forces Commando in Afghanistan, when his vehicle drove over a bomb. Today, as a double amputee, he tells Jane Hutcheon that he’s determined to see life as one with challenges, not obstacles.</p></li>
+</ol>
+  </div>
+
+  </div>
+  <!-- First Half: 50 modules - end -->
+    </div>
+    <div class="c50r">
+      <!-- Second Half: 50  modules - start -->
+      <div class="inline-content uberlist ng3ts title-align default-image-width-100 default-image-ratio-3x2 heading-small teaser-text-small show-image-icon-doctypes">
+
+  <div class="section module-heading">
+      <h2><a href="/web/20141214121008/http://www.abc.net.au/news/video/">Video</a></h2>
+        </div>
+  <div class="section module-body">
+    <ol data-cmid="5076848" data-cmjson="http://www.abc.net.au/news/ajax/5076848/json"
+>
+      <li class="doctype-video" data-cmid="5966220" data-image-cmid="5965794" data-importance="" data-first-published="2014-12-14T14:03+1100" data-last-published="2014-12-14T14:03+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-12-14/ben-knight-reports-from-washington-protest/5965950">Protest against police killings</a></h3>
+    <p>Thousands of demonstrators gather in Washington to protest against the killing of unarmed black men by police.</p></li>
+<li class="doctype-video" data-cmid="5966078" data-image-cmid="5966080" data-importance="5" data-first-published="2014-12-14T10:18+1100" data-last-published="2014-12-14T11:35+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-12-14/world-war-i-soccer-players-mark-100-years-since/5966078">WWI Christmas Truce</a></h3>
+    <p>Young players from some of Europe's top football teams are marking 100 years since 1914 Christmas Truce.</p></li>
+<li class="doctype-video" data-cmid="5966122" data-image-cmid="5965692" data-importance="" data-first-published="2014-12-14T12:25+1100" data-last-published="2014-12-14T12:25+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-12-13/tasmanias-top-ranked-para-athlete-deon-kenzie/5965686">World record run</a></h3>
+    <p>A Tasmanian teenager has broken the world record for running 1500-metres in his category.</p></li>
+<li class="doctype-video" data-cmid="5965240" data-image-cmid="5964004" data-importance="" data-first-published="2014-12-13T10:19+1100" data-last-published="2014-12-13T10:21+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-12-12/weekly-wrap-end-of-year-special-and-the-golden/5963702">Facts, fallacies, and zombies</a></h3>
+    <p>Presenter John Barron and social media editor Sarah-Jane Collins take a look back at the year in facts and hand out the inaugural Golden Zombie award.</p></li>
+</ol>
+  </div>
+
+  </div>
+  <div class="divider"></div>
+    <div class="inline-content uberlist ng3ts title-align default-image-width-100 default-image-ratio-3x2 heading-small teaser-text-small show-image-icon-doctypes">
+
+  <div class="section module-heading">
+      <h2><a href="/web/20141214121008/http://www.abc.net.au/lateline/">Lateline</a></h2>
+        </div>
+  <div class="section module-body">
+    <ol data-cmid="5306030" data-cmjson="http://www.abc.net.au/news/ajax/5306030/json"
+>
+      <li class="doctype-video" data-cmid="5948668" data-image-cmid="5948670" data-importance="7" data-first-published="2014-12-05T23:31+1100" data-last-published="2014-12-05T23:31+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-12-05/friday-forum/5948668">Friday Forum</a></h3>
+    <p>Steve Ciobo, Parliamentary Secretary to the Treasurer and Labor's Finance Spokesman, Tony Burke, discuss a turbulent year in politics.</p></li>
+<li class="doctype-video" data-cmid="5948660" data-image-cmid="5948662" data-importance="7" data-first-published="2014-12-05T23:22+1100" data-last-published="2014-12-05T23:52+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-12-05/icac-to-appeal-judgement-to-stop-investigating/5948660">ICAC to appeal judgement to stop investigating Crown Prosecutor</a></h3>
+    <p>The nation's most powerful corruption watchdog, ICAC, will appeal the judgment that's shut down its investigation of leading Crown Prosecutor, Margaret Cunneen.</p></li>
+<li class="doctype-video" data-cmid="5948664" data-image-cmid="5948666" data-importance="7" data-first-published="2014-12-05T23:22+1100" data-last-published="2014-12-05T23:22+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-12-05/dust-storm-swallows-queensland-town/5948664">Dust Storm swallows Queensland town</a></h3>
+    <p>A huge dust cloud has rolled across outback Queensland, turning day into night at Bedourie in far west Queensland.</p></li>
+<li class="doctype-video" data-cmid="5948644" data-image-cmid="5948648" data-importance="7" data-first-published="2014-12-05T23:14+1100" data-last-published="2014-12-05T23:30+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-12-05/call-for-targets-to-reduce-indigenous-incarceration/5948644">Call for targets to reduce indigenous incarceration</a></h3>
+    <p>Social Justice Commissioner Mick Gooda has demanded action over the spiralling rate of indigenous incarceration which he calls a 'catastrophe' and a 'human rights crisis'</p></li>
+<li class="doctype-video" data-cmid="5948646" data-image-cmid="5948650" data-importance="7" data-first-published="2014-12-05T23:14+1100" data-last-published="2014-12-05T23:14+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-12-05/a-turbulent-political-year/5948646">A turbulent political year</a></h3>
+    <p>A look back at the Abbott Government's record in Government.</p></li>
+<li class="doctype-video" data-cmid="5948640" data-image-cmid="5948642" data-importance="7" data-first-published="2014-12-05T23:12+1100" data-last-published="2014-12-05T23:12+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-12-05/treasurer-admits-hes-on-notice-to-improve/5948640">Treasurer admits he&#039;s on notice to improve performance</a></h3>
+    <p>The Treasurer Joe Hockey admits he's on notice to improve his performance over summer, saying some ministerial colleagues are 'not happy' about budget cuts he's forced on them.</p></li>
+<li class="doctype-video" data-cmid="5945554" data-image-cmid="5945556" data-importance="7" data-first-published="2014-12-04T23:22+1100" data-last-published="2014-12-05T00:26+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-12-04/shadow-treasurer-chris-bowen/5945554">Shadow Treasurer Chris Bowen</a></h3>
+    <p>The alternative Treasurer, Chris Bowen, won't guarantee a Labor Government would return $80 billion worth of proposed cuts to health and education.</p></li>
+<li class="doctype-video" data-cmid="5945548" data-image-cmid="5945550" data-importance="7" data-first-published="2014-12-04T23:19+1100" data-last-published="2014-12-04T23:19+1100">
+    <h3>
+        <a href="/web/20141214121008/http://www.abc.net.au/news/2014-12-04/us-to-launch-investigation-into-death-of-black-man/5945548">U.S. to launch investigation into death of black man at hands of police</a></h3>
+    <p>The U.S. President says the federal government will launch a civil rights investigation into the death of a New York man who was choked to death by a police officer.</p></li>
+</ol>
+  </div>
+
+  </div>
+  <!-- Second Half: 50 modules - end -->
+    </div>
+  </div>
+<!-- B modules - end -->
+    </div>
+    <div class="c25r sidebar">
+    <!-- Sidebar modules - start -->
+    <div class="section">
+        <div class="inner">
+          <h2>ABC News 24 Programs</h2>
+          
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/programs/one-plus-one/">One Plus One</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/web/20141214121008/http://www.abc.net.au/news/thedrum/">The Drum</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/programs/capital-hill/">Capital Hill</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/web/20141214121008/http://www.abc.net.au/news/programs/the-business/">The Business</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/web/20141214121008/http://www.abc.net.au/news/sport/programs/grandstand-tv/">Grandstand TV</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/web/20141214121008/http://www.abc.net.au/news/programs/national-press-club/">National Press Club</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/web/20141214121008/http://www.abc.net.au/news/programs/news-exchange/">News Exchange</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/programs/the-quarters/">The Quarters</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/programs/the-world/">The World</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/programs/the-mix/">The Mix</a>
+
+</li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/"
+    >
+  
+
+  
+    
+        <span>About ABC News 24</span>
+    
+    
+  
+
+  </a>
+</h2><p>ABC News 24 provides around the clock coverage of news events as they break at home and abroad. It's news when you want it, on your platform – TV, mobile and online.</p><ul><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#trioli" target="_self" title="Virginia Trioli">Virginia Trioli</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#rowland" target="_self" title="Michael Rowland">Michael Rowland</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#kennedy" target="_self" title="Paul Kennedy">Paul Kennedy</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#obrien" target="_self" title="Joe O'Brien">Joe O'Brien</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/2011-05-02/about-text/46652#childs" target="_self" title="">Ros Childs</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#curtis" target="_self" title="Lyndal Curtis">Lyndal Curtis</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/2011-05-02/about-text/46652#jennett" target="_self" title="">Greg Jennett</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/2011-05-02/about-text/46652#eastley" target="_self" title="">Tony Eastley</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#landers" target="_self" title="Kim Landers">Kim Landers</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#wilkins" target="_self" title="Peter Wilkins">Peter Wilkins</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/2011-05-02/about-text/46652#baird" target="_self" title="">Julia Baird</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#cannane" target="_self" title="Steve Cannane">Steve Cannane</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/2011-05-02/about-text/46652#bevan" target="_self" title="">Scott Bevan</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/2011-05-02/about-text/46652#taguchi" target="_self" title="">Kumi Taguchi</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#creed" target="_self" title="Graham Creed">Graham Creed</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#ohanlon" target="_self" title="Vanessa O'Hanlon">Vanessa O'Hanlon</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#fullerton" target="_self" title="Ticky Fullerton">Ticky Fullerton</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/2011-05-02/about-text/46652#daniel" target="_self" title="">Zoe Daniel</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#middleton" target="_self" title="Jim Middleton">Jim Middleton</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/2011-05-02/about-text/46652#oconnor" target="_self" title="">Beverley O’Connor</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#hutcheon" target="_self" title="Jane Hutcheon">Jane Hutcheon</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#geoghegan" target="_self" title="Andrew Geoghegan">Andrew Geoghegan</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#crabb" target="_self" title="Annabel Crabb">Annabel Crabb</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#fernandez" target="_self" title="Jeremy Fernandez">Jeremy Fernandez</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/2011-05-02/about-text/46652#davies" target="_self" title="">Richard Davies</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#cargill" target="_self" title="Matt Cargill">Matt Cargill</a></li><li><a href="/web/20141214121008/http://www.abc.net.au/news/abcnews24/about/#valentine" target="_self" title="James Valentine">James Valentine</a></li></ul></div>
+  </div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+        <span>ABC News 24 social media</span>
+    
+    
+  
+
+  
+</h2><ul><li><a href="/web/20141214121008/http://www.facebook.com/abcnews24.au" target="_blank" title="">Facebook</a></li><li><a href="/web/20141214121008/http://www.twitter.com/abcnews24" target="_blank" title="">Twitter</a></li><li><a href="/web/20141214121008/http://bit.ly/abcnewsnow" target="_blank" title="">YouTube</a></li></ul></div>
+  </div>
+<div class="section promo">
+  <div class="inner">
+      <p><a href="/web/20141214121008/http://www.abc.net.au/tv/help/default.htm">ABC News 24 FAQ</a></p></div>
+  </div>
+<div class="section promo">
+  <div class="inner">
+      <p><a href="/web/20141214121008/http://www.abc.net.au/tv/channels/abcnews24.htm">More from ABC TV</a></p></div>
+  </div>
+<!-- Sidebar modules - end -->
+  </div>
+</div>
+</div><!-- C modules - start -->
+  <!-- C modules - end -->
+<div id="footer" class="page section">
+    <!-- program footer-->
+  <div class="programs"></div>
+  <div class="subcolumns">
+    <div id="sitemap" class="c75l">
+        <div class="section">
+          <h2>Site Map</h2>
+        </div>
+        <div class="subcolumns">
+          <div class="c16l">
+              <div class="section">
+    <h3>Sections</h3><ul class="nav">
+        <li><a href="/web/20141214121008/http://www.abc.net.au/news/">News Home</a></li>
+          <li><a href="/web/20141214121008/http://www.abc.net.au/news/justin/">Just In</a></li>
+          <li><a href="/web/20141214121008/http://www.abc.net.au/news/australia/">Australia</a></li>
+          <li><a href="/web/20141214121008/http://www.abc.net.au/news/world/">World</a></li>
+          <li><a href="/web/20141214121008/http://www.abc.net.au/news/business/">Business</a></li>
+          <li><a href="/web/20141214121008/http://www.abc.net.au/news/entertainment/">Entertainment</a></li>
+          <li><a href="/web/20141214121008/http://www.abc.net.au/news/sport/">Sport</a></li>
+          <li><a href="/web/20141214121008/http://www.abc.net.au/news/thedrum/">Analysis &amp; Opinion</a></li>
+          <li><a href="/web/20141214121008/http://www.abc.net.au/news/weather/">Weather</a></li>
+          <li><a href="/web/20141214121008/http://www.abc.net.au/news/blogs/">Blogs</a></li>
+          <li><a href="/web/20141214121008/http://www.abc.net.au/news/topics/">Topics</a></li>
+          <li><a href="/web/20141214121008/http://www.abc.net.au/news/archive/">Archive</a></li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Media</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/video/"
+    >
+  
+
+  
+    
+        <span>Video</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/audio/"
+    >
+  
+
+  
+    
+        <span>Audio</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/photos/"
+    >
+  
+
+  
+    
+        <span>Photos</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Subscribe</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/feeds/"
+    >
+  
+
+  
+    
+        <span>Podcasts</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/feeds/rss/"
+    >
+  
+
+  
+    
+        <span>RSS Feeds</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/alerts/"
+    >
+  
+
+  
+    
+        <span>NewsMail</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Connect</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/your-say/"
+    >
+  
+
+  
+    
+        <span>Your Say</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/upload/"
+    >
+  
+
+  
+    
+        <span>Upload</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/contact/"
+    >
+  
+
+  
+    
+        <span>Contact Us</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/upload/send/"
+    >
+  
+
+  
+    
+        <span>Email/Mobile</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/2011-05-12/suggest/2461656"
+    >
+  
+
+  
+    
+        <span>Suggest a Contributor</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Feedback</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/web/20141214121008/http://www.abc.net.au/news/corrections/"
+    >
+  
+
+  
+    
+        <span>Corrections &amp; Clarifications</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+            </div>
+          </div>
+      </div>
+    <!-- right section-->
+    <div class="c25r">
+      <div id="fineprint" class="section">
+        <p>
+          <small>This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.</small>
+        </p>
+        <p>
+          <small>AEDT = Australian Eastern Daylight Savings Time which is 11 hours ahead of UTC (Greenwich Mean Time)</small>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="platforms">
+      <a href="/web/20141214121008/http://mobile.abc.net.au/news/abcnews24/?pfm=sm" class="platform-mobile switch">Change to mobile view</a></div>
+  </div><!-- End footer --></div>
+<!-- Start Webtrends -->
+<div class="hide">
+  </div>
+<!-- End Webtrends -->
+<!--endnoindex--><!--Global footer-->
+<!--noindex-->
+<!-- Start ABC Bundle Footer 2.0.5 -->
+<nav id="abcFooter" class="global" role="navigation" aria-label="ABC Footer Navigation" data-version="2.0.5">
+ <ul>
+  <li><a class="abcLink" href="/web/20141214121008/http://www.abc.net.au/conditions.htm" data-mobile="http://www.abc.net.au/conditions.htm">Terms of Use</a></li>
+  <li><a class="abcLink" href="/web/20141214121008/http://about.abc.net.au/abc-privacy-policy/" data-mobile="http://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+  <li><a class="abcLink" href="/web/20141214121008/http://www.abc.net.au/contact/" data-mobile="http://www.abc.net.au/contact/">Contact Us</a></li>
+  <li><a class="abcLink" href="/web/20141214121008/http://www.abc.net.au/conditions.htm#UseOfContent" data-mobile="http://www.abc.net.au/conditions.htm#UseOfContent">&copy; <time>2014</time> ABC</a></li>
+ </ul>
+</nav>
+<script type="text/javascript" src="/web/20141214121008js_/http://www.abc.net.au/res/bundles/2.0.5/scripts/abc.bundle.2.0.5.min.js"></script>
+<script type="text/javascript" src="/web/20141214121008js_/http://www.abc.net.au/res/libraries/stats/abc.stats.js"></script>
+<noscript>
+ <img alt="dcsimg" id="dcsimg" width="1" height="1" src="/web/20141214121008im_/http://statse.webtrendslive.com/dcsg85fae000004n0vfjpj8oa_9m4q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.abc.net.au">
+</noscript>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript" src="/web/20141214121008js_/http://secure-au.imrworldwide.com/v60.js"></script>
+<script type="text/javascript">
+try {
+  var pvar = { cid: "abc-aust", content: "0", server: "secure-au" };
+  var trac = nol_t(pvar);
+  trac.record().post();
+} catch (er) {
+  // do nothing
+}
+</script>
+<noscript><div><img src="/web/20141214121008im_/http://secure-au.imrworldwide.com/cgi-bin/m?ci=abc-aust&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt=""></div></noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+// <![CDATA[
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PB2GX');
+ // ]]>
+</script>
+<noscript>
+ <iframe src="/web/20141214121008if_/http://www.googletagmanager.com/ns.html?id=GTM-PB2GX" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager -->
+<!-- End ABC Bundle Footer 2.0.5 -->
+<!--endnoindex-->
+<!--end global footer-->
+</body>
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 12:10:08 Dec 14, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:53:00 Sep 13, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app7.us.archive.org";archive_analytics.values.server_ms=324;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>life gallery - twitter pictures as they happen</title>
+    <meta name="description" content=" Life Gallery collects and collates the very best of twitter pics from around the world building a comprehensive collection of photos from the twitter community showing the wealth of imagery" />
+
+    <link href="/web/20141218190000cs_/http://lifegallery.co.uk/css" rel="stylesheet"/>
+
+    <link href="/web/20141218190000cs_/http://lifegallery.co.uk/Content/css?v=RHxCv10MIyDFQEj-HDC7Xc2HuQumZNw6rkjSwJmCSiA1" rel="stylesheet"/>
+
+    <script src="/web/20141218190000js_/http://lifegallery.co.uk/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
+
+    <script src="/web/20141218190000js_/http://lifegallery.co.uk/bundles/jquery?v=FVs3ACwOLIVInrAl5sdzR2jrCDmVOWFbZMY6g6Q0ulE1"></script>
+
+    <script src="/web/20141218190000js_/http://lifegallery.co.uk/bundles/bootstrap?v=2Fz3B0iizV2NnnamQFrx-NbYJNTFeBJ2GM05SilbtQU1"></script>
+
+    <link rel="icon" href="/Content/images/favicon.ico" />
+
+</head>
+<body>
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://lifegallery.co.uk/";
+
+var firstYear = 1996;
+var displayDay = "18";
+var displayMonth = "Dec";
+var displayYear = "2014";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(525, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://lifegallery.co.uk/" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20141218190000" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20140516223401/http://lifegallery.co.uk/" title="16 May 2014">MAY</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 19:00:00 Dec 18, 2014">DEC</td>
+		<td class="f" nowrap="nowrap">
+		
+		    Jan
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20140516223401/http://lifegallery.co.uk/" title="22:34:01 May 16, 2014"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 19:00:00 Dec 18, 2014">18</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20150107225314/http://lifegallery.co.uk/" title="22:53:14 Jan 7, 2015"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20130627161823/http://lifegallery.co.uk/" title="27 Jun 2013"><strong>2013</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 19:00:00 Dec 18, 2014">2014</td>
+	       <td class="f" nowrap="nowrap">
+               
+                   2015
+               
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20141218190000*/http://lifegallery.co.uk/" title="See a list of every capture for this URL">26 captures</a>
+           <div class="r" title="Timespan for captures of this URL">31 Oct 07 - 16 Jan 15</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="525"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=525_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000100_2008:-1:101000000010_2009:-1:020000000000_2010:-1:000000000111_2011:-1:000000001000_2012:-1:000000000000_2013:-1:000011000000_2014:11:000010000001_2015:-1:c00000000000_2016:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+    <div class="modal fade" id="basicModal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                    <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                <div class="modal-body">
+                    <p> <a class="tweet-link" href=""><img class="tweet-image" style="max-width:500px" src="" /></a></p>
+
+                    <p class="tweet-text"></p>
+
+                    <p class="img-date"></p>
+
+
+
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header-container navbar-fixed-top">
+
+        <ul class="navbar navbar-inverse ">
+            <div class="container">
+                <div class="navbar-header">
+
+
+
+                    <button type="button" class="navbar-toggle " data-toggle="collapse" data-target=".navbar-collapse" style="border: 1px #fff solid; padding: 6px;">
+                        <span class="icon-bar" style="color:#fff;height:4px;"></span>
+                        <span class="icon-bar" style="color:#fff;height:4px;"></span>
+                        <span class="icon-bar" style="color:#fff;height:4px;"></span>
+                    </button>
+
+                    <a class="navbar-brand" href="/web/20141218190000/http://lifegallery.co.uk/">life gallery</a>
+                </div>
+
+                <div class="navbar-collapse collapse">
+                    <form name="filterform" id="filterform" method="get" action="/web/20141218190000/http://lifegallery.co.uk/" role="form">
+
+                        <ul class="nav navbar-nav">
+                            <li><a href="/web/20141218190000/http://lifegallery.co.uk/">Home</a></li>
+                            <li><a href="/web/20141218190000/http://lifegallery.co.uk/latest/">Latest</a></li>
+                            <li><a href="/web/20141218190000/http://lifegallery.co.uk/trending/">Trending</a></li>
+                            <li><a href="/web/20141218190000/http://lifegallery.co.uk/likes/">Liked</a></li>
+                            <li><a href="/web/20141218190000/http://lifegallery.co.uk/funny/">Funny</a></li>
+            
+                            <li><a href="/web/20141218190000/http://lifegallery.co.uk/about/">About</a></li>
+                            
+
+                            
+                            
+
+                        </ul>
+                        
+                    </form>
+                </div>
+
+            </div>
+        </ul>
+
+    </div>
+
+    <div class="container body-content">
+        
+
+
+
+<div class=" container hidden-xs ">
+    <div class=" hidden-sm hidden-xs hidden-md  " style="float:left; width:109px; margin-left:15px;">
+        <img src="/web/20141218190000im_/http://lifegallery.co.uk/images/carousel-logo.gif" style="border:1px solid #5EA9DD; height:152px;" />
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
+    </div>
+    <div class="carousel-container" >
+        <div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
+
+
+            <!-- Carousel items -->
+            <div class="carousel-inner">
+                <div class="active item">
+                    <div class="carousel-text">social media <br />image <a href="/web/20141218190000/http://lifegallery.co.uk/likes"><button type="button" class="btn btn-info carousel">gallery</button></a></div>
+                    <img src="/web/20141218190000im_/http://lifegallery.co.uk/images/carousel-start-bird.png" style="float:right;height:150px;" />
+
+                </div>
+                <div class="item">
+                    <div class="carousel-text">pictures as <br />they <a href="/web/20141218190000/http://lifegallery.co.uk/latest"><button type="button" class="btn btn-info carousel">happen</button></a></div>
+                    <img src="/web/20141218190000im_/http://lifegallery.co.uk/images/carousel-latest-bird.png" style="float:right; height:150px; " />
+                </div>
+                <div class="item">
+
+                    <div class="carousel-text">check out<br />our <a href="/web/20141218190000/http://lifegallery.co.uk/likes"><button type="button" class="btn btn-info carousel">favourites</button></a></div>
+                    <img src="/web/20141218190000im_/http://lifegallery.co.uk/images/carousel-like-bird.png" style="float:right; margin:15px 25px 0px 0px;" />
+                    
+                </div>
+                <div class="item">
+                    <div class="carousel-text">keep track<br /> of the <a href="/web/20141218190000/http://lifegallery.co.uk/likes"><button type="button" class="btn btn-info carousel">trends</button></a></div>
+                    <img src="/web/20141218190000im_/http://lifegallery.co.uk/images/carousel-start-bird.png" style="float:right;height:150px;" />
+
+                </div>
+
+            </div>
+            <!-- Carousel nav
+            <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+            </a>
+            <a class="carousel-control right" href="#myCarousel" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+            </a>
+                -->
+        </div>
+    </div>
+</div>
+<br />
+<!-- Example row of columns -->
+<div class="row container" style="margin-bottom:100px;">
+
+    <div class="col-lg-4 ">
+        <div class="box">
+            <div class="feed-header"><a href="/web/20141218190000/http://lifegallery.co.uk/latest" style="color:white;">Latest</a> <a href="/web/20141218190000/http://lifegallery.co.uk/latest" style="float:right; color:white;"><span class="glyphicon glyphicon-flash"></span></a></div>
+            <div class="latest-tweets"></div>
+
+            <div class="feed-footer">
+                <a href="/web/20141218190000/http://lifegallery.co.uk/latest">View more...</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4 ">
+        <div class="box">
+            <div class="feed-header"><a href="/web/20141218190000/http://lifegallery.co.uk/trending" style="color:white;">Trending</a> <a href="/web/20141218190000/http://lifegallery.co.uk/trending" style="float:right; color:white;"><span class="glyphicon glyphicon-bullhorn"></span></a></div>
+            <div class="trend-tweets"></div>
+
+            <div class="feed-footer"><a href="/web/20141218190000/http://lifegallery.co.uk/trending">View more...</a></div>
+        </div>
+    </div>
+    <div class="col-lg-4 ">
+        <div class=" box">
+            <div class="feed-header"><a href="/web/20141218190000/http://lifegallery.co.uk/likes" style="color:white;">Most likes</a> <a href="/web/20141218190000/http://lifegallery.co.uk/likes" style="float:right; color:white;"><span class="glyphicon glyphicon-thumbs-up"></span></a></div>
+            <div class="liked-tweets"></div>
+
+            <div class="feed-footer">
+                <a href="/web/20141218190000/http://lifegallery.co.uk/likes">View more...</a>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+        <footer class="navbar-fixed-bottom destop-footer">
+    <div>
+        <script async src="/web/20141218190000js_/http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Footer - Desktop -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:970px;height:90px"
+             data-ad-client="ca-pub-9311222458530618"
+             data-ad-slot="7156155485"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</footer>
+    </div>
+
+  
+
+<div class="modal fade" id="basicModal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                <h4 class="modal-title" id="myModalLabel"></h4>
+             
+            </div>
+            <div class="modal-body">
+                <p> <a class="tweet-link" href=""><img class="tweet-image" src="" /></a></p>
+
+                <p class="tweet-text"></p>
+
+                <p class="img-date"></p>
+
+
+
+           
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+    <script type="text/javascript" src="/web/20141218190000js_/http://lifegallery.co.uk/js/Main.js"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-50763923-1', 'lifegallery.co.uk');
+        ga('send', 'pageview');
+
+    </script>
+    <div id="fb-root"></div>
+    <script>
+(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&appId=1478128905798455&version=v2.0";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+</body>
+
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 19:00:00 Dec 18, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:37:02 Sep 13, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

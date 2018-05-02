@@ -1,0 +1,787 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app0.us.archive.org";archive_analytics.values.server_ms=1188;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+<title>Analyzing the Holes in France's Counter-terror Net - Global Agenda - News  - Arutz Sheva</title> <meta name="Description" content="Security officials reveal terrorist activity booming in France with returning jihadists; in lieu of permanent surveillance lists are made." /><meta property="og:site_name" content="Arutz Sheva" /><meta property="og:image" content="http://f.a7.org/pictures/558/558024.jpg" /><meta property="og:title" content="Analyzing the Holes in France's Counter-terror Net" /><meta property="og:url" content="http://www.israelnationalnews.com/News/News.aspx/189722" /> <link rel='canonical' href='http://www.israelnationalnews.com/News/News.aspx/189722' /><script src="/web/20150109083612js_/http://f.a7.org/Combine.ashx?lang=en&amp;js=jquery.js,Main.js,More.js,Dates.js,maavaron.js&amp;css=global.less,global.css&amp;h=kTyvPZWQlU"></script><script>sLang='2'; dDate = nIDate(5,2015,0,9,5775,4,18,10,9,",0"); if(document.cookie.indexOf('UserData')>0) {('<sc'+'ript src="/My/Checker.ashx?fill=true&amp;page='+location.pathname+'"></sc'+'ript>').write();} else {};</script><meta http-equiv="Content-language" content="en" />
+	
+    	<script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setCustomVar', 1,'Section', 'News',3]);_gaq.push(['_setCustomVar',  2,'Category', 'Global Agenda',3]);</script>
+
+    <script src="/web/20150109083612js_/http://f.a7.org/Combine.ashx?lang=en&amp;js=Replies.js&amp;h=DfH0PRIQhs"></script><link rel=stylesheet href="/web/20150109083612cs_/http://f.a7.org/Combine.ashx?css=Replies.css&amp;h=cReI4JuUts" />
+    <script>RepliesFacebook.LoadScript();RepliesAddthis.LoadScript();</script><script>NavBar.iPageTab = 1; View.InfStart= 200;</script>
+<style> </style>
+
+
+    
+<meta property="fb:app_id" content="194476697237012" />
+    
+
+
+
+
+
+
+</head>
+<body onload="DoOnload()" align="center" class="mainformat LangEn ltr" lang="en">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.israelnationalnews.com/News/News.aspx/189722";
+
+var firstYear = 1996;
+var displayDay = "9";
+var displayMonth = "Jan";
+var displayYear = "2015";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(525, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.israelnationalnews.com/News/News.aspx/189722" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20150109083612" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    Dec
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 8:36:12 Jan 9, 2015">JAN</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20150331161341/http://www.israelnationalnews.com/News/News.aspx/189722" title="31 Mar 2015"><strong>MAR</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                       <img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" />
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 8:36:12 Jan 9, 2015">9</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20150109191933/http://www.israelnationalnews.com/News/News.aspx/189722" title="19:19:33 Jan 9, 2015"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   2014
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 8:36:12 Jan 9, 2015">2015</td>
+	       <td class="f" nowrap="nowrap">
+               
+                   2016
+               
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20150109083612*/http://www.israelnationalnews.com/News/News.aspx/189722" title="See a list of every capture for this URL">13 captures</a>
+           <div class="r" title="Timespan for captures of this URL">9 Jan 15 - 8 Sep 15</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="525"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=525_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000000000_2012:-1:000000000000_2013:-1:000000000000_2014:-1:000000000000_2015:0:601111111000_2016:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+    
+    <!--INFOLINKS_ON--><!--INFOLINKS_OFF-->
+    <script>if(Info.Maavaron){Info.Maavaron.DoIfShould([100206]);}</script>
+    
+
+
+
+    <div class="TopBlueLine" id="TopBar2">
+        <div id="TopBar">
+            <!--Languages -->
+
+            <span class="spnLanguages spnBar">
+                <a target="_blank" class="lng1" onmousedown="Info.LogC([401,0,1,205])" href="/web/20150109083612/http://www.inn.co.il/"><b></b></a>
+                <a target="_blank" class="lng3" onmousedown="Info.LogC([401,0,3,205])" href="/web/20150109083612/http://www.israel7.ru/"><b></b></a><a target="_blank" class="lng4" onmousedown="Info.LogC([401,0,4,205])" href="/web/20150109083612/http://www.israelnationalnews.com/"><b></b></a>
+                <span title="רענון פרסומות" onclick="Info.Reload(1);" class="Link">&nbsp; &nbsp;</span> </span>
+            <span id="spnUserTop" class="spnBar"></span>
+
+
+<form action="/web/20150109083612/http://www.israelnationalnews.com/Search.aspx" id="Search">
+				<input name="string" class="InitInput textbox t" id="SearchQuery" /><button type="submit"></button>
+				<input type="hidden" name="cx" value="partner-pub-5569699846303362:ckiu06-ros1" />
+				<input type="hidden" name="cof" value="FORID:11" />
+				</form>
+			
+            <span class="spnFollow"><span class="spnBar hpbtn Link" onclick="_('MakeHP').onclick()"></span>
+                
+            <a  class="spnBar Link Icon twitter" target="_blank" href="/web/20150109083612/http://twitter.com/ArutzSheva_En" title="twitter" onmousedown="Info.LogC([402,0,1,205])"></a>
+            <a class="spnBar fb Link Icon" href="/web/20150109083612/http://www.facebook.com/pages/IsraelNationalNews/102510354100" title="facebook" target="_blank"></a>
+			<a class="spnBar Link Icon  icon-gplus" href="/web/20150109083612/https://plus.google.com/102995868764795741677?rel=author" title="google+" target="_blank"></a>
+            <a  class="spnBar Link Icon icon-rss"target="_blank" href="/web/20150109083612/http://www.israelnationalnews.com/More/ActivePage.aspx/RSS" onmousedown="Info.LogC([402,0,3,205])" title="RSS" ></a>
+            </span>
+
+<div style="clear:both;"></div></div></div>
+
+
+
+<script type="text/javascript"> // onuserload
+					var s="", langtext = '<span class="Link" onclick="Windows.Login();">Login</span>|<a href="/Register.aspx">Register</a>'; if (sLang == 4) { langtext = "<span onclick='Windows.Login();'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>"; }
+					if (!User.ID) s=  langtext ;
+					else s= ('Welcome ' + User.Name + '. ' + (sLinkData ? '<a href=/' + sLinkData.split("/")[1] + ">Admin</a> |" : "") + ' <a href=/Login.aspx?action=Logout>Logout</a></span>');
+					_("spnUserTop").innerHTML  = s;
+				</script>
+           
+	<div id="divMainCenteral" style="margin:0 auto;position:relative;width:1000px;">
+	
+            <div id="InLeft" style="position:absolute;top:0;right:0;overflow:hidden;"><div id='z268inn' class='znn  'data-ox-zone=100012></div></div>
+
+		<div id="divMain" class="OneRow">
+            
+                <div id="divTopAd"><div id='z215inn' class='znn  'data-ox-zone=100162></div></div>
+            <div id="divTopNewsLeft"><a href='/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189703' onmousedown="Info.LogC([0,0,189703,24])"><img src='/web/20150109083612im_/http://f.a7.org/pictures/558/558281.jpg' /><strong>Editor's pick</strong>'Stabbed in Lung Returning From Kotel'<span>Defense/Security</span></a></div>
+
+    <script>document.getElementById('divMain').className+="tag503 text News ContentMaster LangEN";</script>
+	
+	
+
+
+
+    <table id="TableTop"><tr><td class="Logo"> <h1><a href='/web/20150109083612/http://www.israelnationalnews.com/'><img src="/web/20150109083612im_/http://f.a7.org/En/images/logo9.png" alt="Arutz Sheva" /></a></h1></td>
+        <td id="MainToolbar"><div id="divToolbar"></div><div id="divToolbar2"></div><script type="text/javascript">NavBar.Fill();</script></td></tr></table>
+<script>//View.Top2()</script>
+           
+
+
+
+	<div id="ctl00_ctl00_ctl00_Body_Body_AboveUpper"><div class='closableWebpart'><div class="x" onclick="$(this).parent().slideUp();"></div><div id="div143"></div></div><script>if ((INNData.CheckDate('timer252',180)|| location.href.indexOf('b100155')>-1)&&!View.div143) {Info.Add(100155,'#div143',{func: function(b,i) { Info.InsertDo(b,i);$('#div143').parent().show(); /*.css('height',b.banner.height);*/ INNData.SaveDate('timer252'); Info.div143=1;  }})};</script></div>
+    
+<style>.divMAD2 {display:none; height:210px;padding:10px;margin-top:7px;position:relative; text-align:center; overflow: hidden; background-color:#efefef; position: relative} .divMAD2 .x {position:absolute;left:7px;bottom:7px;height:19px;width:19px; background: transparent url(/web/20150109083612im_/http://f.a7.org/images/hp/gray.gif) no-repeat scroll -36px 0px; cursor: pointer} </style>
+<div class="divMAD2"><div class="x" onclick="$(this).parent().slideUp();"></div><div id="divMAD3"></div></div>
+
+
+    
+    <div class="RightClm "><!-- WP: begin Right Column --><div id='z175inn' class='znn  'data-ox-zone=100018></div><div class="red MorningOrTop"><h3 class="h4">Arutz 7 Most Read Stories</h3><ul>
+ <li><img class="Img" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/120/74/558343.jpg"/> <b><a href="/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189715">Obama Visits French Embassy After Paris Attacks</a></b><br /><span class="grayline">News from America</span></li>  <li><img class="Img" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/120/74/558337.jpg"/> <b><a href="/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189710">Hotovely Appeals Likud Primaries Results</a></b><br /><span class="grayline">Inside Israel</span></li>  <li><img class="Img" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/120/74/558026.jpg"/> <b><a href="/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189713">Report: Suspect in Paris Attack Trained in Yemen</a></b><br /><span class="grayline">Global Agenda</span></li>     </ul></div><!-- ctl00_ctl00_ctl00_Head_vNewsletterWide -->
+
+ <form class="newsletterBox newsletterBoxWide" action="/web/20150109083612/http://www.israelnationalnews.com/Subscribe/"><strong>Daily Israel Report</strong><div class="cont">
+    
+     
+     <input id="NLEmailField" class="input" name="email" value="Your Email..." /><input type="submit" value="Join" class="btn"/>
+    </div><script>SetDefaultInput("NLLNameField", "Last name...");SetDefaultInput("NLFNameField", "First name...");
+        SetDefaultInput("NLEmailField", "Your Email...");</script>
+</form>   <!-- END ctl00_ctl00_ctl00_Head_vNewsletterWide -->
+<div id='z292inn' class='znn  '><script async src="/web/20150109083612js_/http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- אנגלית - כתבות - שמאל - שני - 300/250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5569699846303362"
+     data-ad-slot="2542989914"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div class="Articles OpEds HPRight">
+    <span class="Links"><a     href='/web/20150109083612/http://www.israelnationalnews.com/Articles/' >Show More</a></span>
+    <h4  style="color:#898384 ; border-bottom-color:#898384;   background-color:""><a href="/web/20150109083612/http://www.israelnationalnews.com/Articles/">OpEds</a> </h4>
+    <ul>
+            <li class="c0">
+                <div>
+
+                    <a class="TLink HPTlink" onmousedown='Info.LogC([1,0,16273,107])' href="/web/20150109083612/http://www.israelnationalnews.com/Articles/Article.aspx/16273">
+                        <img class="lazy" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/59/48/506208.jpg?&amp;autocrop=1" />
+                        <strong>The 9/11 of Freedom of  Speech in Eurpoe </strong>
+                    </a>                    <div class="Author">
+                         Giulio Meotti<br />
+                        
+                    </div><div class="clf" ></div>
+                </div>
+            </li>
+            <li class="c1">
+                <div>
+
+                    <a class="TLink HPTlink" onmousedown='Info.LogC([1,0,16272,107])' href="/web/20150109083612/http://www.israelnationalnews.com/Articles/Article.aspx/16272">
+                        <img class="lazy" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/59/48/515589.jpg?&amp;autocrop=1" />
+                        <strong>NYT ‘Sensitive’ to Paris Massacre (Israel Another Story)   </strong>
+                    </a>                    <div class="Author">
+                         Jack Engelhard<br />
+                        
+                    </div><div class="clf" ></div>
+                </div>
+            </li>
+            <li class="c2">
+                <div>
+
+                    <a class="TLink HPTlink" onmousedown='Info.LogC([1,0,16271,107])' href="/web/20150109083612/http://www.israelnationalnews.com/Articles/Article.aspx/16271">
+                        <img class="lazy" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/59/48/509340.jpg?&amp;autocrop=1" />
+                        <strong>Je Suis Charlie Hebdo Aussi </strong>
+                    </a>                    <div class="Author">
+                        Prof. Phyllis  Chesler<br />
+                        
+                    </div><div class="clf" ></div>
+                </div>
+            </li>
+            <li class="c3">
+                <div>
+
+                    <a class="TLink HPTlink" onmousedown='Info.LogC([1,0,16264,107])' href="/web/20150109083612/http://www.israelnationalnews.com/Articles/Article.aspx/16264">
+                        <img class="lazy" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/59/48/510528.jpg?&amp;autocrop=1" />
+                        <strong>Jews Cope with Egypt’s Hysteria and Revisionist History </strong>
+                    </a>                    <div class="Author">
+                         Ashraf Ramelah<br />
+                        
+                    </div><div class="clf" ></div>
+                </div>
+            </li>
+    </ul>
+
+</div><div id='z247inn' class='znn  '><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div style="background-color:white;" class="fb-like-box" data-href="http://www.facebook.com/pages/IsraelNationalNews/102510354100" data-width="300" data-height="285" data-show-faces="true" data-stream="false" data-header="true"></div></div><div id='z308inn' class='znn  'data-ox-zone=100019></div><div id='z257inn' class='znn  '><style type="text/css">
+.cid-10 #NmWgHeader{background-color:transparent;border-style:none;border-bottom:3px solid rgb(191, 16, 42);color:rgb(191, 16, 42);font-weight:bold;margin:0;padding:3px 0px 6px 10px;font-size:10pt; letter-spacing: normal;
+ background-image: url("data:image/gif;base64,R0lGODlhBAAVAJEAAOPj4/X19f///+/u7iH5BAAAAAAALAAAAAAEABUAAAIPhBEZwu0Po1Rh2Iuz3rwAADs%3D");
+}
+#NmWgContainer{width:100% !important;margin-bottom:20px;margin-top:20px;border-bottom:2px dotted #ebebeb;border-radius:0;}
+#NmWgList{margin:0;}
+ul#NmWgList li{background:url("/web/20150109083612im_/http://f.a7.org/images/icons/icons-en.png") no-repeat scroll left -35px transparent;padding:0;padding-left:14px;padding-right:0;margin:0;margin-top:6px;}</style>
+
+<div class="" id="nmWidgetContainer"></div>
+<script type="text/javascript">
+$(function(){
+	ExecuteJS("/web/20150109083612/http://cdn.nmcdn.us/js/connect.js");
+	function DisplayNewsmax(){
+		if(window.NM === undefined){ setTimeout(DisplayNewsmax,300); return;}
+		NM.init({ ClientID: 10 });
+		setTimeout(DesignNewsmax,200);
+	}
+	function DesignNewsmax(){
+		if($("#NmWgHeader").length==0){setTimeout(DesignNewsmax,300); return;}
+	    $("#NmWgHeader").addClass("LikeSectionBoxTitle red");
+	}
+	DisplayNewsmax();
+});
+</script></div><div id='z174inn' class='znn  'data-ox-zone=100008></div><div class="MorningOrTop  LatestComments"><h3 class="h4">Latest comments</h3><ul>
+ <li>           <b><a onmousedown="Info.LogC(6,0,6636,260" href="/web/20150109083612/http://www.israelnationalnews.com/Blogs/Message.aspx/6636">God bless and keep this righteous man.</a></b><br /><span class="grayline"><div>Posted  on <a onmousedown='Info.LogC(6,0,6636,260)' href='/web/20150109083612/http://www.israelnationalnews.com/Blogs/Message.aspx/6636'>Why Huckabee has a Chance</a><br /><span class='date'>09:56</span></div></span></li>  <li><img src="/web/20150109083612im_/https://graph.facebook.com/v1.0/100000411241307/picture" />           <b><a onmousedown="Info.LogC(0,0,189716,260" href="/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189716">Israel should do the same but take the 1 km from inside the Gaza fence.</a></b><br /><span class="grayline"><div>Posted  by <a href='/web/20150109083612/http://www.facebook.com/100000411241307'>Eliezer Rice</a> on <a onmousedown='Info.LogC(0,0,189716,260)' href='/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189716'>Egypt Starts Doubling Gaza Buffer Zone</a><br /><span class='date'>09:51</span></div></span></li>  <li><img src="/web/20150109083612im_/https://graph.facebook.com/v1.0/100005021768896/picture" />           <b><a onmousedown="Info.LogC(0,0,189680,260" href="/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189680">Just to clarify, when I said &quot;we can&#39;t afford not to&quot; turn them away, I...</a></b><br /><span class="grayline"><div>Posted  by <a href='/web/20150109083612/http://www.facebook.com/100005021768896'>Debbie Henderson</a> on <a onmousedown='Info.LogC(0,0,189680,260)' href='/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189680'>Jewish Home Strongly Against Same-Sex Marriage</a><br /><span class='date'>09:50</span></div></span></li>  <li>           <b><a onmousedown="Info.LogC(0,0,189720,260" href="/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189720">With everyone claiming they knew all about these men before, why weren&#39;t...</a></b><br /><span class="grayline"><div>Posted  on <a onmousedown='Info.LogC(0,0,189720,260)' href='/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189720'>Paris Terrorists on US 'No Fly' List 'For Years'</a><br /><span class='date'>09:49</span></div></span></li>     </ul></div><div class="HPLeftBox Articles Judaism">
+    <span class="Links"><a     href='/web/20150109083612/http://www.israelnationalnews.com/Articles/Yahadut.aspx' >Show More</a></span>
+    <h4 class="h4" style="color:#457484 ; border-bottom-color:#457484; background-color:"><a href="/web/20150109083612/http://www.israelnationalnews.com/Articles/Yahadut.aspx">Judaism</a> </h4>
+    <ul>
+            <li class="c0">
+                <div>
+
+                    <a class="TLink HPTlink" onmousedown='Info.LogC([1,1,16270,108])' href="/web/20150109083612/http://www.israelnationalnews.com/Articles/Article.aspx/16270">
+                        <img class="lazy" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/96/96/296038.jpg?&amp;autocrop=1" />
+                        <strong>Ohr Torah on the Parsha: Shemot </strong>
+                    </a>                    <div class="Author">
+                        Rabbi Shlomo Riskin<br />
+                        
+                    </div><div class="clf" ></div>
+                </div>
+            </li>
+            <li class="c1">
+                <div>
+
+                    <a class="TLink HPTlink" onmousedown='Info.LogC([1,1,16269,108])' href="/web/20150109083612/http://www.israelnationalnews.com/Articles/Article.aspx/16269">
+                        <img class="lazy" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/96/96/232436.jpg?&amp;autocrop=1" />
+                        <strong>Shemot:  Distance and Denial </strong>
+                    </a>                    <div class="Author">
+                         Shira Smiles<br />
+                        
+                    </div><div class="clf" ></div>
+                </div>
+            </li>
+            <li class="c2">
+                <div>
+
+                    <a class="TLink HPTlink" onmousedown='Info.LogC([1,1,16268,108])' href="/web/20150109083612/http://www.israelnationalnews.com/Articles/Article.aspx/16268">
+                        <img class="lazy" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/96/96/403082.jpg?&amp;autocrop=1" />
+                        <strong>Shemot: Who is worthy of being a leader of Israel? </strong>
+                    </a>                    <div class="Author">
+                        Daniel Pinner<br />
+                        
+                    </div><div class="clf" ></div>
+                </div>
+            </li>
+            <li class="c3">
+                <div>
+
+                    <a class="TLink HPTlink" onmousedown='Info.LogC([1,1,16267,108])' href="/web/20150109083612/http://www.israelnationalnews.com/Articles/Article.aspx/16267">
+                        <img class="lazy" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/96/96/538586.jpg?&amp;autocrop=1" />
+                        <strong>Moses and Job </strong>
+                    </a>                    <div class="Author">
+                         Prof.G.Aranof<br />
+                        
+                    </div><div class="clf" ></div>
+                </div>
+            </li>
+            <li class="c4">
+                <div>
+
+                    <a class="TLink HPTlink" onmousedown='Info.LogC([1,1,16266,108])' href="/web/20150109083612/http://www.israelnationalnews.com/Articles/Article.aspx/16266">
+                        <img class="lazy" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/96/96/220460.jpg?&amp;autocrop=1" />
+                        <strong>Sixty Years of Silence  </strong>
+                    </a>                    <div class="Author">
+                        M. Kempinski<br />
+                        
+                    </div><div class="clf" ></div>
+                </div>
+            </li>
+            <li class="c5">
+                <div>
+
+                    <a class="TLink HPTlink" onmousedown='Info.LogC([1,1,16265,108])' href="/web/20150109083612/http://www.israelnationalnews.com/Articles/Article.aspx/16265">
+                        <img class="lazy" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/96/96/279802.jpg?&amp;autocrop=1" />
+                        <strong>There is No King Without a People </strong>
+                    </a>                    <div class="Author">
+                        Rabbi Berel Wein<br />
+                        
+                    </div><div class="clf" ></div>
+                </div>
+            </li>
+    </ul>
+
+</div><!-- WP: end Right Column --></div>
+    <div class="LeftClm"><!-- WP: begin LeftCLM --><div id='z291inn' class='znn  '><script async src="/web/20150109083612js_/http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- אנגלית - כתבות - ימין - ראשון - 160/600 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-5569699846303362"
+     data-ad-slot="1066256714"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><div class="HPLeftBox BlogsBox">
+    <span class="Links"><a href="/web/20150109083612/http://www.israelnationalnews.com/Blogs/">More</a></span>
+    <h3 class="h4"><a href="/web/20150109083612/http://www.israelnationalnews.com/Blogs/">Zion's Corner Blogs</a></h3>
+    <ul>
+            <li>
+                <div>
+                    <div class="ImgContainer"><a onmousedown="Info.LogC([6,0,6636,202])" href="/web/20150109083612/http://www.israelnationalnews.com/Blogs/Message.aspx/6636"><img class="img TLinkBrother" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/210/106/503163.jpg?autocrop=1" /></a><span class="catText">Blogs</span></div>
+                    <span class="comment">0<span style="display:none"> comments</span></span>
+                    
+                        <span class="Content">
+                            <strong><a class="Target TLink2" onmousedown="Info.LogC([6,0,6636,202])" href="/web/20150109083612/http://www.israelnationalnews.com/Blogs/Message.aspx/6636">Why Huckabee has a Chance</a></strong><br />
+                            <span class="grayline">Dr. Joseph Frager</span>
+                        </span>
+                    <div class="clf"></div>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <div class="ImgContainer"><a onmousedown="Info.LogC([6,0,6635,202])" href="/web/20150109083612/http://www.israelnationalnews.com/Blogs/Message.aspx/6635"><img class="img TLinkBrother" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/210/106/503220.jpg?autocrop=1" /></a><span class="catText">Blogs</span></div>
+                    <span class="comment">0<span style="display:none"> comments</span></span>
+                    
+                        <span class="Content">
+                            <strong><a class="Target TLink2" onmousedown="Info.LogC([6,0,6635,202])" href="/web/20150109083612/http://www.israelnationalnews.com/Blogs/Message.aspx/6635">Stop waving pencils</a></strong><br />
+                            <span class="grayline">Zalmi Unsdorfer</span>
+                        </span>
+                    <div class="clf"></div>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <div class="ImgContainer"><a onmousedown="Info.LogC([6,0,6631,202])" href="/web/20150109083612/http://www.israelnationalnews.com/Blogs/Message.aspx/6631"><img class="img TLinkBrother" src="/web/20150109083612im_/http://f.a7.org/Resizer.ashx/news/210/106/511176.jpg?autocrop=1" /></a><span class="catText">Blogs</span></div>
+                    <span class="comment">6<span style="display:none"> comments</span></span>
+                    
+                        <span class="Content">
+                            <strong><a class="Target TLink2" onmousedown="Info.LogC([6,0,6631,202])" href="/web/20150109083612/http://www.israelnationalnews.com/Blogs/Message.aspx/6631">Charlie Hebdo Shooting-  Arab Terrorism All The Same!</a></strong><br />
+                            <span class="grayline"></span>
+                        </span>
+                    <div class="clf"></div>
+                </div>
+            </li>
+    </ul>
+</div><div id='z171inn' class='znn a126 'data-ox-zone=100061></div><div id='z271inn' class='znn  '><div id="komoonaPlaceHolder"></div></div><!-- WP: end LeftCLM --></div>
+
+    
+    <div id="ctl00_ctl00_ctl00_Body_Body_RightClm" class="RightClm">
+    </div><div id="ctl00_ctl00_ctl00_Body_Body_BelowRightClm"></div>
+    <div id="ctl00_ctl00_ctl00_Body_Body_LeftClm" class="LeftClm">
+        
+    </div>
+    <div id="CenterClmMaster" class="CenterClm">
+
+<div id=divEdit style=float:right></div>
+
+<div id='BreadCrumbs' xmlns:v="http://rdf.data-vocabulary.org/#" ><a rel="v:url" property="v:title" href="/web/20150109083612/http://www.israelnationalnews.com/" title='News'>Main</a><a href='/web/20150109083612/http://www.israelnationalnews.com/News/' rel="v:url" property="v:title">News</a><a href='/web/20150109083612/http://www.israelnationalnews.com/News/Section.aspx/23' rel="v:url" property="v:title">Global Agenda</a></div><br />
+<article>
+
+
+
+<div id=divTtl class="divTtl"><h2 itemprop="name">Analyzing the Holes in France's Counter-terror Net</h2><div class="Desc" itemprop="description">Security officials reveal terrorist activity booming in France with returning jihadists; in lieu of permanent surveillance lists are made.</div>
+<div class="Author"><!--<script>View.FontSize.Write()</script>-->
+<script>AddthisRegularBox(0,189722,1).write();</script>
+By Arutz Sheva Staff<div class="clf"></div>
+</div>
+<div class="Date">First Publish: 1/9/2015, 9:46 AM</div></div>
+
+    
+
+    
+    <br />
+
+<div class="Content">
+ 
+<div class="ImageOut"><div class=Image><img src="/web/20150109083612im_/http://www.israelnationalnews.com/static/Resizer.ashx/news/468/282/558024.jpg" alt="Aftermath of terror attack on Paris offices of Charlie Hebdo" /><div><div class=ImageDesc>Aftermath of terror attack on Paris offices of Charlie Hebdo</div><div class=ImageCredit>Reuters</div></div></div></div>
+
+
+
+<script src="/web/20150109083612js_/http://cdn4.wibbitz.com/israelnationalnews/embed.js" async></script>
+<!--INFOLINKS_ON-->
+<div id="ctl00_ctl00_ctl00_Body_Body_Body_ArticleBody">
+	<p><span>Having known ties to jihadist terrorist groups like Al-Qaeda is no&nbsp;</span><span>guarantee a person will be under constant surveillance, experts say, a clue as&nbsp;</span><span>to how the brothers who committed the <em>Charlie Hebdo </em>magazine massacre&nbsp;</span><span>slipped through the cracks.</span></p>
+
+<p><span>Finding extremists is easy. What&#39;s nearly impossible, intelligence sources&nbsp;</span><span>say, is tracking every move of all of them, all the time.</span></p>
+
+<p><span>&quot;It is not because you are known that you are permanently under&nbsp;</span><span>surveillance,&quot; said Eric Denece, director of the French Center for&nbsp;</span><span>Intelligence Research.</span></p>
+
+<p><span><span>On Wednesday</span></span><span>, Cherif Kouachi (32)&nbsp;</span><span>attacked <em>Charlie Hebdo</em>&#39;s offices in Paris with his older brother Said (34) while armed with Kalashnikov assault rifles; in the process they murdered <a href="/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189695" target="_blank">12 people</a> and wounded several others.</span></p>
+
+<p><span>Cherif has already been jailed for his role in sending fighters to Iraq,&nbsp;</span><span>and his name cropped up in a failed attempt to break terrorist Smain Ait Ali&nbsp;</span><span>Belkacem out of prison in 2010. Said for his part trained with Al-Qaeda in Yemen.</span></p>
+
+<p><span>Officials have already revealed the two were </span><a href="/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189720" target="_blank">on the US &quot;no fly&quot; list </a><span>&quot;for years,&quot; and that French officials were notified.</span></p>
+
+<p><span>So how does brothers with a dubious jihadist past who were known to the&nbsp;</span><span>intelligence services procure a Kalashnikov and execute a bloody attack on a&nbsp;</span><span>place already under police protection because of previous threats?</span></p>
+
+<p><span>A similar question cropped up in what until now had been France&#39;s most jarring&nbsp;recent attack, when Al-Qaeda terrorist Mohamed Merah back in 2012 in Toulouse </span><span>murdered&nbsp;</span><a href="/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/153946" target="_blank">Rabbi Jonathan Sandler</a><span>, his sons Aryeh and Gavriel, and another pupil, Miriam Monsonego hy&#39;&#39;d, at the Ohr HaTorah school. He also murdered three French soldiers before being killed while&nbsp;</span><a href="/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/154042" target="_blank">trying to flee</a><span>&nbsp;a police raid on his&nbsp;apartment.</span></p>
+
+<p><span>Merah w</span><span>as a known radical Islamist with 15 criminal convictions and had&nbsp;</span><span>traveled to Pakistan and Afghanistan for training.</span></p>
+
+<p><span>But Denece said the authorities simply couldn&#39;t watch all suspects all the&nbsp;</span><span>time, noting &quot;a</span><span>t some point surveillance comes to an end, especially if you are smart&nbsp;</span><span>enough to watch your step for a while. These are inevitable holes in the net.&quot;</span></p>
+
+<p><span>On Thursday</span><span>&nbsp;morning French Prime Minister Manuel Valls said that while &quot;these&nbsp;</span><span>individuals were most likely being monitored, there is no such thing as zero&nbsp;</span><span>risk&quot; when it comes to the threat of an attack.</span></p>
+
+<p><span>Interior Minister Bernard Cazeneuve confirmed that the suspects had been&nbsp;</span><span>&quot;under surveillance&quot; but that there was &quot;no element indicating an attack was&nbsp;</span><span>imminent.&quot;</span></p>
+
+<p><span>A police source confirmed to <em>AFP </em>that Cherif had not traveled abroad&nbsp;</span><span>recently and the brothers were not being monitored &quot;as targets who could move&nbsp;</span><span>into action.&quot;</span></p>
+
+<p><strong>&quot;Lists in lieu of surveillance&quot;</strong></p>
+
+<p><span>A massive new pool of potential jihadists has been created by the stream of&nbsp;</span><span>French citizens going to fight alongside Islamic State (ISIS) terrorists in Iraq and&nbsp;</span><span>Syria. Police trying to track those who leave and those who return,&nbsp;</span><span>battle-hardened and radicalized, are inundated.</span></p>
+
+<p><span>&quot;Of course we don&#39;t have the means to put all these people under permanent&nbsp;</span><span>surveillance,&quot; a French official working in the anti-terrorist sector told <em>AFP&nbsp;</em></span><span>on condition of anonymity.</span></p>
+
+<p><span>&quot;So what we do is make lists. Those who appear the most dangerous, the most&nbsp;</span><span>likely to move into action, are under permanent surveillance. The others, less&nbsp;</span><span>so, depending on the resources,&quot; the official said.</span></p>
+
+<p><span>&quot;The list is constantly evolving, some climb, others go down. The knack is&nbsp;</span><span>to have the right names in the right place and that is not easy,&quot; the official said.</span></p>
+
+<p><span>Another expert in the field, also speaking on condition of anonymity, said &quot;m</span><span>onitoring one suspect 24/7 who is often using three or four different&nbsp;</span><span>cellphones, that means 30 cops. What do you do? The only option is a list of&nbsp;</span><span>priorities.&quot;</span></p>
+
+<p><span>French officials, on high alert after threats from the Islamic State group&nbsp;</span><span>against the country and its citizens, regularly say many potential attacks&nbsp;</span><span>have been thwarted and terrorist networks dismantled.</span></p>
+
+<p><span>&quot;Several terrorist attacks had been foiled in recent weeks,&quot; French Prime Minister Francois Hollande said&nbsp;</span><span><span>on Wednesday</span></span><span>&nbsp;after the attack on<em> Charlie Hebdo</em>.</span></p>
+
+<p><span>But the threat is many-headed, featuring amateur jihadists, hardened&nbsp;</span><span>fighters and everything between.</span></p>
+
+<p><span>&quot;To monitor everything you need a massive increase in police numbers...t</span><span>his wouldn&#39;t necessarily be effective, investigators would be overwhelmed,&quot;&nbsp;</span><span>Denece said.</span></p>
+
+<p><span><em>AFP contributed to this report.</em></span></p>
+<br/><br/><div class=ContentTags><b>Tags:</b> <span><a href='/web/20150109083612/http://www.israelnationalnews.com/News/Tag.aspx/503'>terrorism</a><a href='/web/20150109083612/http://www.israelnationalnews.com/News/Tag.aspx/805'>France</a><a href='/web/20150109083612/http://www.israelnationalnews.com/News/Tag.aspx/2388'>Counter-terrorism</a><a href='/web/20150109083612/http://www.israelnationalnews.com/News/Tag.aspx/14045'>ISIS</a><a href='/web/20150109083612/http://www.israelnationalnews.com/News/Tag.aspx/36199'>Charlie Hebdo</a></span></div><br/><br/><div class="TagsInf"></div><div class="TagLinks"><h5>More on this topic</h5><div><ul class='ListArrow relatedlinks'><li><a href='/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189721' onmousedown=Info.LogC(0,0,189721,103)>Charlie Hebdo Attack Was Just 'A Matter of Time'</a></li><li><a href='/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189720' onmousedown=Info.LogC(0,0,189720,103)>Paris Terrorists on US 'No Fly' List 'For Years'</a></li><li><a href='/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189719' onmousedown=Info.LogC(0,0,189719,103)>MI5: We Busted Three Attacks in the Past Month</a></li><li><a href='/web/20150109083612/http://www.israelnationalnews.com/Articles/Article.aspx/16271' onmousedown=Info.LogC(1,0,16271,103)>Je Suis Charlie Hebdo Aussi</a></li><li><a href='/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189715' onmousedown=Info.LogC(0,0,189715,103)>Obama Visits French Embassy After Paris Attacks</a></li><li><a href='/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189713' onmousedown=Info.LogC(0,0,189713,103)>Report: Suspect in Paris Attack Trained in Yemen</a></li><li><a href='/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189706' onmousedown=Info.LogC(0,0,189706,103)>Hundreds of Hamas Terrorists in Israel now ISIS</a></li><li><a href='/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189698' onmousedown=Info.LogC(0,0,189698,103)>Arab Stabs Jew with a Screwdriver in Jerusalem</a></li><li><a href='/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189696' onmousedown=Info.LogC(0,0,189696,103)>Two in Three Germans See Islam as a Threat</a></li><li><a href='/web/20150109083612/http://www.israelnationalnews.com/News/News.aspx/189695' onmousedown=Info.LogC(0,0,189695,103)>Who Were the Victims of Charlie Hebdo Shooting?</a></li></ul></div><div class="Pages"><a href='/web/20150109083612/http://www.israelnationalnews.com/News/Tag.aspx/503' >Terrorism</a><a href='/web/20150109083612/http://www.israelnationalnews.com/News/Tag.aspx/14045' >ISIS</a></div></div>
+</div><!--INFOLINKS_OFF-->
+
+<br />
+</div><script>      	View.FontSize.Load();</script>
+</article>
+
+<div id='z296inn' class='znn  '><div class='forpadding1' style=''></div> <script async src="/web/20150109083612js_/http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- אנגלית - כתבות - מתחת לכתבות - 460/250 --> <ins class="adsbygoogle"      style="display:inline-block;width:460px;height:250px"      data-ad-client="ca-pub-5569699846303362"      data-ad-slot="9628617917"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script><div class='forpadding2' style=''></div><style>
+.forpadding1{height:0px;} .forpadding2{height:15px;}
+.RightLink .forpadding1{height:30px;}.RightLink .forpadding2{height:0;}</style></div>
+<script>ReplySendToolbar(0,189722,1).write();</script>
+
+<div style="border-top: solid 1px gray;padding-top:3px;"></div>
+<br />
+<div class="divRandN"><div class='Back'  onclick="if(!$(this).hasClass('Disabeld'))RandN.Update(RandN.Page-1);"></div><div id="divRandN"></div><div id="divRandN2"></div><div class=Next  onclick="if(!$(this).hasClass('Disabeld'))RandN.Update(RandN.Page+1);"></div></div>
+<script type="text/javascript">
+View.PlayerSize = {width:450,height:322}
+
+RandN.Items =[new O.News(189687,"Disunited? \'Non!\' Say the French in Face of Magazine Massacre",'',558170,"",2,""),new O.News(189696,"Two out of Every Three Germans See Islam as a Threat",'',558222,"",4,""),new O.News(189719,"MI5 Busted Three UK Terror Attacks in the Past Month",'',545820,"",0,""),new O.News(189656,"Youngest Suspect in Paris Attack Turns Himself In",'',558026,"",3,""),new O.News(189652,"French Police Launch Anti-Terror Raid in Reims",'',557918,"",4," <span class='LinkIcon video'></span>"),new O.News(189649,"Abbas: Paris Terror Attack a \'Heinous Crime\'",'',553820,"",10,""),new O.News(189646,"Jewish Cartoonist Georges Wolinski Among Hebdo Victims",'',558003,"",3,""),new O.News(189648,"Charlie Hebdo Cartoonist Let Gunmen into Building",'',545820,"",3,""),new O.News(189647,"French Authorities \'Know the Identity of Paris Terrorists\'",'',557918,"",11,"")];
+RandN.URLStart="/News/News.aspx/";
+RandN.Update(0);
+</script>
+
+<br /><br />
+<div class="BottomBox">
+<div class="clf"></div></div><br /><br />
+
+<div id="Replies"></div><br/><br/>
+</div>
+    <div style="clear: both; width: 642px; height: 2px;"></div>
+
+			
+		
+		<footer>
+
+		<footer><div style="width:1000px;clear:both;">
+<div class="divTopInBox"><div id='z205inn' class='znn  'data-ox-zone=100163></div><div id='z204inn' class='znn  'data-ox-zone=100151></div><div class="clf"></div></div></div>
+		<div class="divFooter" id="Footer" style="width:1000px;margin:20px 0px;">
+<div  class="d"><div class="Links">
+
+<a href='/web/20150109083612/http://www.israelnationalnews.com/' onclick='Info.LogC([403,0,25,&quot;/&quot;]);'>Home page</a> | <a href='/web/20150109083612/http://www.israelnationalnews.com/More/ActivePage.aspx/Contact'>Contact</a> | <a href='/web/20150109083612/http://www.israelnationalnews.com/More/ActivePage.aspx/Privacy'>Privacy Policy</a> | <a href='/web/20150109083612/http://www.israelnationalnews.com/More/ActivePage.aspx/Staff'>Staff</a> | <a href='/web/20150109083612/http://www.israelnationalnews.com/More/ActivePage.aspx/Info'>Advertise with us</a> | <a href='/web/20150109083612/http://www.beteltours.com/'>Israel Tours</a> | <a href='/web/20150109083612/http://www.inn.co.il/'> חדשות ערוץ 7</a> 
+<!--<a href="/">Home Page</a> |  <a href="/More/ActivePage.aspx/Contact"></a> | <a href="/More/ActivePage.aspx/Staff">Staff</a> | <a href="/More/ActivePage.aspx/Info">Advertise</a> | <a href="/web/20150109083612/http://www.beteltours.com/" rel="nofollow">Israel Tours</a> |  <a href="/web/20150109083612/http://www.inn.co.il/">חדשות ערוץ 7</a>-->
+
+
+</div>&copy; Arutz Sheva, All Rights Reserved</div>
+
+<div class="logos">
+<a class="a7" rel="nofollow" href="/web/20150109083612/http://www.israelnationalnews.com/" title="Israel News"></a></div>
+
+<table id="FooterL"><tbody>
+
+<tr><td><h4>Main</h4>
+<a onmousemove="this.href=&quot;/&quot;" href="#">Homepage</a>
+<a href="/web/20150109083612/http://www.israelnationalnews.com/Articles/">Op-Eds</a><a href="/web/20150109083612/http://www.israelnationalnews.com/Articles/Yahadut.aspx">Judaism</a>
+<a href="/web/20150109083612/http://www.israelnationalnews.com/Forecast.aspx">Forecast</a>
+<a href="/web/20150109083612/http://www.israelnationalnews.com/More/ActivePage.aspx/Useful">Services</a>
+<a href="/web/20150109083612/http://www.israelnationalnews.com/More/Album.aspx/3001">Caricature</a><a href="/web/20150109083612/http://www.israelnationalnews.com/More/Album.aspx/2">Israel Pics</a>
+</td><td><h4><a href="/web/20150109083612/http://www.israelnationalnews.com/">News</a></h4>
+<a href="/web/20150109083612/http://www.israelnationalnews.com/More/ActivePage.aspx/AreaEmail"><b>Send Us Breaking News</b></a>
+<a href="/web/20150109083612/http://www.israelnationalnews.com/News/AllFlashes.aspx">News Briefs</a>
+<td><h4>More</h4><a href="/web/20150109083612/http://www.israelnationalnews.com/Blogs/">Blogs</a><a href="/web/20150109083612/http://www.israelnationalnews.com/Blogs/Blog.aspx/39">Once-Over</a></td><td><h4>Radio</h4>
+<a href="#" onclick="Radio.OpenPlayer()">Live</a><a href="/web/20150109083612/http://www.israelnationalnews.com/Radio/Programs.aspx">Recorded Shows</a><a href="/web/20150109083612/http://www.israelnationalnews.com/Radio/Jukebox.aspx">Jukebox</a>
+</td>
+
+<td><h4>More from the web</h4><a onclick='Info.LogC([408,0,0,208])' href='/web/20150109083612/http://www.judaicawebstore.com/'>Judaica Webstore</a><a onclick='Info.LogC([408,0,0,208])' href='/web/20150109083612/http://www.judaica-mall.com/'>Judaica Mall - Jewish Gifts,</a><a onclick='Info.LogC([408,0,0,208])' href='/web/20150109083612/http://www.facebook.com/3DailyJewishMusicVideos#!/3DailyJewishMusicVideos?v=wall'>Jewish Music Video</a><a onclick='Info.LogC([408,0,0,208])' href='/web/20150109083612/http://www.dkatom.com/Home---Dapei-Katom.html'>Yesha Businesses</a><a onclick='Info.LogC([408,0,0,208])' href='/web/20150109083612/http://www.livekotel.com/a_freecam_1.cfm?affid=20'>Kotel Cam,</a><a onclick='Info.LogC([408,0,0,208])' href='/web/20150109083612/http://www.israelvideonetwork.com/'>Israel Videos</a><a onclick='Info.LogC([408,0,0,208])' href='/web/20150109083612/https://plus.google.com/102995868764795741677?rel=author'>Arutz Sheva in Google Plus</a></td>
+
+</tr>
+</tbody></table></div>
+		</footer>
+		
+		</div>
+		<script type="text/javascript">SetDefaultInput("SearchQuery",LangText.Search);</script>
+		</div>
+
+<div id='z260inn' class='znn  '><script language="JavaScript">
+var _hours=4;
+var _minutes=_hours*60;
+if ((INNData.CheckDate('openx_overlayRefac',_minutes)|| location.href.indexOf('#ox_overlay')>-1)) 
+{
+
+    Info.DocumentWrite=true;
+     Info.Add(Info.Fix?Info.Fix(100157):100157,'oxoverlay',{func:function(b,i) { 
+          View.div143=true;View.ShowMaavaron=true;
+          document.write(b.banner.file); b.opts.count = 1;
+          INNData.SaveDate('openx_overlayRefac'); 
+          Info.overlay=1;  }} );
+}
+</script></div><script type="text/javascript">Info.Fix=function(zoneid){var iStart=0; if(!Info.HasFlash) iStart = 2000;  return zoneid+iStart;};Info.Add(Info.Fix?Info.Fix(100012):100012,'z268inn',{count:0,func:View.SideInserted});Info.Add(Info.Fix?Info.Fix(100162):100162,'z215inn',{});Info.Add(Info.Fix?Info.Fix(100018):100018,'z175inn',{});Info.Add(Info.Fix?Info.Fix(100019):100019,'z308inn',{});Info.Add(Info.Fix?Info.Fix(100008):100008,'z174inn',{});Info.Add(Info.Fix?Info.Fix(100061):100061,'z171inn',{});Info.Add(Info.Fix?Info.Fix(100163):100163,'z205inn',{});Info.Add(Info.Fix?Info.Fix(100151):100151,'z204inn',{});</script>
+
+    
+<div id=divMad></div>
+
+<script>
+if(window.sLinkData) _("divEdit").innerHTML= "<a class=Admin href=" + sLinkData + "Item.aspx?action=edit&item=189722>Edit</a>"
+
+</script>
+
+
+
+<script type="text/javascript">   Info.Final();</script>
+
+<div id='z187inn' class='znn  '><script type="text/javascript">
+    var infolink_pid = 266851;
+    var infolink_wsid = 0;
+</script>
+<script type="text/javascript" src="/web/20150109083612js_/http://resources.infolinks.com/js/infolinks_main.js"></script></div><div id='z273inn' class='znn  '><script type="text/javascript">
+    //Init the script
+    var ShowTaboola=!(Info.Geo && Info.Geo.Country ==="IL");
+    ShowTaboola = true;
+    if(ShowTaboola){
+        window._taboola = window._taboola || [];
+        _taboola.push({article:'auto'});
+        ExecuteJS('/web/20150109083612/http://cdn.taboola.com/libtrc/jmg-israelnationalnews/loader.js');
+    }
+</script>
+<script>
+    (function() {
+        if(!ShowTaboola) return; /* exit if not in israel */
+        /* Get reference element, to put the box after it */
+        var element=$(".ContentTags");if(element.length==0) element=$("article");
+        /* if not element found so exit */
+        if(element.length==0) return;
+        $("<div id='taboola-below-main-column' style='margin-top:17px;'></div>").insertAfter(element);
+        window._taboola = window._taboola || [];
+        _taboola.push({mode:'thumbs-2r', container:'taboola-below-main-column', placement:'below-main-column'});
+    })();
+</script></div><div id='z276inn' class='znn  '><script>/* Only if we have taboola in the page */
+      window._taboola && _taboola.push({flush:true});
+</script></div><div id='z255inn' class='znn  '><!-- Casale Media: Pop Under -->
+<script type="text/javascript"><!--
+var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
+var casaleU=escape(window.location.href);
+var casaleHost=' type="text/javascript" src="/web/20150109083612/http://as.casalemedia.com/s?s=';
+document.write('<scr'+'ipt'+casaleHost+'80009&u=');
+document.write(casaleU+'&f=1&id='+casaleR+'"><\/scr'+'ipt>');
+//--></script>
+<!-- DO NOT MODIFY --></div>
+	
+    
+
+<script>
+    var o = new Replies(0, 189722, [],null,{FacebookCommentsWidth:468})
+_("Replies").innerHTML = o.Write();
+</script>
+
+
+	
+	
+<script data-cfasync="false" type="text/javascript">
+(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");
+(function() {
+var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
+s.src = "/web/20150109083612/http://cdn.engine.adsupply.com/Scripts/infinity.js.aspx?guid=c3de8e4a-c290-4248-a577-97bc30ac0fa3";
+s.id = "infinity"; s.setAttribute("data-guid", "c3de8e4a-c290-4248-a577-97bc30ac0fa3"); s.setAttribute("data-version", "async");
+var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s, e);
+})();
+</script>
+                    
+
+
+
+<!-- Google Code for A7 -->
+<script type="text/javascript">/* <![CDATA[ */var google_conversion_id = 994187515;var google_conversion_label = "45Y9CJXW5gQQ-7GI2gM";var google_custom_params = window.google_tag_params;var google_remarketing_only = true;/* ]]> */</script> <script type="text/javascript" src="/web/20150109083612js_/http://www.googleadservices.com/pagead/conversion.js"> </script>
+<script type="text/javascript">/* <![CDATA[ */var google_conversion_id = 1006472116;var google_conversion_label = "ltsaCNTp5wQQtJf23wM";var google_custom_params = window.google_tag_params;var google_remarketing_only = true;/* ]]> */</script><script type="text/javascript" src="/web/20150109083612js_/http://www.googleadservices.com/pagead/conversion.js"></script>
+</body>
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 8:36:12 Jan 9, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:10:57 Sep 13, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

@@ -1,0 +1,1290 @@
+
+<!DOCTYPE html>
+<html lang="en-GB" id="responsive-news">
+<head >
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app8.us.archive.org";archive_analytics.values.server_ms=510;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>Sydney cafe siege updates - BBC News</title>
+
+    <meta name="x-country" content="us" />
+    <meta name="x-audience" content="Domestic" />
+    <link rel="canonical" href="http://www.bbc.co.uk/news/live/world-australia-30475711" />
+
+                        <link rel="alternate" hreflang="en-gb" href="http://www.bbc.co.uk/news/live/world-australia-30475711" />
+                                <link rel="alternate" hreflang="en" href="http://www.bbc.com/news/live/world-australia-30475711" />
+            
+    
+    <meta name="apple-mobile-web-app-title" content="BBC News" />
+    <link rel="apple-touch-icon-precomposed" sizes="57x57"    href="http://static.bbci.co.uk/news/1.54.1-1279/apple-touch-icon-57x57-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72"    href="http://static.bbci.co.uk/news/1.54.1-1279/apple-touch-icon-72x72-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"  href="http://static.bbci.co.uk/news/1.54.1-1279/apple-touch-icon-114x114-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144"  href="http://static.bbci.co.uk/news/1.54.1-1279/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" href="http://static.bbci.co.uk/news/1.54.1-1279/apple-touch-icon.png" />
+    <meta name="application-name" content="BBC News" />
+    <meta name="msapplication-TileImage" content="http://static.bbci.co.uk/news/1.54.1-1279/windows-eight-icon-144x144.png" />
+    <meta name="msapplication-TileColor" content="#CC0101" />
+    <meta http-equiv="cleartype" content="on" />
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#cc0101">
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+    <script>
+        (function() {
+            if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+                var msViewportStyle = document.createElement("style");
+                msViewportStyle.appendChild(
+                    document.createTextNode("@-ms-viewport{width:auto!important}")
+                );
+                document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+            }
+        })();
+    </script>
+    
+           <meta name="viewport" content="width=device-width, initial-scale=1.0" />   <script type="text/javascript">window.bbcredirection={geo:true,device:true}</script>  <!--orb.ws.require.lib--> <script type="text/javascript">/*<![CDATA[*/ if (typeof window.define !== 'function' || typeof window.require !== 'function') { document.write('<script class="js-require-lib" src="/web/20141215084658/http://static.bbci.co.uk/frameworks/requirejs/lib.js"><'+'/script>'); } /*]]>*/</script> <script type="text/javascript" class="js-require-conf">  bbcRequireMap = {"jquery-1":"/web/20141215084658/http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.7.2", "jquery-1.4":"/web/20141215084658/http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.4", "jquery-1.9":"/web/20141215084658/http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.9.1", "swfobject-2":"/web/20141215084658/http://static.bbci.co.uk/frameworks/swfobject/0.1.10/sharedmodules/swfobject-2", "demi-1":"/web/20141215084658/http://static.bbci.co.uk/frameworks/demi/0.10.0/sharedmodules/demi-1", "gelui-1":"/web/20141215084658/http://static.bbci.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1", "cssp!gelui-1/overlay":"/web/20141215084658/http://static.bbci.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1/overlay.css", "istats-1":"/web/20141215084658/http://static.bbci.co.uk/frameworks/istats/0.23.1/modules/istats-1", "relay-1":"/web/20141215084658/http://static.bbci.co.uk/frameworks/relay/0.2.6/sharedmodules/relay-1", "clock-1":"/web/20141215084658/http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1", "canvas-clock-1":"/web/20141215084658/http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/canvas-clock-1", "cssp!clock-1":"/web/20141215084658/http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1.css", "jssignals-1":"/web/20141215084658/http://static.bbci.co.uk/frameworks/jssignals/0.3.6/modules/jssignals-1", "jcarousel-1":"/web/20141215084658/http://static.bbci.co.uk/frameworks/jcarousel/0.1.10/modules/jcarousel-1", "bump-3":"//emp.bbci.co.uk/emp/bump-3/bump-3"}; require({ baseUrl: '/web/20141215084658/http://static.bbci.co.uk/', paths: bbcRequireMap, waitSeconds: 30 }); </script>   <script type="text/javascript">/*<![CDATA[*/ if (typeof bbccookies_flag === 'undefined') { bbccookies_flag = 'ON'; } showCTA_flag = true; cta_enabled = (showCTA_flag && (bbccookies_flag === 'ON') ); (function(){var e="ckns_policy",m="Thu, 01 Jan 1970 00:00:00 GMT",k={ads:true,personalisation:true,performance:true,necessary:true};function f(p){if(f.cache[p]){return f.cache[p]}var o=p.split("/"),q=[""];do{q.unshift((o.join("/")||"/"));o.pop()}while(q[0]!=="/");f.cache[p]=q;return q}f.cache={};function a(p){if(a.cache[p]){return a.cache[p]}var q=p.split("."),o=[];while(q.length&&"|co.uk|com|".indexOf("|"+q.join(".")+"|")===-1){if(q.length){o.push(q.join("."))}q.shift()}f.cache[p]=o;return o}a.cache={};function i(o,t,p){var z=[""].concat(a(window.location.hostname)),w=f(window.location.pathname),y="",r,x;for(var s=0,v=z.length;s<v;s++){r=z[s];for(var q=0,u=w.length;q<u;q++){x=w[q];y=o+"="+t+";"+(r?"domain="+r+";":"")+(x?"path="+x+";":"")+(p?"expires="+p+";":"");bbccookies.set(y,true)}}}window.bbccookies={_setEverywhere:i,cookiesEnabled:function(){var o="ckns_testcookie"+Math.floor(Math.random()*100000);this.set(o+"=1");if(this.get().indexOf(o)>-1){g(o);return true}return false},set:function(o){return document.cookie=o},get:function(){return document.cookie},_setPolicy:function(o){return h.apply(this,arguments)},readPolicy:function(o){return b.apply(this,arguments)},_deletePolicy:function(){i(e,"",m)},isAllowed:function(){return true},_isConfirmed:function(){return c()!==null},_acceptsAll:function(){var o=b();return o&&!(j(o).indexOf("0")>-1)},_getCookieName:function(){return d.apply(this,arguments)},_showPrompt:function(){var o=(!this._isConfirmed()&&window.cta_enabled&&this.cookiesEnabled()&&!window.bbccookies_disable);return(window.orb&&window.orb.fig)?o&&(window.orb.fig("no")||window.orb.fig("ck")):o}};bbccookies._getPolicy=bbccookies.readPolicy;function d(p){var o=(""+p).match(/^([^=]+)(?==)/);return(o&&o.length?o[0]:"")}function j(o){return""+(o.ads?1:0)+(o.personalisation?1:0)+(o.performance?1:0)}function h(r){if(typeof r==="undefined"){r=k}if(typeof arguments[0]==="string"){var o=arguments[0],q=arguments[1];if(o==="necessary"){q=true}r=b();r[o]=q}else{if(typeof arguments[0]==="object"){r.necessary=true}}var p=new Date();p.setYear(p.getFullYear()+1);p=p.toUTCString();bbccookies.set(e+"="+j(r)+";domain=bbc.co.uk;path=/;expires="+p+";");bbccookies.set(e+"="+j(r)+";domain=bbc.com;path=/;expires="+p+";");return r}function l(o){if(o===null){return null}var p=o.split("");return{ads:!!+p[0],personalisation:!!+p[1],performance:!!+p[2],necessary:true}}function c(){var o=new RegExp("(?:^|; ?)"+e+"=(\\d\\d\\d)($|;)"),p=document.cookie.match(o);if(!p){return null}return p[1]}function b(o){var p=l(c());if(!p){p=k}if(o){return p[o]}else{return p}}function g(o){return document.cookie=o+"=;expires="+m+";"}function n(){var o='<script type="text/javascript" src="/web/20141215084658/http://static.bbci.co.uk/frameworks/bbccookies/0.6.6/script/bbccookies.js"><\/script>';if(window.bbccookies_flag==="ON"&&!bbccookies._acceptsAll()&&!window.bbccookies_disable){document.write(o)}}n()})(); /*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/
+(function(){window.fig=window.fig||{};window.fig.manager={include:function(a){a=a||window;var e=a.document,g=e.cookie,b=g.match(/(?:^|; ?)ckns_orb_fig=([^;]+)/);if(!b&&g.indexOf("ckns_orb_nofig=1")>-1){this.setFig(a,{no:1})}else{if(b){b=this.deserialise(decodeURIComponent(RegExp.$1));this.setFig(a,b)}e.write('<script src="/web/20141215084658/https://ssl.bbc.co.uk/frameworks/fig/1/fig.js"><'+"/script>")}},confirm:function(a){a=a||window;if(a.orb&&a.orb.fig&&a.orb.fig("no")){this.setNoFigCookie(a)}if(a.orb===undefined||a.orb.fig===undefined){this.setFig(a,{no:1});this.setNoFigCookie(a)}},setNoFigCookie:function(a){a.document.cookie="ckns_orb_nofig=1; expires="+new Date(new Date().getTime()+1000*60*10).toGMTString()+";"},setFig:function(a,b){(function(){var c=b;a.orb=a.orb||{};a.orb.fig=function(d){return(arguments.length)?c[d]:c}})()},deserialise:function(b){var a={};b.replace(/([a-z]{2}):([0-9]+)/g,function(){a[RegExp.$1]=+RegExp.$2});return a}}})();fig.manager.include();/*]]>*/</script>
+ 
+<!--[if (gt IE 8) | (IEMobile)]><!-->
+<link rel="stylesheet" href="/web/20141215084658cs_/http://static.bbci.co.uk/frameworks/barlesque/2.82.1/orb/4/style/orb.css">
+<!--<![endif]-->
+
+<!--[if (lt IE 9) & (!IEMobile)]>
+<link rel="stylesheet" href="/web/20141215084658/http://static.bbci.co.uk/frameworks/barlesque/2.82.1/orb/4/style/orb-ie.css">
+<![endif]-->
+
+  <script type="text/javascript">/*<![CDATA[*/ (function(undefined){if(!window.bbc){window.bbc={}}var ROLLING_PERIOD_DAYS=30;window.bbc.Mandolin=function(id,segments,opts){var now=new Date().getTime(),storedItem,DEFAULT_START=now,DEFAULT_RATE=1,COOKIE_NAME="ckpf_mandolin";opts=opts||{};this._id=id;this._segmentSet=segments;this._store=new window.window.bbc.Mandolin.Storage(COOKIE_NAME);this._opts=opts;this._rate=(opts.rate!==undefined)?+opts.rate:DEFAULT_RATE;this._startTs=(opts.start!==undefined)?new Date(opts.start).getTime():new Date(DEFAULT_START).getTime();this._endTs=(opts.end!==undefined)?new Date(opts.end).getTime():daysFromNow(ROLLING_PERIOD_DAYS);this._signupEndTs=(opts.signupEnd!==undefined)?new Date(opts.signupEnd).getTime():this._endTs;this._segment=null;if(typeof id!=="string"){throw new Error("Invalid Argument: id must be defined and be a string")}if(Object.prototype.toString.call(segments)!=="[object Array]"){throw new Error("Invalid Argument: Segments are required.")}if(opts.rate!==undefined&&(opts.rate<0||opts.rate>1)){throw new Error("Invalid Argument: Rate must be between 0 and 1.")}if(this._startTs>this._endTs){throw new Error("Invalid Argument: end date must occur after start date.")}if(!(this._startTs<this._signupEndTs&&this._signupEndTs<=this._endTs)){throw new Error("Invalid Argument: SignupEnd must be between start and end date")}removeExpired.call(this,now);var overrides=window.bbccookies.get().match(/ckns_mandolin_setSegments=([^;]+)/);if(overrides!==null){eval("overrides = "+decodeURIComponent(RegExp.$1)+";");if(overrides[this._id]&&this._segmentSet.indexOf(overrides[this._id])==-1){throw new Error("Invalid Override: overridden segment should exist in segments array")}}if(overrides!==null&&overrides[this._id]){this._segment=overrides[this._id]}else{if((storedItem=this._store.getItem(this._id))){this._segment=storedItem.segment}else{if(this._startTs<=now&&now<this._signupEndTs&&now<=this._endTs&&this._store.isEnabled()===true){this._segment=pick(segments,this._rate);if(opts.end===undefined){this._store.setItem(this._id,{segment:this._segment})}else{this._store.setItem(this._id,{segment:this._segment,end:this._endTs})}log.call(this,"mandolin_segment")}}}log.call(this,"mandolin_view")};window.bbc.Mandolin.prototype.getSegment=function(){return this._segment};function log(actionType,params){var that=this;require(["istats-1"],function(istats){istats.log(actionType,that._id+":"+that._segment,params?params:{})})}function removeExpired(expires){var items=this._store.getItems(),expiresInt=+expires;for(var key in items){if(items[key].end!==undefined&&+items[key].end<expiresInt){this._store.removeItem(key)}}}function getLastExpirationDate(data){var winner=0,rollingExpire=daysFromNow(ROLLING_PERIOD_DAYS);for(var key in data){if(data[key].end===undefined&&rollingExpire>winner){winner=rollingExpire}else{if(+data[key].end>winner){winner=+data[key].end}}}return(winner)?new Date(winner):new Date(rollingExpire)}window.bbc.Mandolin.prototype.log=function(params){log.call(this,"mandolin_log",params)};window.bbc.Mandolin.prototype.convert=function(params){log.call(this,"mandolin_convert",params);this.convert=function(){}};function daysFromNow(n){var endDate;endDate=new Date().getTime()+(n*60*60*24)*1000;return endDate}function pick(segments,rate){var picked,min=0,max=segments.length-1;if(typeof rate==="number"&&Math.random()>rate){return null}do{picked=Math.floor(Math.random()*(max-min+1))+min}while(picked>max);return segments[picked]}window.bbc.Mandolin.Storage=function(name){validateCookieName(name);this._cookieName=name;this._isEnabled=(bbccookies.isAllowed(this._cookieName)===true&&bbccookies.cookiesEnabled()===true)};window.bbc.Mandolin.Storage.prototype.setItem=function(key,value){var storeData=this.getItems();storeData[key]=value;this.save(storeData);return value};window.bbc.Mandolin.Storage.prototype.isEnabled=function(){return this._isEnabled};window.bbc.Mandolin.Storage.prototype.getItem=function(key){var storeData=this.getItems();return storeData[key]};window.bbc.Mandolin.Storage.prototype.removeItem=function(key){var storeData=this.getItems();delete storeData[key];this.save(storeData)};window.bbc.Mandolin.Storage.prototype.getItems=function(){return deserialise(this.readCookie(this._cookieName)||"")};window.bbc.Mandolin.Storage.prototype.save=function(data){window.bbccookies.set(this._cookieName+"="+encodeURIComponent(serialise(data))+"; expires="+getLastExpirationDate(data).toUTCString()+";")};window.bbc.Mandolin.Storage.prototype.readCookie=function(name){var nameEq=name+"=",ca=window.bbccookies.get().split("; "),i,c;validateCookieName(name);for(i=0;i<ca.length;i++){c=ca[i];if(c.indexOf(nameEq)===0){return decodeURIComponent(c.substring(nameEq.length,c.length))}}return null};function serialise(o){var str="";for(var p in o){if(o.hasOwnProperty(p)){str+='"'+p+'"'+":"+(typeof o[p]==="object"?(o[p]===null?"null":"{"+serialise(o[p])+"}"):'"'+o[p].toString()+'"')+","}}return str.replace(/,\}/g,"}").replace(/,$/g,"")}function deserialise(str){var o;str="{"+str+"}";if(!validateSerialisation(str)){throw"Invalid input provided for deserialisation."}eval("o = "+str);return o}var validateSerialisation=(function(){var OBJECT_TOKEN="<Object>",ESCAPED_CHAR='"\\n\\r\\u2028\\u2029\\u000A\\u000D\\u005C',ALLOWED_CHAR="([^"+ESCAPED_CHAR+"]|\\\\["+ESCAPED_CHAR+"])",KEY='"'+ALLOWED_CHAR+'+"',VALUE='(null|"'+ALLOWED_CHAR+'*"|'+OBJECT_TOKEN+")",KEY_VALUE=KEY+":"+VALUE,KEY_VALUE_SEQUENCE="("+KEY_VALUE+",)*"+KEY_VALUE,OBJECT_LITERAL="({}|{"+KEY_VALUE_SEQUENCE+"})",objectPattern=new RegExp(OBJECT_LITERAL,"g");return function(str){if(str.indexOf(OBJECT_TOKEN)!==-1){return false}while(str.match(objectPattern)){str=str.replace(objectPattern,OBJECT_TOKEN)}return str===OBJECT_TOKEN}})();function validateCookieName(name){if(name.match(/ ,;/)){throw"Illegal name provided, must be valid in browser cookie."}}})(); /*]]>*/</script>  <script type="text/javascript">  document.documentElement.className += (document.documentElement.className? ' ' : '') + 'orb-js';  fig.manager.confirm(); </script> <script src="/web/20141215084658js_/http://static.bbci.co.uk/frameworks/barlesque/2.82.1/orb/4/script/orb/api.min.js"></script> <script type="text/javascript"> window.orb_masthead_test = new bbc.Mandolin( 'orb_masthead', ['simple', 'control'], { rate: 6/1000, start: new Date('09/22/2014 08:00:00 GMT'), /* format: mm/dd/yyyy hh:mm:ss */ signupEnd: new Date('09/24/2014 08:00:00 GMT'), end: new Date('10/06/2014 08:00:00 GMT') } ); </script>   <script type="text/javascript"> /*<![CDATA[*/ function oqsSurveyManager(w, flag) { if (flag !== 'OFF') { w.document.write('<script type="text/javascript" src="/web/20141215084658/http://static.bbci.co.uk/frameworks/barlesque/2.82.1/orb/4/script/vendor/edr.js"><'+'/script>'); } } oqsSurveyManager(window, 'ON'); /*]]>*/ </script>             <!-- BBCDOTCOM template: responsive webservice  -->
+        <!-- BBCDOTCOM head --><script type="text/javascript"> /*<![CDATA[*/ var _sf_startpt = (new Date()).getTime(); /*]]>*/ </script><style type="text/css">.bbccom_display_none{display:none;}</style><script type="text/javascript"> /*<![CDATA[*/ var googletag = googletag || {}; googletag.cmd = googletag.cmd || []; var bbcdotcom = false; (function(){ if(typeof require !== 'undefined') { require({ paths:{ "bbcdotcom":"/web/20141215084658/http://static.bbci.co.uk/bbcdotcom/0.3.296/script" } }); } })(); /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ var bbcdotcom = { advert: { write: function () {}, show: function () {}, isActive: function () { return false; }, layout: function() { return { reset: function() {} } } }, config: { init: function() {}, isActive: function() {}, setSections: function() {}, setAdsEnabled: function() {}, setAssetPrefix: function() {}, setConfig: function() {} }, survey: { init: function(){ return false; } }, data: {}, init: function() {}, objects: function(str) { return false; }, locale: { set: function() {} }, setAdKeyValue: function() {}, utils: { addHtmlTagClass: function() {} }, addLoadEvent: function() {} }; /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if (typeof orb !== 'undefined' && typeof orb.fig === 'function') { if (orb.fig('ad') && orb.fig('uk') == 0) { bbcdotcom.data = { ads: (orb.fig('ad') ? 1 : 0), stats: (orb.fig('uk') == 0 ? 1 : 0), statsProvider: orb.fig('ap') }; } } else { document.write('<script type="text/javascript" src="'+('https:' == document.location.protocol ? '/web/20141215084658/https://ssl.bbc.com' : '/web/20141215084658/http://tps.bbc.com')+'/wwscripts/data">\x3C/script>'); } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if (typeof orb === 'undefined' || typeof orb.fig !== 'function') { bbcdotcom.data = { ads: bbcdotcom.data.a, stats: bbcdotcom.data.b, statsProvider: bbcdotcom.data.c }; } if (bbcdotcom.data.ads == 1) { document.write('<script type="text/javascript" src="'+('https:' == document.location.protocol ? '/web/20141215084658/https://ssl.bbc.co.uk' : '/web/20141215084658/http://www.bbc.co.uk')+'/wwscripts/flag">\x3C/script>'); } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && (typeof bbcdotcom.flag == 'undefined' || (typeof bbcdotcom.data.ads !== 'undefined' && bbcdotcom.flag.a != 1))) { bbcdotcom.data.ads = 0; } if (/[?|&]ads-debug/.test(window.location.href) || document.cookie.indexOf('ads-debug') !== -1) { bbcdotcom.data.ads = 1; bbcdotcom.data.stats = 1; } if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcom.assetPrefix = "/web/20141215084658/http://static.bbci.co.uk/bbcdotcom/0.3.296/"; document.write('<link rel="stylesheet" type="text/css" href="/web/20141215084658/http://static.bbci.co.uk/bbcdotcom/0.3.296/style/orb/bbccom.css" />'); (function() { var useSSL = 'https:' == document.location.protocol; var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; document.write('<scr' + 'ipt src="' + src + '">\x3C/script>'); })(); if (typeof navigator !== 'undefined' && typeof navigator.userAgent !== 'undefined' && navigator.userAgent.indexOf('MSIE 7.0') !== -1 ) { document.write('<link rel="stylesheet" type="text/css" href="/web/20141215084658/http://static.bbci.co.uk/bbcdotcom/0.3.296/style/orb/bbccom-ie7.css" />'); } if (/(sandbox|int)(.dev)*.bbc.co*/.test(window.location.href) || /[?|&]ads-debug/.test(window.location.href)) { document.write('<script type="text/javascript" src="/web/20141215084658/http://static.bbci.co.uk/bbcdotcom/0.3.296/script/orb/individual.js">\x3C/script>'); } else { document.write('<script type="text/javascript" src="/web/20141215084658/http://static.bbci.co.uk/bbcdotcom/0.3.296/script/orb/bbcdotcom.js">\x3C/script>'); } if(/[\\?&]ads=([^&#]*)/.test(window.location.href)) { document.write('<script type="text/javascript" src="/web/20141215084658/http://static.bbci.co.uk/bbcdotcom/0.3.296/script/orb/adverts/adSuites.js">\x3C/script>'); } } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { var bbcdotcomConfig = {"adExclusions":"","adFormat":"standard","adKeyword":"","adMode":"smart","adsEnabled":true,"appAnalyticsSections":"news>world","asyncEnabled":false,"disableInitialLoad":false,"advertInfoPageUrl":"/web/20141215084658/http://www.bbc.co.uk\/faqs\/online\/adverts_general","advertisementText":"Advertisement","analyticsEnabled":true,"appName":"tabloid","assetPrefix":"/web/20141215084658/http://static.bbci.co.uk\/bbcdotcom\/0.3.296\/","customAdParams":[],"customStatsParams":[],"headline":"Sydney cafe siege updates","id":"30475711","inAssociationWithText":"In association with","keywords":"","language":"","orbTransitional":false,"outbrainEnabled":true,"palEnv":"live","productName":"","sections":[],"siteCatalystEnabled":true,"slots":"","sponsoredByText":"Sponsored by","summary":"Latest updates as police surround a cafe in central Sydney, Australia, where people are being held hostage.","type":"STORY","staticBase":"\/bbcdotcom","staticHost":"/web/20141215084658/http://static.bbci.co.uk","staticVersion":"0.3.296","staticPrefix":"/web/20141215084658/http://static.bbci.co.uk\/bbcdotcom\/0.3.296","dataHttp":"tps.bbc.com","dataHttps":"ssl.bbc.com","flagHttp":"www.bbc.co.uk","flagHttps":"ssl.bbc.co.uk","analyticsHttp":"sa.bbc.com","analyticsHttps":"ssa.bbc.com"}; bbcdotcom.config.init(bbcdotcomConfig, bbcdotcom.data, window.location, window.document); bbcdotcom.config.setAssetPrefix("/web/20141215084658/http://static.bbci.co.uk/bbcdotcom/0.3.296/"); document.write('<!--[if IE 7]><script type="text/javascript">bbcdotcom.config.setIE7(true);\x3C/script><![endif]-->'); document.write('<!--[if IE 8]><script type="text/javascript">bbcdotcom.config.setIE8(true);\x3C/script><![endif]-->'); } /*]]>*/ </script>             <script type="text/javascript">/*<![CDATA[*/ window.istats = (window.istats || {}); (istats.head = function(w,d) { w.istats._linkTracked = w.istats._trackingCookie = decodeURIComponent( (d.cookie.match(/\bsa_labels=([^;]+)/)||[]).pop() || '' ); var host = w.location.host, m = host.match(/(bbc(?:\.co\.uk|\.com))$/i); d.cookie = 'sa_labels=; expires=Thu, 01 Jan 1970 00:00:01 GMT; domain=' + (m? m[1] : host) + '; path=/'; })(window,document); /*]]>*/</script>  <script type="text/javascript"> /* <![CDATA[ */ define('id-statusbar-config', { 'translation_signedout': "Sign in", 'translation_signedin': "Your account", 'use_overlay' : false, 'signin_url' : "/web/20141215084658/https://ssl.bbc.co.uk/id/signin?ptrt=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Flive%2Fworld-australia-30475711", 'locale' : "en-GB", 'policyname' : "", 'ptrt' : "/web/20141215084658/http://www.bbc.co.uk/news/live/world-australia-30475711" }); /* ]]> */ </script>  <script type="text/javascript"> (function () { if (! window.require) { throw new Error('idcta: could not find require'); } var map = {}; map['idapp-1'] = '/web/20141215084658/http://static.bbci.co.uk/idapp/0.63.26/modules/idapp/idapp-1'; map['idcta/idcta-1'] = '/web/20141215084658/http://static.bbci.co.uk/id/0.24.7/modules/idcta/idcta-1'; map['idcta/idCookie'] = '/web/20141215084658/http://static.bbci.co.uk/id/0.24.7/modules/idcta/idCookie'; map['idcta/overlayManager'] = '/web/20141215084658/http://static.bbci.co.uk/id/0.24.7/modules/idcta/overlayManager'; require({paths: map}); define('id-config', {"idapp":{"version":"0.63.26","hostname":"ssl.bbc.co.uk","insecurehostname":"www.bbc.co.uk","tld":"bbc.co.uk"},"idtranslations":{"version":"0.29.1"},"identity":{"baseUrl":"/web/20141215084658/https://talkback.live.bbc.co.uk\/identity"},"pathway":{"name":null,"staticAssetUrl":"/web/20141215084658/http://static.bbci.co.uk\/idapp\/0.63.26\/modules\/idapp\/idapp-1\/View.css"}}); })(); </script>                
+        <link type="text/css" rel="stylesheet" href="/web/20141215084658cs_/http://static.bbci.co.uk/news/1.54.1-1279/stylesheets/services/news/core.css" />
+    <!--[if lt IE 9]>
+        <link type="text/css" rel="stylesheet" href="/web/20141215084658/http://static.bbci.co.uk/news/1.54.1-1279/stylesheets/services/news/old-ie.css" />
+        <script src="/web/20141215084658/http://static.bbci.co.uk/news/1.54.1-1279/js/vendor/html5shiv/html5shiv.js"></script>
+    <![endif]-->
+ <script id="news-loader"> if (document.getElementById("responsive-news")) { window.bbcNewsResponsive = true; } var isIE = (function() { var undef, v = 3, div = document.createElement('div'), all = div.getElementsByTagName('i'); while ( div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->', all[0] ); return v > 4 ? v : undef; }()); var modernDevice = 'querySelector' in document && 'localStorage' in window && 'addEventListener' in window, forceCore = document.cookie.indexOf('ckps_force_core') !== -1, holepunched = isIE > 6 && document.getElementById('js-holepunched'); window.cutsTheMustard = (modernDevice && !forceCore) || holepunched; if (window.cutsTheMustard) { document.documentElement.className += ' ctm'; var insertPoint = document.getElementById('news-loader'), config = {"asset":{"asset_id":"30475711","asset_uri":"\/news\/live\/world-australia-30475711","first_created":{"date":"2014-12-15 07:29:38","timezone_type":3,"timezone":"Europe\/London"},"last_updated":{"date":"2014-12-15 08:02:54","timezone_type":3,"timezone":"Europe\/London"},"options":{"allowHeadline":true,"allowDateStamp":true,"isKeyContent":false,"allowRelatedStoriesBox":true,"allowRightHandSide":true,"includeComments":false,"isIgorSeoTagsEnabled":false,"allowPrintingSharingLinks":true,"isBreakingNews":false,"allowAdvertising":true,"suitableForSyndication":true},"section":{"name":"Australia","id":"102293","uri":"\/news\/world\/australia","urlIdentifier":"\/news\/world\/australia"},"edition":"Domestic","audience":null,"iStats_counter_name":"news.world.australia.live_coverage.30475711.page","type":"LIV"},"smpBrand":null,"staticHost":"/web/20141215084658/http://static.bbci.co.uk","environment":"live","locatorVersion":"0.46.3","pathPrefix":"\/news","jsPath":"/web/20141215084658/http://static.bbci.co.uk\/news\/1.54.1-1279\/js","cssPath":"/web/20141215084658/http://static.bbci.co.uk\/news\/1.54.1-1279\/stylesheets\/services\/news","cssPostfix":"","dynamic":null,"features":{"localnews":true,"video":true,"liveeventcomponent":true,"mediaassetpage":true,"travel":true,"gallery":true,"rollingnews":true,"rumanalytics":true,"sportstories":true,"radiopromo":true,"fromothernewssites":true,"locallive":true,"weather":true},"features2":{"chartbeat":true,"connected_stream":true,"nav":true,"pulse_survey":false,"correspondents":true,"explainer_banner":false,"tablet_explainer_banner":true,"blogs":true,"follow_us":true,"multi_client_cache":true,"marketdata_markets":true,"marketdata_shares":true,"politics_vote2014":true,"politics_scotref_polltracker":true,"politics_scotref_live":true,"politics_scotref_results":true,"politics_scotref":true,"politics_councils":true,"politics_eu_regions":true,"breaking_news":true,"most_popular":true,"most_popular_tabs":true,"most_popular_by_day":true,"routing":true,"beta_label":true,"rum":true,"radiopromonownext":true,"config_based_layout":true,"orb":true,"enhanced_gallery":true,"top_stories_promo":true,"features_and_analysis":true,"section_labels":true,"index_title":true,"share_tools":true,"local_live_promo":true,"adverts":true,"adexpert":true,"igor_geo_redirect":true,"igor_device_redirect":true,"map":true,"live":true,"comscore_mmx":true,"find_local_news":true,"comments":true,"comments_enhanced":true,"browser_notify":true,"stream_grid_promo":true,"top_stories_max_volume":true,"record_livestats":true,"contact_form":true,"channel_page":true,"portlet_global_variants":true,"suppress_lep_timezone":true},"configuration":{"showtimestamp":"1","showweather":"1","showsport":"1","showolympics":"1","showfeaturemain":"1","showsitecatalyst":"1","candyplatform":"EnhancedMobile","showmap":"1","showwatchlisten":"1","showspecialreports":"","videotopiccandyid":"","showvideofeedsections":"1","showmaprelatedmedia":"1","showmapmostwatched":"1","showmaptopstories":"1","showstorytopstories":"","showstoryfeaturesandanalysis":"1","showstorymostpopular":"","showgallery":"1","cms":"cps","channelpagecandyid":"10318089"},"pollingHost":"/web/20141215084658/http://polling.bbc.co.uk","service":"news","locale":"en-GB","locatorHost":null,"locatorFlagPole":true,"local":{"allowLocationLookup":true},"isWorldService":false,"rumAnalytics":{"server":"/web/20141215084658/http://ingest.rum.bbc.co.uk","key":"news","url_params":null,"edition":"domestic"},"isChannelPage":false,"suitenameMap":"","languageVariant":"","commentsHost":"/web/20141215084658/http://feeds.bbci.co.uk"}; config.configuration['get'] = function (key) { return this[key.toLowerCase()]; };   var bootstrapUI=function(){var e=function(){if(navigator.userAgent.match(/(Android (2.0|2.1))|(Nokia)|(OSRE\/)|(Opera (Mini|Mobi))|(w(eb)?OSBrowser)|(UCWEB)|(Windows Phone)|(XBLWP)|(ZuneWP)/))return!1;if(navigator.userAgent.match(/MSIE 10.0/))return!0;var e,t=document,n=t.head||t.getElementsByTagName("head")[0],r=t.createElement("style"),s=t.implementation||{hasFeature:function(){return!1}};r.type="text/css",n.insertBefore(r,n.firstChild),e=r.sheet||r.styleSheet;var i=s.hasFeature("CSS2","")?function(t){if(!e||!t)return!1;var n=!1;try{e.insertRule(t,0),n=!/unknown/i.test(e.cssRules[0].cssText),e.deleteRule(e.cssRules.length-1)}catch(r){}return n}:function(t){return e&&t?(e.cssText=t,0!==e.cssText.length&&!/unknown/i.test(e.cssText)&&0===e.cssText.replace(/\r+|\n+/g,"").indexOf(t.split(" ")[0])):!1};return i('@font-face{ font-family:"font";src:"font.ttf"; }')}();e&&(document.getElementsByTagName("html")[0].className+=" ff");var t,n,r,s,i,a,o={},u=function(){t=window.innerWidth,n=window.innerHeight},c=function(e){var t=document.createElement("link");t.setAttribute("rel","stylesheet"),t.setAttribute("type","text/css"),t.setAttribute("href",r+e+s+".css"),t.setAttribute("media",a[e]),i.parentNode.insertBefore(t,i),delete a[e]},f=function(e,r,s){r&&!s&&(t>=r||n>=r)&&c(e),s&&!r&&(s>=t||s>=n)&&c(e),r&&s&&(t>=r||n>=r)&&(s>=t||s>=n)&&c(e)},l=function(e){if(o[e])return o[e];var t=e.match(/\(min\-width:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/),n=e.match(/\(max\-width:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/),r=t&&parseFloat(t[1])||null,s=n&&parseFloat(n[1])||null;return o[e]=[r,s],o[e]},h=function(){var e=0;for(var t in a)e++;return e},d=function(){h()||window.removeEventListener("resize",m,!1);for(var e in a){var t=a[e],n=l(t);f(e,n[0],n[1])}},m=function(){u(),d()},v=function(e,t){a=e,r=t.path+("/"!==t.path.substr(-1)?"/":""),s=t.postfix,i=t.insertBefore,u(),d(),window.addEventListener("resize",m,!1)};return{stylesheetLoaderInit:v}}(); bootstrapUI.stylesheetLoaderInit({ 'compact': '(max-width: 599px)', 'tablet' : '(min-width: 600px)', 'wide' : '(min-width: 1008px)' }, { path: '/web/20141215084658/http://static.bbci.co.uk/news/1.54.1-1279/stylesheets/services/news', postfix: '', insertBefore: insertPoint }); var loadRequire = function(){ var js_paths = {"jquery-1.9":"vendor\/jquery-1\/jquery","jquery-1":"/web/20141215084658/http://static.bbci.co.uk\/frameworks\/jquery\/0.3.0\/sharedmodules\/jquery-1.7.2","demi-1":"/web/20141215084658/http://static.bbci.co.uk\/frameworks\/demi\/0.10.0\/sharedmodules\/demi-1","swfobject-2":"/web/20141215084658/http://static.bbci.co.uk\/frameworks\/swfobject\/0.1.10\/sharedmodules\/swfobject-2","jquery":"vendor\/jquery-2\/jquery.min","domReady":"vendor\/require\/domReady","translation":"module\/translations\/en-GB","bump-3":"\/\/emp.bbci.co.uk\/emp\/bump-3\/bump-3"};  js_paths.navigation = 'module/nav/navManager';  requirejs.config({ baseUrl: '/web/20141215084658/http://static.bbci.co.uk/news/1.54.1-1279/js', map: { 'vendor/locator': { 'module/bootstrap': 'vendor/locator/bootstrap', 'locator/stats': 'vendor/locator/stats', 'locator/locatorView': 'vendor/locator/locatorView' } }, paths: js_paths, waitSeconds: 30 }); define('config', function () { return config; });             require(['compiled/all'], function() {
+     require(['module/base', 'domReady'], function (base, domReady) { domReady(function () { base.init();  }); });             });
+     };  loadRequire();   } </script>  <script type="text/javascript"> /*<![CDATA[*/ bbcdotcom.init({adsToDisplay:['']}); /*]]>*/ </script>  
+                
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1" />
+</head>
+<!--[if IE]><body id="asset-type-liv" class="ie device--feature"><![endif]-->
+<!--[if !IE]>--><body id="asset-type-liv" class="device--feature">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.bbc.co.uk/news/live/world-australia-30475711";
+
+var firstYear = 1996;
+var displayDay = "15";
+var displayMonth = "Dec";
+var displayYear = "2014";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(525, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.bbc.co.uk/news/live/world-australia-30475711" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20141215084658" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    Nov
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 8:46:58 Dec 15, 2014">DEC</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20150224172202/http://www.bbc.co.uk/news/live/world-australia-30475711" title="24 Feb 2015"><strong>FEB</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                       <img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" />
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 8:46:58 Dec 15, 2014">15</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20141215122049/http://www.bbc.co.uk/news/live/world-australia-30475711" title="12:20:49 Dec 15, 2014"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   2013
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 8:46:58 Dec 15, 2014">2014</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20160102022640/http://www.bbc.co.uk/news/live/world-australia-30475711" title="2 Jan 2016"><strong>2016</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20141215084658*/http://www.bbc.co.uk/news/live/world-australia-30475711" title="See a list of every capture for this URL">13 captures</a>
+           <div class="r" title="Timespan for captures of this URL">15 Dec 14 - 19 Mar 16</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="525"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=525_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000000000_2012:-1:000000000000_2013:-1:000000000000_2014:11:000000000007_2015:-1:110000101000_2016:-1:101000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+<!--<![endif]-->
+    <div class="direction" >
+
+             <!-- BBCDOTCOM bodyFirst --><div id="bbccom_interstitial" class="bbccom_display_none"><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { googletag.cmd.push(function() { googletag.display('bbccom_interstitial'); }); } /*]]>*/ </script></div><div id="bbccom_wallpaper" class="bbccom_display_none"><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { if (bbcdotcom.config.isAsync()) { googletag.cmd.push(function() { googletag.display('bbccom_wallpaper'); }); } else { googletag.display("wallpaper"); } } /*]]>*/ </script></div><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { document.write(unescape('%3Cscript id="gnlAdsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } if (window.bbcdotcom && bbcdotcom.config.isActive('analytics')) { document.write(unescape('%3Cscript id="gnlAnalyticsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } /*]]>*/ </script> <div id="blq-global"> <div id="blq-pre-mast">  </div> </div>  <script type="text/html" id="blq-bbccookies-tmpl"><![CDATA[ <section> <div id="bbccookies" class="bbccookies-banner orb-banner-wrapper bbccookies-d"> <div id="bbccookies-prompt" class="orb-banner b-g-p b-r b-f"> <h2 class="orb-banner-title"> Cookies on the BBC website </h2> <p class="orb-banner-content" dir="ltr"> We use cookies to ensure that we give you the best experience on our website.<span class="bbccookies-international-message"> We also use cookies to ensure we show you advertising that is relevant to you.</span> If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the BBC website. However, if you would like to, you can change your cookie settings at any time. </p> <ul class="orb-banner-options"> <li id="bbccookies-continue"> <button type="button" id="bbccookies-continue-button">Continue</button> </li> <li id="bbccookies-settings"> <a href="/privacy/cookies/managing/cookie-settings.html">Change settings</a> </li> <li id="bbccookies-more"><a href="/privacy/cookies/bbc">Find out more</a></li></ul> </div> </div> </section> ]]></script> <script type="text/javascript">/*<![CDATA[*/ (function(){if(bbccookies._showPrompt()){var g=document,b=g.getElementById("blq-pre-mast"),e=g.getElementById("blq-bbccookies-tmpl"),a,f;if(b&&g.createElement){a=g.createElement("div");f=e.innerHTML;f=f.replace("<"+"![CDATA[","").replace("]]"+">","");a.innerHTML=f;b.appendChild(a);blqCookieContinueButton=g.getElementById("bbccookies-continue-button");blqCookieContinueButton.onclick=function(){a.parentNode.removeChild(a);return false};bbccookies._setPolicy()}var c=g.getElementById("bbccookies");if(c&&!window.orb.fig("uk")){c.className=c.className.replace(/\bbbccookies-d\b/,"");c.className=c.className+(" bbccookies-w")}}})(); /*]]>*/</script>   <script type="text/javascript">/*<![CDATA[*/ bbcFlagpoles_istats = 'ON'; istatsTrackingUrl = '//sa.bbc.co.uk/bbc/bbc/s?name=news.world.australia.live_coverage.30475711.page&cps_asset_id=30475711&page_type=live_event&section=%2Fnews%2Fworld%2Faustralia&first_pub=2014-12-15T07%3A29%3A38%2B00%3A00&last_editorial_update=2014-12-15T08%3A02%3A54%2B00%3A00&title=Sydney+cafe+siege+updates&for_nation=us&pal_route=live&ml_name=barlesque&app_type=responsive&language=en-GB&ml_version=0.23.1&pal_webapp=tabloid&prod_name=news&app_name=news'; if (window.istats_countername) { istatsTrackingUrl = istatsTrackingUrl.replace(/([?&]name=)[^&]+/ig, '$1' + istats_countername); } (function() { if ( /\bIDENTITY=/.test(document.cookie) ) { istatsTrackingUrl += '&bbc_identity=1'; } var c = (document.cookie.match(/\bckns_policy=(\d\d\d)/)||[]).pop() || ''; istatsTrackingUrl += '&bbc_mc=' + (c? 'ad'+c.charAt(0)+'ps'+c.charAt(1)+'pf'+c.charAt(2) : 'not_set'); if ( /\bckns_policy=\d\d0/.test(document.cookie) ) { istatsTrackingUrl += '&ns_nc=1'; } var screenWidthAndHeight = 'unavailable'; if (window.screen && screen.width && screen.height) { screenWidthAndHeight = screen.width + 'x' + screen.height; } istatsTrackingUrl += ('&screen_resolution=' + screenWidthAndHeight); istatsTrackingUrl += '&blq_s=4d&blq_r=2.7&blq_v=default'; })(); /*]]>*/</script>  <!-- Begin iStats 20100118 (UX-CMC 1.1009.3) --> <script type="text/javascript">/*<![CDATA[*/ (function() { window.istats || (istats = {}); var cookieDisabled = (document.cookie.indexOf('NO-SA=') != -1), hasCookieLabels = (document.cookie.indexOf('sa_labels=') != -1), hasClickThrough = /^#sa-(.*?)(?:-sa(.*))?$/.test(document.location.hash), runSitestat = !cookieDisabled && !hasCookieLabels && !hasClickThrough && !istats._linkTracked; if (runSitestat && bbcFlagpoles_istats === 'ON') { sitestat(istatsTrackingUrl); } else { window.ns_pixelUrl = istatsTrackingUrl; /* used by Flash library to track */ } function sitestat(n){var j=document,f=j.location,b="";if(j.cookie.indexOf("st_ux=")!=-1){var k=j.cookie.split(";");var e="st_ux",h=document.domain,a="/";if(typeof ns_!="undefined"&&typeof ns_.ux!="undefined"){e=ns_.ux.cName||e;h=ns_.ux.cDomain||h;a=ns_.ux.cPath||a}for(var g=0,f=k.length;g<f;g++){var m=k[g].indexOf("st_ux=");if(m!=-1){b="&"+unescape(k[g].substring(m+6))}}document.cookie=e+"=; expires="+new Date(new Date().getTime()-60).toGMTString()+"; path="+a+"; domain="+h}ns_pixelUrl=n;n=ns_pixelUrl+"&ns__t="+(new Date().getTime())+"&ns_c="+((j.characterSet)?j.characterSet:j.defaultCharset)+"&ns_ti="+escape(j.title)+b+"&ns_jspageurl="+escape(f&&f.href?f.href:j.URL)+"&ns_referrer="+escape(j.referrer);if(n.length>2000&&n.lastIndexOf("&")){n=n.substring(0,n.lastIndexOf("&")+1)+"ns_cut="+n.substring(n.lastIndexOf("&")+1,n.lastIndexOf("=")).substring(0,40)}(j.images)?new Image().src=n:j.write('<p><i'+'mg src="'+n+'" height="1" width="1" alt="" /></p>')}; })(); /*]]>*/</script> <noscript><p style="position: absolute; top: -999em;"><img src="/web/20141215084658im_/http://sa.bbc.co.uk/bbc/bbc/s?name=news.world.australia.live_coverage.30475711.page&amp;cps_asset_id=30475711&amp;page_type=live_event&amp;section=%2Fnews%2Fworld%2Faustralia&amp;first_pub=2014-12-15T07%3A29%3A38%2B00%3A00&amp;last_editorial_update=2014-12-15T08%3A02%3A54%2B00%3A00&amp;title=Sydney+cafe+siege+updates&amp;for_nation=us&amp;pal_route=live&amp;ml_name=barlesque&amp;app_type=responsive&amp;language=en-GB&amp;ml_version=0.23.1&amp;pal_webapp=tabloid&amp;prod_name=news&amp;app_name=news&amp;blq_js_enabled=0&amp;blq_s=4d&amp;blq_r=2.7&amp;blq_v=default" height="1" width="1" alt="" /></p></noscript> <!-- End iStats (UX-CMC) -->   <!--[if (gt IE 8) | (IEMobile)]><!--> <header id="orb-banner" role="banner"> <!--<![endif]--> <!--[if (lt IE 9) & (!IEMobile)]> <![if (IE 8)]> <header id="orb-banner" role="banner" class="orb-old-ie orb-ie8"> <![endif]> <![if (IE 7)]> <header id="orb-banner" role="banner" class="orb-old-ie orb-ie7"> <![endif]> <![if (IE 6)]> <header id="orb-banner" role="banner" class="orb-old-ie orb-ie6"> <![endif]> <![endif]--> <div id="orb-header"  class="orb-nav-pri orb-nav-pri-white orb-nav-empty"  > <script type="text/javascript"> (function(){var h=document.getElementById('orb-header');if(/bbc\.co\.uk$/i.test(location.hostname)&&orb_masthead_test.getSegment()=='simple'&&(location.pathname===''||location.pathname==='/'||location.pathname==='/frameworks/test/mandolin/acceptance'&&h.setAttribute)){h.setAttribute('data-max-w','0');h.setAttribute('data-max-d','0');}}()); </script> <div class="orb-nav-pri-container b-r b-g-p"> <div class="orb-nav-section orb-nav-blocks"> <a href="/web/20141215084658/http://www.bbc.co.uk/"> <img  src="/web/20141215084658im_/http://static.bbci.co.uk/frameworks/barlesque/2.82.1/orb/4/img/bbc-blocks-dark.png" width="84" height="24" alt="BBC" /> </a> </div> <section> <div class="orb-skip-links"> <h2>Accessibility links</h2> <ul>  <li><a href="#page">Skip to content</a></li>  <li><a id="orb-accessibility-help" href="/web/20141215084658/http://www.bbc.co.uk/accessibility/">Accessibility Help</a></li> </ul> </div> </section>  <div class="orb-nav-section orb-nav-id orb-nav-focus orb-nav-id-default">     <a id="idcta-link" href="/web/20141215084658/https://ssl.bbc.co.uk/id/status?ptrt=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Flive%2Fworld-australia-30475711"><img id="idcta-image" src="/web/20141215084658im_/http://static.bbci.co.uk/id/0.24.7/img/bbcid_orb_signin_dark.png" alt="" width="18" height="18" /><span id="idcta-username">BBC iD</span></a>           </div>  <nav role="navigation" class="orb-nav"> <div class="orb-nav-section orb-nav-links orb-nav-focus" id="orb-nav-links"> <h2>BBC navigation</h2> <ul>    <li  class="orb-nav-news orb-d"  > <a href="/web/20141215084658/http://www.bbc.co.uk/news/">News</a> </li>    <li  class="orb-nav-newsdotcom orb-w"  > <a href="/web/20141215084658/http://www.bbc.com/news/">News</a> </li>    <li  class="orb-nav-sport"  > <a href="/web/20141215084658/http://www.bbc.co.uk/sport/">Sport</a> </li>    <li  class="orb-nav-weather"  > <a href="/web/20141215084658/http://www.bbc.co.uk/weather/">Weather</a> </li>    <li  class="orb-nav-shop orb-w"  > <a href="/web/20141215084658/http://shop.bbc.com/">Shop</a> </li>    <li  class="orb-nav-earthdotcom orb-w"  > <a href="/web/20141215084658/http://www.bbc.com/earth/">Earth</a> </li>    <li  class="orb-nav-travel-dotcom orb-w"  > <a href="/web/20141215084658/http://www.bbc.com/travel/">Travel</a> </li>    <li  class="orb-nav-capital orb-w"  > <a href="/web/20141215084658/http://www.bbc.com/capital/">Capital</a> </li>    <li  class="orb-nav-iplayer orb-d"  > <a href="/web/20141215084658/http://www.bbc.co.uk/iplayer/">iPlayer</a> </li>    <li  class="orb-nav-culture orb-w"  > <a href="/web/20141215084658/http://www.bbc.com/culture/">Culture</a> </li>    <li  class="orb-nav-autos orb-w"  > <a href="/web/20141215084658/http://www.bbc.com/autos/">Autos</a> </li>    <li  class="orb-nav-future orb-w"  > <a href="/web/20141215084658/http://www.bbc.com/future/">Future</a> </li>    <li  class="orb-nav-tv"  > <a href="/web/20141215084658/http://www.bbc.co.uk/tv/">TV</a> </li>    <li  class="orb-nav-radio"  > <a href="/web/20141215084658/http://www.bbc.co.uk/radio/">Radio</a> </li>    <li  class="orb-nav-cbbc"  > <a href="/web/20141215084658/http://www.bbc.co.uk/cbbc/">CBBC</a> </li>    <li  class="orb-nav-cbeebies"  > <a href="/web/20141215084658/http://www.bbc.co.uk/cbeebies/">CBeebies</a> </li>    <li  class="orb-nav-arts orb-d"  > <a href="/web/20141215084658/http://www.bbc.co.uk/arts/">Arts</a> </li>    <li  > <a href="/web/20141215084658/http://www.bbc.co.uk/ww1/">WW1</a> </li>    <li  class="orb-nav-food"  > <a href="/web/20141215084658/http://www.bbc.co.uk/food/">Food</a> </li>    <li  class="orb-nav-history"  > <a href="/web/20141215084658/http://www.bbc.co.uk/history/">History</a> </li>    <li  class="orb-nav-learning"  > <a href="/web/20141215084658/http://www.bbc.co.uk/learning/">Learning</a> </li>    <li  class="orb-nav-music"  > <a href="/web/20141215084658/http://www.bbc.co.uk/music/">Music</a> </li>    <li  class="orb-nav-science"  > <a href="/web/20141215084658/http://www.bbc.co.uk/science/">Science</a> </li>    <li  class="orb-nav-nature orb-w"  > <a href="/web/20141215084658/http://www.bbc.co.uk/nature/">Nature</a> </li>    <li  class="orb-nav-earth orb-d"  > <a href="/web/20141215084658/http://www.bbc.com/earth/">Earth</a> </li>    <li  class="orb-nav-local"  > <a href="/web/20141215084658/http://www.bbc.co.uk/local/">Local</a> </li>    <li  class="orb-nav-travel orb-d"  > <a href="/web/20141215084658/http://www.bbc.co.uk/travel/">Travel</a> </li>    <li  class="orb-nav-fullaz"  > <a href="/web/20141215084658/http://www.bbc.co.uk/a-z/">Full A-Z</a> </li>    <li id="orb-nav-more"><a href="#orb-footer" data-alt="More">Menu<span class="orb-icon orb-icon-arrow"></span></a></li> </ul> </div> </nav> <div class="orb-nav-section orb-nav-search"> <a href="/web/20141215084658/http://search.bbc.co.uk/search"> <img  src="/web/20141215084658im_/http://static.bbci.co.uk/frameworks/barlesque/2.82.1/orb/4/img/orb-search-dark.png" width="18" height="18" alt="Search the BBC" /> </a> <form class="b-f" id="orb-search-form" role="search" method="get" action="/web/20141215084658/http://search.bbc.co.uk/search" accept-charset="utf-8"> <div>  <input type="hidden" name="uri" value="/news/live/world-australia-30475711" />   <label for="orb-search-q">Search the BBC</label> <input id="orb-search-q" type="text" name="q" placeholder="Search" /> <input type="image" id="orb-search-button" src="/web/20141215084658im_/http://static.bbci.co.uk/frameworks/barlesque/2.82.1/orb/4/img/orb-search-dark.png" width="17" height="17" alt="Search the BBC" /> </div> </form> </div> </div> <div id="orb-panels"  > <script type="text/template" id="orb-panel-template"><![CDATA[ <div id="orb-panel-<%= panelname %>" class="orb-panel" aria-labelledby="orb-nav-<%= panelname %>"> <div class="orb-panel-content b-g-p b-r"> <%= panelcontent %> </div> </div> ]]></script> </div> </div> </header> <!-- Styling hook for shared modules only --> <div id="orb-modules">             
+    <div id="site-container">
+    
+    <!--[if lt IE 9]>
+<div class="browser-notify">
+    <div class="browser-notify__banner">
+        <div class="browser-notify__icon"></div>
+        <span>This site is optimised for modern web browsers, and does not fully support your version of Internet Explorer</span>
+    </div>
+</div>
+<![endif]-->
+            <div class="site-brand site-brand--height" role="banner">
+            <div class="site-brand-inner site-brand-inner--height">
+                <nav class="navigation navigation--primary">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news" id="brand">
+    <img class="brand__logo" src="/web/20141215084658im_/http://static.bbci.co.uk/news/1.54.1-1279/img/brand/news.png" alt="BBC News"/>
+    </a>
+                                            <span class="beta-label">BETA</span>
+                                                            <a href="#core-navigation" class="navigation__section navigation__section--core" data-event="header" role="navigation" aria-label="News">
+                        Sections                    </a>
+                    <div class="find-local-wide" id="find-local-wide">
+    <button class="find-local-wide__link">Find local news</button>
+</div>
+                </nav>
+            </div>
+                        
+
+<div class="navigation navigation--wide">
+    <ul class="navigation-wide-list" role="navigation" aria-label="News" data-panel-id="js-navigation-panel-primary">
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news" class="navigation-wide-list__link">
+                    <span>Home</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/uk" data-panel-id="js-navigation-panel-UK" class="navigation-wide-list__link">
+                    <span>UK</span>
+                </a>
+                            </li>
+                    <li class="selected">
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/world" data-panel-id="js-navigation-panel-World" class="navigation-wide-list__link navigation-arrow--open">
+                    <span>World</span>
+                </a>
+                 <span class="off-screen">selected</span>            </li>
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/business" data-panel-id="js-navigation-panel-Business" class="navigation-wide-list__link">
+                    <span>Business</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/politics" data-panel-id="js-navigation-panel-Politics" class="navigation-wide-list__link">
+                    <span>Politics</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/technology" class="navigation-wide-list__link">
+                    <span>Tech</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/science_and_environment" class="navigation-wide-list__link">
+                    <span>Science</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/health" class="navigation-wide-list__link">
+                    <span>Health</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/education" data-panel-id="js-navigation-panel-Education" class="navigation-wide-list__link">
+                    <span>Education</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/entertainment_and_arts" class="navigation-wide-list__link">
+                    <span>Entertainment &amp; Arts</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/video_and_audio" class="navigation-wide-list__link">
+                    <span>Video &amp; Audio</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/magazine" class="navigation-wide-list__link">
+                    <span>Magazine</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/in_pictures" class="navigation-wide-list__link">
+                    <span>In Pictures</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/also_in_the_news" class="navigation-wide-list__link">
+                    <span>Also in the News</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/special_reports" class="navigation-wide-list__link">
+                    <span>Special Reports</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/explainers" class="navigation-wide-list__link">
+                    <span>Explainers</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/web/20141215084658/http://www.bbc.co.uk/news/the_reporters" class="navigation-wide-list__link navigation-wide-list__link--last">
+                    <span>The Reporters</span>
+                </a>
+                            </li>
+            </ul>
+</div>
+
+    <div class="secondary-navigation secondary-navigation--wide">
+        <nav class="navigation-wide-list navigation-wide-list--secondary" role="navigation" aria-label="World">
+            <a class="secondary-navigation__title navigation-wide-list__link " href="/web/20141215084658/http://www.bbc.co.uk/news/world"><span>World</span></a> <span class="off-screen">selected</span>                            <ul data-panel-id="js-navigation-panel-secondary">
+                                            <li>
+                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/africa"
+                                class="navigation-wide-list__link navigation-wide-list__link--first ">
+                                <span>Africa</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/asia"
+                                class="navigation-wide-list__link  ">
+                                <span>Asia</span>
+                            </a>
+                                                    </li>
+                                            <li class="selected">
+                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/australia"
+                                class="navigation-wide-list__link  ">
+                                <span>Australia</span>
+                            </a>
+                             <span class="off-screen">selected</span>                        </li>
+                                            <li>
+                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/europe"
+                                class="navigation-wide-list__link  ">
+                                <span>Europe</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/latin_america"
+                                class="navigation-wide-list__link  ">
+                                <span>Latin America</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/middle_east"
+                                class="navigation-wide-list__link  ">
+                                <span>Middle East</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/us_and_canada"
+                                class="navigation-wide-list__link  navigation-wide-list__link--last">
+                                <span>US &amp; Canada</span>
+                            </a>
+                                                    </li>
+                                    </ul>
+                    </nav>
+    </div>
+                    </div>
+    
+    
+    
+                        <div class="container-width-only">
+                <span class="index-title index-title--redundant " id="comp-index-title" data-index-title-meta={"id":"comp-index-title","type":"index-title","handler":"indexTitle","deviceGroups":null,"opts":{"alwaysVisible":false,"onFrontPage":false},"template":"index-title"}>
+        <span class="index-title__container">
+            <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/australia">Australia</a>
+        </span>
+    </span>
+            </div>
+            
+
+       <div id="page" class="story"> <link rel="stylesheet" href="/web/20141215084658cs_/http://static.bbci.co.uk/live-experience/1.2.856/css/live-experience.css" media="screen" /><link rel="stylesheet" href="/web/20141215084658cs_/http://static.bbci.co.uk/live-experience/1.2.856/css/theme-news.css" media="screen" /><meta name="fragment" content="!">
+<noscript><meta http-equiv="refresh" content="0; URL=/web/20141215084658/http://www.bbc.co.uk/news/live/world-australia-30475711?live_variant=nonjs" /></noscript>
+<noscript><style>.lx-pre-angular, .lx__loader { display: none !important; }</style></noscript>
+<script type="text/javascript">
+document.write('<style id="font-face-test">@font-face {font-family:"font";src:url("https://")}</style>');
+var LX = {
+    browser : {
+        isIE8: false
+    },
+    cuts_the_mustard : false,
+    features: {}
+};
+</script>
+<!--[if IE 8]>
+<script type="text/javascript">LX.browser.isIE8 = true;</script>
+<![endif]-->
+
+<script type="text/javascript">
+    LX.cuts_the_mustard = (function () {
+        var enhanced = (
+            'addEventListener' in window &&
+            'querySelector' in window.document &&
+            'localStorage' in window
+        );
+        return (enhanced || LX.browser.isIE8);
+    })();
+
+    LX.features = {
+        supportsAV: !(/(iemobile|windows phone)/).test(navigator.userAgent.toLowerCase()),
+
+        hasTouch: (function () {
+            return (('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch);
+        })(),
+
+        fontface: (function () {
+            // Exclude if doesn't pass mustard test
+            if (!LX.cuts_the_mustard) {
+                return false;
+            }
+
+            // Exclude false positives
+            // /web/20141215084658/http://blog.kaelig.fr/post/33373448491/testing-font-face-support-on-mobile-and-tablet
+            if (!!navigator.userAgent.match(/(Android (2.0|2.1))|(Nokia)|(Opera (Mini|Mobi))/)) {
+                return false;
+            }
+            if (!!navigator.userAgent.match(/(w(eb)?OSBrowser)|(UCWEB)|(Windows Phone OS 7)|(XBLWP)|(ZuneWP)/)) {
+                return false;
+            }
+
+            if (navigator.userAgent.match(/MSIE 10.0/)) return true;
+
+            var style = document.getElementById('font-face-test'),
+                sheet = style.sheet || style.styleSheet,
+                cssText = '';
+
+            if (sheet) {
+                if (sheet.cssRules && sheet.cssRules[0]) {
+                    cssText = sheet.cssRules[0].cssText;
+                } else {
+                    cssText = sheet.cssText || '';
+                }
+            }
+
+            if (/src/i.test(cssText) && cssText.indexOf('@font-face') === 0) {
+                return true;
+            }
+            return false;
+        })(),
+
+        cssAnimations: (function  () {
+
+            // stolen from
+            // /web/20141215084658/https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_animations/Detecting_CSS_animation_support
+            var animation = false,
+                animationstring = 'animation',
+                keyframeprefix = '',
+                domPrefixes = 'Webkit Moz O ms Khtml'.split(' '),
+                pfx  = '',
+                elm = document.createElement('div');
+
+            document.documentElement.appendChild(elm);
+
+            if( elm.style.animationName !== undefined ) { animation = true; }
+
+            if( animation === false ) {
+                for( var i = 0; i < domPrefixes.length; i++ ) {
+                    if( elm.style[ domPrefixes[i] + 'AnimationName' ] !== undefined ) {
+                        pfx = domPrefixes[ i ];
+                        animationstring = pfx + 'Animation';
+                        keyframeprefix = '-' + pfx.toLowerCase() + '-';
+                        animation = true;
+                        break;
+                    }
+                }
+            }
+
+            elm.parentNode.removeChild(elm);
+
+            return animation;
+        }()),
+
+        classList: (function () {
+           return (document.documentElement.classList) ? true : false;
+        })()
+    };
+
+    LX.addClass = function (element, cssClass) {
+        if (LX.features.classList) {
+            element.classList.add(cssClass);
+        } else {
+            element.className += ' ' + cssClass;
+        }
+    };
+
+    LX.addFeatureClasses = function () {
+        var htmlElement = document.querySelector('html');
+            LX.addClass(htmlElement, 'feature-js');
+
+        if (LX.features.hasTouch) {
+            LX.addClass(htmlElement, 'feature-touch');
+        } else {
+            LX.addClass(htmlElement, 'feature-no-touch');
+        }
+
+        if (!LX.features.supportsAV) {
+            LX.addClass(htmlElement, 'lx-no-media');
+        }
+
+        if (LX.features.fontface) {
+            LX.addClass(htmlElement, 'feature-fontface');
+        } else {
+            LX.addClass(htmlElement, 'feature-no-fontface');
+        }
+
+        if (LX.features.cssAnimations) {
+            LX.addClass(htmlElement, 'feature-cssanimations');
+        }
+
+        if (LX.cuts_the_mustard) {
+            LX.addClass(htmlElement, 'lx-cuts-the-mustard');
+        }
+    };
+    LX.addFeatureClasses();
+</script><script type="text/javascript">
+define('live-experience/config', ['istats-1'], function(istats) {
+
+    var counterName,
+        appSuffix = function() {
+            if(/\/[\w\d]{0,}\.app/.test(window.location.href)) {
+                return ".app";
+            }
+            return "";
+        };
+
+    try{
+        counterName = istats.getCountername();
+    } catch (e) {
+        counterName = undefined;
+    }
+    return {
+        appSuffix: appSuffix(),
+        mustard: window.LX.cuts_the_mustard,
+        counterName: counterName,
+        promos: {"sport":{"winterolympics2014":{"hyperpuff":"\/sport\/winter-olympics\/25683480","primaryconcept":"/web/20141215084658/http://www.bbc.co.uk\/things\/079a365b-0602-42f8-83d5-9db03c6b16c7#id"}}},
+        host: '/web/20141215084658/http://open.bbci.co.uk',
+        ichefHost: '/web/20141215084658/http://ichef.bbci.co.uk',
+        isUk: '0',
+        staticPrefix: '/web/20141215084658/http://static.bbci.co.uk/live-experience/1.2.856',
+        env: 'live',
+        epoch: '1418633201',
+        date: '2014-12-15',
+        countryCode : 'US',
+                    isCoverageToday: true,
+                            media: {
+                product: 'news',
+                siteId: 'News',
+                defaultPlaylist: '/web/20141215084658/http://playlists.bbc.co.uk/sport/0/26757344A/playlist.sxml',
+                guidanceCleared: '1'
+            },
+                            flagpoles: {
+                chapterMarkers: 'ON',
+                liveRewindOnMobile: 'ON',
+                smpAirPlugins:  'ON',
+                aBTesting:  ''
+            },
+                            vote: {
+                iframeSrcBase: '/web/20141215084658/http://iframevote.tectonicinteractive.com/?sid=40&pageID={{cpsid}}'
+            },
+                batchRequests: true,
+        livePush: 'OFF',
+        brokerHistory: true    };
+});
+
+require.config({
+    paths: {
+        'angular': '/web/20141215084658/http://static.bbci.co.uk/live-experience/1.2.856/modules/lib/angular',
+        'socket.io': '/web/20141215084658/http://static.bbci.co.uk/live-experience/1.2.856/modules/lib/socket.io',
+        'live-push': '/web/20141215084658/http://a.files.bbci.co.uk/live-push-handshaker/live/live-push/live-push',
+                'live-experience': '/web/20141215084658/http://static.bbci.co.uk/live-experience/1.2.856/modules/src/live-experience',
+        'io': '/web/20141215084658/http://static.bbci.co.uk/live-experience/1.2.856/modules/io/src/io',
+                'bump-3': '/web/20141215084658/http://emp.bbci.co.uk/emp/bump-3/bump-3',
+        'MomentDateUtility': '/web/20141215084658/http://static.bbci.co.uk/live-experience/1.2.856/modules/lib/moment.min',
+        'imager': '/web/20141215084658/http://static.bbci.co.uk/live-experience/1.2.856/modules/lib/imager',
+        'he': '/web/20141215084658/http://static.bbci.co.uk/live-experience/1.2.856/modules/lib/he'
+    },
+    shim: {
+        angular: {
+            exports: 'angular'
+        },
+        MomentDateUtility: {
+            exports: 'moment'
+        },
+        ngDropdowns: {
+            deps: ['angular'],
+            exports: 'ngDropdowns'
+        }
+    }
+});
+</script>
+<script type="text/javascript">
+    if (!LX.cuts_the_mustard) {
+        document.write('<style>.lx-pre-angular, .lx__loader { display: none !important; }</style>')
+    }
+</script>
+
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="/web/20141215084658/http://static.bbci.co.uk/live-experience/1.2.856/css/fixed.css">
+    <script src="/web/20141215084658/http://static.bbci.co.uk/live-experience/1.2.856/modules/lib/json3.min.js"></script>
+    <script src="/web/20141215084658/http://static.bbci.co.uk/live-experience/1.2.856/modules/lib/index-of.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+    if (typeof bbcdotcom !== 'undefined' &&
+        typeof bbcdotcom.init !== 'undefined') {
+        bbcdotcom.init({adsToDisplay:['wallpaper', 'leaderboard', 'mpu']});
+    }
+
+    if (LX.cuts_the_mustard && LX.browser.isIE8 === false) {
+        document.write('<link rel="stylesheet" href="/web/20141215084658/http://static.bbci.co.uk/live-experience/1.2.856/css/responsive.css" />');
+    }
+</script>
+<script type="text/javascript">
+define('live-experience/prefetched', [], function () {
+        return {"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport":[{"id":"cd1563f33f9916a92c09c6e7be2f0a22","lastModified":"2014-12-15T08:14:31.339+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":{},\"body\":\"<p>Welcome to the BBC&#039;s live updates on the hostage situation in Sydney, Australia, where a gunman is holding staff and customers inside The Lindt cafe in the city centre.<\/p>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"08:12\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"f0d56bb4ff8d76d1e0421db117606aa1","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:13:00.000+0000"},{"id":"b05c612b266c165b57ede8bb7aea08a8","lastModified":"2014-12-15T08:19:46.387+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":{},\"body\":\"<p>We have recently moved to a new page on the website. Please click on <a href=\\\"/web/20141215084658/http://www.bbc.co.uk\/news\/world-australia-30474089\\\" >the original link<\/a> to view updates from the past seven hours.<\/p>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"08:18\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"d5ce40ccab79ff586b37ccecfbe086d2","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:18:22.000+0000"},{"id":"e66a580ea91cb180e55d38c205cf24c6","lastModified":"2014-12-15T08:19:46.387+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":{},\"body\":\"<p>If you are just joining us, the latest situation is that armed police are surrounding the cafe and officers have made contact with the gunman. Five people have been seen running from the building but it is not clear how many remain inside. A black Islamic flag has been displayed at the window.<\/p>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"08:18\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"f1f90e346970df6c650b324a00185523","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:18:53.000+0000"},{"id":"186dd753291fe07650595a899a322ecc","lastModified":"2014-12-15T08:21:28.334+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":{},\"body\":\"<p>New South Wales deputy police commissioner Catherine Burn told reporters she cannot confirm demands by the gunman as reported by media outlets. &quot;We have to deal with him on the level of police negotiation. We cannot engage in speculation.&quot;<\/p>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"08:21\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"2938d3d6398453d82c5b01606322aff0","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:21:12.000+0000"},{"id":"ed6a6d7c7e7e2c879329645579a96fbb","lastModified":"2014-12-15T08:23:39.281+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":{},\"body\":\"<div class=\\\"caption full-width\\\">\\n  <img imager=\\\"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79728000\/jpg\/_79728271_025123906-1.jpg\\\" imager-transform=\\\"cps\\\" imager-alt=\\\"One of the hostages runs towards police from a cafe in the central business district of Sydney on 15 December 2014\\\"\/>\\n\\n  <\/div>\\n<div class=\\\"caption full-width\\\">\\n  <img src=\\\"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79728000\/jpg\/_79728273_025123925-1.jpg\\\"   alt=\\\"A hostage runs to armed tactical response police officers for safety after she escaped from a cafe under siege at Martin Place in the central business district of Sydney, Australia, Monday, 15 December 2014\\\" \/>\\n\\n  <\/div>\\n      <p>Here are images from earlier of two women who fled the cafe. They were wearing brown uniforms with the Lindt logo.<\/p>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"08:23\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"2a84c869aa521508b96265ae78691e82","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:23:12.000+0000"},{"id":"2e232527dcd339761e90d67b462d38ba","lastModified":"2014-12-15T08:24:49.854+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":{},\"body\":\"<p>Deputy police commissioner Catherine Burn says that the five hostages who left the cafe &quot;are now being assessed to make sure their health is okay and then police will talk to them&quot;. She would not confirm how many are left in the cafe.<\/p>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"08:24\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"32be7c3aad8cf815a36b2c2c5700b63f","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:24:17.000+0000"},{"id":"de6ee2048c6542bfc0dd07718eb0815f","lastModified":"2014-12-15T08:25:59.954+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":{},\"body\":\"<p><a href=\\\"/web/20141215084658/https://twitter.com\/David_Cameron\/status\/544389639046721537\\\" >has tweeted:<\/a> I was briefed overnight on the siege in Sydney. It&#039;s deeply concerning and my thoughts are with all those caught up in it.<\/p>\",\"type\":\"tweet\",\"bodyTextClass\":\"georgia\",\"source\":\"via Twitter\",\"hasContributor\":true,\"contributor\":{\"description\":\"British Prime Minister\",\"name\":\"David Cameron\"},\"contributorName\":\"David Cameron\",\"icon\":\"\/images\/ltc-get-involved.png\",\"iconClass\":\"lx-ltc__icon-getinvolved\",\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":true,\"hasSource\":true,\"hasTime\":false,\"hasHasContributor\":true,\"hasContributorName\":true,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__posts--user\",\"lx-ltc__posts--third-party\",\"has-icon\"]}}","payloadHash":"443c8b3f3f44003a623c7cc2c956883a","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:25:44.000+0000"},{"id":"b0461815426aafa521167ed5d9c490a4","lastModified":"2014-12-15T08:29:31.512+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":\"Tweet us\",\"body\":\"<p>Zeynep Ertuk in Sydney <a href=\\\"/web/20141215084658/https://twitter.com\/ItsZeynepErturk\/status\/544404928362323968\\\" >tweets<\/a>: Sydney CBD is a ghost town, was sent home from work because its so quiet! Hope the #MartinPlaceSiege ends peacefully! #SydneyHostageCrisis<\/p>\",\"type\":\"tweet\",\"bodyTextClass\":\"georgia\",\"source\":\"via Twitter\",\"time\":\"08:28\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":\"\/images\/ltc-get-involved.png\",\"iconClass\":\"lx-ltc__icon-getinvolved\",\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":true,\"hasSource\":true,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__posts--user\",\"has-icon\"]}}","payloadHash":"aa3e6a80bba1af6c0cacfbd12e820b1d","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:28:44.000+0000"},{"id":"a0693697a9bf991bdf59bd7ef6730f60","lastModified":"2014-12-15T08:31:12.283+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":{},\"body\":\"<p>Earlier PM Tony Abbott praised the people of Sydney for &quot;the calmness with which they have reacted to this disturbing incident&quot;. He said: &quot;We are a free, open and generous people and today we have responded to this in character.... Yes it has been a difficult day. Yes it is a day which has tested us but so far, like Australians in all sorts of situations, we have risen to the challenge.&quot;<\/p>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"08:31\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"e1636fcd94d94252248cf59e34a94221","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:31:05.000+0000"},{"id":"1308a9778b01f89dbd4c9675c4ea3983","lastModified":"2014-12-15T08:33:23.341+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":\"New South Wales Police\",\"subHeading\":\"@nswpolice\",\"body\":\"<p>New South Wales Police <a href=\\\"/web/20141215084658/https://twitter.com\/nswpolice\/status\/544400911389302784\\\" >tweets<\/a>: Deputy Commissioner Burn: &quot;Our approach is to resolve the situation as peacefully as possible. The priority is the safety of all involved.&quot;<\/p>\",\"type\":\"tweet\",\"bodyTextClass\":\"georgia\",\"source\":\"via Twitter\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":\"\/images\/ltc-get-involved.png\",\"iconClass\":\"lx-ltc__icon-getinvolved\",\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":true,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":true,\"hasSource\":true,\"hasTime\":false,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__posts--user\",\"has-icon\"]}}","payloadHash":"c808817799b631141ae2ba4f017f7305","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:32:46.000+0000"},{"id":"bf5db38a831a6f8a34f5d2b1a7c563a4","lastModified":"2014-12-15T08:33:58.522+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":{},\"body\":\"<p>Twitter users are circulating a screenshot of a woman&#039;s Facebook post, where she says she is a hostage, and lists the gunman&#039;s demands. The screenshot was purportedly taken by a friend of the woman. Police have said they are monitoring all communication channels.<\/p>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"08:33\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"11430febd27baf5ac4606064753408c1","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:33:54.000+0000"},{"id":"78c7615e89d63df35ae5a6e0bb0e9f3f","lastModified":"2014-12-15T08:34:36.564+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":{},\"body\":\"<p>Channel 7 reporter Chris Reason, who has a direct line of sight of the cafe, <a href=\\\"/web/20141215084658/https://twitter.com\/ChrisReason7\/status\/544407397964324864\\\" >reports<\/a>: &quot;All the hostages now huddled at one end of Lindt Cafe, one is covering the window at that end with an apron.&quot; Earlier he saw food being brought out from kitchen by staff and distributed to other hostages.<\/p>\",\"type\":\"tweet\",\"bodyTextClass\":\"georgia\",\"source\":\"via Twitter\",\"time\":\"08:34\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":\"\/images\/ltc-get-involved.png\",\"iconClass\":\"lx-ltc__icon-getinvolved\",\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":true,\"hasSource\":true,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__posts--user\",\"has-icon\"]}}","payloadHash":"49e91183d27a1aba90df822648f35659","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:34:24.000+0000"},{"id":"96d085721f2955e6d06c865d017b640f","lastModified":"2014-12-15T08:36:43.991+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":{},\"subHeading\":\"@BBCr4Today\",\"body\":\"<p><a href=\\\"/web/20141215084658/https://twitter.com\/BBCr4today\/status\/544406212461473792\\\" >tweets:<\/a> BBC&#039;s Frank Gardner on #SydneySiege: &quot;This is not a sophisticated siege...the gunman has got the wrong [Islamic] flag&quot; #r4today<\/p>\",\"type\":\"tweet\",\"bodyTextClass\":\"georgia\",\"source\":\"via Twitter\",\"time\":\"08:35\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":\"\/images\/ltc-get-involved.png\",\"iconClass\":\"lx-ltc__icon-getinvolved\",\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":true,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":true,\"hasSource\":true,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__posts--user\",\"has-icon\"]}}","payloadHash":"5bd26c9297a0dac7677b89201ff64516","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:36:13.000+0000"},{"id":"ba8fcc8d2e3a942debd28ad6c4a1619d","lastModified":"2014-12-15T08:37:58.914+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":{},\"body\":\"<p>On social media, the hashtag #sydneysiege is the top global trend on Twitter. Other hashtags like #siege, #MartinPlace are also trending. <\/p>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"08:37\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"1fe0589e75d301bff348e55ec4d86300","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:37:38.000+0000"},{"id":"a9291d9a7bdf06c2d7e59f0693c70212","lastModified":"2014-12-15T08:38:29.321+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":{},\"body\":\"<p>Most people on Twitter are urging people to show calm and not target any specific community over the incident, says BBC Monitoring&#039;s Vikas Pandey. However, some others have been quick to blame the jihadist group, Islamic State, for the siege.<\/p>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"08:38\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"b3f3b62286c25ce77f21a32d9b81cc7a","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:38:16.000+0000"},{"id":"1c733054644643796057825de90f059c","lastModified":"2014-12-15T08:42:18.294+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":{},\"body\":\"<p>says the black and white flag displayed by the gunmen in Sydney is similar but not the same as the Islamic State flag, which is a much cruder script. He says this one is essentially the same Arabic inscription from the Koran as that displayed on the Saudi national flag, which uses a green rather than a black background.<\/p>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"08:41\",\"hasContributor\":true,\"contributor\":{\"description\":\"BBC security correspondent\",\"name\":\"Frank Gardner\",\"imageref\":{\"description\":\"MediaItem: 64915760\",\"uri\":\"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/64915000\/jpg\/_64915762_64915760.jpg\"},\"sourceref\":{\"uri\":\"/web/20141215084658/http://www.twitter.com\/#!\/@frankrgardner\"}},\"contributorName\":\"Frank Gardner\",\"icon\":\"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/64915000\/jpg\/_64915762_64915760.jpg\",\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":true,\"hasIcon\":true,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--third-party\",\"has-icon\"],\"url\":\"/web/20141215084658/http://www.twitter.com\/#!\/@frankrgardner\"}}","payloadHash":"41494199a5c28dcf3a3bba34656ee6a4","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:41:32.000+0000"},{"id":"c82319f7bf6669f13d5d6a43724b57fd","lastModified":"2014-12-15T08:44:27.949+0000","payload":"{\"post\":{\"theme\":\"sport\",\"title\":{},\"body\":\"<div class=\\\"caption full-width\\\">\\n  <img imager=\\\"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79729000\/jpg\/_79729760_025124534-1.jpg\\\" imager-transform=\\\"cps\\\" imager-alt=\\\"A hostage runs to safety outside the Lindt Cafe, Martin Place on 15 December 2014 in Sydney, Australia\\\"\/>\\n\\n  <\/div>\\n      <p>Here&#039;s another image of one of the five people who fled the cafe earlier.<\/p>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"08:43\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"b126149bc1e1ede502f2a98a9aadf267","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb&limit=21&template=pulsar&theme=sport","timestamp":"2014-12-15T08:43:42.000+0000"}]};
+    });
+</script>
+    <link rel="stylesheet" href="/web/20141215084658cs_/http://static.bbci.co.uk/gelstyles/0.8.1/style/core.css" />
+  <!--[if (lte IE 7)&(!IEMobile)]>
+    <link rel="stylesheet" href="/web/20141215084658/http://static.bbci.co.uk/gelstyles/0.8.1/style/core-ie7.css" />
+  <![endif]-->
+
+<!--[if lt IE 8]>
+<div class="lx-group live-space br-box-subtle is-old-ie lx-pre-angular-bootstrap" role="main" id="live-space">
+<![endif]-->
+
+<!--[if IE 8]>
+<div class="lx-group live-space br-box-subtle is-ie8 lx-pre-angular-bootstrap" role="main" id="live-space">
+<![endif]-->
+
+<!--[if gt IE 8]><!-->
+<div class="lx-group live-space br-box-subtle lx-pre-angular-bootstrap" role="main" id="live-space">
+<!--<![endif]-->
+
+    <noscript>
+    <div class="live-notice--container">
+        <div class="live-notice">
+            <p class="live-notice--text lx-long-primer">We use JavaScript to ensure we can give you the best experience on our website.
+            JavaScript is not supported in your browser. For a better experience, enable JavaScript or <a class="live-notice--link" href="/web/20141215084658/http://www.bbc.co.uk/news/live/world-australia-30475711?live_variant=nonjs">redirect to the No JavaScript version of the page</a>.</p>
+        </div>
+    </div>
+</noscript>
+
+<script type="text/javascript">
+(function(LX) {
+	if (LX.cuts_the_mustard) {
+		return;
+	}
+	document.write(
+		'<div class="live-notice--container">' +
+        	'<div class="live-notice">' +
+            	'<p class="live-notice--text lx-long-primer">' +
+            		'We are redirecting you to a page suitable for your browser. ' +
+            		'<a class="live-notice--link" href="/news/live/world-australia-30475711?live_variant=nonjs">' + 
+            		'Click here if your browser does not redirect automatically.</a>' +
+            	'</p>' +
+       		'</div>' +
+    	'</div>'
+	);
+}(LX));
+</script>
+    <script type="text/javascript">
+    setTimeout(function () {
+      document.getElementById('lx-loading-message').innerHTML = 'Loading <span>Sydney cafe siege updates</span>';
+    }, 5000);
+    </script>
+
+    <div live-error></div>
+     <div class="bbccom_slot"> <div class="bbccom_advert bbccom_display_none"> <script type="text/javascript"> if (typeof bbcdotcom !== 'undefined' && typeof bbcdotcom.objects !== 'undefined' && bbcdotcom.objects('bbcdotcom.adverts.slot')) { bbcdotcom.adverts.slot('leaderboard', [1,2,3,4]); } </script> </div> <script type="text/javascript"> if (typeof bbcdotcom !== 'undefined' && typeof bbcdotcom.objects !== 'undefined' && bbcdotcom.objects('bbcdotcom.adverts.adRegister.getCurrentAd')) { bbcdotcom.adverts.adRegister.getCurrentAd().show(); } </script> </div>  
+     <div class=" lxw-header lx-pre-angular is-full no-media media-inactive not-live" > <div class="live-media-cta"> <div class="lx-media-player"></div> <section class="lx-sessionimg" role="region" aria-label="Coverage image"> <div class="lx-sessionimg__placeholder"> </div> </section> <div class="live-header"> <div class="live-header-content"> <div class="live-header-content__cta"> <span class="lxw-title"> <h1 class="live-media-title__copy lx-trafalgar" > <span class="lx-icon lx-icon__live--medium">Live: </span>Sydney cafe siege updates </h1> <div class="live-media__bg live-media-title__bg"></div> </span> </div> </div> </div> </div> <div class=" lxw-tabs tabs-hidden ">  <div class="lxw-tab-content lx-group">   <div class="live-tab-content "> <section class="lx-summary live-header-tab-module" role="region" aria-labelledby="live-summary" aria-atomic="true" > <h2 class="lx-summary__title lx-pica">Summary</h2> <ol class="lx-summary__keypoints lx-long-primer lx-group" aria-live="polite">  <li class="lx-summary__keypoint"> <span class="lx-summary__keypoint--bullet" aria-hidden="true">&nbsp;</span>At least one gunman has taken several people hostage at a cafe in the Australian city of Sydney </li>  <li class="lx-summary__keypoint"> <span class="lx-summary__keypoint--bullet" aria-hidden="true">&nbsp;</span>People inside the cafe have been seen holding up a black flag with Arabic writing at the window </li>  <li class="lx-summary__keypoint"> <span class="lx-summary__keypoint--bullet" aria-hidden="true">&nbsp;</span>Five people have been seen running from the building. It is not clear how many hostages remain inside </li>  <li class="lx-summary__keypoint"> <span class="lx-summary__keypoint--bullet" aria-hidden="true">&nbsp;</span>Police negotiators say they have established contact with a gunman inside the cafe </li>  <li class="lx-summary__keypoint"> <span class="lx-summary__keypoint--bullet" aria-hidden="true">&nbsp;</span>Police have cordoned off a large area of Sydney's central business district </li>  <li class="lx-summary__keypoint"> <span class="lx-summary__keypoint--bullet" aria-hidden="true">&nbsp;</span>Australian Prime Minister Tony Abbott describes the hostage incident as &quot;deeply concerning&quot; </li>  <li class="lx-summary__keypoint"> <span class="lx-summary__keypoint--bullet" aria-hidden="true">&nbsp;</span>All times GMT </li>  </ol> </section> </div>  </div> </div> </div> 
+    <script type="text/ng-template" id="share-tools.tpl">
+<div />
+</script>
+<div class="lxw-header lx-post-angular is-compact no-media media-inactive" media-status media-playing-status live-status header-status ng-controller="HeaderController">
+    <div cta class="live-media-cta">
+        <section session-image></section>
+        <div media-player></div>
+    </div>
+    <ul tabs>
+        <li class="lx-tabs__item" tab title="Information" icon="event-info">
+            <div liveheader></div>
+        </li><li class="lx-tabs__item" tab title="Key Points" ng-controller="KeyPointsController">
+            <div summary title="Key Points"></div>
+        </li><li class="lx-tabs__item" tab title="Key Video" ng-if="supportsMedia">
+            <div carousel id="lx-media-switcher-highlights" title="Key Video">
+                <ol class="lx-carousel__items lx-group" ng-controller="HighlightsController" title="Key Video">
+                    <li media-items></li>
+                </ol>
+            </div>
+        </li><li class="lx-tabs__item" tab title="Live Coverage" ng-if="supportsMedia">
+            <div carousel id="lx-media-switcher-live" title="Live Coverage">
+                <ol class="lx-carousel__items lx-group" ng-controller="RelatedContentController" title="Live Coverage">
+                    <li media-items></li>
+                </ol>
+            </div>
+        </li>
+    </ul>
+</div>
+
+<div class="lxw-body lx-post-angular lx-group" content-tabs="has-secondary-content" ng-controller="LtcContentTabsController" ng-class="{true:'lxw-body--has-content', false:''}[hasContent]">
+    <div class="lxw-primary lx-content-tabs__hidden">
+        <div livetext theme="news" livetext limit="20" content-tab="Reporting" coverage="coverage" ></div>
+    </div>
+    <aside class="lxw-secondary" ng-controller="SecondaryContentTabsController">
+        <div content-tab="More from News">
+            <div more-from="News" tab-title="More from News" coverage="coverage"></div>
+        </div>
+    </aside>
+</div>
+
+    <div loader class="lx__loader br-box-page" ng:class="{true:'lx__loader--loaded', false:''}[loaded]">
+        <p class="lx-double-pica" id="lx-loading-message">This page automatically updates</p>
+    </div>
+</div>
+
+
+<!--[if IE 8]>
+    <script>require(['live-experience/tools/no_fontface']);</script>
+<![endif]--><script type="text/javascript">
+(function(LX) {
+	if (!LX.cuts_the_mustard) {
+    	var loc = window.location,
+    		url = loc.protocol + "//" + loc.host + '/news/live/world-australia-30475711?live_variant=nonjs';
+
+        window.location.href = url;
+    }
+}(LX));
+</script><script type="text/javascript">
+    define('live-experience/historyData', function () {
+        return [];
+    });
+
+    define('live-experience/services', function () {
+        return ["coverage:\/\/coverage?id=\/news\/live\/world-australia-30475711&template=sport.coverage&isuk=0&template=sport.coverage&isuk=0","pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb"];
+    });
+
+    define('live-experience/coverage', function () {
+                return {"assetId":"30475711","assetUri":"\/news\/live\/world-australia-30475711","coverageUrl":"/web/20141215084658/http://www.bbc.co.uk\/news\/live\/world-australia-30475711","type":"LIV","isLive":false,"isAllDayEvent":true,"feedsLive":false,"status":"CATCH UP","headline":"Sydney cafe siege updates","shortHeadline":"Sydney cafe siege updates","summary":"Latest updates as police surround a cafe in central Sydney, Australia, where people are being held hostage.","scheduledStartTime":"2014-12-15T00:00:00+00:00","scheduledEndTime":"2014-12-15T00:00:00+00:00","primaryConceptId":null,"secondaryConceptId":null,"iStatsCounterName":"news.world.australia.live_coverage.30475711.page","mediaPlayerItems":[{"mediaType":"video","title":"BBC coverage of Sydney siege","availability":{"state":"LIVE"},"poster":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79726000\/jpg\/_79726987_79726986.jpg","playlist":"/web/20141215084658/http://playlists.bbc.co.uk\/news\/world-asia-30474081A\/playlist.sxml","itemType":"episode","pid":"journalism_news_stream_01"},{"mediaType":"video","title":"Sydney siege: 'Things escalated'","availability":{"state":"HIGHLIGHT"},"poster":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79728000\/jpg\/_79728383_hi025123926.jpg","playlist":"/web/20141215084658/http://playlists.bbc.co.uk\/news\/world-australia-30475108A\/playlist.sxml","itemType":"episode","pid":"p02f7519","duration":"01:17 mins"},{"mediaType":"video","title":"People flee Sydney siege building","availability":{"state":"HIGHLIGHT"},"poster":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727780_79727779.jpg","playlist":"/web/20141215084658/http://playlists.bbc.co.uk\/news\/world-australia-30474430A\/playlist.sxml","itemType":"episode","pid":"p02f76dl","duration":"1 min"},{"mediaType":"video","title":"'Armed offender holding hostages'","availability":{"state":"HIGHLIGHT"},"poster":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727626_79727625.jpg","playlist":"/web/20141215084658/http://playlists.bbc.co.uk\/news\/world-australia-30474425A\/playlist.sxml","itemType":"episode","pid":"p02f72hp","duration":"03:34 mins"},{"mediaType":"video","title":"Abbott: 'A very disturbing incident'","availability":{"state":"HIGHLIGHT"},"poster":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727206_79727205.jpg","playlist":"/web/20141215084658/http://playlists.bbc.co.uk\/news\/world-australia-30474082A\/playlist.sxml","itemType":"episode","pid":"p02f71c6","duration":"03:08 mins"}],"keyPoints":["At least one gunman has taken several people hostage at a cafe in the Australian city of Sydney","People inside the cafe have been seen holding up a black flag with Arabic writing at the window","Five people have been seen running from the building. It is not clear how many hostages remain inside","Police negotiators say they have established contact with a gunman inside the cafe","Police have cordoned off a large area of Sydney's central business district","Australian Prime Minister Tony Abbott describes the hostage incident as \"deeply concerning\"","All times GMT"],"section":{"name":"Australia","uri":"\/news\/world\/australia","urlIdentifier":"\/news\/world\/australia"},"site":{"name":"BBC News"},"images":{"index":{"79729307":{"height":945,"width":1680,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79729000\/jpg\/_79729307_79729077.jpg","altText":"Armed police officers close to the site of a hostage situation in Sydney","copyrightHolder":"AP","originCode":"mcs"}},"index-thumbnail":{"79729309":{"height":180,"width":320,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79729000\/jpg\/_79729309_79729077.jpg","altText":"Armed police officers close to the site of a hostage situation in Sydney","copyrightHolder":"AP","originCode":"mcs"}},"hero":{"79729306":{"height":945,"width":1680,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79729000\/jpg\/_79729306_79729077.jpg","altText":"Armed police officers close to the site of a hostage situation in Sydney","copyrightHolder":"AP","originCode":"mcs"}},"compact-hero":{"79729080":{"height":473,"width":1680,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79729000\/jpg\/_79729080_79729077.jpg","altText":"Armed police officers close to the site of a hostage situation in Sydney","copyrightHolder":"AP","originCode":"mcs"}},"slideshow":{"79729311":{"height":216,"width":384,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79729000\/jpg\/_79729311_79729077.jpg","altText":"Armed police officers close to the site of a hostage situation in Sydney","copyrightHolder":"AP","originCode":"mcs"}}},"options":{"allowAdvertising":true},"body":"","relatedGroups":[],"relatedHypers":[{"title":"Sydney cafe siege","groups":[{"type":"hyper-container-title","title":"Sydney cafe siege","strapline":{"name":"Sydney cafe siege"},"groups":[{"type":"hyper-related-assets","title":"Group Title 1","items":[{"assetId":"30474089","assetUri":"\/news\/world-australia-30474089","commentary":{"order":"descending","assetUUID":"153E880BFEFE47459EEFEC878F8B62B5","channels":{"enhancedmobile":"bbc.cps.asset.30474090_EnhancedMobile","desktop":"bbc.cps.asset.30474090_HighWeb","highweb":"bbc.cps.asset.30474090_HighWeb","mobile":"bbc.cps.asset.30474090_EnhancedMobile"}},"firstCreated":"2014-12-15T00:59:56+00:00","headline":"Sydney cafe siege updates","isLive":true,"language":"en-gb","lastUpdated":"2014-12-15T00:59:56+00:00","media":{"images":{"index":{"79727212":{"height":432,"width":768,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727212_79727211.jpg","altText":"Police in Martin Place, Sydney (15 Dec 2014)","copyrightHolder":"AP","originCode":"mcs"}},"index-thumbnail":{"79727214":{"height":180,"width":320,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727214_79727211.jpg","altText":"Police in Martin Place, Sydney (15 Dec 2014)","copyrightHolder":"AP","originCode":"mcs"}}}},"options":{"isBreakingNews":false},"overtypedHeadline":"Live updates","prominence":"standard","section":{"name":"Australia","id":"102293","uri":"\/news\/world\/australia","urlIdentifier":"\/news\/world\/australia"},"summary":"Live coverage as police surround a cafe in central Sydney, Australia, where people are being held hostage.","type":"LEP"},{"assetId":"30474275","assetUri":"\/news\/world-australia-30474275","firstCreated":"2014-12-15T02:34:06+00:00","headline":"In pictures: Sydney siege","language":"en-gb","lastUpdated":"2014-12-15T02:34:06+00:00","media":{"images":{"index":{"79727526":{"height":549,"width":976,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727526_79727525.jpg","altText":"Armed policeman talk on Phillip St close to Martin Place on December 15, 2014 in Sydney, Australia","copyrightHolder":"Getty Images","originCode":"mcs"}},"index-thumbnail":{"79727528":{"height":180,"width":320,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727528_79727525.jpg","altText":"Armed policeman talk on Phillip St close to Martin Place on December 15, 2014 in Sydney, Australia","copyrightHolder":"Getty Images","originCode":"mcs"}}}},"options":{"isBreakingNews":false},"overtypedHeadline":"In pictures","prominence":"standard","section":{"name":"Australia","id":"102293","uri":"\/news\/world\/australia","urlIdentifier":"\/news\/world\/australia"},"summary":"Images from a siege in central Sydney as hundreds of armed police seal off an area around a cafe where at least one gunman is holding hostages.","type":"STY"},{"assetId":"30474494","assetUri":"\/news\/world-australia-30474494","firstCreated":"2014-12-15T04:19:52+00:00","headline":"Sydney siege: Eyewitness accounts","language":"en-gb","lastUpdated":"2014-12-15T04:19:52+00:00","media":{"images":{"index":{"79727623":{"height":351,"width":624,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727623_025122665-1.jpg","caption":"Office workers in nearby buildings have been evacuated, while some other buildings are on lockdown","altText":"Armed police evacuate employees from the offices next to a cafe in the central business district of Sydney on 15 December 2014.","copyrightHolder":"AFP","originCode":"mcs"}},"index-thumbnail":{"79727657":{"height":180,"width":320,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727657_025122665-1.jpg","caption":"Office workers in nearby buildings have been evacuated, while some other buildings are on lockdown","altText":"Armed police evacuate employees from the offices next to a cafe in the central business district of Sydney on 15 December 2014.","copyrightHolder":"AFP","originCode":"mcs"}}}},"options":{"isBreakingNews":false},"overtypedHeadline":"Eyewitness accounts","prominence":"standard","section":{"name":"Australia","id":"102293","uri":"\/news\/world\/australia","urlIdentifier":"\/news\/world\/australia"},"summary":"The BBC speaks to three eyewitnesses near the scene of the Sydney siege on Martin Place.","type":"STY"},{"assetId":"29249462","assetUri":"\/news\/world-asia-29249462","firstCreated":"2014-09-18T13:09:26+00:00","headline":"Who are Australia's radicalised Muslims?","language":"en-gb","lastUpdated":"2014-12-15T04:46:59+00:00","media":{"images":{"index":{"77668515":{"height":261,"width":464,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/77668000\/jpg\/_77668515_015348540-1.jpg","caption":"At least 60 Australians are said to be fighting with extremist groups in Syria and northern Iraq","altText":"Members of Jihadist group Hamza Abdualmuttalib (in silhouette) train near Aleppo on 19 July 2012.","copyrightHolder":"AFP","originCode":"mcs"}},"index-thumbnail":{"77668517":{"height":180,"width":320,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/77668000\/jpg\/_77668517_015348540-1.jpg","caption":"At least 60 Australians are said to be fighting with extremist groups in Syria and northern Iraq","altText":"Members of Jihadist group Hamza Abdualmuttalib (in silhouette) train near Aleppo on 19 July 2012.","copyrightHolder":"AFP","originCode":"mcs"}}}},"options":{"isBreakingNews":false},"overtypedHeadline":"Australia's radicals","prominence":"standard","section":{"name":"Australia","id":"102293","uri":"\/news\/world\/australia","urlIdentifier":"\/news\/world\/australia"},"summary":"Amid heightened concern in Australia over foreign fighters and those who sympathise with them, the BBC looks at the issue of radicalisation among Australia's Muslim community.","type":"STY"},{"assetId":"30474414","assetUri":"\/news\/world-australia-30474414","firstCreated":"2014-12-15T02:58:45+00:00","headline":"Timeline: Australia's terror threat","language":"en-gb","lastUpdated":"2014-12-15T02:58:45+00:00","media":{"images":{"index":{"79727496":{"height":351,"width":624,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727496_024017674-1.jpg","caption":"Security has been tightened across Australia recently, including outside parliament","altText":"An Australian Federal Police (AFP) officer patrols in front of Parliament House in Canberra (23 September 2014)","copyrightHolder":"EPA","originCode":"mcs"}},"index-thumbnail":{"79727495":{"height":180,"width":320,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727495_024017674-1.jpg","caption":"Security has been tightened across Australia recently, including outside parliament","altText":"An Australian Federal Police (AFP) officer patrols in front of Parliament House in Canberra (23 September 2014)","copyrightHolder":"EPA","originCode":"mcs"}}}},"options":{"isBreakingNews":false},"overtypedHeadline":"Australia's terror threat timeline","prominence":"standard","section":{"name":"Australia","id":"102293","uri":"\/news\/world\/australia","urlIdentifier":"\/news\/world\/australia"},"summary":"Concern has been growing in Australian over the effect on domestic security of Australian nationals fighting with Islamist militant groups in Iraq and Syria. The BBC looks at how events have developed.","type":"STY"},{"assetId":"29245611","assetUri":"\/news\/world-asia-29245611","firstCreated":"2014-09-17T23:04:36+00:00","hasShortForm":true,"headline":"Australia in 'beheading plot' raids","language":"en-gb","lastUpdated":"2014-09-18T15:48:45+00:00","media":{"images":{"index":{"77664726":{"height":410,"width":729,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/77664000\/jpg\/_77664726_77664725.jpg","altText":"Terror suspect under arrest in Sydney (18 September 2014)","copyrightHolder":"Reuters","originCode":"mcs"}},"index-thumbnail":{"77673091":{"height":180,"width":320,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/77673000\/jpg\/_77673091_77664725.jpg","altText":"Terror suspect under arrest in Sydney (18 September 2014)","copyrightHolder":"Reuters","originCode":"mcs"}}}},"options":{"isBreakingNews":false},"prominence":"standard","section":{"name":"Asia","id":"101360","uri":"\/news\/world\/asia","urlIdentifier":"\/news\/world\/asia"},"summary":"Police carry out anti-terrorism raids in Sydney sparked by intelligence that Islamist extremists were planning random killings in Australia.","type":"STY"},{"assetId":"29703919","assetUri":"\/news\/world-australia-29703919","firstCreated":"2014-10-21T09:54:07+00:00","hasShortForm":true,"headline":"Australian teen surfaces in IS video","language":"en-gb","lastUpdated":"2014-10-21T09:54:07+00:00","media":{"images":{"index":{"78418415":{"height":432,"width":768,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/78418000\/jpg\/_78418415_9b0e93bf-40ee-4a4e-98ad-8add309bb9f2.jpg","altText":"Fighters from the Islamic State of Iraq and the Levant (ISIL) marching in Raqqa, Syria, Jan. 2014","copyrightHolder":"AP","originCode":"mcs"}},"index-thumbnail":{"78420936":{"height":180,"width":320,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/78420000\/jpg\/_78420936_78420935.jpg","altText":"Fighters from the Islamic State of Iraq and the Levant (ISIL) marching in Raqqa, Syria, Jan. 2014","copyrightHolder":"AP","originCode":"mcs"}}}},"options":{"isBreakingNews":false},"prominence":"standard","section":{"name":"Australia","id":"102293","uri":"\/news\/world\/australia","urlIdentifier":"\/news\/world\/australia"},"summary":"An Australian teenager who joined IS militants in Iraq and Syria surfaces in a video addressing PM Tony Abbott and US president Barack Obama.","type":"STY"},{"assetId":"30324217","assetUri":"\/news\/world-australia-30324217","firstCreated":"2014-12-04T14:43:04+00:00","hasShortForm":true,"headline":"Australians banned from IS 'capital'","language":"en-gb","lastUpdated":"2014-12-04T14:43:04+00:00","media":{"images":{"index":{"79500313":{"height":432,"width":768,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79500000\/jpg\/_79500313_79500312.jpg","altText":"Islamic State militants drive a tank through Raqqa, Syria (undated image)","copyrightHolder":"AP","originCode":"mcs"}},"index-thumbnail":{"79500315":{"height":180,"width":320,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79500000\/jpg\/_79500315_79500312.jpg","altText":"Islamic State militants drive a tank through Raqqa, Syria (undated image)","copyrightHolder":"AP","originCode":"mcs"}}}},"options":{"isBreakingNews":false},"prominence":"standard","section":{"name":"Australia","id":"102293","uri":"\/news\/world\/australia","urlIdentifier":"\/news\/world\/australia"},"summary":"Australians are banned under new terror laws from travelling to the Syrian province of Raqqa, the self-declared capital of Islamic State militants.","type":"STY"},{"assetId":"30389736","assetUri":"\/news\/world-australia-30389736","firstCreated":"2014-12-09T01:04:03+00:00","hasShortForm":true,"headline":"Australian recruits 'used' by IS","language":"en-gb","lastUpdated":"2014-12-09T01:04:03+00:00","media":{"images":{"index":{"79600736":{"height":351,"width":624,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79600000\/jpg\/_79600736_015348540-1.jpg","caption":"At least 70 Australians are said to be fighting with militants in Syria and Iraq","altText":"Members of Jihadist group Hamza Abdualmuttalib (in silhouette) train near Aleppo. File photo","copyrightHolder":"AFP","originCode":"mcs"}},"index-thumbnail":{"79600738":{"height":180,"width":320,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79600000\/jpg\/_79600738_015348540-1.jpg","caption":"At least 70 Australians are said to be fighting with militants in Syria and Iraq","altText":"Members of Jihadist group Hamza Abdualmuttalib (in silhouette) train near Aleppo. File photo","copyrightHolder":"AFP","originCode":"mcs"}}}},"options":{"isBreakingNews":false},"prominence":"standard","section":{"name":"Australia","id":"102293","uri":"\/news\/world\/australia","urlIdentifier":"\/news\/world\/australia"},"summary":"At least 20 Australians have been killed fighting alongside militants in Iraq and Syria who use them as \"cannon fodder\", Australian officials say.","type":"STY"}],"semanticGroupName":"Group Title 1"},{"type":"hyper-related-assets","title":"Group Title 2","strapline":{"name":"Watch"},"items":[{"assetId":"30474082","assetUri":"\/news\/world-australia-30474082","firstCreated":"2014-12-15T02:20:34+00:00","headline":"Abbott: 'A very disturbing incident'","language":"en-gb","lastUpdated":"2014-12-15T02:20:34+00:00","media":{"images":{"index":{"79727207":{"height":360,"width":640,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727207_79727205.jpg","altText":"Tony Abbott","copyrightHolder":"BBC","originCode":"mcs"}},"index-thumbnail":{"79727209":{"height":180,"width":320,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727209_79727205.jpg","altText":"Tony Abbott","copyrightHolder":"BBC","originCode":"mcs"}}},"videos":{"primary":{"79727404":{"duration":"PT3M8S","available":true,"mimeType":"application\/xml","image":{"height":360,"width":640,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727206_79727205.jpg","altText":"Tony Abbott","copyrightHolder":"BBC","originCode":"mcs"},"href":"/web/20141215084658/http://playlists.bbc.co.uk\/news\/world-australia-30474082A\/playlist.sxml","externalId":"p02f71c6","caption":"Tony Abbott: \"This is a very disturbing incident\"","allowOffSiteEmbedding":false,"live":false,"entityType":"Version"}}}},"mediaType":"Video","options":{"isBreakingNews":false},"prominence":"standard","section":{"name":"Australia","id":"102293","uri":"\/news\/world\/australia","urlIdentifier":"\/news\/world\/australia"},"summary":"Australian Prime Minister Tony Abbott says the siege at a cafe in the centre of Sydney is \"very disturbing\" but urges Australians to \"go about their business as usual\".","type":"MAP"},{"assetId":"30474425","assetUri":"\/news\/world-australia-30474425","firstCreated":"2014-12-15T03:27:07+00:00","headline":"'Armed offender holding hostages'","language":"en-gb","lastUpdated":"2014-12-15T03:27:07+00:00","media":{"images":{"index":{"79727628":{"height":261,"width":464,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727628_de27-1.jpg","altText":"Andrew Scipione","copyrightHolder":"BBC","originCode":"mcs"}},"index-thumbnail":{"79727630":{"height":180,"width":320,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727630_de27-1.jpg","altText":"Andrew Scipione","copyrightHolder":"BBC","originCode":"mcs"}}},"videos":{"primary":{"79727646":{"duration":"PT3M34S","available":true,"mimeType":"application\/xml","image":{"height":360,"width":640,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/79727000\/jpg\/_79727626_79727625.jpg","altText":"Andrew Scipione","copyrightHolder":"BBC","originCode":"mcs"},"href":"/web/20141215084658/http://playlists.bbc.co.uk\/news\/world-australia-30474425A\/playlist.sxml","externalId":"p02f72hp","caption":"New South Wales Police Commissioner Andrew Scipione says an armed offender is holding hostages","allowOffSiteEmbedding":false,"live":false,"entityType":"Version"}}}},"mediaType":"Video","options":{"isBreakingNews":false},"prominence":"standard","section":{"name":"Australia","id":"102293","uri":"\/news\/world\/australia","urlIdentifier":"\/news\/world\/australia"},"summary":"New South Wales Police Commissioner Andrew Scipione has said an armed offender is holding hostages in the Martin Place area of Sydney.","type":"MAP"},{"assetId":"29248806","assetUri":"\/news\/world-asia-29248806","firstCreated":"2014-09-18T01:16:39+00:00","headline":"Australia's biggest anti-terror raid","language":"en-gb","lastUpdated":"2014-09-18T02:37:16+00:00","media":{"images":{"index":{"77656742":{"height":360,"width":640,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/77656000\/jpg\/_77656742_77656740.jpg","altText":"A suspect is arrested in anti-terrorism raids","copyrightHolder":"New South Wales Police","originCode":"mcs"}},"index-thumbnail":{"77656744":{"height":180,"width":320,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/77656000\/jpg\/_77656744_77656740.jpg","altText":"A suspect is arrested in anti-terrorism raids","copyrightHolder":"New South Wales Police","originCode":"mcs"}}},"videos":{"primary":{"77657064":{"duration":"PT1M42S","available":true,"mimeType":"application\/xml","image":{"height":360,"width":640,"href":"/web/20141215084658/http://news.bbcimg.co.uk\/media\/images\/77656000\/jpg\/_77656741_77656740.jpg","altText":"A suspect is arrested in anti-terrorism raids","copyrightHolder":"New South Wales Police","originCode":"mcs"},"href":"/web/20141215084658/http://playlists.bbc.co.uk\/news\/world-asia-29248806A\/playlist.sxml","externalId":"p026w8th","caption":"The BBC\u2019s Jon Donnison: \u201cThe authorities here think an attack is not just possible but likely\u201d","allowOffSiteEmbedding":false,"live":false,"entityType":"Version"}}}},"mediaType":"Video","options":{"isBreakingNews":false},"prominence":"standard","section":{"name":"Asia","id":"101360","uri":"\/news\/world\/asia","urlIdentifier":"\/news\/world\/asia"},"summary":"Australian police say they have carried out the biggest counter-terrorism operation in the country's history.","type":"MAP"}],"semanticGroupName":"Group Title 2"}],"semanticGroupName":"TITLE"}]}],"feeds":["coverage:\/\/coverage?id=\/news\/live\/world-australia-30475711&template=sport.coverage&isuk=0&template=sport.coverage&isuk=0","pulsar:\/\/channel?channel-id=bbc.cps.asset.30475883_HighWeb"],"getInvolved":{"twitter":{"link":"/web/20141215084658/https://twitter.com\/BBC_HaveYourSay","text":"Follow ","linkText":"@BBC_HaveYourSay"},"facebook":false,"sms":{"text":"Send a text to ","number":"+44 7624 800 100","disclaimer":"(Texts will be charged at your standard message rate. Check with your network provider for exact costs.)"},"phone":false,"email":{"address":"Haveyoursay@bbc.co.uk","subject":"Australia%20LEP%20-%2030475711"},"hasDiscussionPanel":true},"header":{"headline":"Sydney cafe siege updates","commentators":[{"name":"Tessa Wong, "},{"name":"Jasmine Coleman "},{"name":"and Amber Dawson"}],"vivo":{"authors":"Tessa Wong, Jasmine Coleman and Amber Dawson"}},"nitroFeeds":[],"seeAlso":[]};
+            });
+
+    define('live-experience/defaults', function () {
+                return {"session-image":"/web/20141215084658/http://static.bbci.co.uk\/news\/1.54.1-1279\/img\/live\/news.jpg","theme":"news"};
+            });
+    
+                LX.pubsubModuleName = 'lx-pubsub';
+    define('lx-pubsub', [], function () {
+        return {
+            on: function () {},
+            emit: function () {}
+        };
+    });
+    </script>
+
+    <script src="/web/20141215084658js_/http://static.bbci.co.uk/live-experience/1.2.856/js/io.min.js" type="text/javascript"></script>
+    <script src="/web/20141215084658js_/http://static.bbci.co.uk/live-experience/1.2.856/js/live-experience-base.min.js" type="text/javascript"></script>
+
+            <script src="/web/20141215084658js_/http://static.bbci.co.uk/live-experience/1.2.856/js/bundles/news.min.js" type="text/javascript"></script>
+    
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                        
+<script type="text/javascript">
+(function(LX, require) {
+    if (!LX.cuts_the_mustard) {
+        return;
+    }
+
+    require([
+        'jquery-1.9',
+        'angular',
+        'live-experience/angular/factory/io',
+        'live-experience/angular/factory/imager',
+        'live-experience/imager/app',
+        'live-experience/angular/factory/istats',
+        'live-experience/angular/factory/media-player',
+        'live-experience/angular/live-directives',
+        'live-experience/tools/bindonce',
+        'live-experience/carousel/loader','live-experience/content-tabs/loader','live-experience/live-error/loader','live-experience/live-header/loader','live-experience/live-ltc/loader','live-experience/loader/loader','live-experience/ifs-ads/loader','live-experience/live-media/loader','live-experience/live-summary/loader','live-experience/lx-horizontal-swipe/loader','live-experience/media-items/loader','live-experience/more-coverage/loader','live-experience/more-from/loader','live-experience/related-live-sessions/loader','live-experience/session-image/loader','live-experience/tabs/loader','live-experience/ivote/loader'],
+        function ($, angular, cuts_the_mustard) {
+            angular.element(document).ready(function () {
+                angular.bootstrap(document, [
+                    'io',
+                    'imager-factory',
+                    'imager',
+                    'istats',
+                    'media-player',
+                    'live-directives',
+                    'pasvaz.bindonce',
+                    'carousel','content-tabs','live-error','live-header','live-ltc','loader','ifs-ads','live-media','live-summary','lx-horizontal-swipe','media-items','more-coverage','more-from','related-live-sessions','session-image','tabs','ivote'                ]);
+
+                var $lxPreBootstrapContainers = $('.lx-pre-angular-bootstrap');
+                $('.lx-pre-angular').remove();
+                $lxPreBootstrapContainers.removeClass('lx-pre-angular-bootstrap');
+            });
+        });
+
+}(LX, require));
+</script><script type="text/javascript">
+    var firstPostTimer,
+        post;
+
+    if (window.performance && window.performance.mark && window.performance.measure) {
+
+        window.performance.mark('start_looking_for_post');
+
+        if (! firstPostTimer) {
+            firstPostTimer = window.setInterval(function() {
+                post = document.querySelector('.lx-ltc__post-contents');
+
+                if (post) {
+                    window.performance.mark('first_post');
+                    window.performance.measure('ttfp', 'start_looking_for_post', 'first_post');
+                    window.clearInterval(firstPostTimer);
+                }
+            }, 250);
+        }
+    }
+</script>
+ </div> 
+
+
+<div id="news-banner__outer-container" class="news-banner__outer-container">
+    <section id="news-banner" data-comp-meta={"id":"comp-tablet-explainer-banner","type":"tablet-explainer-banner","handler":"tabletExplainerBanner","deviceGroups":null,"opts":{"requestUri":"\/news\/live\/world-australia-30475711"},"template":"tabloid\/tabloid-shared:\/component\/tablet-explainer-banner"} class="news-banner {{isExplainerBannerFixed}}">
+        <div class="news-banner__inner">
+            <div class="news-banner__content">
+                <h2 class="news-banner__title">You're looking at our new site.</h2>
+                                <a class="news-banner__bloglink" href="/web/20141215084658/http://www.bbc.co.uk/blogs/internet/posts/news-responsive-design-update">Learn more</a>            </div>
+            <div class="news-banner__options">
+                                <a href="/web/20141215084658/https://ecustomeropinions.com/survey/survey.php?sid=264941693" id="news-banner__survey" class="news-banner__survey {{explainerSurveyDisplay}}">
+                    Tell us what you think                </a>
+                                <a href="/web/20141215084658/http://www.bbc.co.uk/news?tablet-beta=o" id="news-banner__goback" class="news-banner__goback">
+                    Back to current site                </a>
+            </div>
+        </div>
+        <button id="news-banner__dismiss" class="news-banner__dismiss" aria-hidden="true"></button>
+    </section>
+</div>
+
+  
+
+<div id="core-navigation" class="navigation--footer">
+            <nav id="secondary-navigation--bottom" class="secondary-navigation--bottom" role="navigation" aria-label="World">
+            <a class="secondary-navigation__title navigation-arrow " href="/web/20141215084658/http://www.bbc.co.uk/news/world"><span>World</span></a> <span class="off-screen">selected</span>                            <ul class="secondary-navigation--bottom__toplevel">
+                    <li class="navigation-core-title"><span>Sections</span></li>
+                                                            <li>
+                        <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/africa"><span>Africa</span></a>
+                                            </li>
+                                        <li>
+                        <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/asia"><span>Asia</span></a>
+                                            </li>
+                                        <li class="selected">
+                        <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/australia"><span>Australia</span></a>
+                         <span class="off-screen">selected</span>                    </li>
+                                        <li>
+                        <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/europe"><span>Europe</span></a>
+                                            </li>
+                                        <li>
+                        <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/latin_america"><span>Latin America</span></a>
+                                            </li>
+                                        <li>
+                        <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/middle_east"><span>Middle East</span></a>
+                                            </li>
+                                        <li>
+                        <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/us_and_canada"><span>US &amp; Canada</span></a>
+                                            </li>
+                                    </ul>
+                    </nav>
+    
+    <nav id="navigation--bottom" class="navigation navigation--bottom core--with-secondary" role="navigation" aria-label="News">
+        <ul class="navigation--bottom__toplevel">
+                                        <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news" class="">
+                        <span>Home</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/uk" data-panel-id="js-navigation-panel-UK" class="navigation-arrow">
+                        <span>UK</span>
+                    </a>
+                                                                <div class="navigation-panel navigation-panel--closed js-navigation-panel-UK">
+                            <div class="navigation-panel__content">
+                                <ul class="navigation-panel-secondary">
+                                    <li><a href="/web/20141215084658/http://www.bbc.co.uk/news/uk"><span>UK Home</span></a></li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/england"><span>England</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/northern_ireland"><span>N. Ireland</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/scotland"><span>Scotland</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/wales"><span>Wales</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/cymrufyw"><span>Cymru</span></a>                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                                    </li>
+                            <li class="selected navigation-list-item--open">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/world" data-panel-id="js-navigation-panel-World" class="navigation-arrow navigation-arrow--open">
+                        <span>World</span>
+                    </a>
+                     <span class="off-screen">selected</span>                                            <div class="navigation-panel js-navigation-panel-World">
+                            <div class="navigation-panel__content">
+                                <ul class="navigation-panel-secondary">
+                                    <li><a href="/web/20141215084658/http://www.bbc.co.uk/news/world"><span>World Home</span></a></li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/africa"><span>Africa</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/asia"><span>Asia</span></a>                                        </li>
+                                                                            <li class="selected">
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/australia"><span>Australia</span></a> <span class="off-screen">selected</span>                                        </li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/europe"><span>Europe</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/latin_america"><span>Latin America</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/middle_east"><span>Middle East</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/world/us_and_canada"><span>US &amp; Canada</span></a>                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                                    </li>
+                            <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/business" data-panel-id="js-navigation-panel-Business" class="navigation-arrow">
+                        <span>Business</span>
+                    </a>
+                                                                <div class="navigation-panel navigation-panel--closed js-navigation-panel-Business">
+                            <div class="navigation-panel__content">
+                                <ul class="navigation-panel-secondary">
+                                    <li><a href="/web/20141215084658/http://www.bbc.co.uk/news/business"><span>Business Home</span></a></li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/business/your_money"><span>Your Money</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/business/economy"><span>Economy</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/business/companies"><span>Companies</span></a>                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                                    </li>
+                            <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/politics" data-panel-id="js-navigation-panel-Politics" class="navigation-arrow">
+                        <span>Politics</span>
+                    </a>
+                                                                <div class="navigation-panel navigation-panel--closed js-navigation-panel-Politics">
+                            <div class="navigation-panel__content">
+                                <ul class="navigation-panel-secondary">
+                                    <li><a href="/web/20141215084658/http://www.bbc.co.uk/news/politics"><span>Politics Home</span></a></li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/events/scotland-decides"><span>Scotland Decides</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/news/events/vote2014"><span>Vote 2014</span></a>                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                                    </li>
+                            <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/technology" class="">
+                        <span>Tech</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/science_and_environment" class="">
+                        <span>Science</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/health" class="">
+                        <span>Health</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/education" data-panel-id="js-navigation-panel-Education" class="navigation-arrow">
+                        <span>Education</span>
+                    </a>
+                                                                <div class="navigation-panel navigation-panel--closed js-navigation-panel-Education">
+                            <div class="navigation-panel__content">
+                                <ul class="navigation-panel-secondary">
+                                    <li><a href="/web/20141215084658/http://www.bbc.co.uk/news/education"><span>Education Home</span></a></li>
+                                                                            <li>
+                                            <a href="/web/20141215084658/http://www.bbc.co.uk/schoolreport"><span>School Report</span></a>                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                                    </li>
+                            <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/entertainment_and_arts" class="">
+                        <span>Entertainment &amp; Arts</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/video_and_audio" class="">
+                        <span>Video &amp; Audio</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/magazine" class="">
+                        <span>Magazine</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/in_pictures" class="">
+                        <span>In Pictures</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/also_in_the_news" class="">
+                        <span>Also in the News</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/special_reports" class="">
+                        <span>Special Reports</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/explainers" class="">
+                        <span>Explainers</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/web/20141215084658/http://www.bbc.co.uk/news/the_reporters" class="">
+                        <span>The Reporters</span>
+                    </a>
+                                                        </li>
+                    </ul>
+    </nav>
+</div>
+   </div><!-- closes #site-container -->      </div> <div id="orb-footer"  class="orb-footer orb-footer-grey" > <aside role="complementary"> <div id="orb-aside" class="orb-nav-sec b-r b-g-p"> <div class="orb-footer-inner" role="navigation"> <h2 class="orb-footer-lead">Explore the BBC</h2>  <div id="orb-footer-promo" class="orb-d"></div>  <div class="orb-footer-primary-links"> <ul>    <li  class="orb-nav-news orb-d"  > <a href="/web/20141215084658/http://www.bbc.co.uk/news/">News</a> </li>    <li  class="orb-nav-newsdotcom orb-w"  > <a href="/web/20141215084658/http://www.bbc.com/news/">News</a> </li>    <li  class="orb-nav-sport"  > <a href="/web/20141215084658/http://www.bbc.co.uk/sport/">Sport</a> </li>    <li  class="orb-nav-weather"  > <a href="/web/20141215084658/http://www.bbc.co.uk/weather/">Weather</a> </li>    <li  class="orb-nav-shop orb-w"  > <a href="/web/20141215084658/http://shop.bbc.com/">Shop</a> </li>    <li  class="orb-nav-earthdotcom orb-w"  > <a href="/web/20141215084658/http://www.bbc.com/earth/">Earth</a> </li>    <li  class="orb-nav-travel-dotcom orb-w"  > <a href="/web/20141215084658/http://www.bbc.com/travel/">Travel</a> </li>    <li  class="orb-nav-capital orb-w"  > <a href="/web/20141215084658/http://www.bbc.com/capital/">Capital</a> </li>    <li  class="orb-nav-iplayer orb-d"  > <a href="/web/20141215084658/http://www.bbc.co.uk/iplayer/">iPlayer</a> </li>    <li  class="orb-nav-culture orb-w"  > <a href="/web/20141215084658/http://www.bbc.com/culture/">Culture</a> </li>    <li  class="orb-nav-autos orb-w"  > <a href="/web/20141215084658/http://www.bbc.com/autos/">Autos</a> </li>    <li  class="orb-nav-future orb-w"  > <a href="/web/20141215084658/http://www.bbc.com/future/">Future</a> </li>    <li  class="orb-nav-tv"  > <a href="/web/20141215084658/http://www.bbc.co.uk/tv/">TV</a> </li>    <li  class="orb-nav-radio"  > <a href="/web/20141215084658/http://www.bbc.co.uk/radio/">Radio</a> </li>    <li  class="orb-nav-cbbc"  > <a href="/web/20141215084658/http://www.bbc.co.uk/cbbc/">CBBC</a> </li>    <li  class="orb-nav-cbeebies"  > <a href="/web/20141215084658/http://www.bbc.co.uk/cbeebies/">CBeebies</a> </li>    <li  class="orb-nav-arts orb-d"  > <a href="/web/20141215084658/http://www.bbc.co.uk/arts/">Arts</a> </li>    <li  > <a href="/web/20141215084658/http://www.bbc.co.uk/ww1/">WW1</a> </li>    <li  class="orb-nav-food"  > <a href="/web/20141215084658/http://www.bbc.co.uk/food/">Food</a> </li>    <li  class="orb-nav-history"  > <a href="/web/20141215084658/http://www.bbc.co.uk/history/">History</a> </li>    <li  class="orb-nav-learning"  > <a href="/web/20141215084658/http://www.bbc.co.uk/learning/">Learning</a> </li>    <li  class="orb-nav-music"  > <a href="/web/20141215084658/http://www.bbc.co.uk/music/">Music</a> </li>    <li  class="orb-nav-science"  > <a href="/web/20141215084658/http://www.bbc.co.uk/science/">Science</a> </li>    <li  class="orb-nav-nature orb-w"  > <a href="/web/20141215084658/http://www.bbc.co.uk/nature/">Nature</a> </li>    <li  class="orb-nav-earth orb-d"  > <a href="/web/20141215084658/http://www.bbc.com/earth/">Earth</a> </li>    <li  class="orb-nav-local"  > <a href="/web/20141215084658/http://www.bbc.co.uk/local/">Local</a> </li>    <li  class="orb-nav-travel orb-d"  > <a href="/web/20141215084658/http://www.bbc.co.uk/travel/">Travel</a> </li>    <li  class="orb-nav-fullaz"  > <a href="/web/20141215084658/http://www.bbc.co.uk/a-z/">Full A-Z</a> </li>    </ul> </div> </div> </div> </aside> <footer role="contentinfo"> <div id="orb-contentinfo" class="orb-nav-sec b-r b-g-p"> <div class="orb-footer-inner"> <ul>      <li  class="orb-nav-desktop"  > <a href="/web/20141215084658/http://www.bbc.co.uk/news/live/world-australia-30475711">Desktop Site</a> </li>    <li  > <a href="/web/20141215084658/http://www.bbc.co.uk/terms/">Terms of Use</a> </li>    <li  > <a href="/web/20141215084658/http://www.bbc.co.uk/aboutthebbc/">About the BBC</a> </li>    <li  > <a href="/web/20141215084658/http://www.bbc.co.uk/privacy/">Privacy Policy</a> </li>    <li  > <a href="/web/20141215084658/http://www.bbc.co.uk/privacy/cookies/about">Cookies</a> </li>    <li  > <a href="/web/20141215084658/http://www.bbc.co.uk/accessibility/">Accessibility Help</a> </li>    <li  > <a href="/web/20141215084658/http://www.bbc.co.uk/guidance/">Parental Guidance</a> </li>    <li  > <a href="/web/20141215084658/http://www.bbc.co.uk/contact/">Contact the BBC</a> </li>        </ul> <small> <span class="orb-hilight">Copyright &copy; 2014 BBC.</span> The BBC is not responsible for the content of external sites. <a href="/web/20141215084658/http://www.bbc.co.uk/help/web/links/" class="orb-hilight">Read about our approach to external linking.</a> </small> </div> </div> </footer> </div>     <!-- BBCDOTCOM bodyLast --><div class="bbccom_display_none"><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.currencyProviders.write(); } if (window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.stats && bbcdotcom.data.stats === 1 && window.bbcdotcom.analytics ) { bbcdotcom.analytics.renderImageTag("STORY"); } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.currencyProviders.postWrite(); } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ /** * ASNYC waits to make any gpt requests until the bottom of the page */ /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.stats && bbcdotcom.data.stats === 1 && bbcdotcom.utils && window.location.pathname === '/' && window.bbccookies && bbccookies.readPolicy('performance') ) { var wwhpEdition = bbcdotcom.utils.getMetaPropertyContent('wwhp-edition'); var _sf_async_config={}; /** CONFIGURATION START **/ _sf_async_config.uid = 50924; _sf_async_config.domain = "bbc.co.uk"; _sf_async_config.title = "Homepage"+(wwhpEdition !== '' ? ' - '+wwhpEdition : ''); _sf_async_config.sections = "Homepage"+(wwhpEdition !== '' ? ', Homepage - '+wwhpEdition : ''); _sf_async_config.region = wwhpEdition; _sf_async_config.path = "/"+(wwhpEdition !== '' ? '?'+wwhpEdition : ''); /** CONFIGURATION END **/ (function(){ function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement("script"); e.setAttribute("language", "javascript"); e.setAttribute("type", "text/javascript"); e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); } var oldonload = window.onload; window.onload = (typeof window.onload != "function") ? loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); } /*]]>*/ </script></div> <!-- BBCDOTCOM all code in page -->  <script type="text/javascript"> document.write('<' + 'script id="orb-js-script" data-assetpath="/web/20141215084658/http://static.bbci.co.uk/frameworks/barlesque/2.82.1/orb/4/" src="/web/20141215084658/http://static.bbci.co.uk/frameworks/barlesque/2.82.1/orb/4/script' + (( document.cookie.indexOf('ckns_debugorbjs') > -1 )? '-debug' : '') + '/orb.js"><' + '/script>'); </script>  <script type="text/javascript"> (function() {
+    'use strict';
+
+    var promoManager = {
+        url: '',
+        segments: ['a', 'b'],
+        promoLoaded: false,
+                makeUrl: function (variant, theme, win) {
+            var loc = win? win.location : window.location,
+                proto = loc.protocol,
+                host = loc.host,
+                url = proto + '//' + ((proto.match(/s:/i) && !host.match(/^www\.(int|test)\./i))? 'ssl.' : 'www.'),
+                themes = ['light', 'dark'];
+
+            if ( host.match(/^(?:www|ssl)\.(int|test|stage|live)\.bbc\./i) ) {
+                url += RegExp.$1 + '.';
+            }
+            else if ( host.match(/^pal\.sandbox\./i) ) {
+                url += 'test.';
+            }
+ 
+                        theme = themes[ +(theme === themes[0]) ];
+           
+           return url + 'bbc.co.uk/navpromo/' + variant + '/' + theme;
+        },
+                validSegment: function (segment) {
+            var validSegments = this.segments;
+            
+            for (var i = 0, len = validSegments.length; i < len; i++) {
+                if (validSegments[i] === segment) {
+                    return segment;
+                }
+            }
+            
+            return validSegments[0];
+        },
+                init: function(node) {
+            var disabledByCookie = (document.cookie.indexOf('ckns_orb_nopromo=1') > -1),
+                orbFullWidth     = (document.getElementById('orb-aside').offsetWidth >= 1008),
+                that = this;
+            
+            if (window.promomanagerOverride) {
+                for (var p in promomanagerOverride) {
+                    that[p] = promomanagerOverride[p];
+                }
+            }
+                
+            if ( window.orb.fig('uk') && orbFullWidth && !disabledByCookie ) {
+                require(['orb/async/_footerpromo', 'istats-1'], function(promo, istats) {
+                                        var mandolinEndDate = new Date().getTime() + (7 * 60 * 60 * 24) * 1000,
+                        mandolin = new bbc.Mandolin('footer-promo', that.segments, {rate: 0.2, end: mandolinEndDate}),
+                        segmentToRequest = that.validSegment(mandolin.getSegment());
+
+                    that.url = (window.promomanagerOverride || that).makeUrl(segmentToRequest, 'light');
+
+                    if (that.url) { 
+                        promo.load(that.url, node, {
+                                                          onSuccess: function(e) {
+                                istats.addLabels({ 'campaignID': e.campaignID });
+                                if (segmentToRequest === mandolin.getSegment()) {
+                                    istats.addLabels({ 'promo_id_segment': e.campaignID + ':' + mandolin.getSegment() });
+                                }
+                                istats.track('internal', {region: node, linkLocation : 'orb-footer-promo'});
+
+                                istats.log('display', 'orb-footer-promo-displayed', {campaignID : e.campaignID, testVariant: segmentToRequest});
+                                node.className = node.className + ' orb-footer-promo-loaded';
+                                promoManager.promoLoaded = true;
+                                promoManager.event('promo-loaded').fire(e);
+                             },
+                             onError: function() {
+                                istats.log('error', 'orb-footer-promo-failed');
+                                document.cookie = 'ckns_orb_nopromo=1; expires=' + new Date(new Date().getTime() + 1000 * 60 * 10).toGMTString() + ';';
+                             }
+                        });   
+                    }
+                });
+            }
+        }
+    };
+    
+        
+    define('orb/promomanager', ['orb/lib/_event'], function (event) {
+        event.mixin(promoManager);
+        return promoManager;
+    });
+    
+    require(['orb/promomanager'], function (promoManager) {
+        promoManager.init(document.getElementById('orb-footer-promo'));
+    })
+})();
+ </script>   <script type="text/javascript"> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementsByTagName('body')[0] }); istats.track('download', { region: document.getElementsByTagName('body')[0] }); }); } </script>               <img alt="" id="livestats" src="/web/20141215084658im_/http://stats.bbc.co.uk/o.gif?~RS~s~RS~News~RS~t~RS~Mobile_Story~RS~i~RS~30475711~RS~p~RS~102293~RS~a~RS~Domestic~RS~u~RS~/news/live/world-australia-30475711~RS~r~RS~0~RS~q~RS~0~RS~z~RS~120~RS~" />     <script> window.old_onload = window.onload; window.onload = function() { if(window.old_onload) { window.old_onload(); } window.loaded = true; }; </script> <!-- Chartbeat Web Analytics code - start -->
+<script type="text/javascript">
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = "50924";
+    _sf_async_config.domain = "m.bbc.co.uk";
+    _sf_async_config.sections = "News, News - australia, News - LIV, News - australia - LIV";
+    <!-- if page is an index, add the edition to the path -->
+    _sf_async_config.path = "/news/live/world-australia-30475711";
+    (function() {
+        var noCookies = true;
+        var cookiePrefix = '_chartbeat';
+        if ("object" === typeof bbccookies && typeof bbccookies.readPolicy == 'function') {
+            noCookies = !bbccookies.readPolicy().performance;
+        }
+        if (noCookies && document.cookie.indexOf(cookiePrefix) !== -1) {
+            //Find and remove cookies whose names begin with '_chartbeat'
+            var cookieSplit = document.cookie.split(';');
+            var cookieLength = cookieSplit.length;
+            while (cookieLength--) {
+                var cookie = cookieSplit[cookieLength].replace(/^\s+|\s+$/g, '');
+                var cookieName = cookie.split('=')[0];
+
+                if (cookieName.indexOf(cookiePrefix) === 0) {
+                    document.cookie = cookieName + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/;';
+                }
+            }
+        }
+        _sf_async_config.noCookies = noCookies;
+    }());
+
+    /** CONFIGURATION END **/
+    (function(){
+        function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement("script");
+            e.setAttribute("language", "javascript");
+            e.setAttribute("type", "text/javascript");
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != "function") ?
+            loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    }());
+</script>
+<!-- Chartbeat Web Analytics code - end -->
+ <!-- comscore mmx - start -->
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "17986528"});
+
+	(function() {
+		var s = document.createElement("script")
+			, el = document.getElementsByTagName("script")[0];
+		s.async = true;
+		s.src = (document.location.protocol == "https:" ? "/web/20141215084658/https://sb" : "/web/20141215084658/http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script>
+
+<noscript>
+	<img src="/web/20141215084658im_/http://b.scorecardresearch.com/p?c1=2&amp;c2=17986528&amp;cv=2.0&amp;cj=1" class="image-hide" />
+</noscript>
+<!-- comscore mmx - end --> </body> </html> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 8:46:58 Dec 15, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:42:53 Sep 13, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

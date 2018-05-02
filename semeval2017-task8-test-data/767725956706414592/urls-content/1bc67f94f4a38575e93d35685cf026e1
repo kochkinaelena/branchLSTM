@@ -1,0 +1,550 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 13 Dec 2016 14:19:43 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 187
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: http://www.americanthinker.com/blog/2016/06/hillarys_health_the_issue_the_media_refuse_to_cover.html
+Set-Cookie: _bit=gbdejH-96f4558f8dba87b362-00D; Domain=bit.ly; Expires=Sun, 11 Jun 2017 14:19:43 GMT
+
+HTTP/1.1 200 OK
+x-amz-id-2: 1oMG//p4my704sz5Bh7rnJgKu8isxmZRXW9sSXCa8Sn7uAywqFeciFId1JtsN6WjrjzV5EBtCzE=
+x-amz-request-id: E547FE4C89C2C149
+Date: Tue, 13 Dec 2016 14:19:44 GMT
+Last-Modified: Mon, 20 Jun 2016 13:17:05 GMT
+ETag: "ab5ebeda111d83e5f7e84bb518d43113"
+Content-Type: text/html
+Content-Length: 28701
+Server: AmazonS3
+
+<!DOCTYPE html>
+<html>
+
+	<head>
+
+		<meta charset=utf-8 />
+		<title>Blog: Hillary’s health: the issue the media refuse to cover</title>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<meta property="og:title" content="Blog: Hillary’s health: the issue the media refuse to cover" /><meta property="og:image" content="http://www.americanthinker.com/images/bucket/2016-06/196727_5_.png" /><meta property="og:image" content="http://www.americanthinker.com/assets/images/at-painter-og-image.png" /><meta property="og:url" content="http://www.americanthinker.com/blog/2016/06/hillarys_health_the_issue_the_media_refuse_to_cover.html" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+
+		<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/americanthinker" />
+		<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/AmericanThinkerBlog" />
+
+		<link rel="stylesheet" type="text/css" href="/assets/3rd_party/normalize.min.css" />
+		<link rel="stylesheet" type="text/css" href="/assets/css/main.css?nocache=1" />
+		<script type="text/javascript" async src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+
+		
+		<script type="text/javascript" src="/assets/3rd_party/html5shiv-printshiv.js"></script>
+		<script type="text/javascript" src="/assets/3rd_party/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="/assets/3rd_party/viewportSize-min.js"></script>
+		<!--<script type="text/javascript" src="/assets/js/load_ads.js?v=2"></script>-->
+		<script type="text/javascript">
+			// Detects the page width. Used to determine ads served throughout page.
+			var page_width_onload = viewportSize.getWidth();
+		</script>
+
+		
+		<script type="text/javascript" src="/assets/js/main.js"></script>
+
+
+		<!-- subscriber scripts -->
+		<script type="text/javascript" src="//assets.publir.com/client/subscriber.js"></script>
+        <script type="text/javascript">
+            pubsubs.publisher_token = "e4da3b7fbbce2345d7772b0674a318d5";
+            pubsubs.ad_callbacks = ['show_ads'];
+            pubsubs.init();
+           	function show_ads () {
+           		$('head').append('<style>div[id^="sas"], div[class^="sas"], div[id^="ad"], div[class^="ad"] {display: block !important;}</style>'); 
+            }
+        </script>
+        <style>
+        	div[id^="sas"], div[class^="sas"], div[id^="ad"], div[class^="ad"] {display: none !important;} 
+        </style>
+
+
+
+
+		
+
+			<script type="text/javascript"> 
+				if(display_ads_server){
+					var s=document.createElement('script');
+					s.async="async";
+					s.type="text/javascript";
+					s.src='http://www.americanthinker.com/assets/js/load_ads.js?v=2';
+					var h=document.getElementsByTagName('script')[0];
+					h.parentNode.insertBefore(s,h);
+				} 
+			</script>
+
+        	<!-- GOOGLE ADS -->
+			<script type='text/javascript'>
+				var googletag = googletag || {};
+				googletag.cmd = googletag.cmd || [];
+				(function() {
+				var gads = document.createElement('script');
+				gads.async = true;
+				gads.type = 'text/javascript';
+				var useSSL = 'https:' == document.location.protocol;
+				//gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+				if(display_ads_server){gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';};
+				var node = document.getElementsByTagName('script')[0];
+				node.parentNode.insertBefore(gads, node);
+				})();
+			</script>
+
+			<script type='text/javascript'>
+					googletag.cmd.push(function() {
+				
+					googletag.defineSlot('/1004503/AT_160_600', [160, 600], 'div-gpt-ad-1345489840937-0').addService(googletag.pubads());
+					//googletag.defineSlot('/1004503/AT_180_150', [180, 150], 'div-gpt-ad-1345489840937-1').addService(googletag.pubads());
+					//googletag.defineSlot('/1004503/AT_1_by_1_welcome', [1, 1], 'div-gpt-ad-1345489840937-2').addService(googletag.pubads()); 
+					googletag.defineSlot('/1004503/AT_300_250', [300, 250], 'div-gpt-ad-1345489840937-3').addService(googletag.pubads());
+					googletag.defineSlot('/1004503/AT_300_250_bottom', [300, 250], 'div-gpt-ad-1345489840937-4').addService(googletag.pubads());
+					googletag.defineSlot('/1004503/AT_468_60', [468, 60], 'div-gpt-ad-1345489840937-5').addService(googletag.pubads());
+					googletag.defineSlot('/1004503/AT_728_90', [728, 90], 'div-gpt-ad-1345489840937-6').addService(googletag.pubads());
+					//googletag.defineSlot('/1004503/AT_sponsored', [1, 1], 'div-gpt-ad-1345489840937-7').addService(googletag.pubads());
+					//googletag.defineSlot('/1004503/AT_sponsored_video', [1, 1], 'div-gpt-ad-1345489840937-8').addService(googletag.pubads());
+					googletag.defineSlot('/1004503/AT_320_by_50_mobile', [320, 50], 'div-gpt-ad-1319550789004-0').addService(googletag.pubads()); 
+
+					googletag.defineSlot('/1004503/AT_610_by_60', [610, 60], 'div-gpt-ad-1455834208841-2').addService(googletag.pubads());	
+					googletag.defineSlot('/1004503/AT_300_250_middle', [300, 250], 'div-gpt-ad-1455834208841-0').addService(googletag.pubads());		
+					googletag.defineSlot('/1004503/AT_160_by_600_bottom', [160, 600], 'div-gpt-ad-1455834208841-3').addService(googletag.pubads());	
+
+					googletag.defineSlot('/1004503/AT_365_by_100', [365, 100], 'div-gpt-ad-1457979917706-0').addService(googletag.pubads());	
+
+					googletag.pubads().enableSingleRequest();
+				    googletag.pubads().collapseEmptyDivs();
+
+					googletag.enableServices();
+				});
+			</script>
+            <!-- END GOOGLE ADS -->
+			            
+			<script type="text/javascript">
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-31527-12']);
+				_gaq.push(['_trackPageview']);
+
+				(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+		
+
+		<!-- DAILY TOP AD? -->
+			<script type="text/javascript">
+				function getQueryVariable(variable) {
+					var query = window.location.search.substring(1);
+					var vars = query.split("&");
+					for (var i=0; i<vars.length; i++) {
+						var pair = vars[i].split("=");
+						if (pair[0] == variable) {
+							return pair[1];
+						}
+					}
+				}
+
+				state = getQueryVariable('state');
+				if(state==undefined || state!= "nwa"){
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1345489840937-7'); });
+				}
+			</script>
+		<!-- END DAILY TOP AD? -->
+
+	</head>
+
+	<body><div id="wrapper">
+
+		
+		<header role="banner">
+
+			<div class="painter"><a href="/" accesskey="1"><img src="/assets/images/at-painter.gif" width="175" height="222"></a></div>
+
+			<div class="middle">
+
+				<h1 class="logo"><a href="/" accesskey="1"><img src="/assets/images/at-logo.gif" alt="American Thinker"></a></h1>
+
+				<div class="below_logo"><span class="dateline">
+									</span></div>
+
+			</div>
+
+			<div class="top_block_ad">   
+				<div id='div-gpt-ad-1345489840937-3' style='width:300px; height:250px;'>
+					<script type='text/javascript'>
+						if(page_width_onload >= 768) {
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1345489840937-3'); });
+						}
+					</script>
+				</div>
+			</div>
+
+			<div class="mobile_header">
+
+				<a class="logo" href="/"><img src="/assets/images/at-logo-long.png" alt="American Thinker" height="100%"></a>
+
+				<span class="button_menu"><img src="/assets/images/nav_icon.png" alt="Navigation Menu" height="80%" /></span>
+
+			</div>
+
+			<nav role="navigation">
+
+				<div class="mobile"><!--
+					--><a href="/"><span>Home</span></a><!--
+					--><a href="/archives.html"><span>Archives</span></a><!--
+					--><a href="/video"><span>Video</span></a><!--
+					--><a href="/cartoons"><span>Cartoons</span></a><!--
+					--><a href="/static/about_us.html"><span>About</span></a><!--
+					--><a href="/search/"><span>Search</span></a><!--
+					--><a href="/login.html"><span>Login</span></a><!--
+					--><a href="/static/comments_faqs.html"><span>Rules/FAQ</span></a><!--
+					--><a href="/static/contact_information.html"><span>Contact</span></a><!--
+					--><a href="/static/donate_to_american_thinker.html"><span>Donations</span></a><!--
+					--><a href="http://www.americanmethod.com/american-thinker/"><span>Merchandise</span></a><!--
+				--></div>
+
+				<div class="normal">
+					<a href="/"><span>Home</span></a>
+					<a href="/archives.html"><span>Archives</span></a>
+					<a href="/video"><span>Video</span></a>
+					<a href="/cartoons"><span>Cartoons</span></a>
+					<a href="/static/about_us.html"><span>About</span></a>
+					<a href="/search/"><span>Search</span></a>
+					<a href="/login.html"><span>Login</span></a>
+					<a class="more_link"><span>More <img src="/assets/images/down_arrow.png" alt="Down Arrow" /></span></a>
+
+					<ul class="more_menu">
+						<li><a href="/static/comments_faqs.html"><span>Rules/FAQ</span></a></li>
+						<li><a href="/static/contact_information.html"><span>Contact</span></a></li>
+						<li><a href="/static/donate_to_american_thinker.html"><span>Donations</span></a></li>
+						<li><a href="http://www.americanmethod.com/american-thinker/"><span>Merchandise</span></a></li>
+					</ul>
+				</div>
+
+			</nav>
+
+			<!-- AT_320_by_50_mobile -->
+			<div class="mobile_banner" id='div-gpt-ad-1319550789004-0' style='width:320px; height:50px;'>
+				<script type='text/javascript'>
+					if(page_width_onload < 768) {
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1319550789004-0')});
+					}
+				</script>
+			</div>
+
+			<!-- NDN Code Block -->
+			<script type="text/javascript" src="http://assets.newsinc.com/ndn.2.js"></script>
+			<!-- End NDN Code Block -->
+
+		</header>
+<main role="main" class="blog_post">
+
+	<div class="column_610">
+
+		<a id="a0"></a>
+
+		<div class="blog_nav">
+			<a href="/blog/2016/06/why_should_anyone_need_or_want_an_ar15.html">&laquo; Why should anyone need or want an AR-15?</a> | <a href="/blog/2016/06/the_return_of_the_law_of_suspects.html">The return of the Law of Suspects &raquo;</a>		</div>
+		
+
+
+				<div class="social_tools">
+
+			<!-- SHARE -->
+			<span>
+				<a href="http://www.addthis.com/bookmark.php" style="text-decoration:none;" onmouseover="return addthis_open(this, '', 'http://www.americanthinker.com/blog/2016/06/hillarys_health_the_issue_the_media_refuse_to_cover.html', 'As+Tammy+Bruce+correctly+pointed+out+recently%2C+there+are+very+good+reasons+to+worry+about+the+health+of+Hillary+Clinton+and+her+ability+to+discharge+the+duties+of+office%2C+should+she+be+elected+president.+%26nbsp%3BJust+this+week%2C+she+appeared+in+public+l...');" onmouseout="addthis_close();" onclick="return addthis_sendto();"><img class="icon" src="http://s7.addthis.com/static/btn/sm-plus.gif" height="14" border="0" alt="Share" /> Share</a>			</span>
+
+			<span class="separator">|</span>
+
+			<!-- TWEET BUTTON -->
+			<span class="addthis_toolbox addthis_default_style">
+				<a class="addthis_button_twitter">&nbsp;Twitter</a>
+			</span>
+
+			<span class="separator">|</span>
+			
+			<!-- FACEBOOK SHARE -->
+			<span class="addthis_toolbox addthis_default_style">
+				<a class="addthis_button_facebook">&nbsp;Facebook</a>
+			</span>
+
+			<span class="separator">|</span>
+
+			<!-- COMMENTS -->
+			<span>
+				<img class="icon" src="/assets/images/comments.png" height="16" /> <a href="/blog/2016/06/hillarys_health_the_issue_the_media_refuse_to_cover_comments.html" data-disqus-identifier="300115578"> Comments</a>
+			</span>
+
+			<span class="separator print">|</span>
+
+			<!-- PRINT -->
+			<span class="print">
+				<a href="javascript:void(0);" onclick="print();"><img src="/assets/images/icon-print.png"  /> Print</a>
+			</span>
+
+			<span class="separator email">|</span>
+			
+			<!-- EMAIL -->
+			<span class="addthis_toolbox addthis_default_style email">
+				<a class="addthis_button_email"> &nbsp;Email</a>
+			</span>
+
+		</div>                <!-- startprint -->
+		<div class="article_date">June 18, 2016</div>
+
+		<h1>Hillary’s health: the issue the media refuse to cover</h1>
+
+		<div class="author">By <a href="/author/thomas_lifson/">Thomas Lifson</a></div>
+
+		<div class="article_body top"><p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">As <a href="http://tammybruce.com/2016/06/shocking-picishillary-too-unwell-to-handle-the-presidency.html#respond">Tammy Bruce</a> correctly pointed out recently, there are very good reasons to worry about the health of Hillary Clinton and her ability to discharge the duties of office, should she be elected president. &nbsp;Just this week, she appeared in public looking like death warmed over.</span></span></p>
+
+<blockquote>
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">Can you imagine the press &amp; GOP hysteria if Trump showed up at a public event looking like a zombie? But when it comes to Hillary, all we hear are crickets.</span></span></p></blockquote></div>
+
+				<div class="article_box_ad" id="div-gpt-ad-1455834208841-0">
+			<script type="text/javascript">
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455834208841-0'); }); 
+			</script>			 
+		</div>
+        
+		<div class="article_body bottom"><blockquote>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">The image [below] is from a public statement she made [Wednesday] addressing national security in Virginia. Which means her appearance is not the result of being caught by paparrazi early in the morning, after stumbling outside, half-asleep after a bout with the flu.</span></span></p>
+</blockquote>
+
+<p style="text-align: center;"><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;"><img alt="" src="http://admin.americanthinker.com/images/bucket/2016-06/196727_5_.png" style="width: 389px; height: 250px;" /></span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">There are constant questions about her health that the legacy media refuses to cover; they don&rsquo;t ask the questions at all as a matter of fact, indicating that her health remains an issue. &nbsp;Considering her appearance, combined with the bizarre coughing fits, some serious questions about her health must be immediately addressed. &nbsp;Will the legacy media do it? &nbsp;Will the GOP? &nbsp;Unlikely, since she&rsquo;s their candidate.</span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">Mrs. Clinton has not released her complete medical records, and she suffered a serious fall with a brain injury in 2012. &nbsp;<a href="http://talkingpointsmemo.com/livewire/hillary-clinton-medical-records">In place of release of her actual records</a>, in 2015 physician Dr. Lisa&nbsp;Bardack summarized and evaluated:</span></span></p>
+
+<blockquote>
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">... the former secretary of state&#39;s medical history, which includes a deep vein thrombosis in 1998 and 2009, seasonal allergies, and a concussion in 2012. Bardack has been Clinton&#39;s physician since 2001.</span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">&quot;Mrs. Clinton is a healthy female with hypothyroidism and seasonal allergies, on long-term anticoagulation. She participates in a healthy lifestyle and has had a full medical evaluation, which reveals no evidence of additional medical issues or cardiovascular disease. Her cancer screening evaluations are all negative. She is in excellent physical condition and fit to serve as President of the United States,&quot; Bardack wrote.</span></span></p>
+</blockquote>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">This is similar to the level of disclosure Donald Trump has made of his income, which Democrats are attempting to make an issue of, demanding his tax returns. &nbsp;If Hillary Clinton won&rsquo;t release her actual complete medical records, I don&rsquo;t see how the Democrats can demand more of Trump when it comes to his income. &nbsp;And nobody is auditing Hillary&rsquo;s health records.</span></span></p></div>
+
+		<div class="article_body"><p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">As <a href="http://tammybruce.com/2016/06/shocking-picishillary-too-unwell-to-handle-the-presidency.html#respond">Tammy Bruce</a> correctly pointed out recently, there are very good reasons to worry about the health of Hillary Clinton and her ability to discharge the duties of office, should she be elected president. &nbsp;Just this week, she appeared in public looking like death warmed over.</span></span></p>
+
+<blockquote>
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">Can you imagine the press &amp; GOP hysteria if Trump showed up at a public event looking like a zombie? But when it comes to Hillary, all we hear are crickets.</span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">The image [below] is from a public statement she made [Wednesday] addressing national security in Virginia. Which means her appearance is not the result of being caught by paparrazi early in the morning, after stumbling outside, half-asleep after a bout with the flu.</span></span></p>
+</blockquote>
+
+<p style="text-align: center;"><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;"><img alt="" src="http://admin.americanthinker.com/images/bucket/2016-06/196727_5_.png" style="width: 389px; height: 250px;" /></span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">There are constant questions about her health that the legacy media refuses to cover; they don&rsquo;t ask the questions at all as a matter of fact, indicating that her health remains an issue. &nbsp;Considering her appearance, combined with the bizarre coughing fits, some serious questions about her health must be immediately addressed. &nbsp;Will the legacy media do it? &nbsp;Will the GOP? &nbsp;Unlikely, since she&rsquo;s their candidate.</span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">Mrs. Clinton has not released her complete medical records, and she suffered a serious fall with a brain injury in 2012. &nbsp;<a href="http://talkingpointsmemo.com/livewire/hillary-clinton-medical-records">In place of release of her actual records</a>, in 2015 physician Dr. Lisa&nbsp;Bardack summarized and evaluated:</span></span></p>
+
+<blockquote>
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">... the former secretary of state&#39;s medical history, which includes a deep vein thrombosis in 1998 and 2009, seasonal allergies, and a concussion in 2012. Bardack has been Clinton&#39;s physician since 2001.</span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">&quot;Mrs. Clinton is a healthy female with hypothyroidism and seasonal allergies, on long-term anticoagulation. She participates in a healthy lifestyle and has had a full medical evaluation, which reveals no evidence of additional medical issues or cardiovascular disease. Her cancer screening evaluations are all negative. She is in excellent physical condition and fit to serve as President of the United States,&quot; Bardack wrote.</span></span></p>
+</blockquote>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size: 14px;">This is similar to the level of disclosure Donald Trump has made of his income, which Democrats are attempting to make an issue of, demanding his tax returns. &nbsp;If Hillary Clinton won&rsquo;t release her actual complete medical records, I don&rsquo;t see how the Democrats can demand more of Trump when it comes to his income. &nbsp;And nobody is auditing Hillary&rsquo;s health records.</span></span></p></div>
+                <!-- stopprint -->
+
+
+                <div id='div-gpt-ad-1345489840937-4' style='text-align:center;'>
+			<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1345489840937-4'); });
+			</script>
+		</div>  
+				                
+				<div class="social_tools">
+
+			<!-- SHARE -->
+			<span>
+				<a href="http://www.addthis.com/bookmark.php" style="text-decoration:none;" onmouseover="return addthis_open(this, '', 'http://www.americanthinker.com/blog/2016/06/hillarys_health_the_issue_the_media_refuse_to_cover.html', 'As+Tammy+Bruce+correctly+pointed+out+recently%2C+there+are+very+good+reasons+to+worry+about+the+health+of+Hillary+Clinton+and+her+ability+to+discharge+the+duties+of+office%2C+should+she+be+elected+president.+%26nbsp%3BJust+this+week%2C+she+appeared+in+public+l...');" onmouseout="addthis_close();" onclick="return addthis_sendto();"><img class="icon" src="http://s7.addthis.com/static/btn/sm-plus.gif" height="14" border="0" alt="Share" /> Share</a>			</span>
+
+			<span class="separator">|</span>
+
+			<!-- TWEET BUTTON -->
+			<span class="addthis_toolbox addthis_default_style">
+				<a class="addthis_button_twitter">&nbsp;Twitter</a>
+			</span>
+
+			<span class="separator">|</span>
+			
+			<!-- FACEBOOK SHARE -->
+			<span class="addthis_toolbox addthis_default_style">
+				<a class="addthis_button_facebook">&nbsp;Facebook</a>
+			</span>
+
+			<span class="separator">|</span>
+
+			<!-- COMMENTS -->
+			<span>
+				<img class="icon" src="/assets/images/comments.png" height="16" /> <a href="/blog/2016/06/hillarys_health_the_issue_the_media_refuse_to_cover_comments.html" data-disqus-identifier="300115578"> Comments</a>
+			</span>
+
+			<span class="separator print">|</span>
+
+			<!-- PRINT -->
+			<span class="print">
+				<a href="javascript:void(0);" onclick="print();"><img src="/assets/images/icon-print.png"  /> Print</a>
+			</span>
+
+			<span class="separator email">|</span>
+			
+			<!-- EMAIL -->
+			<span class="addthis_toolbox addthis_default_style email">
+				<a class="addthis_button_email"> &nbsp;Email</a>
+			</span>
+
+		</div>
+		
+				<div id="related-footer"></div>
+        
+		<div id='div-gpt-ad-1345489840937-8' style='width:1px; height:1px;'>
+			<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1345489840937-8'); });
+			</script>
+		</div>
+
+		<script type="text/javascript">
+			/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+			var disqus_shortname = 'americanthinker'; // required: replace example with your forum shortname
+
+			/* * * DON'T EDIT BELOW THIS LINE * * */
+			(function () {
+				var s = document.createElement('script'); s.async = true;
+				s.type = 'text/javascript';
+				s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+				(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+			}());
+		</script>
+
+	</div>
+
+	<div class="column_364">
+
+		<!-- <script type="text/javascript" src="/assets/js/widgets/recent_videos.js"></script> -->
+	  <!-- <div class="videos_widget">
+       	<div class="title"><h3>RECENT VIDEOS</h3><div class="more"><a href="/video/">More Videos »</a></div></div>
+            <div class="items" style="margin-left:0px;">
+				<div style="margin-top:6px; margin-left:auto; margin-right:auto;" class="ndn_embed" data-config-widget-id="28991" data-config-type="VideoLauncher/Slider300x250" data-config-tracking-group="92095"></div>
+           	</div>
+      </div> --> 
+
+      	<div id='div-gpt-ad-1457979917706-0' style='height:100px; width:365px; margin-top:20px;'>
+		<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1457979917706-0'); });
+		</script>
+		</div> 
+
+		<div class="side_links">
+
+			<script type="text/javascript" src="/assets/js/widgets/recent_articles.js"></script>
+			<script type="text/javascript" src="/assets/js/widgets/recent_blog_posts.js"></script>
+			<script type="text/javascript" src="/assets/js/widgets/monthly_blog_archives.js"></script>
+
+		</div>
+
+				<div class="follow_us">
+
+			<h3>FOLLOW US ON</h3>
+
+			<div class="social_buttons">
+				<a href="https://www.facebook.com/pages/American-Thinker/144317282271701"><img src="/assets/images/ICON-FACEBOOK.gif" alt="American Thinker on Facebook" /></a><a href="https://twitter.com/#!/AmericanThinker"><img src="/assets/images/ICON-TWITTER.gif" alt="American Thinker on Twitter" /></a>
+			</div>
+
+			<a class="newsletter" href="javascript:void window.open('http://americanthinker.com/static/newsletter.html','','width=400,height=400,scrollbars=yes');"><img src="/assets/images/at-newsletter-signup-graphic.gif" alt="American Thinker Newsletter Signup" /></a>
+
+		</div>
+				<div class="side_ads">
+			<!-- AT_160_600 -->
+			<div id='div-gpt-ad-1345489840937-0' style='width:160px; height:600px; margin-top: 10px;'>
+				<script type='text/javascript'>
+					if(page_width_onload >= 640) {
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1345489840937-0'); });
+					}
+				</script>
+			</div>
+						
+			<div id='div-gpt-ad-1455834208841-3' style='margin-top:10px; height:600px; width:160px;'>
+				<script type="text/javascript">
+					if(page_width_onload >= 640) {
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455834208841-3'); });
+					}
+				</script>				
+			</div>
+            		</div>
+		<div id="related-sidebar"></div>
+
+	</div>
+
+</main>
+
+<!-- ValueClick Media In-Text CODE for American Thinker -->
+<script src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js"></script><script type="text/javascript">document.write('<scr' + 'ipt type="text/javascript">(function () {try{VCM.media.render({sid:31644,media_id:12,media_type:14,version:"1.2"});} catch(e){document.write(\'<scr\' + \'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=31644&m=12&tp=14&d=j&t=n&exc=1"></scr\' + \'ipt>\');}}());</scr' + 'ipt>');</script><noscript><a href="http://media.fastclick.net/w/click.here?sid=31644&m=12&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=31644&m=12&tp=14&d=s&c=1&vcm_acv=1.2" width=0 height=0 border=1></a></noscript>
+<!-- ValueClick Media In-Text CODE for American Thinker -->
+
+		<footer role="contentinfo">
+
+			<span class="links">
+				<a href="/static/about_us.html">About Us</a> | 
+				<a href="/static/contact_information.html">Contact</a> | 
+				<a href="/static/privacy_policy.html">Privacy Policy</a> | 
+				<a href="/static/rss_syndication.html">RSS Syndication</a>
+			</span>
+
+			<span class="copyright">&copy; American Thinker 2016</span>
+
+			<div class="bottom_banner_ad">
+				<div id='div-gpt-ad-1345489840937-6' style='width:728px; height:90px; margin: 10px auto 0;'>
+					<script type='text/javascript'>
+						if(page_width_onload >= 768) {
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1345489840937-6'); });
+						}
+					</script>
+				</div>
+			</div>
+
+		</footer>
+
+		<!-- AT_1_by_1_welcome -->
+			<div id='div-gpt-ad-1345489840937-2' style='width:1px; height:1px;'>
+				<script type='text/javascript'>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1345489840937-2'); });
+				</script>
+			</div>
+		<!-- END AT_1_by_1_welcome -->
+
+		<!-- Start Quantcast tag -->
+			<script type="text/javascript">
+				_qoptions={
+					qacct:"p-9bKF-NgTuSFM6"
+				};
+			</script>
+			<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+			<noscript>
+				<img src="http://pixel.quantserve.com/pixel/p-9bKF-NgTuSFM6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+			</noscript>
+		<!-- End Quantcast tag -->
+
+		<!-- Addthis -->
+			<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=aramanujan"></script>
+
+			<script>
+				var addthis_share = { email_template: "new_template" }
+			</script>
+
+
+
+	</div></body>
+
+</html>

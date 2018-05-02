@@ -1,0 +1,792 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+                    "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app0.us.archive.org";archive_analytics.values.server_ms=677;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+	<title>LiveLeak.com - Redefining the Media</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta property="og:title" content="LiveLeak.com - Redefining the Media"/>
+    <meta property="og:description" content="Redefining the Media"/>
+    <meta property="og:image" content="http://edge.liveleak.com/80281E/u/u/ll2/logo.gif"/>
+    
+    <meta http-equiv="X-Frame-Options" content="deny">        <base href="/web/20141215073216/http://www.liveleak.com/" />
+<link rel="stylesheet" type="text/css" href="/web/20141215073216cs_/http://edge.liveleak.com/80281E/u/u/ll2_css/reset.css" />
+<link rel="stylesheet" type="text/css" href="css/default.css" />
+<link rel="stylesheet" type="text/css" href="/web/20141215073216cs_/http://edge.liveleak.com/80281E/u/u/ll2_css/jquery_ui/jquery-ui-1.8.6.custom.css"/>
+<script language="javascript" src="/web/20141215073216js_/http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script> 
+<script src="/web/20141215073216js_/http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+<link rel="stylesheet" href="/web/20141215073216cs_/http://edge.liveleak.com/80281E/u/u/ll2_css/prettyLoader.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="/web/20141215073216cs_/http://edge.liveleak.com/80281E/u/u/ll2_css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8" />
+<script src="j/always_include.js" type="text/javascript" charset="utf-8"></script>
+<script type='text/javascript' src='/web/20141215073216js_/http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-4761214798132470");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-4761214798132470", "video_ad_unit");
+GA_googleAddSlot("ca-pub-4761214798132470", "video_ad_unit_general_audiences");
+GA_googleAddSlot("ca-pub-4761214798132470", "below_video");
+GA_googleAddSlot("ca-pub-4761214798132470", "below_video_general_audiences");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+</head>
+<body>
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.liveleak.com/";
+
+var firstYear = 1996;
+var displayDay = "15";
+var displayMonth = "Dec";
+var displayYear = "2014";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(525, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.liveleak.com/" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20141215073216" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20141115034549/http://www.liveleak.com/" title="15 Nov 2014">NOV</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 7:32:16 Dec 15, 2014">DEC</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20150115181503/http://liveleak.com/" title="15 Jan 2015"><strong>JAN</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20141215073215/http://liveleak.com/" title="7:32:15 Dec 15, 2014"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 7:32:16 Dec 15, 2014">15</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20141215131520/http://liveleak.com/" title="13:15:20 Dec 15, 2014"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20131214171433/http://www.liveleak.com/" title="14 Dec 2013"><strong>2013</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 7:32:16 Dec 15, 2014">2014</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20151216040710/http://www.liveleak.com/" title="16 Dec 2015"><strong>2015</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20141215073216*/http://www.liveleak.com/" title="See a list of every capture for this URL">8,090 captures</a>
+           <div class="r" title="Timespan for captures of this URL">25 Oct 05 - 13 Sep 16</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="525"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=525_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000100_2006:-1:000000000067_2007:-1:676555545877_2008:-1:676777a97766_2009:-1:577766777667_2010:-1:777777676787_2011:-1:787777776778_2012:-1:887898787676_2013:-1:8667765776cc_2014:11:cbcdccddbcbc_2015:-1:c7bc9b7a8abb_2016:-1:bcefeeeba000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+<a href="javascript://" class="red_button" style="position:fixed; top:0px; right:0px;" onClick="if(confirm('Turning the safe mode off will disable the current protection that prevents mature preview images and avatars from showing. By clicking OK you agree that you are 18 years and over and want to turn the safe mode OFF')){ var url_part = '?'; current_url = window.location.href.replace(/[?&amp;]safe_mode=(on|off)/g, ''); if(current_url.indexOf('?') != -1)url_part = '&amp;'; window.location.href = current_url + url_part + 'safe_mode=off';}" title="The safe mode is currently on (default for new visitors), making mature preview images and mature avatars hidden.">Safe Mode: On</a>
+<div id="header">
+	<div class="container">
+		<a name="topdoc" href=""><img id="logo" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/logo.gif" alt=""/></a>
+
+		<div id="header-right">
+			<p>
+				                <a href="user?a=register" onclick="asdasd">Create Account</a>&nbsp;|&nbsp;
+				<a href="user?a=login">Log in</a>&nbsp;|&nbsp;
+                <a href="facebook?a=redirect_to_login" rel="nofollow" title="log in through Facebook"><img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/facebook-icon.png" width="12" height="12"></a>&nbsp;
+                <a href="twitter?a=redirect_to_login" rel="nofollow" title="log in through Twitter"><img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/twitter-icon.gif" width="12" height="12"></a>
+                			</p>
+<div class="clear"><!----></div><!--clear-->
+			<ul id="nav">
+				<li class="current firstlevel"><a class="firstlevela" href="">Home</a></li>
+				<li class="firstlevel"><a class="firstlevela" href="browse">Recent Items</a></li>
+                                <li class="firstlevel"><a class="firstlevela" href="channel?a=browse">Channels</a></li>
+                                <li class="firstlevel"><a class="firstlevela" href="/web/20141215073216/http://forums.liveleak.com/">Forums</a></li>
+							</ul><!--nav-->
+
+			<fieldset id="search">
+            <form action="browse" method="get">
+				<input type="text" id="search_input" name="q" value="Your search entry..." onFocus="if(this.value=='Your search entry...')this.value='';"/>
+				<input type="submit" id="search_submit" name="" value=""/>
+            </form><!--search-->
+		    </fieldset>
+        </div><!--header-right-->
+
+		<div class="clear"><!----></div><!--clear-->
+
+					<ul id="subnav">
+						<li><a href="c/news">News &amp; Politics</a>&nbsp;|</li>
+						<li><a href="c/yoursay">Yoursay</a>&nbsp;|</li>
+                        <li><a href="c/liveleakers">Liveleakers</a>&nbsp;|</li>
+                        <li><a href="c/must_see">Must See</a>&nbsp;|</li>
+						<li><a href="c/ukraine">Ukraine</a>&nbsp;|</li>
+                        <li><a href="c/syria">Syria</a>&nbsp;|</li>
+						<li><a href="c/entertainment">Entertainment</a>&nbsp;|</li>
+                        						<li><a href="chat">Chat</a>&nbsp;|</li>
+                        <li><a href="view?b=b0d_1323333843">Staff Blog</a>&nbsp;|</li>
+                        <li><a href="blog?a=browse">More Blogs</a>&nbsp;|</li>
+                                                <li><a href="channel?a=browse">Browse Channels</a></li>
+                        						
+                        
+					</ul>
+	</div><!--CONTAINER-->
+</div><!--header-->
+<div class="clear"><!----></div><!--clear-->
+<div id="content" class="content_no_background">
+	<div class="container">
+		<div id="content_box" class="transparent">  <div id="leftcol">
+  <div class="tab_nav_large">
+					<div class="tab_nav_large_top"></div>
+					<ul class="tabs" id="top_section_tabs">
+							<li><a href="javascript://" onclick="$('#top_section_tabs li a').removeClass('current'); $(this).addClass('current'); $(this).parent().parent().parent().find('.tab_nav_contents').load('channel?a=show_picked_items&amp;channel_token=04c_1302956196&amp;ajax=1');">In the news</a></li>
+							<li><a href="javascript://" onclick="$('#top_section_tabs li a').removeClass('current'); $(this).addClass('current'); $(this).parent().parent().parent().find('.tab_nav_contents').load('channel?a=show_picked_items&amp;channel_token=1b3_1302956579&amp;ajax=1');">Yoursay</a></li>
+                            <li><a href="javascript://" class="current" onclick="$('#top_section_tabs li a').removeClass('current'); $(this).addClass('current'); $(this).parent().parent().parent().find('.tab_nav_contents').load('channel?a=show_picked_items&amp;channel_token=9ee_1303244161&amp;ajax=1');">Must See</a></li>
+                            						</ul>
+			            <div class="clear"><!----></div><!--clear-->
+                        <div class="tab_nav_contents">
+						            <ul class="item_list">
+                          <div style="width:625px; height:70px; overflow:hidden">
+                <div style="float:left; width:100px;"><a href="/web/20141215073216/http://www.liveleak.com/view?i=652_1418558930" title="Taliban Being Hunted By A Bell AH-1 Cobra"><img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/14/e4ecc44ebf4e_thumb_9.jpg" width="91" height="64" border="0"></a></div>
+                <div style="float:right: width:515px;"><a href="/web/20141215073216/http://www.liveleak.com/view?i=652_1418558930"><strong>Taliban Being Hunted By A Bell AH-1 Cobra</strong></a><br>Very Intense!</div>
+              </div>
+              <div class="divide"></div>
+              <div class="clear"></div>
+                            <div style="width:625px; height:70px; overflow:hidden">
+                <div style="float:left; width:100px;"><a href="/web/20141215073216/http://www.liveleak.com/view?i=efd_1418535539" title="Maggot Therapy Coming Along Swimmingly"><img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/14/2e70aa87116c_thumb_7.jpg" width="91" height="64" border="0"></a></div>
+                <div style="float:right: width:515px;"><a href="/web/20141215073216/http://www.liveleak.com/view?i=efd_1418535539"><strong>Maggot Therapy Coming Along Swimmingly</strong></a><br></div>
+              </div>
+              <div class="divide"></div>
+              <div class="clear"></div>
+                            <div style="width:625px; height:70px; overflow:hidden">
+                <div style="float:left; width:100px;"><a href="/web/20141215073216/http://www.liveleak.com/view?i=7bc_1418484111" title="Robbery Doesn't End Well Due to Jammed Pistol"><img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/13/fca9baed8187_thumb_5.jpg" width="91" height="64" border="0"></a></div>
+                <div style="float:right: width:515px;"><a href="/web/20141215073216/http://www.liveleak.com/view?i=7bc_1418484111"><strong>Robbery Doesn't End Well Due to Jammed Pistol</strong></a><br>In Istanbul, Sariyer, 2 masked robbers attempted to rob a jewelry store. Their gun jammed and taser didn't work. Probably misused taser due to panic. Then the robbery become a public beating. 
+
+Capt</div>
+              </div>
+              <div class="divide"></div>
+              <div class="clear"></div>
+                          </ul>
+            <div class="clear"></div>
+                                    </div> <!--"top_section_contents""-->
+					<div class="tab_nav_large_bottom"></div>
+				</div><!--tab_nav-->
+        <script>
+		$(document).ready(
+
+		function(){
+    		$(".add_to_favorites").click(function (e) {
+	  		var id_string = ($(this).attr('id'));
+	  		var partsArray = id_string.split('-');
+			var item_token = partsArray[1];
+			var title = ($(this).attr('title'));
+			if(confirm("Are you sure you want to "+title+"?"))$(this).load('item?a=add_item_to_favorites&ajax=1&alert=1&item_token='+item_token);
+        });
+
+	   $(".add_to_favorites").mouseover(function(e) {
+         $(this).css('cursor', 'pointer');
+       });
+
+});
+</script>
+      <ul class="item_list">
+      <h1><strong>Featured Items</strong>&nbsp;&nbsp;<a href="/web/20141215073216/http://www.liveleak.com/rss?featured=1" title="RSS feed for this item list"><img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/rss.gif"></a></h1> 
+              <li id="item_li_1d0_1418621286" style="display:block;">
+		  <div class="thumbnail_column" id="thumbnail_1d0_1418621286_632" onmouseover="$(this).find('.add_to_favorites').show();" onmouseout="$(this).find('.add_to_favorites').hide();">
+		    <a href="/web/20141215073216/http://www.liveleak.com/view?i=1d0_1418621286"><img class="thumbnail_image" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/15/d1a2befd41fc_thumb_1.jpg" alt="Don't ever again complain about having a bad day" width="120" height="90" title="Don't ever again complain about having a bad day"/></a>
+		    <img class="add_to_favorites" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/plus.gif" alt="Add to favorites" title="add 'Don't ever again complain about having a bad day' to your favorites" id="favorite-1d0_1418621286" style="display:none"/>
+            <img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/pg_icon.gif" class="content_rating" title="Rating: Parental Guidance">		  </div> <!--thumbnail_column-->
+		  <div class="item_info_column">
+          			<h2><a href="/web/20141215073216/http://www.liveleak.com/view?i=1d0_1418621286">Don't ever again complain about having a bad day</a></h2>
+            &nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/file_embed_playlist.gif" title="Files: 1" height="15">&nbsp;<h3>featured</h3><br />
+            Everything is a challenge for this poor soul			<h4>By: <a href="c/livelurked">livelurked</a>  <a href="premium" title="PREMIUM User!"><img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/premium_star_icon.gif"></a> | Comments: <a href="/web/20141215073216/http://www.liveleak.com/view?i=1d0_1418621286&amp;comments=1#comments">50</a> | Views: 1821 | Votes: 5 | Shared: 6<br />
+            Leaked: 1 hour ago in <a href="/web/20141215073216/http://www.liveleak.com/browse?category=Other">Other</a></h4>
+		  </div><!--item_info_column-->
+	  </li>
+	          <li id="item_li_d7e_1418602321" style="display:block;">
+		  <div class="thumbnail_column" id="thumbnail_d7e_1418602321_769" onmouseover="$(this).find('.add_to_favorites').show();" onmouseout="$(this).find('.add_to_favorites').hide();">
+		    <a href="/web/20141215073216/http://www.liveleak.com/view?i=d7e_1418602321"><img class="thumbnail_image" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/14/3f5c2cd99624_thumb_1.jpg" alt="Hostages being held at café in Sydney, Australia  - Live news stream" width="120" height="90" title="Hostages being held at café in Sydney, Australia  - Live news stream"/></a>
+		    <img class="add_to_favorites" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/plus.gif" alt="Add to favorites" title="add 'Hostages being held at café in Sydney, Australia  - Live news stream' to your favorites" id="favorite-d7e_1418602321" style="display:none"/>
+            <img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/ga_icon.gif" class="content_rating" title="Rating: General Audiences">		  </div> <!--thumbnail_column-->
+		  <div class="item_info_column">
+          			<h2><a href="/web/20141215073216/http://www.liveleak.com/view?i=d7e_1418602321">Hostages being held at café in Sydney, Australia  - Live news stream</a></h2>
+            &nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/file_embed_playlist.gif" title="Files: 2" height="15">&nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/embed_icon.png" title="Embeds: 2" height="15">&nbsp;<h3>featured</h3><br />
+            At least one gunman has taken more than a dozen people hostage at a chocolate shop in Sydney, Australia, according to multiple news reports. 
+
+ Australia’s The Morning Show tweeted photos showing			<h4>By: <a href="c/someaussiedude">someaussiedude</a> | Comments: <a href="/web/20141215073216/http://www.liveleak.com/view?i=d7e_1418602321&amp;comments=1#comments">1470</a> | Views: 37275 | Votes: 31 | Shared: 122<br />
+            Location: <a href="browse?q=Sydney">Sydney</a>, <a href="browse?q=browse&amp;q=New South Wales">New South Wales</a>, <a href="browse?q=Australia">Australia</a> | Leaked: 7 hours ago in <a href="/web/20141215073216/http://www.liveleak.com/c/News">World News</a></h4>
+		  </div><!--item_info_column-->
+	  </li>
+	          <li id="item_li_1be_1418598809" style="display:block;">
+		  <div class="thumbnail_column" id="thumbnail_1be_1418598809_724" onmouseover="$(this).find('.add_to_favorites').show();" onmouseout="$(this).find('.add_to_favorites').hide();">
+		    <a href="/web/20141215073216/http://www.liveleak.com/view?i=1be_1418598809"><img class="thumbnail_image" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/14/2187b844352e_thumb_9.jpg" alt="Apartment Fire Starts From Idiot Using Grill On Balcony" width="120" height="90" title="Apartment Fire Starts From Idiot Using Grill On Balcony"/></a>
+		    <img class="add_to_favorites" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/plus.gif" alt="Add to favorites" title="add 'Apartment Fire Starts From Idiot Using Grill On Balcony' to your favorites" id="favorite-1be_1418598809" style="display:none"/>
+            <img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/ga_icon.gif" class="content_rating" title="Rating: General Audiences">		  </div> <!--thumbnail_column-->
+		  <div class="item_info_column">
+          			<h2><a href="/web/20141215073216/http://www.liveleak.com/view?i=1be_1418598809">Apartment Fire Starts From Idiot Using Grill On Balcony</a></h2>
+            &nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/hd_video_icon.jpg">&nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/file_embed_playlist.gif" title="Files: 1" height="15">&nbsp;<h3>featured</h3><br />
+            Apartment Fire Starts From Idiot Using Grill On Balcony.
+Thanks to the buildings interior being fully covered by sprinklers and fast work by the FD, fire damage was limited to the balcony and roof ar			<h4>By: <a href="c/planestrainsautomobiles">planestrainsautomobiles</a> | Comments: <a href="/web/20141215073216/http://www.liveleak.com/view?i=1be_1418598809&amp;comments=1#comments">244</a> | Views: 14391 | Votes: 26 | Shared: 63<br />
+            Location: <a href="browse?q=United States">United States</a> | Leaked: 7 hours ago in <a href="/web/20141215073216/http://www.liveleak.com/c/Citizen_Journalism">Citizen Journalism</a>, <a href="/web/20141215073216/http://www.liveleak.com/browse?category=Science_and_Technology">Science and Technology</a></h4>
+		  </div><!--item_info_column-->
+	  </li>
+	          <li id="item_li_0a9_1418597457" style="display:block;">
+		  <div class="thumbnail_column" id="thumbnail_0a9_1418597457_15" onmouseover="$(this).find('.add_to_favorites').show();" onmouseout="$(this).find('.add_to_favorites').hide();">
+		    <a href="/web/20141215073216/http://www.liveleak.com/view?i=0a9_1418597457"><img class="thumbnail_image" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/14/699f8f8f4bba_thumb_6.jpg" alt="Dude speaks mad gibberish on live interview" width="120" height="90" title="Dude speaks mad gibberish on live interview"/></a>
+		    <img class="add_to_favorites" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/plus.gif" alt="Add to favorites" title="add 'Dude speaks mad gibberish on live interview' to your favorites" id="favorite-0a9_1418597457" style="display:none"/>
+            <img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/ga_icon.gif" class="content_rating" title="Rating: General Audiences">		  </div> <!--thumbnail_column-->
+		  <div class="item_info_column">
+          			<h2><a href="/web/20141215073216/http://www.liveleak.com/view?i=0a9_1418597457">Dude speaks mad gibberish on live interview</a></h2>
+            &nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/hd_video_icon.jpg">&nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/file_embed_playlist.gif" title="Files: 2" height="15">&nbsp;<h3>featured</h3><br />
+            Live interview with the worst eye witness ever. something about people creeping up shooting and flying to the left?..?			<h4>By: <a href="c/tubezzz">tubezzz</a>  <a href="premium" title="PREMIUM User!"><img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/premium_star_icon.gif"></a> | Comments: <a href="/web/20141215073216/http://www.liveleak.com/view?i=0a9_1418597457&amp;comments=1#comments">804</a> | Views: 31870 | Votes: 46 | Shared: 187<br />
+            Leaked: 8 hours ago in <a href="/web/20141215073216/http://www.liveleak.com/c/Entertainment">WTF</a></h4>
+		  </div><!--item_info_column-->
+	  </li>
+	          <li id="item_li_45a_1418593787" style="display:block;">
+		  <div class="thumbnail_column" id="thumbnail_45a_1418593787_400" onmouseover="$(this).find('.add_to_favorites').show();" onmouseout="$(this).find('.add_to_favorites').hide();">
+		    <a href="/web/20141215073216/http://www.liveleak.com/view?i=45a_1418593787"><img class="thumbnail_image" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/14/17c9b58b20bf_thumb_1.jpg" alt="Guy discovers a WTF in his &quot;how to&quot; kill a chicken video" width="120" height="90" title="Guy discovers a WTF in his &quot;how to&quot; kill a chicken video"/></a>
+		    <img class="add_to_favorites" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/plus.gif" alt="Add to favorites" title="add 'Guy discovers a WTF in his &quot;how to&quot; kill a chicken video' to your favorites" id="favorite-45a_1418593787" style="display:none"/>
+            <img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/pg_icon.gif" class="content_rating" title="Rating: Parental Guidance">		  </div> <!--thumbnail_column-->
+		  <div class="item_info_column">
+          			<h2><a href="/web/20141215073216/http://www.liveleak.com/view?i=45a_1418593787">Guy discovers a WTF in his &quot;how to&quot; kill a chicken video</a></h2>
+            &nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/hd_video_icon.jpg">&nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/file_embed_playlist.gif" title="Files: 1" height="15">&nbsp;<h3>featured</h3><br />
+            He may never leave that chopping block, haha!			<h4>By: <a href="c/borriss">borriss</a> | Comments: <a href="/web/20141215073216/http://www.liveleak.com/view?i=45a_1418593787&amp;comments=1#comments">121</a> | Views: 12903 | Votes: 50 | Shared: 27<br />
+            Leaked: 8 hours ago in <a href="/web/20141215073216/http://www.liveleak.com/c/Entertainment">WTF</a>, <a href="/web/20141215073216/http://www.liveleak.com/browse?category=Nature">Nature</a>, <a href="/web/20141215073216/http://www.liveleak.com/browse?category=Other">Other</a></h4>
+		  </div><!--item_info_column-->
+	  </li>
+	          <li id="item_li_ecc_1418592090" style="display:block;">
+		  <div class="thumbnail_column" id="thumbnail_ecc_1418592090_344" onmouseover="$(this).find('.add_to_favorites').show();" onmouseout="$(this).find('.add_to_favorites').hide();">
+		    <a href="/web/20141215073216/http://www.liveleak.com/view?i=ecc_1418592090"><img class="thumbnail_image" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/mature_content.jpg" alt="How the hell did people profit from this for so many years? *GRAPHIC*" width="120" height="90" title="How the hell did people profit from this for so many years? *GRAPHIC*"/></a>
+		    <img class="add_to_favorites" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/plus.gif" alt="Add to favorites" title="add 'How the hell did people profit from this for so many years? *GRAPHIC*' to your favorites" id="favorite-ecc_1418592090" style="display:none"/>
+            <img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/ma_icon.gif" class="content_rating" title="Rating: Mature Audiences Only!">		  </div> <!--thumbnail_column-->
+		  <div class="item_info_column">
+          			<h2><a href="/web/20141215073216/http://www.liveleak.com/view?i=ecc_1418592090">How the hell did people profit from this for so many years? *GRAPHIC*</a></h2>
+            &nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/hd_video_icon.jpg">&nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/file_embed_playlist.gif" title="Files: 1" height="15">&nbsp;<h3>featured</h3><br />
+            Less people died in WW2. Please share any information pertaining to this subject.			<h4>By: <a href="c/lizatrainer">lizatrainer</a>  <a href="premium" title="PREMIUM User!"><img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/premium_star_icon.gif"></a> | Comments: <a href="/web/20141215073216/http://www.liveleak.com/view?i=ecc_1418592090&amp;comments=1#comments">760</a> | Views: 69321 | Votes: 78 | Shared: 239<br />
+            Location: <a href="browse?q=United States">United States</a> | Leaked: 10 hours ago in <a href="/web/20141215073216/http://www.liveleak.com/browse?category=Science_and_Technology">Science and Technology</a></h4>
+		  </div><!--item_info_column-->
+	  </li>
+	          <li id="item_li_3e7_1418587934" style="display:block;">
+		  <div class="thumbnail_column" id="thumbnail_3e7_1418587934_447" onmouseover="$(this).find('.add_to_favorites').show();" onmouseout="$(this).find('.add_to_favorites').hide();">
+		    <a href="/web/20141215073216/http://www.liveleak.com/view?i=3e7_1418587934"><img class="thumbnail_image" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/14/153d6bd2d461_thumb_9.jpg" alt="Dashcam video: Victoria police officer uses Taser on 76-year-old man" width="120" height="90" title="Dashcam video: Victoria police officer uses Taser on 76-year-old man"/></a>
+		    <img class="add_to_favorites" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/plus.gif" alt="Add to favorites" title="add 'Dashcam video: Victoria police officer uses Taser on 76-year-old man' to your favorites" id="favorite-3e7_1418587934" style="display:none"/>
+            <img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/pg_icon.gif" class="content_rating" title="Rating: Parental Guidance">		  </div> <!--thumbnail_column-->
+		  <div class="item_info_column">
+          			<h2><a href="/web/20141215073216/http://www.liveleak.com/view?i=3e7_1418587934">Dashcam video: Victoria police officer uses Taser on 76-year-old man</a></h2>
+            &nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/file_embed_playlist.gif" title="Files: 1" height="15">&nbsp;<h3>featured</h3><br />
+            The Victoria Advocate  reported  that 76-year-old Pete Vasquez was driving a work-owned vehicle back to his place of business on Thursday when 23-year-old Officer Nathanial Robinson pulled him over fo			<h4>By: <a href="c/dcmfox">dcmfox</a>  <a href="premium" title="PREMIUM User!"><img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/premium_star_icon.gif"></a> | Comments: <a href="/web/20141215073216/http://www.liveleak.com/view?i=3e7_1418587934&amp;comments=1#comments">559</a> | Views: 24074 | Votes: 21 | Shared: 291<br />
+            Location: <a href="browse?q=browse&amp;q=Texas">Texas</a>, <a href="browse?q=United States">United States</a> | Leaked: 11 hours ago in <a href="/web/20141215073216/http://www.liveleak.com/c/News">Regional News</a></h4>
+		  </div><!--item_info_column-->
+	  </li>
+	          <li id="item_li_849_1418585761" style="display:block;">
+		  <div class="thumbnail_column" id="thumbnail_849_1418585761_216" onmouseover="$(this).find('.add_to_favorites').show();" onmouseout="$(this).find('.add_to_favorites').hide();">
+		    <a href="/web/20141215073216/http://www.liveleak.com/view?i=849_1418585761"><img class="thumbnail_image" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/14/354f6330b394_thumb_5.jpg" alt="Out of control truck slams into house" width="120" height="90" title="Out of control truck slams into house"/></a>
+		    <img class="add_to_favorites" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/plus.gif" alt="Add to favorites" title="add 'Out of control truck slams into house' to your favorites" id="favorite-849_1418585761" style="display:none"/>
+            <img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/ga_icon.gif" class="content_rating" title="Rating: General Audiences">		  </div> <!--thumbnail_column-->
+		  <div class="item_info_column">
+          			<h2><a href="/web/20141215073216/http://www.liveleak.com/view?i=849_1418585761">Out of control truck slams into house</a></h2>
+            &nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/file_embed_playlist.gif" title="Files: 1" height="15">&nbsp;<h3>featured</h3><br />
+            Inches from death			<h4>By: <a href="c/ljfriel2">ljfriel2</a> | Comments: <a href="/web/20141215073216/http://www.liveleak.com/view?i=849_1418585761&amp;comments=1#comments">200</a> | Views: 36553 | Votes: 25 | Shared: 430<br />
+            Location: <a href="browse?q=Zhaotong Shi">Zhaotong Shi</a>, <a href="browse?q=browse&amp;q=Yunnan Sheng">Yunnan Sheng</a>, <a href="browse?q=China">China</a> | Leaked: 11 hours ago in <a href="/web/20141215073216/http://www.liveleak.com/c/Entertainment">WTF</a>, <a href="/web/20141215073216/http://www.liveleak.com/c/Entertainment">Vehicles</a></h4>
+		  </div><!--item_info_column-->
+	  </li>
+	          <li id="item_li_25b_1418580762" style="display:block;">
+		  <div class="thumbnail_column" id="thumbnail_25b_1418580762_831" onmouseover="$(this).find('.add_to_favorites').show();" onmouseout="$(this).find('.add_to_favorites').hide();">
+		    <a href="/web/20141215073216/http://www.liveleak.com/view?i=25b_1418580762"><img class="thumbnail_image" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/14/e29eb5d93d94_thumb_6.jpg" alt="Man jumps 14 times to steal bras and underwear " width="120" height="90" title="Man jumps 14 times to steal bras and underwear "/></a>
+		    <img class="add_to_favorites" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/plus.gif" alt="Add to favorites" title="add 'Man jumps 14 times to steal bras and underwear ' to your favorites" id="favorite-25b_1418580762" style="display:none"/>
+            <img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/ga_icon.gif" class="content_rating" title="Rating: General Audiences">		  </div> <!--thumbnail_column-->
+		  <div class="item_info_column">
+          			<h2><a href="/web/20141215073216/http://www.liveleak.com/view?i=25b_1418580762">Man jumps 14 times to steal bras and underwear </a></h2>
+            &nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/file_embed_playlist.gif" title="Files: 1" height="15">&nbsp;<h3>featured</h3><br />
+            His is too short.			<h4>By: <a href="c/Lake8737">Lake8737</a> | Comments: <a href="/web/20141215073216/http://www.liveleak.com/view?i=25b_1418580762&amp;comments=1#comments">193</a> | Views: 22677 | Votes: 8 | Shared: 25<br />
+            Location: <a href="browse?q=Hebi">Hebi</a>, <a href="browse?q=browse&amp;q=Henan">Henan</a>, <a href="browse?q=China">China</a> | Leaked: 13 hours ago in <a href="/web/20141215073216/http://www.liveleak.com/c/Entertainment">WTF</a></h4>
+		  </div><!--item_info_column-->
+	  </li>
+	          <li id="item_li_47a_1418578585" style="display:block;">
+		  <div class="thumbnail_column" id="thumbnail_47a_1418578585_616" onmouseover="$(this).find('.add_to_favorites').show();" onmouseout="$(this).find('.add_to_favorites').hide();">
+		    <a href="/web/20141215073216/http://www.liveleak.com/view?i=47a_1418578585"><img class="thumbnail_image" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/14/7616f2e25812_thumb_10.jpg" alt="Man from Trinidad going off on female who keeps reporting his Facebook videos" width="120" height="90" title="Man from Trinidad going off on female who keeps reporting his Facebook videos"/></a>
+		    <img class="add_to_favorites" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/plus.gif" alt="Add to favorites" title="add 'Man from Trinidad going off on female who keeps reporting his Facebook videos' to your favorites" id="favorite-47a_1418578585" style="display:none"/>
+            <img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/pg_icon.gif" class="content_rating" title="Rating: Parental Guidance">		  </div> <!--thumbnail_column-->
+		  <div class="item_info_column">
+          			<h2><a href="/web/20141215073216/http://www.liveleak.com/view?i=47a_1418578585">Man from Trinidad going off on female who keeps reporting his Facebook videos</a></h2>
+            &nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/file_embed_playlist.gif" title="Files: 1" height="15">&nbsp;<h3>featured</h3><br />
+            			<h4>By: <a href="c/Liquidkill">Liquidkill</a> | Comments: <a href="/web/20141215073216/http://www.liveleak.com/view?i=47a_1418578585&amp;comments=1#comments">353</a> | Views: 113022 | Votes: 87 | Shared: 295<br />
+            Location: <a href="browse?q=Trinidad and Tobago">Trinidad and Tobago</a> | Leaked: 13 hours ago in <a href="/web/20141215073216/http://www.liveleak.com/c/Entertainment">Other Entertainment</a></h4>
+		  </div><!--item_info_column-->
+	  </li>
+	          <li id="item_li_0b9_1418576929" style="display:block;">
+		  <div class="thumbnail_column" id="thumbnail_0b9_1418576929_640" onmouseover="$(this).find('.add_to_favorites').show();" onmouseout="$(this).find('.add_to_favorites').hide();">
+		    <a href="/web/20141215073216/http://www.liveleak.com/view?i=0b9_1418576929"><img class="thumbnail_image" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/14/f734a1799630_thumb_2.jpg" alt="Now this is an army vehicle" width="120" height="90" title="Now this is an army vehicle"/></a>
+		    <img class="add_to_favorites" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/plus.gif" alt="Add to favorites" title="add 'Now this is an army vehicle' to your favorites" id="favorite-0b9_1418576929" style="display:none"/>
+            <img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/ga_icon.gif" class="content_rating" title="Rating: General Audiences">		  </div> <!--thumbnail_column-->
+		  <div class="item_info_column">
+          			<h2><a href="/web/20141215073216/http://www.liveleak.com/view?i=0b9_1418576929">Now this is an army vehicle</a></h2>
+            &nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/hd_video_icon.jpg">&nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/file_embed_playlist.gif" title="Files: 1" height="15">&nbsp;<h3>featured</h3><br />
+            Now this is an army vehicle			<h4>By: <a href="c/deliric">deliric</a> | Comments: <a href="/web/20141215073216/http://www.liveleak.com/view?i=0b9_1418576929&amp;comments=1#comments">274</a> | Views: 40007 | Votes: 41 | Shared: 46<br />
+            Leaked: 14 hours ago in <a href="/web/20141215073216/http://www.liveleak.com/c/Entertainment">Weapons</a></h4>
+		  </div><!--item_info_column-->
+	  </li>
+	          <li id="item_li_5e5_1418574245" style="display:block;">
+		  <div class="thumbnail_column" id="thumbnail_5e5_1418574245_262" onmouseover="$(this).find('.add_to_favorites').show();" onmouseout="$(this).find('.add_to_favorites').hide();">
+		    <a href="/web/20141215073216/http://www.liveleak.com/view?i=5e5_1418574245"><img class="thumbnail_image" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/14/bf12f6fe88cd_thumb_3.jpg" alt="Beggar is a scam artist..." width="120" height="90" title="Beggar is a scam artist..."/></a>
+		    <img class="add_to_favorites" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/plus.gif" alt="Add to favorites" title="add 'Beggar is a scam artist...' to your favorites" id="favorite-5e5_1418574245" style="display:none"/>
+            <img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/ga_icon.gif" class="content_rating" title="Rating: General Audiences">		  </div> <!--thumbnail_column-->
+		  <div class="item_info_column">
+          			<h2><a href="/web/20141215073216/http://www.liveleak.com/view?i=5e5_1418574245">Beggar is a scam artist...</a></h2>
+            &nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/hd_video_icon.jpg">&nbsp;<img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/file_embed_playlist.gif" title="Files: 1" height="15">&nbsp;<h3>featured</h3><br />
+            He was a “paralyzed” beggar in rags who could only walk with the assistance of a wooden “skateboard” in one scene, but in another, he took off his “outfit” and stood up walking and running			<h4>By: <a href="c/skinner">skinner</a> | Comments: <a href="/web/20141215073216/http://www.liveleak.com/view?i=5e5_1418574245&amp;comments=1#comments">294</a> | Views: 42584 | Votes: 13 | Shared: 89<br />
+            Location: <a href="browse?q=China">China</a> | Leaked: 15 hours ago in <a href="/web/20141215073216/http://www.liveleak.com/c/Entertainment">Other Entertainment</a></h4>
+		  </div><!--item_info_column-->
+	  </li>
+	        <div class="clear"></div>
+	 </ul> <!--<ul class="item_list">-->
+      <ul class="pagenav"><li><img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/left.gif" title="Go to previous page"/> Previous</li><li class="current">1</li><li><a href="browse?featured=1&amp;page=2" >2</a></li><li><a href="browse?featured=1&amp;page=3" >3</a></li><li><a href="browse?featured=1&amp;page=4" >4</a></li><li><a href="browse?featured=1&amp;page=5" >5</a></li><li><a href="browse?featured=1&amp;page=6" >6</a></li><li><a href="browse?featured=1&amp;page=7" >7</a></li><li><a href="browse?featured=1&amp;page=8" >8</a></li><li><a href="browse?featured=1&amp;page=9" >9</a></li><li><a href="browse?featured=1&amp;page=10" >10</a></li><li><a href='browse?featured=1&amp;page=2' ><img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/right.gif" title="Go to next page"/>  Next</a></li></ul>    </div>
+  <span class="float_right">
+<table cellpadding="0" cellspacing="0" style="border: 1px solid; background-color: #eceff5; border-color: #94a3c4;">
+<tbody><tr>
+  <td colspan="2" align="left" style="border: 1px solid; background-color: #3b5998; border-color: #244588; color:#FFF"><strong>Liveleak on Facebook</strong></td></tr>
+<tr><td rowspan="2" width="60"><a href="/web/20141215073216/http://www.facebook.com/liveleak.official" target="_blank"><img src="/web/20141215073216im_/http://profile.ak.fbcdn.net/hprofile-ak-snc6/187769_400703896635912_1056432936_q.jpg" border="0" /></a>
+</td>
+  <td height="30"><a href="/web/20141215073216/http://www.facebook.com/liveleak.official" target="_blank" style="color:#3b5998;"><strong>LIKE Liveleak.com</strong></a></td>
+</tr>
+<tr>
+  <td><iframe src="/web/20141215073216if_/http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fliveleak.official&amp;send=false&amp;layout=standard&amp;width=240&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=35&amp;appId=392243290825542" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:240px; height:35px;" allowtransparency="true"></iframe></td>
+</tr>
+</tbody>
+</table>
+<br />
+<div class="clear"></div>
+<span class="section_title">Current Events</span>
+<div class="scroll_list" style="height:280px;">
+ <ul>
+      <li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/Operation_Protective_Edge" title="Operation Protective Edge"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/12/5b56ef092379_thumb_10.jpg" alt="Operation Protective Edge" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/Operation_Protective_Edge" title="Operation Protective Edge">Operation Protective Edge</a></h4>
+              <br><span>Operation Protective Edge (see Name below) is an Israel Defense Forces (IDF) offensive in ..</span>
+			</li>
+                  <li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/Malaysia_777_Shot_Down_in_Ukraine" title="Malaysia 777 Shot Down in Ukraine"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/14/5cf2b0ec5a2d_thumb_4.jpg" alt="Malaysia 777 Shot Down in Ukraine" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/Malaysia_777_Shot_Down_in_Ukraine" title="Malaysia 777 Shot Down in Ukraine">Malaysia 777 Shot Down in Ukraine</a></h4>
+              <br><span>A Malaysia Airlines flight from Amsterdam to Kuala Lumpur, Malaysia, has crashed in easter..</span>
+			</li>
+                  <li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/2014_FIFA_World_Cup" title="2014 FIFA World Cup"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/thumbs/2014/Jul/14/e2b27d4e1660_thumb_9.jpg" alt="2014 FIFA World Cup" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/2014_FIFA_World_Cup" title="2014 FIFA World Cup">2014 FIFA World Cup</a></h4>
+              <br><span>he 2014 FIFA World Cup is the 20th FIFA World Cup, an international men's football tournam..</span>
+			</li>
+                  <li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/Malaysia_Airlines_Flight_370" title="Malaysia Airlines Flight 370"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/s/s/17/media17/2014/Mar/23/21079dd7e906_embed_thumbnail_1395560894.jpg?d5e8cc8eccfb6039332f41f6249e92b06c91b4db65f5e99818bdd69e4b47dbd39bd1&amp;ec_rate=230" alt="Malaysia Airlines Flight 370" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/Malaysia_Airlines_Flight_370" title="Malaysia Airlines Flight 370">Malaysia Airlines Flight 370</a></h4>
+              <br><span>Malaysia Airlines Flight 370 (MH370/MAS370)[a] was a scheduled international passenger fli..</span>
+			</li>
+                  <li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/Sochi_2014_Olympics" title="Sochi 2014 Olympics"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/s/s/17/media17/2014/Nov/11/c20dbe0eb50c_embed_thumbnail_1415719277.jpg?d5e8cc8eccfb6039332f41f6249e92b06c91b4db65f5e99818bdd69e4b47dbd39bd1&amp;ec_rate=230" alt="Sochi 2014 Olympics" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/Sochi_2014_Olympics" title="Sochi 2014 Olympics">Sochi 2014 Olympics</a></h4>
+              <br><span>All content related to the Sochi 2014 Olympics..</span>
+			</li>
+                  <li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/Ukraine" title="Ukraine"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/s/s/17/media17/2014/Dec/15/c30ce6fb144b_embed_thumbnail_1418625839.jpg?d5e8cc8eccfb6039332f41f6249e92b06c91b4db65f5e99818bdd69e4b47dbd39bd1&amp;ec_rate=230" alt="Ukraine" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/Ukraine" title="Ukraine">Ukraine</a></h4>
+              <br><span>A controversial anti-protest law has come into effect in Ukraine, despite violent rallies ..</span>
+			</li>
+                  <li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/Winter_2014" title="Winter 2014"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Nov/28/c93d81252572_thumb_5.jpg" alt="Winter 2014" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/Winter_2014" title="Winter 2014">Winter 2014</a></h4>
+              <br><span>Snow, Ice, Slippery Slopes, Cold Temperatures..</span>
+			</li>
+                  <li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/New_Year_2014" title="New Year 2014"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/11/cb7d1d9db360_thumb_4.jpg" alt="New Year 2014" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/New_Year_2014" title="New Year 2014">New Year 2014</a></h4>
+              <br><span>For all items related to new year 2014..</span>
+			</li>
+                  <li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/Christmas_2013" title="Christmas 2013"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/s/s/17/media17/2013/Dec/26/05205a3d968e_embed_thumbnail_1388081689.jpg?d5e8cc8eccfb6039332f41f6249e92b06c91b4db65f5e99818bdd69e4b47dbd39bd1&amp;ec_rate=230" alt="Christmas 2013" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/Christmas_2013" title="Christmas 2013">Christmas 2013</a></h4>
+              <br><span>Christmas 2013..</span>
+			</li>
+                  <li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/Typhoon_Haiyan" title="Typhoon Haiyan"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2013/Nov/17/dfa492720c21_thumb_4.jpg" alt="Typhoon Haiyan" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/Typhoon_Haiyan" title="Typhoon Haiyan">Typhoon Haiyan</a></h4>
+              <br><span>Typhoon Haiyan (known in the Philippines as Typhoon Yolanda) is currently an extremely str..</span>
+			</li>
+            </ul>
+</div>
+<br><br>
+        <div class="section_title">Channels</div>
+        <div class="tab_nav">
+					<div class="tab_nav_top"></div>
+					  <ul class="tabs" id="more_channel_list_tabs_413">
+                        							<li><a href="javascript://" onclick="$('#more_channel_list_tabs_413 li a').removeClass('current'); $(this).addClass('current'); $('#more_channel_list_413').load('channel?a=show_more_channel_list&amp;selection=featured_channels&amp;ajax=1');" class="current">Featured</a></li>
+                        <li><a href="javascript://" onclick="$('#more_channel_list_tabs_413 li a').removeClass('current'); $(this).addClass('current'); $('#more_channel_list_413').load('channel?a=show_more_channel_list&amp;selection=current_event_channels&amp;ajax=1');">Current&nbsp;Events</a></li>
+						</ul>
+						<div class="tab_nav_contents">
+			             <div class="clear"><!----></div><!--clear-->
+							<div class="scroll_list" style="height:300px;">
+								<ul id="more_channel_list_413">
+                                          	<li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/Yoursay" title="Yoursay"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/s/s/10/media10/2011/Apr/16/a23d0244223a_channel_thumbnail_1303021660.png?d5e8cc8eccfb6039332f41f6249e92b06c91b4db65f5e99818bdd69e4b47dbd39bd1&amp;ec_rate=230" alt="Yoursay" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/Yoursay" title="Yoursay">Yoursay</a></h4>
+			</li>
+				          	<li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/London_2012_Olympics" title="London 2012 Olympics"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/thumbs/2012/Aug/10/e883181c6e69_thumb_1.jpg" alt="London 2012 Olympics" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/London_2012_Olympics" title="London 2012 Olympics">London 2012 Olympics</a></h4>
+			</li>
+				          	<li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/2011_Norway_attacks" title="2011 Norway attacks"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/nopreview.jpg" alt="2011 Norway attacks" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/2011_Norway_attacks" title="2011 Norway attacks">2011 Norway attacks</a></h4>
+			</li>
+				          	<li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/PhotographyIsNotACrime" title="PhotographyIsNotACrime"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/s/s/17/media17/2014/Apr/23/71deefed14a0_channel_thumbnail_1398295035.png?d5e8cc8eccfb6039332f41f6249e92b06c91b4db65f5e99818bdd69e4b47dbd39bd1&amp;ec_rate=230" alt="PhotographyIsNotACrime" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/PhotographyIsNotACrime" title="PhotographyIsNotACrime">PhotographyIsNotACrime</a></h4>
+			</li>
+				          	<li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/Danny_Jock" title="Danny Jock"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/s/s/19/media19/2012/Jan/11/be228ea482cd_channel_thumbnail_1326318658.png?d5e8cc8eccfb6039332f41f6249e92b06c91b4db65f5e99818bdd69e4b47dbd39bd1&amp;ec_rate=230" alt="Danny Jock" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/Danny_Jock" title="Danny Jock">Danny Jock</a></h4>
+			</li>
+				          	<li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/Suicide_Bombing_kills_Defence_Minister_and_Others" title="Suicide Bombing kills Defence Minister and Others"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/thumbs/2012/Jul/18/9393e13e8ebe_thumb_1.jpg" alt="Suicide Bombing kills Defence Minister and Others" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/Suicide_Bombing_kills_Defence_Minister_and_Others" title="Suicide Bombing kills Defence Minister and Others">Suicide Bombing kills Defence Minister and Others</a></h4>
+			</li>
+				          	<li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/London_Tottenham_Riots_2011" title="London Tottenham Riots 2011"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/thumbs/2012/Aug/9/990e444cd699_thumb_1.jpg" alt="London Tottenham Riots 2011" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/London_Tottenham_Riots_2011" title="London Tottenham Riots 2011">London Tottenham Riots 2011</a></h4>
+			</li>
+				          	<li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/Fatty_Fat_Fatty_Challenge" title="Fatty Fat Fatty Challenge"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/thumbs/2013/Apr/6/d492d76ec3e8_thumb_14.jpg" alt="Fatty Fat Fatty Challenge" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/Fatty_Fat_Fatty_Challenge" title="Fatty Fat Fatty Challenge">Fatty Fat Fatty Challenge</a></h4>
+			</li>
+				          	<li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/Malaysia_777_Shot_Down_in_Ukraine" title="Malaysia 777 Shot Down in Ukraine"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/ll_a_u/thumbs/2014/Dec/14/5cf2b0ec5a2d_thumb_4.jpg" alt="Malaysia 777 Shot Down in Ukraine" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/Malaysia_777_Shot_Down_in_Ukraine" title="Malaysia 777 Shot Down in Ukraine">Malaysia 777 Shot Down in Ukraine</a></h4>
+			</li>
+				          	<li>
+			  <div class="thumbnail_column">
+			    <a href="/web/20141215073216/http://www.liveleak.com/c/Liveleak_Cooking_Challenge" title="Liveleak Cooking Challenge"><img class="thumbnail_column" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/nopreview.jpg" alt="Liveleak Cooking Challenge" width="90" height="68"/></a>
+			  </div><!--thumbnail_column-->
+			  <h4><a href="/web/20141215073216/http://www.liveleak.com/c/Liveleak_Cooking_Challenge" title="Liveleak Cooking Challenge">Liveleak Cooking Challenge</a></h4>
+			</li>
+												</ul>
+							</div><!--scroll_list-->
+                         </div><!--tab_nav_contents-->
+					<div class="tab_nav_bottom"></div>
+				</div><!--tab_nav-->
+        <div class="clear">&nbsp;</div>
+          <span class="section_title">Poll</span>
+      <div class="sidebox">
+			<div class="corners"></div>
+			<div class="cornersb"></div>
+			<div class="gradient">
+                    <span class="section_title_small">What do you think happened to Flight MH370?</span>
+        <table cellspacing="5" width="100%">
+                <tr>
+          <td colspan="2"><strong>The poll already expired - voting is no longer possible!</strong></td>
+        </tr>
+        <tr>
+           <td colspan="2"><span class="section_title_small">Results:</span></td>
+        </tr>
+                 <tr>
+           <td colspan="83%">It crashed by accident</td>
+          </tr>
+         <tr>
+           <td width="10%"><img width="57" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/poll/bar_green.png" height="9" /></td>
+           <td width="7%">(3140)&nbsp;33.37%</td>
+         </tr>
+		         <tr>
+           <td colspan="83%">It got hijacked and crashed</td>
+          </tr>
+         <tr>
+           <td width="10%"><img width="33" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/poll/bar_green.png" height="9" /></td>
+           <td width="7%">(1835)&nbsp;19.5%</td>
+         </tr>
+		         <tr>
+           <td colspan="83%">It got hijacked and is still intact</td>
+          </tr>
+         <tr>
+           <td width="10%"><img width="19" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/poll/bar_green.png" height="9" /></td>
+           <td width="7%">(1066)&nbsp;11.33%</td>
+         </tr>
+		         <tr>
+           <td colspan="83%">It crashed intentionally by the pilots</td>
+          </tr>
+         <tr>
+           <td width="10%"><img width="31" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/poll/bar_green.png" height="9" /></td>
+           <td width="7%">(1682)&nbsp;17.87%</td>
+         </tr>
+		         <tr>
+           <td colspan="83%">The plane is still intact and was intentionally rerouted by the pilots</td>
+          </tr>
+         <tr>
+           <td width="10%"><img width="31" src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/poll/bar_green.png" height="9" /></td>
+           <td width="7%">(1688)&nbsp;17.94%</td>
+         </tr>
+		         <tr>
+           <td colspan="2">&nbsp;</td>
+          </tr>
+         <tr>
+           <td><strong>Total Votes</strong></td>
+           <td><strong>9411</strong></td>
+         </tr>
+         <tr>
+           <td><strong>Expiration Date</strong></td>
+           <td><strong>7/29/2014</strong></td>
+         </tr>
+        </table>
+</div><!--gradient-->
+</div><!--sidebox-->
+<div class="section_title">Advertisers</div>    
+<div class="sidebox">
+			<div class="corners"></div>
+			<div class="cornersb"></div>
+			<div class="gradient">
+				<p>
+                                  <a href="contact_us?subject=advertise">Advertise on Liveleak</a><br />
+                  <a href="/web/20141215073216/http://forums.liveleak.com/">Liveleak Forums</a><br />
+                  <a href="/web/20141215073216/http://www.prochan.com/" target="_blank" rel="nofollow">ProChan - Anonymous Interaction</a><br />
+                  <a href="/web/20141215073216/http://us.tomonews.net/" target="_blank" rel="nofollow">TomoNews - Animated News</a><br />
+          <a href="/web/20141215073216/http://www.prochan.com/" target="_blank" rel="nofollow">Create your own video channels</a><br />
+                </p>
+                 </div><!--gradient-->
+                              <iframe src="/web/20141215073216if_/http://mgid.com/liveleak-composite-588.html" width="270px" height="300px" frameborder="0" scrolling="no"></iframe></div><!--sidebox--> 
+</span>   <!--float_right-->               		</div><!--content_box-->
+	</div><!--CONTAINER-->
+</div><!--content-->
+<div id="footer">
+	<div class="container">
+		<ul>
+        <li>&nbsp;<a href="/web/20141215073216/http://m.liveleak.com/?selected_view_mode=mobile">Switch to Mobile site</a> |  </li>
+        <li><a href="faq">F.A.Q.</a> |  </li>
+          <li>&nbsp;
+          <a href="contact_us?subject=support">Site Support</a> | </li>
+          <li>&nbsp;<a href="contact_us">Contact Us</a> |  </li>
+          <li>&nbsp;<a href="privacy">Privacy Policy</a> | </li>
+          <li>&nbsp;<a href="tos">Terms &amp; Conditions</a> | </li>
+          <li>&nbsp;<a href="copyright">Copyright</a> | </li>
+          <li>&nbsp;<a href="contact_us?subject=advertise">Advertise</a></li>
+		</ul>
+
+		<span id="neado"><a href="/web/20141215073216/http://www.neadodesigns.com/" target="_blank" rel="nofollow"><img src="/web/20141215073216im_/http://edge.liveleak.com/80281E/u/u/ll2/neado.gif" alt="Web Graphics and Design"/></a></span>
+		<a id="top" onclick="window.scrollTo(0,0);">BACK TO TOP</a>
+
+	</div><!--container-->
+</div><!--footer-->
+<script type="text/javascript" src="/web/20141215073216js_/https://apis.google.com/js/plusone.js"></script> <!--we should put this here to avoid IE6 from crashing-->
+<!-- Start Google analytics -->
+</script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-315839-4']);
+  _gaq.push(['_setDomainName', 'liveleak.com']);
+  
+  
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? '/web/20141215073216/https://ssl' : '/web/20141215073216/http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End Google analytics -->
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="/web/20141215073216js_/http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-c4yHLoeBnD3eE";quantserve();</script>
+<noscript>
+<a href="/web/20141215073216/http://www.quantcast.com/p-c4yHLoeBnD3eE" target="_blank"><img src="/web/20141215073216im_/http://pixel.quantserve.com/pixel/p-c4yHLoeBnD3eE.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+</body>
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 7:32:16 Dec 15, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:59:54 Sep 13, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

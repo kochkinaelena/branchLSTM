@@ -1,0 +1,287 @@
+HTTP/1.1 200 OK
+Server: openresty/1.9.15.1
+Date: Tue, 13 Dec 2016 14:22:16 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Last-Modified: Thu, 17 Nov 2016 17:57:12 GMT
+X-Clacks-Overhead: GNU Terry Pratchett
+Content-Encoding: gzip
+
+<!DOCTYPE html>
+<html>
+	<head>
+        
+
+    
+        
+            
+                
+                    
+    
+    
+            <meta charset="utf-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        
+
+    
+    
+
+    <title>Days Since Hillary&#39;s Last Press Conference - Count Up</title>
+
+    <meta name="description" content="Days Since Hillary&#39;s Last Press Conference - Count Up timer from Dec. 5, 2015, 12:00:00 AM">
+    <meta name="keywords" content="Days Since Hillary&#39;s Last Press Conference,Days,Since,Hillary&amp;#39;s,Last,Press,Conference,count up,timer count up,5, December, 2015">
+
+    <meta name="og:title" content="Days Since Hillary&#39;s Last Press Conference - Count Up">
+    <meta name="og:type" content="website">
+    <meta name="og:url" content="https://www.tickcounter.com/countup/1449273600000/us-central/dhms/FFFFFF3B5998000000FF0000/Days_Since_Hillary&#39;s_Last_Press_Conference">
+    <meta name="og:image" content="https://www.tickcounter.com/static/main/images/meta/og_countup.png">
+    <meta name="og:site_name" content="TickCounter">
+    <meta name="og:description" content="Days Since Hillary&#39;s Last Press Conference - Count Up timer from Dec. 5, 2015, 12:00:00 AM">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Days Since Hillary&#39;s Last Press Conference - Count Up">
+    <meta name="twitter:description" content="Days Since Hillary&#39;s Last Press Conference - Count Up timer from Dec. 5, 2015, 12:00:00 AM">
+    <meta name="twitter:image" content="https://www.tickcounter.com/static/main/images/meta/card_countup.png">
+    <meta name="twitter:url" content="https://www.tickcounter.com/countup/1449273600000/us-central/dhms/FFFFFF3B5998000000FF0000/Days_Since_Hillary&#39;s_Last_Press_Conference">
+
+    <link rel="canonical" href="https://www.tickcounter.com/countup/1449273600000/us-central/dhms/FFFFFF3B5998000000FF0000/Days_Since_Hillary&#39;s_Last_Press_Conference">
+
+
+    
+    
+    
+    
+    
+    
+    
+
+                
+            
+        
+    
+
+    <link rel="stylesheet" href="/static/files/css/a33c189d77e0.css" type="text/css" />
+
+    <style>
+        #id_clock_wrapper { background-color: #FFFFFF }
+        #clock { color: #000000 }
+        #name { color: #3B5998 }
+        #id_seconds { color: #FF0000 }
+    </style>
+
+    </head>
+	<body>
+        
+    
+    
+    <div class="wrapper">
+
+        <div class="top">
+            <div class="logo">
+                <a href="/" title="Countdown Timer">
+                    <img src="/static/main/images/tickcounter.png" alt="Countdown Timer">
+                </a>
+            </div><div id="menu"><div class="link">
+                    <h1><a href="/" title="Countdown"
+                    class=""
+                    >COUNTDOWN</a></h1>
+                </div><div class="link">
+                        <h1><a href="/countup" title="Count Up"
+                        class=""
+                        >COUNT UP</a></h1>
+                </div><div class="link">
+                        <h1><a href="/stopwatch" title="Stopwatch"
+                        class=""
+                        >STOPWATCH</a></h1>
+                </div><div class="link">
+                        <h1><a href="/timer" title="Timer"
+                        class=""
+                        >TIMER</a></h1>
+                </div><div class="link">
+                    <h1><a href="/clock" title="Clock"
+                    class=""
+                    >WORLD CLOCK</a></h1>
+                </div><div class="link">
+                        <h1><a href="/counter" title="Counter"
+                        class=""
+                        >COUNTER</a></h1>
+                </div>
+            </div>
+            <div class="link" id="toggle_menu">
+                <a href=""><img src="/static/main/images/page/menu.png"></a>
+            </div>
+        </div>
+
+        <div class="container" id="mobile_menu"></div>
+
+        <noscript>
+            <div class="notice">
+                Please enable JavaScript in your browser.
+            </div>
+        </noscript>
+
+        
+
+    
+
+    <div id="id_clock_wrapper" class="container">
+
+    <h1 id="name">Days Since Hillary&#39;s Last Press Conference</h1>
+
+    <div id="clock"><div class="clock_part sep" id="id_sign">
+            <div class="unit_value">-</div>
+            <div class="unit_name">&nbsp;</div>
+        </div><div class="clock_part">
+            <div class="unit_value" id="id_years"></div>
+            <div class="unit_name">YEARS</div>
+        </div><div class="clock_part sep" id="sep_year">
+            <div class="unit_value">:</div>
+            <div class="unit_name">&nbsp;</div>
+        </div><div class="clock_part">
+            <div class="unit_value" id="id_months"></div>
+            <div class="unit_name">MONTHS</div>
+        </div><div class="clock_part sep" id="sep_month">
+            <div class="unit_value">:</div>
+            <div class="unit_name">&nbsp;</div>
+        </div><div class="clock_part">
+            <div class="unit_value" id="id_weeks"></div>
+            <div class="unit_name">WEEKS</div>
+        </div><div class="clock_part sep" id="sep_week">
+            <div class="unit_value">:</div>
+            <div class="unit_name">&nbsp;</div>
+        </div><div class="clock_part">
+            <div class="unit_value" id="id_days"></div>
+            <div class="unit_name">DAYS</div>
+        </div><div class="clock_part sep" id="sep_day">
+            <div class="unit_value">:</div>
+            <div class="unit_name">&nbsp;</div>
+        </div><div class="clock_part">
+            <div class="unit_value" id="id_hours"></div>
+            <div class="unit_name">HOURS</div>
+        </div><div class="clock_part sep" id="sep_hour">
+            <div class="unit_value">:</div>
+            <div class="unit_name">&nbsp;</div>
+        </div><div class="clock_part">
+            <div class="unit_value" id="id_minutes"></div>
+            <div class="unit_name">MINUTES</div>
+        </div><div class="clock_part sep" id="sep_minute">
+            <div class="unit_value">:</div>
+            <div class="unit_name">&nbsp;</div>
+        </div><div class="clock_part">
+            <div class="unit_value" id="id_seconds"></div>
+            <div class="unit_name">SECONDS</div>
+        </div></div>
+</div>
+
+    
+
+    <div class="infobar"><div id="infobox1">
+            
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <ins class="adsbygoogle info_slot1"
+                     style="display:inline-block"
+                     data-ad-client="ca-pub-8561745006616674"
+                     data-ad-slot="5676895347"
+                     data-ad-format="auto"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            
+        </div><div class="info">
+            
+
+    <div class="sharing">
+		<a id="share_fb" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.tickcounter.com/countup/1449273600000/us-central/dhms/FFFFFF3B5998000000FF0000/Days_Since_Hillary%27s_Last_Press_Conference" target="_blank"><img src="/static/main/images/sharing/facebook.png" alt="Share on Facebook"></a>
+        <a id="share_tw" rel="nofollow" href="https://twitter.com/intent/tweet?text=Days%20Since%20Hillary%27s%20Last%20Press%20Conference&amp;url=https%3A//www.tickcounter.com/countup/1449273600000/us-central/dhms/FFFFFF3B5998000000FF0000/Days_Since_Hillary%27s_Last_Press_Conference" target="_blank"><img src="/static/main/images/sharing/twitter.png" alt="Share on Twitter"></a>
+		<a id="share_gp" rel="nofollow" href="https://plus.google.com/share?url=https%3A//www.tickcounter.com/countup/1449273600000/us-central/dhms/FFFFFF3B5998000000FF0000/Days_Since_Hillary%27s_Last_Press_Conference" target="_blank"><img src="/static/main/images/sharing/google.png" alt="Share on Google+"></a>
+		<a id="share_tm" rel="nofollow" href="http://www.tumblr.com/share/link?url=https%3A//www.tickcounter.com/countup/1449273600000/us-central/dhms/FFFFFF3B5998000000FF0000/Days_Since_Hillary%27s_Last_Press_Conference&amp;name=Days%20Since%20Hillary%27s%20Last%20Press%20Conference" target="_blank"><img src="/static/main/images/sharing/tumblr.png" alt="Share on Tumblr"></a>
+		<a id="share_bg" rel="nofollow" href="https://www.blogger.com/blog-this.g?u=https%3A//www.tickcounter.com/countup/1449273600000/us-central/dhms/FFFFFF3B5998000000FF0000/Days_Since_Hillary%27s_Last_Press_Conference&amp;n=Days%20Since%20Hillary%27s%20Last%20Press%20Conference" target="_blank"><img src="/static/main/images/sharing/blogger.png" alt="Share on Blogger"></a>
+	</div>
+
+    <p>
+        Countup from:<br>
+        <span class="important">
+            
+                December 4, 2015, <span id="id_time">06:00:00 PM</span>
+            
+        </span><br>
+        Timezone: <b>US/Central</b>
+    </p>
+
+    <p class="embed_detail">
+        <b>EMBED CODE</b>
+        <input type="text" id="id_embed_code" value="&lt;div class=&quot;tc_div_64601&quot; style=&quot;width:650px;height:162.50px;border:1px solid #C0C0C0;&quot;&gt;&lt;a title=&quot;Days Since Hillary&amp;#39;s Last Press Conference&quot; href=&quot;https://www.tickcounter.com/countup/1449273600000/us-central/dhms/FFFFFF3B5998000000FF0000/Days_Since_Hillary&amp;#39;s_Last_Press_Conference&quot;&gt;Days Since Hillary&amp;#39;s Last Press Conference&lt;/a&gt;&lt;a title=&quot;Count Up&quot; href=&quot;https://www.tickcounter.com/countup&quot;&gt;Count Up&lt;/a&gt;&lt;/div&gt;&lt;script type=&quot;text/javascript&quot;&gt;(function(){ var s=document.createElement(&#39;script&#39;);s.src=&quot;//www.tickcounter.com/loader.js&quot;;s.async=&#39;async&#39;;s.onload=function() { tc_widget_loader(&#39;tc_div_64601&#39;, &#39;CountUp&#39;, 650, [&#39;1449273600000&#39;, &#39;us-central&#39;, &#39;dhms&#39;, &#39;FFFFFF3B5998000000FF0000&#39;, &#39;650&#39;, &#39;C0C0C01&#39;, &#39;Days Since Hillary\u0027s Last Press Conference&#39;]);};s.onreadystatechange=s.onload;var head=document.getElementsByTagName(&#39;head&#39;)[0];head.appendChild(s);}());&lt;/script&gt;" onclick="this.focus();this.select()" readonly="readonly">
+        <br>
+        <a href="/widget/countup/1449273600000/us-central/dhms/FFFFFF3B5998000000FF0000/650/C0C0C01/Days_Since_Hillary's_Last_Press_Conference" id="id_widget_link">Adjust / Preview</a>
+    </p>
+
+
+        </div><div id="infobox2">
+            
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <ins class="adsbygoogle info_slot2"
+                     style="display:inline-block"
+                     data-ad-client="ca-pub-8561745006616674"
+                     data-ad-slot="5676895347"
+                     data-ad-format="auto"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            
+    </div></div>
+
+
+
+
+
+        <div class="container footer">
+            &copy; TickCounter
+            <span class="grey">|</span>
+            <a href="/pages/contact">Contact</a>
+        </div>
+
+    </div>
+
+    
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-71745663-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":"/pages/cookies","theme":"dark-bottom"};
+    </script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+
+
+
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.4.1/moment-timezone.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/textfit/2.2.2/textFit.min.js"></script>
+
+    <script>
+        var timezone = 'US/Central';
+        var units = 'dhms';
+        var target = 1449273600000;
+
+        $(function() {
+            moment.tz.add(['US/Central|CST CDT EST CWT CPT|60 50 50 50 50|01010101010101010101010101010101010102010101010103401010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010|-261s0 1nX0 11B0 1nX0 1wp0 TX0 WN0 1qL0 1cN0 WL0 1qN0 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1qN0 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1qN0 WL0 1qN0 11z0 1o10 11z0 11B0 1Hz0 14p0 11z0 1o10 11z0 1qN0 WL0 1qN0 11z0 1o10 11z0 RB0 8x30 iw0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1qN0 WL0 1qN0 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1a10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1cN0 1cL0 1cN0 1cL0 s10 1Vz0 LB0 1BX0 1cN0 1fz0 1a10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1a10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 14p0 1lb0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 14p0 1lb0 14p0 1lb0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 14p0 1lb0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0', "UTC|UTC|0|0|"]);
+        });
+    </script>
+
+    <script type="text/javascript" src="/static/files/js/197c0409681d.js"></script>
+
+    </body>
+</html>

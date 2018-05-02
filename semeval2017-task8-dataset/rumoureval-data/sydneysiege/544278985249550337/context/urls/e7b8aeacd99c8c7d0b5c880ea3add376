@@ -1,0 +1,1923 @@
+<!DOCTYPE html><html lang="en" data-cast-api-enabled="true"><head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app17.us.archive.org";archive_analytics.values.server_ms=200;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+<!-- Start Wayback Rewrite JS Include -->
+<script type="text/javascript" src="/static/js/jwplayer/jwplayer.js" ></script>
+<script type="text/javascript" src="/static/js/video-embed-rewriter.js"></script>
+<script type="text/javascript">
+function initYTVideo(id){
+    _wmVideos_.init("/web/", id);
+}
+</script>
+<!-- End Wayback Rewrite JS Include -->
+
+<script>var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},span: {},info: {}});},tick: function(l, t, n) {ytcsi.gt(n).tick[l] = t || +new Date();},span: function(l, s, n) {ytcsi.gt(n).span[l] = (typeof s == 'number') ? s :+new Date() - ytcsi.data_.tick[l];},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;},setStart: function(s, t, n) {ytcsi.info('yt_sts', s, n);ytcsi.tick('_start', t, n);}};(function(w, d) {ytcsi.perf = w.performance || w.mozPerformance ||w.msPerformance || w.webkitPerformance;ytcsi.setStart('dhs', ytcsi.perf ? ytcsi.perf.timing.responseStart : null);var isPrerender = (d.visibilityState || d.webkitVisibilityState) == 'prerender';var vName = d.webkitVisibilityState ? 'webkitvisibilitychange' : 'visibilitychange';if (isPrerender) {ytcsi.info('prerender', 1);var startTick = function() {ytcsi.setStart('dhs');d.removeEventListener(vName, startTick);};d.addEventListener(vName, startTick, false);}if (d.addEventListener) {d.addEventListener(vName, function() {ytcsi.tick('vc');}, false);}})(window, document);</script>  <script>
+    try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (/(^| )yt-can-buffer( |$)/.test(element.className)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}
+    (function(){var b={d:"content-snap-width-1",g:"content-snap-width-2",j:"content-snap-width-3"};function f(){var a=[],c;for(c in b)a.push(b[c]);return a}function g(a){var c=f().concat(["guide-pinned","show-guide"]),d=c.length,e=[];a.replace(/\S+/g,function(a){for(var k=0;k<d;k++)if(a==c[k])return;e.push(a)});return e};function l(a,c,d){var e=document.getElementsByTagName("html")[0],h=g(e.className);a&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(h.push("guide-pinned"),c&&h.push("show-guide"));d&&(d=(window.innerWidth||document.documentElement.clientWidth)-21-50,1251<=(window.innerWidth||document.documentElement.clientWidth)&&a&&c&&(d-=230),h.push(1262<=d?"content-snap-width-3":1056<=d?"content-snap-width-2":"content-snap-width-1"));e.className=h.join(" ")}
+var m=["yt","www","masthead","sizing","runBeforeBodyIsReady"],n=this;m[0]in n||!n.execScript||n.execScript("var "+m[0]);for(var p;m.length&&(p=m.shift());)m.length||void 0===l?n[p]?n=n[p]:n=n[p]={}:n[p]=l;})();
+yt.www.masthead.sizing.runBeforeBodyIsReady(false,false,true);
+  </script>
+
+
+
+        <script src="/web/20141124234104js_/https://s.ytimg.com/yts/jsbin/www-scheduler-vflXXw2r7/www-scheduler.js" type="text/javascript" name="www-scheduler/www-scheduler"></script>
+
+
+    <script>var ytimg = {};ytimg.count = 1;ytimg.preload = function(src) {var img = new Image();var count = ++ytimg.count;ytimg[count] = img;img.onload = img.onerror = function() {delete ytimg[count];};img.src = src;};</script>
+
+
+
+  <link rel="stylesheet" href="/web/20141124234104cs_/https://s.ytimg.com/yts/cssbin/www-core-vflgYCqoq.css" name="www-core">
+
+  <link rel="stylesheet" href="/web/20141124234104cs_/https://s.ytimg.com/yts/cssbin/www-pageframe-vflaRYzSE.css" name="www-pageframe">
+  
+  
+
+<title>Watch ABC News 24 Live - YouTube</title><link rel="search" type="application/opensearchdescription+xml" href="http://www.youtube.com/opensearch?locale=en_US" title="YouTube Video Search"><link rel="shortcut icon" href="/web/20141124234104im_/https://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico" type="image/x-icon">     <link rel="icon" href="//s.ytimg.com/yts/img/favicon_32-vflWoMFGx.png" sizes="32x32"><link rel="canonical" href="http://www.youtube.com/watch?v=nvzpSvyyZis"><link rel="alternate" media="handheld" href="http://m.youtube.com/watch?v=nvzpSvyyZis"><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.youtube.com/watch?v=nvzpSvyyZis"><link rel="shortlink" href="http://youtu.be/nvzpSvyyZis">      <meta name="title" content="Watch ABC News 24 Live">
+
+      <meta name="description" content="This embedding tool is not for use by commercial parties, and is only available to Australian users. ABC News Homepage: http://abc.net.au/news Follow us on T...">
+
+      <meta name="keywords" content="Australia, live, tv, television, station, channel, continuous, politics, breaking, news, ABC, Live Television (TV Genre)">
+
+      <link rel="alternate" href="android-app://com.google.android.youtube/http/youtube.com/watch/nvzpSvyyZis">
+
+
+      <link rel="alternate" type="application/json+oembed" href="http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnvzpSvyyZis&amp;format=json" title="Watch ABC News 24 Live">
+  <link rel="alternate" type="text/xml+oembed" href="http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnvzpSvyyZis&amp;format=xml" title="Watch ABC News 24 Live">
+
+        <meta property="og:site_name" content="YouTube">
+      <meta property="og:url" content="http://www.youtube.com/watch?v=nvzpSvyyZis">
+    <meta property="og:title" content="Watch ABC News 24 Live">
+    <meta property="og:image" content="https://i.ytimg.com/vi/nvzpSvyyZis/hqdefault.jpg">
+
+      <meta property="og:description" content="This embedding tool is not for use by commercial parties, and is only available to Australian users. ABC News Homepage: http://abc.net.au/news Follow us on T...">
+
+    <meta property="al:ios:app_store_id" content="544007664">
+    <meta property="al:ios:app_name" content="YouTube">
+      <meta property="al:ios:url" content="vnd.youtube://www.youtube.com/watch?v=nvzpSvyyZis&amp;feature=applinks">
+    <meta property="al:android:url" content="http://www.youtube.com/watch?v=nvzpSvyyZis&amp;feature=applinks">
+    <meta property="al:android:app_name" content="YouTube">
+    <meta property="al:android:package" content="com.google.android.youtube">
+    <meta property="al:web:url" content="http://www.youtube.com/watch?v=nvzpSvyyZis&amp;feature=applinks">
+
+    <meta property="og:type" content="video">
+        <meta property="og:video" content="http://www.youtube.com/v/nvzpSvyyZis?version=3&amp;autohide=1">
+        <meta property="og:video:secure_url" content="https://www.youtube.com/v/nvzpSvyyZis?version=3&amp;autohide=1">
+      <meta property="og:video:type" content="application/x-shockwave-flash">
+      <meta property="og:video:width" content="640">
+      <meta property="og:video:height" content="360">
+
+        <meta property="og:video:tag" content="Australia">
+        <meta property="og:video:tag" content="live">
+        <meta property="og:video:tag" content="tv">
+        <meta property="og:video:tag" content="television">
+        <meta property="og:video:tag" content="station">
+        <meta property="og:video:tag" content="channel">
+        <meta property="og:video:tag" content="continuous">
+        <meta property="og:video:tag" content="politics">
+        <meta property="og:video:tag" content="breaking">
+        <meta property="og:video:tag" content="news">
+        <meta property="og:video:tag" content="ABC">
+        <meta property="og:video:tag" content="Live Television (TV Genre)">
+
+    <meta property="fb:app_id" content="87741124305">
+      <meta property="og:restrictions:age" content="18+">
+
+        <meta name="twitter:card" content="player">
+    <meta name="twitter:site" content="@youtube">
+    <meta name="twitter:url" content="http://www.youtube.com/watch?v=nvzpSvyyZis">
+    <meta name="twitter:title" content="Watch ABC News 24 Live">
+    <meta name="twitter:description" content="This embedding tool is not for use by commercial parties, and is only available to Australian users. ABC News Homepage: http://abc.net.au/news Follow us on T...">
+    <meta name="twitter:image" content="https://i.ytimg.com/vi/nvzpSvyyZis/hqdefault.jpg">
+    <meta name="twitter:app:name:iphone" content="YouTube">
+    <meta name="twitter:app:id:iphone" content="544007664">
+    <meta name="twitter:app:name:ipad" content="YouTube">
+    <meta name="twitter:app:id:ipad" content="544007664">
+      <meta name="twitter:app:url:iphone" content="vnd.youtube://www.youtube.com/watch?v=nvzpSvyyZis&amp;feature=applinks">
+      <meta name="twitter:app:url:ipad" content="vnd.youtube://www.youtube.com/watch?v=nvzpSvyyZis&amp;feature=applinks">
+    <meta name="twitter:app:name:googleplay" content="YouTube">
+    <meta name="twitter:app:id:googleplay" content="com.google.android.youtube">
+    <meta name="twitter:app:url:googleplay" content="http://www.youtube.com/watch?v=nvzpSvyyZis">
+      <meta name="twitter:player" content="https://www.youtube.com/embed/nvzpSvyyZis">
+      <meta name="twitter:player:width" content="640">
+      <meta name="twitter:player:height" content="360">
+
+  
+<style>.watch-meta-item{clear:both} #watch7-views-info .watch-view-count{letter-spacing: 0} @media screen and (min-height: 870px) and (min-width: 1320px){.watch-stage-mode .watch-playlist {height: auto;}} @media screen and (min-height: 630px) and (min-width: 894px){.watch-stage-mode .watch-playlist {height: auto;}}</style><!-- Smart CSS Insertion --></head>    <body dir="ltr" class="  ltr    exp-innertube-history exp-playlist-controls   site-center-aligned site-as-giant-card appbar-hidden     not-nirvana-dogfood  not-yt-legacy-css    flex-width-enabled      flex-width-enabled-snap    delayed-frame-styles-not-in  " id="body">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "https://www.youtube.com/watch?v=nvzpSvyyZis";
+
+var firstYear = 1996;
+var displayDay = "24";
+var displayMonth = "Nov";
+var displayYear = "2014";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(525, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.youtube.com/watch?v=nvzpSvyyZis" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20141124234104" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    Oct
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 23:41:04 Nov 24, 2014">NOV</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20141225085304/http://www.youtube.com/watch?v=nvzpSvyyZis" title="25 Dec 2014"><strong>DEC</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20141124005121/https://www.youtube.com/watch?v=nvzpSvyyZis" title="0:51:21 Nov 24, 2014"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 23:41:04 Nov 24, 2014">24</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20141125004058/http://www.youtube.com/watch?v=nvzpSvyyZis" title="0:40:58 Nov 25, 2014"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   2013
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 23:41:04 Nov 24, 2014">2014</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20151201155136/https://www.youtube.com/watch?v=nvzpSvyyZis" title="1 Dec 2015"><strong>2015</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20141124234104*/https://www.youtube.com/watch?v=nvzpSvyyZis" title="See a list of every capture for this URL">149 captures</a>
+           <div class="r" title="Timespan for captures of this URL">13 Nov 14 - 16 Feb 16</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="525"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=525_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000000000_2012:-1:000000000000_2013:-1:000000000000_2014:10:00000000009f_2015:-1:a22120112022_2016:-1:020000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+  <div id="early-body"></div>
+  <div id="body-container"><form name="logoutForm" method="POST" action="/web/20141124234104/https://www.youtube.com/logout"><input type="hidden" name="action_logout" value="1"></form><div id="masthead-positioner">  
+  <div id="yt-masthead-container" class="clearfix yt-base-gutter"><div id="yt-masthead" class=""><div class="yt-masthead-logo-container ">    <a id="logo-container" href="/web/20141124234104/https://www.youtube.com/" title="YouTube home" class="     spf-link 
+"><img id="logo" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="YouTube home"></a>
+  <div id="appbar-guide-button-container">
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle appbar-guide-clickable-ancestor" type="button" onclick=";return false;" aria-label="Guide" aria-controls="appbar-guide-menu" id="appbar-guide-button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-appbar-guide yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+    <div id="appbar-guide-button-notification-check" class="yt-valign">
+      <span class="appbar-guide-notification-icon yt-valign-content yt-sprite"></span>
+    </div>
+  </div>
+  <div id="appbar-main-guide-notification-container"></div>
+</div><div id="yt-masthead-signin"><span id="appbar-onebar-upload-group"><a href="/web/20141124234104/https://www.youtube.com/upload" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;feature=mhsb" id="upload-btn"><span class="yt-uix-button-content">Upload </span></a></span><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" type="button" onclick=";window.location.href=this.getAttribute('href');return false;" href="https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=en&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26feature%3Dsign_in_button%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DnvzpSvyyZis&amp;uilel=3&amp;passive=true"><span class="yt-uix-button-content">Sign in </span></button></div><div id="yt-masthead-content"><form id="masthead-search" class="search-form consolidated-form" action="/web/20141124234104/https://www.youtube.com/results" onsubmit="if (_gel(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false;"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" type="submit" onclick="if (_gel('masthead-search-term').value == '') return false; _gel('masthead-search').submit(); return false;;return true;" dir="ltr" id="search-btn" tabindex="2"><span class="yt-uix-button-content">Search </span></button><div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr"><label><input id="masthead-search-term" autocomplete="off"  class="search-term yt-uix-form-input-bidi" name="search_query" value="" type="text" tabindex="1" title="Search"></label></div></form></div></div></div>
+    <div id="masthead-appbar-container" class="clearfix"><div id="masthead-appbar"><div id="appbar-content" class=""></div></div></div>
+
+</div><div id="masthead-positioner-height-offset"></div><div id="page-container"><div id="page" class="  watch      watch-non-stage-mode   clearfix"><div id="guide" class="yt-scrollbar">    <div id="appbar-guide-menu" class="appbar-menu appbar-guide-menu-layout appbar-guide-clickable-ancestor">
+    <div id="guide-container">
+      <div class="guide-module-content guide-module-loading">
+          
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+      </div>
+    </div>
+  </div>
+
+</div><div class="alerts-wrapper"><div id="alerts" class="content-alignment">      
+
+
+
+</div></div><div id="header"></div><div id="player" class="      watch-small      off-screen-trigger  "><div id="theater-background" class="player-height"></div>  <div id="player-mole-container">
+
+    <div id="player-unavailable" class="  player-width player-height    player-unavailable ">
+                <div class="icon meh"></div>
+  <div class="content">
+    <h1 id="unavailable-message" class="message">
+            The uploader has not made this video available in your country.
+    </h1>
+    <div id="unavailable-submessage" class="submessage">
+Sorry about that.
+    </div>
+  </div>
+
+
+    </div>
+
+    <div id="player-api" class="player-width player-height off-screen-target player-api"></div>
+    
+
+      <div id="watch-queue-mole" class="video-mole mole-collapsed hid"><div id="watch-queue" class="watch-playlist player-height"><div class="main-content"><div class="watch-queue-header"><div class="watch-queue-info"><div class="watch-queue-info-icon"><span class="tv-queue-list-icon yt-sprite"></span></div><h3 class="watch-queue-title">Watch Queue</h3><h3 class="tv-queue-title">TV Queue</h3><span class="tv-queue-details"></span></div><div class="watch-queue-control-bar control-bar-button"><div class="watch-queue-mole-info"><div class="watch-queue-control-bar-icon"><span class="watch-queue-icon yt-sprite"></span></div><div class="watch-queue-title-container"><span class="watch-queue-count"></span><span class="watch-queue-title">Watch Queue</span><span class="tv-queue-title">TV Queue</span></div></div>  <span class="dark-overflow-action-menu">
+    
+    
+    <button type="button" aria-expanded="false" aria-haspopup="true" onclick=";return false;" class="flip control-bar-button yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" aria-label="Actions for the queue" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" role="menu" aria-haspopup="true" style="display: none;"><li role="menuitem"><span onclick=";return false;" data-action="remove-all" class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" >Remove all</span></li><li role="menuitem"><span onclick=";return false;" data-action="disconnect" class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" >Disconnect</span></li></ul></button>
+  </span>
+  <div class="watch-queue-controls">
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button prev-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Previous video"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-prev yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button play-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Play"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-play yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button pause-watch-queue-button yt-uix-button-opacity yt-uix-tooltip hid yt-uix-tooltip" type="button" onclick=";return false;" title="Pause"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-pause yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button next-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Next video"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-next yt-sprite"></span></span></button>
+  </div>
+</div></div><div class="watch-queue-items-container yt-scrollbar-dark yt-scrollbar"><ol class="watch-queue-items-list playlist-videos-list yt-uix-scroller" data-scroll-action="yt.www.watchqueue.loadThumbnails">  
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+</ol></div></div>  <div class="hid">
+    <div id="watch-queue-title-msg">
+Watch Queue
+    </div>
+
+    <div id="tv-queue-title-msg">
+TV Queue
+    </div>
+
+    <div id="watch-queue-count-msg">
+__count__/__total__
+    </div>
+
+    <div id="watch-queue-loading-template">
+      <!--
+          
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+      -->
+    </div>
+  </div>
+</div></div>
+  </div>
+
+  <div class="clear"></div>
+</div>
+<div id="content" class="  content-alignment  
+">  
+  
+  
+  
+    <div id="watch7-container" class="">
+    <div id="watch7-main-container">
+      <div id="watch7-main" class="clearfix">
+          <div id="watch7-preview" class="player-width player-height hid">
+          </div>
+        <div id="watch7-content" class="watch-content " itemscope itemid="" itemtype="http://schema.org/VideoObject"
+        >
+              <link itemprop="url" href="http://www.youtube.com/watch?v=nvzpSvyyZis">
+    <meta itemprop="name" content="Watch ABC News 24 Live">
+    <meta itemprop="description" content="This embedding tool is not for use by commercial parties, and is only available to Australian users. ABC News Homepage: http://abc.net.au/news Follow us on T...">
+    <meta itemprop="paid" content="False">
+
+      <meta itemprop="channelId" content="UCVgO39Bk5sMo66-6o6Spn6Q">
+      <meta itemprop="videoId" content="nvzpSvyyZis">
+
+      <meta itemprop="duration" content="PT0M0S">
+      <meta itemprop="unlisted" content="False">
+
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <link itemprop="url" href="http://www.youtube.com/user/NewsOnABC">
+        </span>
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <link itemprop="url" href="https://plus.google.com/104974435515639807870">
+        </span>
+
+    <link itemprop="thumbnailUrl" href="https://i.ytimg.com/vi/nvzpSvyyZis/hqdefault.jpg">
+    <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject">
+      <link itemprop="url" href="https://i.ytimg.com/vi/nvzpSvyyZis/hqdefault.jpg">
+      <meta itemprop="width" content="480">
+      <meta itemprop="height" content="360">
+    </span>
+
+      <link itemprop="embedURL" href="https://www.youtube.com/embed/nvzpSvyyZis">
+      <meta itemprop="playerType" content="HTML5 Flash">
+      <meta itemprop="width" content="640">
+      <meta itemprop="height" content="360">
+
+      <meta itemprop="isFamilyFriendly" content="False">
+      <meta itemprop="regionsAllowed" content="AU">
+
+                <div id="watch7-speedyg-area">
+      <div class="yt-alert yt-alert-actionable yt-alert-info hid " id="speedyg-template">  <div class="yt-alert-icon">
+    <span class="icon master-sprite yt-sprite"></span>
+  </div>
+<div class="yt-alert-content" role="alert">    <div class="yt-alert-message">
+    </div>
+</div><div class="yt-alert-buttons"><a href="/web/20141124234104/https://www.google.com/get/videoqualityreport/?v=nvzpSvyyZis" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-alert-info yt-uix-button-size-small" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ" id="speedyg-link" target="_blank"><span class="yt-uix-button-content">Find out why </span></a><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick=";return false;" aria-label="Close" data-close-parent-class="yt-alert"><span class="yt-uix-button-content">Close </span></button></div></div>
+    </div>
+  <div id="watch-header" class="yt-card yt-card-has-padding">
+      
+  <div id="watch7-headline" class="clearfix">
+    <h1 id="watch-headline-title" class="yt" >
+      
+
+
+  <span id="eow-title" class="watch-title " dir="ltr" title="Watch ABC News 24 Live">
+    Watch ABC News 24 Live
+  </span>
+
+    </h1>
+  </div>
+
+    <div id="watch7-user-header" class=" spf-link "><a href="" class="yt-user-photo yt-uix-sessionlink" data-sessionlink="itct=">  
+  <span class="video-thumb  yt-thumb yt-thumb-48"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        <img data-thumb="https://yt3.ggpht.com/-Eh3AwGhwPeI/AAAAAAAAAAI/AAAAAAAAAAA/QomvTf2lg_s/s28-c-k-no/photo.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="&lt;a href=&quot;/channel/UCVgO39Bk5sMo66-6o6Spn6Q&quot; class=&quot; yt-uix-sessionlink     spf-link  g-hovercard&quot; data-ytid=&quot;UCVgO39Bk5sMo66-6o6Spn6Q&quot; data-name=&quot;&quot; data-sessionlink=&quot;ei=EMJzVLipOcWJ-gP2hILwDQ&quot;&gt;ABC News (Australia)&lt;/a&gt;" width="48"  height="48" >
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</a><div class="yt-user-info"><a href="/web/20141124234104/https://www.youtube.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q" class=" yt-uix-sessionlink     spf-link  g-hovercard" data-ytid="UCVgO39Bk5sMo66-6o6Spn6Q" data-name="" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ">ABC News (Australia)</a></div><span id="watch7-subscription-container"><span class=" yt-uix-button-subscription-container"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon no-icon-markup yt-can-buffer yt-uix-button yt-uix-button-size-default yt-uix-subscription-button yt-uix-button-has-icon yt-uix-button-subscribe-branded" type="button" onclick=";return false;" aria-live="polite" aria-busy="false" data-href="https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=en&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26continue_action%3DQUFFLUhqbEpkYU55X1dHRFRSbXR1UVgzdFN6Vl9PSnJRQXxBQ3Jtc0ttbmhiZ2VBcFl3Z3FwWHhDQkpOWWlFYk1BX0U2RFhEazlIVFNBd1I0c05DUDQzTVIyMzI4OFlPQmpubUUtV29kRmVtTlhGSjFzZlRhemxhNThjZHE3Nzc1UnJZV0Q2WER5UVRiUXZ3MUxMVElyV25sMkJ0TzJqa0FJUWRhZVhsNXFYUVA5cENwdDZCbnIzTVNFN09KbUZrMFlOdmJnSGRHRjExdHFiMDluQ1QtZ0MzM0FIOWtxa2VlMmozcWtrSXk5ajF6c3VFLU96VE5aQlFkQ2R4UGhUOUhodHF3%26next%3D%252Fchannel%252FUCVgO39Bk5sMo66-6o6Spn6Q%26hl%3Den%26action_handle_signin%3Dtrue%26feature%3Dsubscribe&amp;uilel=3&amp;passive=true" data-channel-external-id="UCVgO39Bk5sMo66-6o6Spn6Q" data-style-type="branded" data-sessionlink="itct="><span class="yt-uix-button-content"><span class="subscribe-label" aria-label="Subscribe">Subscribe</span><span class="subscribed-label" aria-label="Unsubscribe">Subscribed</span><span class="unsubscribe-label" aria-label="Unsubscribe">Unsubscribe</span> </span></button><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon yt-uix-subscription-preferences-button" type="button" onclick=";return false;" aria-label="Subscription preferences" aria-live="polite" aria-role="button" aria-busy="false" data-channel-external-id="UCVgO39Bk5sMo66-6o6Spn6Q"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-subscription-preferences yt-sprite"></span></span></button>  
+  <div class="yt-uix-overlay " data-overlay-style="primary"data-overlay-shape="tiny">
+    
+        <div class="yt-dialog hid " role="dialog">
+    <div class="yt-dialog-base">
+      <span class="yt-dialog-align"></span>
+      <div class="yt-dialog-fg">
+        <div class="yt-dialog-fg-content">
+            <div class="yt-dialog-header">
+                <h2 class="yt-dialog-title">
+                        Subscription preferences
+
+
+                </h2>
+            </div>
+          <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+      
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+          </div>
+          <div class="yt-dialog-content">
+              <div class="subscription-preferences-overlay-content-container">
+    <div class="subscription-preferences-overlay-loading ">
+        
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+    <div class="subscription-preferences-overlay-content">
+    </div>
+  </div>
+
+          </div>
+          <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay"></div>
+  <div class="yt-dialog-working-bubble">
+    <div class="yt-dialog-waiting-content">
+        
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+        Working...
+    </span>
+  </p>
+
+      </div>
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  </div>
+
+</span></span></div>
+    <div id="watch8-action-buttons" class="watch-action-buttons clearfix"><div id="watch8-secondary-actions" class="watch-secondary-actions yt-uix-button-group" data-button-toggle-group="optional">
+
+      <span class="yt-uix-clickcard">
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup action-panel-trigger action-panel-trigger-none-addto addto-button  yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" title="Add to" data-upsell="playlist" data-orientation="vertical" data-trigger-for="action-panel-none-addto" data-position="bottomleft" data-button-toggle="true"><span class="yt-uix-button-content">Add to </span></button>
+        <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Want to watch this again later?</h3>
+    <div class="watch7-hovercard-message">
+      Sign in to add this video to a playlist.
+    </div>
+    <div class="watch7-hovercard-account-line">
+      <a href="/web/20141124234104/https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=en&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26feature%3D__FEATURE__%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DnvzpSvyyZis&amp;uilel=3&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ"><span class="yt-uix-button-content">Sign in </span></a>
+    </div>
+  </div>
+
+  </span>
+
+  <span >
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup action-panel-trigger action-panel-trigger-share   yt-uix-tooltip" type="button" onclick=";return false;" title="Share" data-trigger-for="action-panel-share" data-button-toggle="true"><span class="yt-uix-button-content">Share </span></button>
+  </span>
+<div class="yt-uix-menu " ><div class="yt-uix-menu-trigger">
+  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup yt-uix-tooltip" type="button" onclick=";return false;" aria-haspopup="true" role="button" id="action-panel-overflow-button" aria-pressed="false" title="More actions" data-button-toggle="true"><span class="yt-uix-button-content">More </span></button>
+</div><div class="yt-uix-menu-content yt-ui-menu-content yt-uix-menu-content-hidden" role="menu"><ul id="action-panel-overflow-menu">  <li>
+      <span class="yt-uix-clickcard" data-card-class=report-card>
+          <button type="button" class="yt-ui-menu-item has-icon action-panel-trigger report-button yt-uix-clickcard-target"
+ data-orientation="horizontal" data-position="topright">
+    <span class="yt-ui-menu-item-icon yt-uix-button-icon-action-panel-report yt-sprite"></span><span class="yt-ui-menu-item-label">Report</span>
+  </button>
+
+          <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Need to report the video?</h3>
+    <div class="watch7-hovercard-message">
+      Sign in to report inappropriate content.
+    </div>
+    <div class="watch7-hovercard-account-line">
+      <a href="/web/20141124234104/https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=en&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26feature%3D__FEATURE__%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DnvzpSvyyZis&amp;uilel=3&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ"><span class="yt-uix-button-content">Sign in </span></a>
+    </div>
+  </div>
+
+      </span>
+  </li>
+  <li>
+        <button type="button" class="yt-ui-menu-item has-icon yt-uix-menu-close-on-select action-panel-trigger"
+ data-trigger-for="action-panel-stats">
+    <span class="yt-ui-menu-item-icon yt-uix-button-icon-action-panel-stats yt-sprite"></span><span class="yt-ui-menu-item-label">Statistics</span>
+  </button>
+
+  </li>
+</ul></div></div></div><div id="watch8-sentiment-actions"><div id="watch7-views-info"><div class="watch-view-count">27,446</div></div>
+
+
+<span id="watch-like-dislike-buttons" class="yt-uix-button-group " data-vote-state="2" data-button-toggle-group="optional"><span class="yt-uix-clickcard"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-empty yt-uix-button-has-icon no-icon-markup yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" title="" id="watch-like" data-force-position="true" data-like-tooltip="I like this" data-orientation="vertical" data-unlike-tooltip="Unlike" data-position="bottomright" data-button-toggle="true"></button>  <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Like this video?</h3>
+    <div class="watch7-hovercard-message">
+      Sign in to make your opinion count.
+    </div>
+    <div class="watch7-hovercard-account-line">
+      <a href="/web/20141124234104/https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=en&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26feature%3D__FEATURE__%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DnvzpSvyyZis&amp;uilel=3&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ"><span class="yt-uix-button-content">Sign in </span></a>
+    </div>
+  </div>
+</span><span class="yt-uix-clickcard"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-empty yt-uix-button-has-icon no-icon-markup yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" title="I dislike this" id="watch-dislike" data-force-position="true" data-orientation="vertical" data-position="bottomright" data-button-toggle="true"></button>  <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Don't like this video?</h3>
+    <div class="watch7-hovercard-message">
+      Sign in to make your opinion count.
+    </div>
+    <div class="watch7-hovercard-account-line">
+      <a href="/web/20141124234104/https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=en&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26feature%3D__FEATURE__%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DnvzpSvyyZis&amp;uilel=3&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ"><span class="yt-uix-button-content">Sign in </span></a>
+    </div>
+  </div>
+</span></span></div></div>
+  </div>
+    
+  <div id="watch-action-panels" class="watch-action-panels yt-uix-button-panel hid yt-card yt-card-has-padding">
+      <div id="action-panel-share" class="action-panel-content hid">
+      <div id="watch-actions-share-loading">
+    <div class="action-panel-loading">
+        
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+  </div>
+  <div id="watch-actions-share-panel"></div>
+
+  </div>
+
+      <div id="action-panel-stats" class="action-panel-content hid">
+    <div class="action-panel-loading">
+        
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+      <div id="action-panel-report" class="action-panel-content hid" data-auth-required="true">
+    <div class="action-panel-loading">
+        
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+    
+  <div id="action-panel-ratings-disabled" class="action-panel-content hid">
+      <div id="watch-actions-ratings-disabled">
+    <em>Ratings have been disabled for this video.</em>
+  </div>
+
+  </div>
+
+  <div id="action-panel-rental-required" class="action-panel-content hid">
+      <div id="watch-actions-rental-required">
+    <strong>Rating is available when the video has been rented.</strong>
+  </div>
+
+  </div>
+
+  <div id="action-panel-error" class="action-panel-content hid">
+    <div class="action-panel-error">
+      This feature is not available right now. Please try again later.
+    </div>
+  </div>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup yt-uix-button-opacity yt-uix-close" type="button" onclick=";return false;" id="action-panel-dismiss" data-close-parent-id="watch8-action-panels"></button>
+  </div>
+
+  <div id="action-panel-details" class="action-panel-content yt-card yt-card-has-padding yt-uix-expander yt-uix-expander-collapsed"><div id="watch-description" class="yt-uix-button-panel"><div id="watch-description-content"><div id="watch-description-clip"><div id="watch-uploader-info"><strong class="watch-time-text">Uploaded on Nov 6, 2014</strong></div><div id="watch-description-text" class=""><p id="eow-description" >This embedding tool is not for use by commercial parties, and is only available to Australian users. <br /><br />ABC News Homepage: <a href="/web/20141124234104/http://abc.net.au/news" target="_blank" title="http://abc.net.au/news" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://abc.net.au/news</a><br /><br />Follow us on Twitter: <a href="/web/20141124234104/http://twitter.com/abcnews" target="_blank" title="http://twitter.com/abcnews" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://twitter.com/abcnews</a><br />Like us on Facebook: <a href="/web/20141124234104/http://facebook.com/abcnews.au" target="_blank" title="http://facebook.com/abcnews.au" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://facebook.com/abcnews.au</a><br />Subscribe to us on YouTube: <a href="/web/20141124234104/http://ab.co/1svxLVE" target="_blank" title="http://ab.co/1svxLVE" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://ab.co/1svxLVE</a><br />Follow us on Instagram: <a href="/web/20141124234104/http://instagram.com/abcnews_au" target="_blank" title="http://instagram.com/abcnews_au" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://instagram.com/abcnews_au</a></p></div>  <div id="watch-description-extras" >
+    <ul class="watch-extras-section">
+          <li class="watch-meta-item yt-uix-expander-body">
+    <h4 class="title">
+      Category
+    </h4>
+    <ul class="content watch-info-tag-list">
+        <li><a href="/web/20141124234104/https://www.youtube.com/news" class=" yt-uix-sessionlink     spf-link " data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ">News &amp; Politics</a></li>
+    </ul>
+  </li>
+
+          <li class="watch-meta-item yt-uix-expander-body">
+    <h4 class="title">
+      License
+    </h4>
+    <ul class="content watch-info-tag-list">
+        <li>Standard YouTube License</li>
+    </ul>
+  </li>
+
+    </ul>
+  </div>
+</div></div></div>  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-expander yt-uix-expander-head yt-uix-expander-collapsed-body yt-uix-gen204" type="button" onclick=";return false;" data-gen204="feature=watch-show-more-metadata"><span class="yt-uix-button-content">Show more </span></button>
+  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-expander yt-uix-expander-head yt-uix-expander-body" type="button" onclick=";return false;"><span class="yt-uix-button-content">Show less </span></button>
+</div>
+
+
+        </div>
+        <div id="watch7-sidebar" class="watch-sidebar">
+              
+    <div id="watch7-sidebar-playlist">
+      
+    </div>
+
+
+  <div id="watch7-sidebar-contents" class="watch-sidebar-gutter   yt-card yt-card-has-padding    yt-uix-expander yt-uix-expander-collapsed">
+    <div id="watch7-sidebar-offer">
+      
+    </div>
+
+      <div id="watch7-sidebar-ads">
+        
+      </div>
+
+    <div id="watch7-sidebar-modules">
+                
+  <div class="watch-sidebar-section">
+    <div class="watch-sidebar-body">
+      <ul id="watch-related" class="video-list">
+          <li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=0p4SbxFFq5E" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CAMQzRooAA&amp;feature=relmfu"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="0p4SbxFFq5E"><img data-thumb="//i.ytimg.com/vi/0p4SbxFFq5E/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      1:10:23
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="0p4SbxFFq5E">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="0p4SbxFFq5E">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="0p4SbxFFq5E" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="0p4SbxFFq5E" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: [Hindi] India&amp;#39;s PM Narendra Modi speaks in Sydney">
+    [Hindi] India&#39;s PM Narendra Modi speaks in Sydney
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCVgO39Bk5sMo66-6o6Spn6Q"
+          data-name="relmfu"
+        >
+        by <span class=" g-hovercard" data-ytid="UCVgO39Bk5sMo66-6o6Spn6Q" data-name="">ABC News (Australia)</span>
+      </span>
+    </span>
+    <span class="stat view-count">1,911 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=w6SG3Hy5KbQ" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CAQQzRooAQ&amp;feature=relmfu"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="w6SG3Hy5KbQ"><img data-thumb="//i.ytimg.com/vi/w6SG3Hy5KbQ/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      24:23
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="w6SG3Hy5KbQ">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="w6SG3Hy5KbQ">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="w6SG3Hy5KbQ" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="w6SG3Hy5KbQ" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: PM Modi speaks to Federal Parliament">
+    PM Modi speaks to Federal Parliament
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCVgO39Bk5sMo66-6o6Spn6Q"
+          data-name="relmfu"
+        >
+        by <span class=" g-hovercard" data-ytid="UCVgO39Bk5sMo66-6o6Spn6Q" data-name="">ABC News (Australia)</span>
+      </span>
+    </span>
+    <span class="stat view-count">7,792 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=ZrpKtOF_JzM" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CAUQzRooAg&amp;feature=relmfu"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="ZrpKtOF_JzM"><img data-thumb="//i.ytimg.com/vi/ZrpKtOF_JzM/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      31:10
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="ZrpKtOF_JzM">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="ZrpKtOF_JzM">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="ZrpKtOF_JzM" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="ZrpKtOF_JzM" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Chinese President Xi Jingping speaks in Australia">
+    Chinese President Xi Jingping speaks in Australia
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCVgO39Bk5sMo66-6o6Spn6Q"
+          data-name="relmfu"
+        >
+        by <span class=" g-hovercard" data-ytid="UCVgO39Bk5sMo66-6o6Spn6Q" data-name="">ABC News (Australia)</span>
+      </span>
+    </span>
+    <span class="stat view-count">8,169 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=8_zTh6HhWyc" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CAYQzRooAw&amp;feature=relmfu"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="8_zTh6HhWyc"><img data-thumb="//i.ytimg.com/vi/8_zTh6HhWyc/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      21:17
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="8_zTh6HhWyc">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="8_zTh6HhWyc">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="8_zTh6HhWyc" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="8_zTh6HhWyc" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: David Cameron addresses Australian parliament">
+    David Cameron addresses Australian parliament
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCVgO39Bk5sMo66-6o6Spn6Q"
+          data-name="relmfu"
+        >
+        by <span class=" g-hovercard" data-ytid="UCVgO39Bk5sMo66-6o6Spn6Q" data-name="">ABC News (Australia)</span>
+      </span>
+    </span>
+    <span class="stat view-count">18,548 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=i_8QkAKKhH4" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CAcQzRooBA&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="i_8QkAKKhH4"><img data-thumb="//i.ytimg.com/vi/i_8QkAKKhH4/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      2:18
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="i_8QkAKKhH4">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="i_8QkAKKhH4">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="i_8QkAKKhH4" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="i_8QkAKKhH4" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: G20: Obama&amp;#39;s helicopters deployed over Brisbane">
+    G20: Obama&#39;s helicopters deployed over Brisbane
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCULldxqht8mAVpBPTQlEAlA"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UCULldxqht8mAVpBPTQlEAlA" data-name="">Qldaah</span>
+      </span>
+    </span>
+    <span class="stat view-count">5,032 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=u_M8BYr4ve8" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CAgQzRooBQ&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="u_M8BYr4ve8"><img data-thumb="//i.ytimg.com/vi/u_M8BYr4ve8/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      40:00
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="u_M8BYr4ve8">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="u_M8BYr4ve8">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="u_M8BYr4ve8" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="u_M8BYr4ve8" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: G20 Summit 2014: Opening Ceremony &amp;amp; Plenary Session">
+    G20 Summit 2014: Opening Ceremony &amp; Plenary Session
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC1NF71EwP41VdjAU1iXdLkw"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UC1NF71EwP41VdjAU1iXdLkw" data-name="">Narendra Modi</span>
+      </span>
+    </span>
+    <span class="stat view-count">34,590 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=FDcT0HeVkoI" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CAkQzRooBg&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="FDcT0HeVkoI"><img data-thumb="//i.ytimg.com/vi/FDcT0HeVkoI/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      1:47
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="FDcT0HeVkoI">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="FDcT0HeVkoI">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="FDcT0HeVkoI" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="FDcT0HeVkoI" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Obama&amp;#39;s Motorcade Arrives at UQ Brisbane Australia">
+    Obama&#39;s Motorcade Arrives at UQ Brisbane Australia
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC0HNmHpOsmAiaLtUGpMw-0g"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UC0HNmHpOsmAiaLtUGpMw-0g" data-name="">magna_elite</span>
+      </span>
+    </span>
+    <span class="stat view-count">4,904 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=1pqe_oqDJp0" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CAoQzRooBw&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="1pqe_oqDJp0"><img data-thumb="//i.ytimg.com/vi/1pqe_oqDJp0/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      2:38
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="1pqe_oqDJp0">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="1pqe_oqDJp0">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="1pqe_oqDJp0" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="1pqe_oqDJp0" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: John Oliver - fuckbloomberg.nyc">
+    John Oliver - fuckbloomberg.nyc
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC2DYZIou2ZN-stBPv3aks6Q"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UC2DYZIou2ZN-stBPv3aks6Q" data-name="">con sumer</span>
+      </span>
+    </span>
+    <span class="stat view-count">129,955 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=QdNFH7DdUyk" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CAsQzRooCA&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="QdNFH7DdUyk"><img data-thumb="//i.ytimg.com/vi/QdNFH7DdUyk/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      2:04
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="QdNFH7DdUyk">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="QdNFH7DdUyk">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="QdNFH7DdUyk" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="QdNFH7DdUyk" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: American security teams have occupied Brisbane ahead of #G20">
+    American security teams have occupied Brisbane ahead of #G20
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCULldxqht8mAVpBPTQlEAlA"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UCULldxqht8mAVpBPTQlEAlA" data-name="">Qldaah</span>
+      </span>
+    </span>
+    <span class="stat view-count">8,383 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=T5noKyUZTbw" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CAwQzRooCQ&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="T5noKyUZTbw"><img data-thumb="//i.ytimg.com/vi/T5noKyUZTbw/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      1:38:20
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="T5noKyUZTbw">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="T5noKyUZTbw">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="T5noKyUZTbw" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="T5noKyUZTbw" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: オードリーのオールナイトニッポン【2014年11月15日】">
+    オードリーのオールナイトニッポン【2014年11月15日】
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UChUWyh8jHDu6wasFPCl2b3A"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UChUWyh8jHDu6wasFPCl2b3A" data-name="">iiradio</span>
+      </span>
+    </span>
+    <span class="stat view-count">14,658 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=OFPwDe22CoY" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CA0QzRooCg&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="OFPwDe22CoY"><img data-thumb="//i.ytimg.com/vi/OFPwDe22CoY/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      6:13
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="OFPwDe22CoY">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="OFPwDe22CoY">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="OFPwDe22CoY" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="OFPwDe22CoY" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: The Speech that Made Obama President">
+    The Speech that Made Obama President
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCYNlsJPY-IrNhZqCOeApbEw"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UCYNlsJPY-IrNhZqCOeApbEw" data-name="">THNKR</span>
+      </span>
+    </span>
+    <span class="stat view-count">1,653,654 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=T3RhXpkgqPk" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CA4QzRooCw&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="T3RhXpkgqPk"><img data-thumb="//i.ytimg.com/vi/T3RhXpkgqPk/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      5:09
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="T3RhXpkgqPk">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="T3RhXpkgqPk">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="T3RhXpkgqPk" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="T3RhXpkgqPk" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Australian Government TV Makes Fun of Abbott&amp;#39;s Threat to Shirtfront Putin">
+    Australian Government TV Makes Fun of Abbott&#39;s Threat to Shirtfront Putin
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCzY4vHBRWUkLyqL3_3NI4JQ"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UCzY4vHBRWUkLyqL3_3NI4JQ" data-name="">Stalin LivesTV</span>
+      </span>
+    </span>
+    <span class="stat view-count">8,051 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=4uplKLB2A-M" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CA8QzRooDA&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="4uplKLB2A-M"><img data-thumb="//i.ytimg.com/vi/4uplKLB2A-M/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      6:09
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="4uplKLB2A-M">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="4uplKLB2A-M">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="4uplKLB2A-M" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="4uplKLB2A-M" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Why Do We All Need To Drink Wheatgrass Juice Daily?">
+    Why Do We All Need To Drink Wheatgrass Juice Daily?
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCApF6t3HffeesED_Zb-J-zA"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UCApF6t3HffeesED_Zb-J-zA" data-name="">Markito Nutrition</span>
+      </span>
+    </span>
+    <span class="stat view-count">140,552 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=zxfuRckCJRs" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CBAQzRooDQ&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="zxfuRckCJRs"><img data-thumb="//i.ytimg.com/vi/zxfuRckCJRs/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      42:05
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="zxfuRckCJRs">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="zxfuRckCJRs">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="zxfuRckCJRs" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="zxfuRckCJRs" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: NEW Special Episode 2014 ♥♥♥ Octonauts The Over Under Adventure♥♥♥">
+    NEW Special Episode 2014 ♥♥♥ Octonauts The Over Under Adventure♥♥♥
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCYjpBKeANvwRc6arbAUOBMA"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UCYjpBKeANvwRc6arbAUOBMA" data-name="">octonaus full episode HD</span>
+      </span>
+    </span>
+    <span class="stat view-count">1,853,535 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=-1wf8MkRLr0" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CBEQzRooDg&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="-1wf8MkRLr0"><img data-thumb="//i.ytimg.com/vi/-1wf8MkRLr0/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      25:37
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="-1wf8MkRLr0">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="-1wf8MkRLr0">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="-1wf8MkRLr0" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="-1wf8MkRLr0" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Keiser Report: Whistleblower Alayne Fleischmann (JP Morgan &amp;#39;worst nightmare&amp;#39;) talks to Max (E679)">
+    Keiser Report: Whistleblower Alayne Fleischmann (JP Morgan &#39;worst nightmare&#39;) talks to Max (E679)
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCpwvZwUam-URkxB7g4USKpg"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UCpwvZwUam-URkxB7g4USKpg" data-name="">RT</span>
+      </span>
+    </span>
+    <span class="stat view-count">27,814 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=pS5j3XccmUM" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CBIQzRooDw&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="pS5j3XccmUM"><img data-thumb="//i.ytimg.com/vi/pS5j3XccmUM/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      7:35
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="pS5j3XccmUM">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="pS5j3XccmUM">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="pS5j3XccmUM" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="pS5j3XccmUM" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Atheist professor destroys evolution">
+    Atheist professor destroys evolution
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCdy1NqSRU_zWE2VIAx56TRg"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UCdy1NqSRU_zWE2VIAx56TRg" data-name="">Delphos G</span>
+      </span>
+    </span>
+    <span class="stat view-count">86,276 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=89L3sUD-F3A" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CBMQzRooEA&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="89L3sUD-F3A"><img data-thumb="//i.ytimg.com/vi/89L3sUD-F3A/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      12:52
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="89L3sUD-F3A">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="89L3sUD-F3A">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="89L3sUD-F3A" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="89L3sUD-F3A" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: G20 Summit 2014 begins in Brisbane, Australia">
+    G20 Summit 2014 begins in Brisbane, Australia
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCKwucPzHZ7zCUIf7If-Wo1g"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UCKwucPzHZ7zCUIf7If-Wo1g" data-name="">DD News</span>
+      </span>
+    </span>
+    <span class="stat view-count">22,655 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=U7VJnF2SxzM" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CBQQzRooEQ&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="U7VJnF2SxzM"><img data-thumb="//i.ytimg.com/vi/U7VJnF2SxzM/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      3:57
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="U7VJnF2SxzM">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="U7VJnF2SxzM">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="U7VJnF2SxzM" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="U7VJnF2SxzM" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Build up to WW3 - Putin Descends on G20 Amid Cold War MSM Panic">
+    Build up to WW3 - Putin Descends on G20 Amid Cold War MSM Panic
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC98x1ilbUNDwo7pu2t1o99w"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UC98x1ilbUNDwo7pu2t1o99w" data-name="">Elite NWO Agenda</span>
+      </span>
+    </span>
+    <span class="stat view-count">7,119 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=DtWz2HglM_U" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CBUQzRooEg&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="DtWz2HglM_U"><img data-thumb="//i.ytimg.com/vi/DtWz2HglM_U/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      0:58
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="DtWz2HglM_U">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="DtWz2HglM_U">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="DtWz2HglM_U" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="DtWz2HglM_U" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Indonesia Air Force One Tiba Di Australia, Presiden Jokowi Hadiri Klub 20 Negara Elit Dunia G20">
+    Indonesia Air Force One Tiba Di Australia, Presiden Jokowi Hadiri Klub 20 Negara Elit Dunia G20
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCcFz04byFTnZ5ie5brhfv3w"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UCcFz04byFTnZ5ie5brhfv3w" data-name="">Indonesia Today</span>
+      </span>
+    </span>
+    <span class="stat view-count">6,377 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/web/20141124234104/https://www.youtube.com/watch?v=rv2Qn9_3jf4" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ&amp;ved=CBYQzRooEw&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="rv2Qn9_3jf4"><img data-thumb="//i.ytimg.com/vi/rv2Qn9_3jf4/default.jpg" src="/web/20141124234104im_/https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" >    <span class="video-time">
+      1:25
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button type="button" onclick=";return false;" aria-haspopup="true" aria-expanded="false" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="rv2Qn9_3jf4">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="rv2Qn9_3jf4">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="rv2Qn9_3jf4" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="rv2Qn9_3jf4" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Australia: Putin lands in Brisbane for G20">
+    Australia: Putin lands in Brisbane for G20
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC5aeU5hk31cLzq_sAExLVWg"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-ytid="UC5aeU5hk31cLzq_sAExLVWg" data-name="">RuptlyTV</span>
+      </span>
+    </span>
+    <span class="stat view-count">17,123 views</span>
+</a>
+</li>
+              <div id="watch-more-related" class="hid">
+    <li id="watch-more-related-loading">
+Loading more suggestions...
+    </li>
+  </div>
+  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-expander" type="button" onclick=";return false;" id="watch-more-related-button" data-button-action="yt.www.watch.related.loadMore" data-continuation="CBQSDRILbnZ6cFN2eXlaaXMYAA%3D%3D"><span class="yt-uix-button-content">Show more </span></button>
+
+      </ul>
+    </div>   </div> 
+
+    </div>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div id="watch7-hidden-extras">
+        <div style="visibility: hidden; height: 0px; padding: 0px; overflow: hidden;">
+  </div>
+
+    </div>
+  </div>
+
+</div></div></div></div>  <div id="footer-container" class="yt-base-gutter"><div id="footer"><div id="footer-main"><div id="footer-logo"><a href="/web/20141124234104/https://www.youtube.com/" title="YouTube home"><span class="footer-logo-icon yt-sprite"></span></a></div>  <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" type="button" onclick=";return false;" id="yt-picker-language-button" data-button-action="yt.www.picker.load" data-button-menu-id="arrow-display" data-picker-key="language" data-picker-position="footer" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-language yt-sprite"></span></span><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Language:
+  </span>
+  English
+ </span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-country-button" data-button-action="yt.www.picker.load" data-button-menu-id="arrow-display" data-picker-key="country" data-picker-position="footer" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Country:
+  </span>
+  Worldwide
+ </span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-safetymode-button" data-button-action="yt.www.picker.load" data-button-menu-id="arrow-display" data-picker-key="safetymode" data-picker-position="footer" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Safety:
+  </span>
+Off
+ </span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+  </ul>
+<a href="/web/20141124234104/https://www.youtube.com/feed/history" class="yt-uix-button  footer-history yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default yt-uix-button-has-icon" data-sessionlink="ei=EMJzVLipOcWJ-gP2hILwDQ"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-history yt-sprite"></span></span><span class="yt-uix-button-content">History </span></a>      <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon yt-uix-button-reverse yt-google-help-link inq-no-click " type="button" onclick=";return false;" data-ghelp-anchor="google-help" id="google-help" data-ghelp-tracking-param=""><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-questionmark yt-sprite"></span></span><span class="yt-uix-button-content">Help
+ </span></button>
+      <div id="yt-picker-language-footer" class="yt-picker" style="display: none">
+      
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-country-footer" class="yt-picker" style="display: none">
+      
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-safetymode-footer" class="yt-picker" style="display: none">
+      
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+</div><div id="footer-links"><ul id="footer-links-primary">  <li><a href="/web/20141124234104/https://www.youtube.com/yt/about/">About</a></li>
+  <li><a href="/web/20141124234104/https://www.youtube.com/yt/press/">Press &amp; Blogs</a></li>
+  <li><a href="/web/20141124234104/https://www.youtube.com/yt/copyright/">Copyright</a></li>
+  <li><a href="/web/20141124234104/https://www.youtube.com/yt/creators/">Creators &amp; Partners</a></li>
+  <li><a href="/web/20141124234104/https://www.youtube.com/yt/advertise/">Advertising</a></li>
+  <li><a href="/web/20141124234104/https://www.youtube.com/yt/dev/">Developers</a></li>
+  <li><a href="/web/20141124234104/https://plus.google.com/+youtube" dir="ltr">+YouTube</a></li>
+</ul><ul id="footer-links-secondary">  <li><a href="/web/20141124234104/https://www.youtube.com/t/terms">Terms</a></li>
+  <li><a href="/web/20141124234104/https://www.google.com/intl/en/policies/privacy/">Privacy</a></li>
+  <li><a href="/web/20141124234104/https://www.youtube.com/yt/policyandsafety/">
+Policy &amp; Safety
+  </a></li>
+  <li><a href="/web/20141124234104/https://support.google.com/youtube/?hl=en" onclick="return yt.www.feedback.start(59);" class="reportbug">Send feedback</a></li>
+  <li><a href="/web/20141124234104/https://www.youtube.com/testtube">Try something new!</a></li>
+  <li></li>
+</ul></div></div></div>
+
+
+      <div class="yt-dialog hid " role="dialog" id="feed-privacy-lb">
+    <div class="yt-dialog-base">
+      <span class="yt-dialog-align"></span>
+      <div class="yt-dialog-fg">
+        <div class="yt-dialog-fg-content">
+          <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+      
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+          </div>
+          <div class="yt-dialog-content">
+              <div id="feed-privacy-dialog">
+  </div>
+
+          </div>
+          <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay"></div>
+  <div class="yt-dialog-working-bubble">
+    <div class="yt-dialog-waiting-content">
+        
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+        Working...
+    </span>
+  </p>
+
+      </div>
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<div id="hidden-component-template-wrapper" class="hid">    <div id="shared-addto-watch-later-login" class="hid">
+      <a href="/web/20141124234104/https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=en&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26feature%3Dplaylist%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DnvzpSvyyZis&amp;uilel=3&amp;passive=true" class="sign-in-link">Sign in</a> to add this to Watch Later
+
+    </div>
+  <div id="yt-uix-videoactionmenu-menu" class="yt-ui-menu-content">
+      <div class="hide-on-create-pl-panel">
+    <h3>
+Add to
+    </h3>
+  </div>
+  <div class="add-to-widget">
+  </div>
+
+  </div>
+</div>    <script>var ytspf = ytspf || {};ytspf.enabled = true;ytspf.config = {'reload-identifier': 'spfreload'};ytspf.config['cache-max'] = 50;ytspf.config['navigate-limit'] = 20;ytspf.config['navigate-lifetime'] = 64800000;</script>
+  <script src="/web/20141124234104js_/https://s.ytimg.com/yts/jsbin/spf-vflUWh4bJ/spf.js" type="text/javascript" name="spf/spf"></script>
+  <script src="/web/20141124234104js_/https://s.ytimg.com/yts/jsbin/www-en_US-vflXiAxgY/base.js" name="www/base"></script>
+<script>spf.script.path({'www/': '//s.ytimg.com/yts/jsbin/www-en_US-vflXiAxgY/'});var ytdepmap = {"www/base": null, "www/common": "www/base", "www/watch": "www/common", "www/videomanager": "www/common", "www/subscriptionmanager": "www/common", "www/results_starwars": "www/common", "www/results_star_trek": "www/common", "www/results": "www/common", "www/results_harlemshake": "www/common", "www/promo_join_network": "www/common", "www/legomap": "www/common", "www/instant": "www/common", "www/innertube": "www/common", "www/feed": "www/common", "www/experiments": "www/common", "www/downloadreports": "www/common", "www/dashboard": "www/common", "www/channels": "www/common", "www/channels_accountupload": "www/common", "www/watch_webdrivertorso": "www/watch", "www/watch_videoshelf": "www/watch", "www/watch_transcript": "www/watch", "www/watch_speedyg": "www/watch", "www/watch_promos": "www/watch", "www/watch_missilecommand": "www/watch", "www/watch_live": "www/watch", "www/watch_gangnam_overflow": "www/watch", "www/watch_editor": "www/watch", "www/watch_edit": "www/watch", "www/watch_commentsrealtime": "www/watch", "www/watch_commentsmoderation": "www/watch", "www/watch_autoplayrenderer": "www/watch", "www/vm_coverrevshare": "www/videomanager", "www/my_videos": "www/videomanager", "www/innertube_watchnext": "www/innertube", "www/ct_advancedsearch": "www/videomanager", "www/channels_edit": "www/channels"};spf.script.declare(ytdepmap);</script><script>if (window.ytcsi) {window.ytcsi.tick("je", null, '');}</script>      <script>
+    yt.setConfig({
+      'VIDEO_ID': "nvzpSvyyZis",
+      'THUMB_LOADER_PAUSE_MS': 0,
+      'THUMB_LOADER_GROUP_PX': 400,
+      'THUMB_LOADER_IGNORE_FOLD': false,
+      'WAIT_TO_DELAYLOAD_FRAME_CSS': true,
+      'IS_UNAVAILABLE_PAGE': false,
+      'DROPDOWN_ARROW_URL': "/web/20141124234104/https://s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif",
+
+      'JS_PAGE_MODULES': [
+        'www/watch',
+          
+          'www/watch_speedyg',
+        ''       ],
+
+
+
+      'REPORTVIDEO_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-reportvideo-vflwcsf6e\/www-reportvideo.js",
+      'REPORTVIDEO_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-watch-reportvideo-vflKN3Hfu.css",
+
+
+
+
+
+      'WATCH_MISSILECOMMAND_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-watch-missilecommand-vflpqOeqD\/www-watch-missilecommand.js",
+      'WATCH_MISSILECOMMAND_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-watch-missile-command-vfl9eaIzr.css",
+
+      'ENABLE_AUTO_LARGE': true    });
+
+
+    yt.setConfig({
+      'TIMING_WFF': true,
+      'YPC_CAN_RATE_VIDEO': true,
+
+
+
+        'RELATED_PLAYER_ARGS': {"rvs": "length_seconds=4223\u0026title=%5BHindi%5D+India%27s+PM+Narendra+Modi+speaks+in+Sydney\u0026session_data=feature%3Dendscreen\u0026id=0p4SbxFFq5E\u0026author=ABC+News+%28Australia%29,length_seconds=1463\u0026title=PM+Modi+speaks+to+Federal+Parliament\u0026session_data=feature%3Dendscreen\u0026id=w6SG3Hy5KbQ\u0026author=ABC+News+%28Australia%29,length_seconds=1870\u0026title=Chinese+President+Xi+Jingping+speaks+in+Australia\u0026session_data=feature%3Dendscreen\u0026id=ZrpKtOF_JzM\u0026author=ABC+News+%28Australia%29,length_seconds=1277\u0026title=David+Cameron+addresses+Australian+parliament\u0026session_data=feature%3Dendscreen\u0026id=8_zTh6HhWyc\u0026author=ABC+News+%28Australia%29,length_seconds=138\u0026title=G20%3A+Obama%27s+helicopters+deployed+over+Brisbane\u0026session_data=feature%3Dendscreen\u0026id=i_8QkAKKhH4\u0026author=Qldaah,length_seconds=2400\u0026title=G20+Summit+2014%3A+Opening+Ceremony+%26+Plenary+Session\u0026session_data=feature%3Dendscreen\u0026id=u_M8BYr4ve8\u0026author=Narendra+Modi,length_seconds=107\u0026title=Obama%27s+Motorcade+Arrives+at+UQ+Brisbane+Australia\u0026session_data=feature%3Dendscreen\u0026id=FDcT0HeVkoI\u0026author=magna_elite,length_seconds=158\u0026title=John+Oliver+-+fuckbloomberg.nyc\u0026session_data=feature%3Dendscreen\u0026id=1pqe_oqDJp0\u0026author=con+sumer,length_seconds=124\u0026title=American+security+teams+have+occupied+Brisbane+ahead+of+%23G20\u0026session_data=feature%3Dendscreen\u0026id=QdNFH7DdUyk\u0026author=Qldaah,length_seconds=5900\u0026title=%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3%E3%80%902014%E5%B9%B411%E6%9C%8815%E6%97%A5%E3%80%91\u0026session_data=feature%3Dendscreen\u0026id=T5noKyUZTbw\u0026author=iiradio,length_seconds=373\u0026title=The+Speech+that+Made+Obama+President\u0026session_data=feature%3Dendscreen\u0026id=OFPwDe22CoY\u0026author=THNKR,length_seconds=309\u0026title=Australian+Government+TV+Makes+Fun+of+Abbott%27s+Threat+to+Shirtfront+Putin\u0026session_data=feature%3Dendscreen\u0026id=T3RhXpkgqPk\u0026author=Stalin+LivesTV"},
+
+
+
+
+
+      'HL_LOCALE': "en_US",
+      'TTS_URL': "",
+      'JS_DELAY_LOAD': 0,
+      'LIST_AUTO_PLAY_VALUE': 1,
+      'SHUFFLE_VALUE': 0,
+      'SKIP_RELATED_ADS': false,
+      'SKIP_TO_NEXT_VIDEO': false,
+      'RESUME_COOKIE_NAME': null,
+      'LIST_END_TIME': null,
+      'CONVERSION_CONFIG_DICT': {},
+      'RESOLUTION_TRACKING_ENABLED': false,
+      'MEMORY_TRACKING_ENABLED': false,
+      'ADBLOCK_TRACKING_ENABLED': false,
+      'NAVIGATION_TRACKING_ENABLED': false,
+      'WATCH_LEGAL_TEXT_ENABLE_AUTOSCROLL': false,
+      'SHARE_ON_VIDEO_END': true,
+      'SHARE_ON_VIDEO_START': false,
+      'ADS_DATA': {"check_status": false},
+      'PLAYBACK_ID': null,
+      'SHARE_CAPTION': null,
+      'SHARE_REFERER': "",
+      'PLAYLIST_INDEX': null
+    });
+
+    yt.setMsg({
+      'EDITOR_AJAX_REQUEST_FAILED': "Something went wrong trying to get data from the server. Try again, or reload the page.",
+      'EDITOR_AJAX_REQUEST_503': "This functionality is not available right now. Please try again later.",
+      'LOADING': "Loading..."    });
+
+      yt.setMsg('SPEEDYG_INFO', "Experiencing interruptions?");
+      yt.setConfig('SPEEDYG_PING', "/web/20141124234104/https://ad.doubleclick.net\/activity;src=2542116;type=youtu444;cat=YouTu000;ord=");
+
+      yt.setMsg({
+    'UNBLOCK_USER': "Are you sure you want to unblock this user?",
+    'BLOCK_USER': "Are you sure you want to block this user?"
+  });
+  yt.setConfig('BLOCK_USER_AJAX_XSRF', 'QUFFLUhqazlBUmtEOV96VExLSHBzMl9GOTFRMTFsTW5nQXxBQ3Jtc0ttOE5ZaDhGVlNNLUptb0FEanhfV3N2SUFmdEdBbUQ4cmlqTm5MRE1mZEJWTEM0WFd4UHk3YmxNbUZwWFJYSEt6WEhtQ2NIMkJZZGxlRjY5RC1OYW4wYTlBbjFWTzJOb2xmbzlzUF9KUkFtX09IMTdUV1RyZk5hRW0zNWRJZElnSHJlNTZ6MVRoVWxYWnFKc0ExQW5wdWsySnB3a2c=');
+
+
+    
+
+
+
+
+
+
+
+    
+
+      yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+
+
+      
+
+  </script>
+
+    <iframe style="display:none;" src="/web/20141124234104if_/https://p2-kgvvggefjm6yw-qxyoqns4ic33bbyq-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html"></iframe>
+
+
+<script>yt.setConfig({'EVENT_ID': "EMJzVLipOcWJ-gP2hILwDQ",'PAGE_NAME': "watch",'LOGGED_IN': false,'SESSION_INDEX': null,'FORMATS_FILE_SIZE_JS': ["%s B", "%s KB", "%s MB", "%s GB", "%s TB"],'DELEGATED_SESSION_ID': null,'GAPI_HOST': "/web/20141124234104/https://apis.google.com",'GAPI_HINT_PARAMS': "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.RjHDyp6HcuY.O\/m=__features__\/rt=j\/d=1\/rs=AItRSTNblxMnnkVq6zZc6X8bkriwoLslEg",'GAPI_LOCALE': "en_US",'ONE_PICK_URL': "",'UNIVERSAL_HOVERCARDS': true,'VISITOR_DATA': "Cgs1YndlWFFMRUo1bw%3D%3D",'APIARY_HOST': "",'APIARY_HOST_FIRSTPARTY': "",'INNERTUBE_CONTEXT_HL': "en",'INNERTUBE_CONTEXT_GL': "US",'INNERTUBE_CONTEXT_CLIENT_VERSION': "20141120",'INNERTUBE_API_KEY': "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",'INNERTUBE_API_VERSION': "v1",'GOOGLEPLUS_HOST': "/web/20141124234104/https://plus.google.com",'PAGEFRAME_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-pageframe-vflKK7MDT\/www-pageframe.js",'JS_COMMON_MODULE': "\/\/s.ytimg.com\/yts\/jsbin\/www-en_US-vflXiAxgY\/common.js",'PAGE_FRAME_DELAYLOADED_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-pageframedelayloaded-vflcuIvpf.css",'GUIDE_DELAY_LOAD': true,'GUIDE_DELAYLOADED_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-guide-vflr6APFK.css",'PREFETCH_CSS_RESOURCES' : ["\/\/s.ytimg.com\/yts\/cssbin\/www-player-vflbMKJVU.css",''         ],'PREFETCH_JS_RESOURCES': [''         ],'PREFETCH_LINKS': false,'PREFETCH_LINKS_MAX': 1,'PREFETCH_AUTOPLAY': false,'PREFETCH_AUTOPLAY_TIME': 10,'PREFETCH_AUTONAV': false,'PREBUFFER_MAX': 1,'PREBUFFER_LINKS': false,'PREBUFFER_AUTOPLAY': false,'PREBUFFER_AUTONAV': false,'SAFETY_MODE_PENDING': false,'LOCAL_DATE_TIME_CONFIG': {"weekdays": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "formatWeekdayShortTime": "EE h:mm a", "dateFormats": ["MMMM d, yyyy h:mm a", "MMMM d, yyyy", "MMM d, yyyy", "MMM d, yyyy"], "formatLongDateOnly": "MMMM d, yyyy", "firstDayOfWeek": 0, "amPms": ["AM", "PM"], "firstWeekCutoffDay": 3, "formatLongDate": "MMMM d, yyyy h:mm a", "shortMonths": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], "weekendRange": [6, 5], "formatShortDate": "MMM d, yyyy", "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"], "shortWeekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]},'PAGE_CL': 80511179,'PAGE_BUILD_TIMESTAMP': "Fri Nov 21 15:29:10 2014 (1416612550)",'VARIANTS_CHECKSUM': "8b598c079e92c8db97aae3d38b990e1d",'MDX_ENABLE_CASTV2': true,'MDX_ENABLE_QUEUE': true,'FEEDBACK_BUCKET_ID': "Watch",'FEEDBACK_LOCALE_LANGUAGE': "en",'FEEDBACK_LOCALE_EXTRAS': {"guide_subs": "NA", "experiments": "902408,906211,906213,907259,911435,911436,911507,912142,912714,912719,912725,912811,912813,912817,916603,916928,916929,918119,918121,919330,921603,922415,922417,922419,922804,922809,922810,922812,922930,923024,923348,923363,923454,924230,924232,925011,925019,927006,927622,927626,927881,929154,929507,929509,929820,929940,929943,929947,930819,930821,931943,931990,931991,931997,932404,933228,934032,934038,935021,935415,935691,935692,935707,936211,937109,937422,937424,937506,937507,937512,937817,937912,938302,938639,938683,938699,938703,938705,938808,940641,940918,940936,940938,942302,942606,942703,943301,943407,943410,943909,944464,944702,945088,945125,945401,945909,946803,947209,947215,947503,948124,949001,949004,949601,950303,950501,951301,951601,952302,952505,952605,952901,953003,953912,957103,957105,957201,960501", "logged_in": false, "is_branded": "", "is_partner": "", "accept_language": "*"}});window.ytplayer = window.ytplayer || {};ytplayer.REFACTOR = true;  yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+yt.setConfig('SPF_SEARCH_BOX', true);yt.setMsg({'ADDTO_CREATE_NEW_PLAYLIST': "Create new playlist\n",'ADDTO_CREATE_PLAYLIST_DYNAMIC_TITLE': "  $dynamic_title_placeholder (create new)\n",'ADDTO_WATCH_LATER': "Watch Later",'ADDTO_WATCH_LATER_ADDED': "Added",'ADDTO_WATCH_LATER_ERROR': "Error",'ADDTO_WATCH_QUEUE': "Watch Queue",'ADDTO_WATCH_QUEUE_ADDED': "Added",'ADDTO_WATCH_QUEUE_ERROR': "Error",'ADDTO_TV_QUEUE': "TV Queue",'MASTHEAD_NOTIFICATIONS_LABEL': {"other": "# unread notifications.", "case1": "1 unread notification.", "case0": "0 unread notifications."}});    yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqazlBUmtEOV96VExLSHBzMl9GOTFRMTFsTW5nQXxBQ3Jtc0ttOE5ZaDhGVlNNLUptb0FEanhfV3N2SUFmdEdBbUQ4cmlqTm5MRE1mZEJWTEM0WFd4UHk3YmxNbUZwWFJYSEt6WEhtQ2NIMkJZZGxlRjY5RC1OYW4wYTlBbjFWTzJOb2xmbzlzUF9KUkFtX09IMTdUV1RyZk5hRW0zNWRJZElnSHJlNTZ6MVRoVWxYWnFKc0ExQW5wdWsySnB3a2c=",
+    'XSRF_REDIRECT_TOKEN': "fCIT20_XDgF-zevHSn0LGkA1jSZ8MTQxNjk1ODg2NUAxNDE2ODcyNDY1",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+
+  yt.setConfig('FEED_PRIVACY_CSS_URL', "\/\/s.ytimg.com\/yts\/cssbin\/www-feedprivacydialog-vfl3O3wwH.css");
+
+  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);
+yt.setConfig({'SBOX_JS_URL': "\/\/s.ytimg.com\/yts\/jsbin\/www-searchbox-vfl9yX_sC\/www-searchbox.js",'SBOX_SETTINGS': {"EXPERIMENT_ID": -1, "HAS_ON_SCREEN_KEYBOARD": false, "REQUEST_DOMAIN": "us", "PSUGGEST_TOKEN": null, "SESSION_INDEX": null, "PQ": "", "REQUEST_LANGUAGE": "en", "EXPERIMENT_STR": ""},'SBOX_LABELS': {"SUGGESTION_DISMISS_LABEL": "Dismiss", "SUGGESTION_DISMISSED_LABEL": "Suggestion dismissed"}});  yt.setConfig({
+    'YPC_LOADER_ENABLED': true,
+    'YPC_LOADER_CONFIGS': "\/ypc_config_ajax",
+    'YPC_LOADER_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-ypc-vflgzL4S0\/www-ypc.js",
+    'YPC_LOADER_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-ypc-vfl813SqE.css",
+    'YPC_LOADER_CALLBACKS': ['yt.www.ypc.subscription.init'],
+    'YPC_SIGNIN_URL': "/web/20141124234104/https://accounts.google.com\/ServiceLogin?service=youtube\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26action_handle_signin%3Dtrue%26next%3D%252F\u0026uilel=3\u0026passive=true"
+  });
+  yt.setConfig('GOOGLE_HELP_CONTEXT', "watch");
+ytcsi.span('st', 101);yt.setConfig({'TIMING_ACTION': "",'TIMING_INFO': {"e": "907259,916603,919330,923348,927622,930821,932404,935415,943909,945125,947209,947215,948124,952302,952605,952901,953912,957103,957105,957201", "yt_li": 0, "yt_pl": 0, "yt_lt": "cold", "yt_ad": 0, "ei": "EMJzVLipOcWJ-gP2hILwDQ", "yt_spf": 0}});  yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqazlBUmtEOV96VExLSHBzMl9GOTFRMTFsTW5nQXxBQ3Jtc0ttOE5ZaDhGVlNNLUptb0FEanhfV3N2SUFmdEdBbUQ4cmlqTm5MRE1mZEJWTEM0WFd4UHk3YmxNbUZwWFJYSEt6WEhtQ2NIMkJZZGxlRjY5RC1OYW4wYTlBbjFWTzJOb2xmbzlzUF9KUkFtX09IMTdUV1RyZk5hRW0zNWRJZElnSHJlNTZ6MVRoVWxYWnFKc0ExQW5wdWsySnB3a2c=",
+    'XSRF_REDIRECT_TOKEN': "fCIT20_XDgF-zevHSn0LGkA1jSZ8MTQxNjk1ODg2NUAxNDE2ODcyNDY1",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);
+if (window.ytcsi) {window.ytcsi.tick("jl", null, '');}</script>
+<!-- Smart JS Insertion --></body></html>
+
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 23:41:04 Nov 24, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:10:56 Sep 13, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

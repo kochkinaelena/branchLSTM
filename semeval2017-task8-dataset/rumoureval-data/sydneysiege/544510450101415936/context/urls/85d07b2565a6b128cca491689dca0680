@@ -1,0 +1,2568 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app7.us.archive.org";archive_analytics.values.server_ms=356;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+                        <meta name="robots" content="noindex, nofollow" />
+                <title>HELP US MAKE FILM! www.WeRaLLONe.com  by World-Galactic Rich - GoFundMe</title>
+        <link rel="shortcut icon" href="/web/20141030082225im_/http://funds.gofundme.com/favicon/4.ico" type="image/x-icon">
+        <meta name="language" content="en" />
+        <meta name="description" content="HELP US MAKE FILM! www.WeRaLLONe.com  by World-Galactic Rich - I am your brother from another mother, Ashtar Richard Sheran @ your service!  Spiritual Guide. Reiki master. Healer of all things in Faith &amp; in Divine heart" />
+
+        <link rel="canonical" href="http://www.gofundme.com/WeRaLLONe" />
+        <meta property="og:title" content="Click here to support HELP US MAKE FILM! www.WeRaLLONe.com  by World-Galactic Rich" />
+        <meta property="og:description" content="I am your brother from another mother, Ashtar Richard Sheran @ your service!  Spiritual Guide. Reiki master. Healer of all things in Faith &amp; in Divine heart" />
+        <meta property="og:image" content="https://i.ytimg.com/vi/ySBhPI63SIo/hqdefault.jpg" />
+        <meta property="og:site_name" content="GoFundMe.com" />
+        <meta property="og:url" content="http://www.gofundme.com/WeRaLLONe" />
+        <meta property="og:type" content="gofundme:campaign" />
+        <meta property="fb:app_id" content="407682420960"/>
+
+        <link href='/web/20141030082225cs_/http://fonts.googleapis.com/css?family=Lato:100,300,400,700|Montserrat:400,700' rel='stylesheet' type='text/css'>
+                        <link rel="stylesheet" href="/web/20141030082225cs_/https://e3a118563d73dac160f3-3dd041e57df6d4ab2a46b2d05c7ff54a.ssl.cf1.rackcdn.com/f/4.0_donate/donate-43.css" type="text/css" media="all" />
+                <link rel="stylesheet" href="/web/20141030082225cs_/https://e3a118563d73dac160f3-3dd041e57df6d4ab2a46b2d05c7ff54a.ssl.cf1.rackcdn.com/f/4.0_donate/purple-12.css" type="text/css" media="all" />
+                <script src="/web/20141030082225js_/http://funds.gofundme.com/js/3.0/jquery-1.11.0.min.js" type="text/javascript"></script>
+        <script src="/web/20141030082225js_/http://funds.gofundme.com/js/3.0/jquery.cookie.js" type="text/javascript"></script>
+        <script src="/web/20141030082225js_/http://funds.gofundme.com/js/3.0/fns.js?v=11.8" type="text/javascript"></script>
+        <script src="/web/20141030082225js_/http://funds.gofundme.com/js/3.0/search_www.js?v=11.8" type="text/javascript"></script>
+        <script src="/web/20141030082225js_/http://funds.gofundme.com/js/3.0/plugins/jquery.autosize.min.js?v=11.8" type="text/javascript"></script>
+
+        </head>
+<body>
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.gofundme.com/WeRaLLONe?";
+
+var firstYear = 1996;
+var displayDay = "30";
+var displayMonth = "Oct";
+var displayYear = "2014";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(525, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.gofundme.com/WeRaLLONe?" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20141030082225" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20140304235454/http://www.gofundme.com/WeRaLLONe" title="4 Mar 2014">MAR</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 8:22:25 Oct 30, 2014">OCT</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20141217002747/http://www.gofundme.com/WeRaLLONe" title="17 Dec 2014"><strong>DEC</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20141026035339/http://www.gofundme.com/WeRaLLONe" title="3:53:39 Oct 26, 2014"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 8:22:25 Oct 30, 2014">30</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20141217002747/http://www.gofundme.com/WeRaLLONe" title="0:27:47 Dec 17, 2014"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   2013
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 8:22:25 Oct 30, 2014">2014</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20151120022126/http://www.gofundme.com/WeRaLLONe" title="20 Nov 2015"><strong>2015</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20141030082225*/http://www.gofundme.com/WeRaLLONe?" title="See a list of every capture for this URL">52 captures</a>
+           <div class="r" title="Timespan for captures of this URL">7 Feb 14 - 30 Apr 16</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="525"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=525_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000000000_2012:-1:000000000000_2013:-1:000000000000_2014:9:012000000307_2015:-1:010001040122_2016:-1:81f200000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<!-- Header ( not signed in ) -->
+<div class="hd" >
+        <div class="hd_main">
+                <a class="logo" href="/web/20141030082225/http://www.gofundme.com/"></a>
+                <div class="br" style="float:left; margin-left: 14px;"></div >
+                <div class="preSearch">
+                <a class="menu searchToggle" href="#">Search</a>
+                </div>
+                <div id="searchMenu" style="display:none;overflow:hidden; float:left;height:51px">
+                        <input id="search_term_top" class="hd_s blink f_light searchShow" blink="active" droptype="lil_suggest" type="text" value="Name, Title or ZIP Code..." title="Name, Title or ZIP Code..." style="margin-left: 14px;" autocomplete="off">
+                        <div class="br searchShow" style="float:left; margin-left:14px;"></div>
+                        <a class="menu searchShow categoryToggle" style="">Categories <div class="donationsprite donatesprite-dropdown" style="margin-left:5px;"></div></a>
+                        <div class="br" style="float:left;"></div >
+                        <a class="menu openContactLb" href="#">Help</a>
+                </div>
+                <div class="preSearch">
+                        <div class="br" style="float:left;"></div >
+                        <a class="menu openContactLb" href="#">Help</a>
+                        <div class="br hideOnSearch" style="float:left; "></div >
+
+                                                        <a class="menu txt1 hideOnSearch" href="/web/20141030082225/http://www.gofundme.com/sign-up">Start a Fundraiser</a>
+                                        </div>
+
+
+                <a href="#" class="smdtn donateButton" style="float: right; margin-top: 12px;"></a>
+                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_1" style="float: right; margin-top: 12px;"></a>
+                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_p1" style="float: right; margin-top: 12px;"></a>
+
+                <div class="hps1">
+                        <div class="box">
+                                <div class="left">
+                                        <div class="lil_drop loc_suggest_drop_top" style="display: none;">
+                                                <!--                                                <a class="lil_suggest location_choice" href="//www.gofundme.com/mvc.php?route=search&amp;term=12308&amp;country=US" text2="12308 - Schenectady, NY" city="SCHENECTADY" state="NY" country="US" value="12308"><strong>12308</strong> - Schenectady, NY</a>-->
+                                        </div>
+
+                                        <div class="cat_drop" style="display: none;">
+                                                <div class="col1">
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Medical-Illness-Healing/" class=" cat_item c11">Medical</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Volunteer-Service/" class=" cat_item c16">Volunteer</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Accidents-Personal-Crisis/" class=" cat_item c1">Emergencies</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Education-Schools-Learning/" class=" cat_item c8">Education</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Funerals-Memorials-Tributes/" class=" cat_item c9">Memorials</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Sports-Teams-Clubs/" class=" cat_item c15">Sports</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Animals-Pets/" class=" cat_item c2">Animals</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Business-Entrepreneurs/" class=" cat_item c4">Business</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Non-Profits-Charities/" class=" cat_item c13">Charity</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Community-Neighbors/" class=" cat_item c6">Community</a>
+                                                </div>
+                                                <div class="col2">
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Competitions-Pageants/" class=" cat_item c18">Competitions</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Creative-Arts-Music-Film/" class=" cat_item c7">Creative</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Celebrations-Special-Events/" class=" cat_item c5">Events</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Missions-Faith-Church/" class=" cat_item c12">Faith</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Babies-Kids-Family/" class=" cat_item c3">Family</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/National-News/" class=" cat_item c23">National News</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Weddings-Honeymoons/" class=" cat_item c17">Newlyweds</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Other-Miscellaneous/" class=" cat_item c14">Other</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Travel-Adventure/" class=" cat_item c10">Travel</a>
+                                                        <a href="/web/20141030082225/http://www.gofundme.com/Dreams-Hopes-Wishes/" class=" cat_item c19">Wishes</a>
+                                                </div>
+                                                <div style="clear: both;"></div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+        </div><!-- hd_main -->
+</div>
+<!-- END Header -->
+
+<script type="text/javascript">
+        $(function(){
+                $(".searchToggle").click(function(){
+                        $('.preSearch').hide();
+                        $('#searchMenu').animate({width:'toggle'});
+                        return false;
+                });
+
+                $(".categoryToggle").click(function(){
+                        $(".cat_drop").slideToggle();
+                        return false;
+                });
+
+                $("body").click(function(){
+                        $(".cat_drop").slideUp();
+                });
+        });
+</script>
+
+
+<!-- Outter container for donation page content -->
+<div class="topbar"></div>
+
+<div class="a">
+
+        <div class="pagetitle txt1 long">HELP US MAKE FILM! www.WeRaLLONe.com </div>
+
+
+
+        <div class="fundphoto round5">
+                <iframe media_type="0" media_id="ySBhPI63SIo" class="" title="YouTube video player" style="margin-bottom:20px;width:595px;height:395px;" src="/web/20141030082225if_/http://www.youtube.com/embed/ySBhPI63SIo/?rel=0&amp;wmode=transparent" frameborder="0" allowfullscreen="1"></iframe>        </div>
+
+        
+<!-- Main Details Block -->
+<div class="details round5">
+        <div class="headbar">
+                
+                
+                                        <a href="/web/20141030082225/http://www.gofundme.com/mvc.php?route=search&amp;term=90069&amp;country=US" class="loc mr10" title="Browse pages near WEST HOLLYWOOD, CA." style="max-width: 175px;">WEST HOLLYWOOD, CA</a>
+                
+                
+                <div style="clear: both;"></div>
+                <div class="raised ">
+                        <span class="cur ">$</span>4,070<span class="of"> of</span><span class="goal"> 10M</span>
+                </div>
+                <div class="bar">
+                        <div class="fill" style="width: 3%;"></div>
+                </div>
+
+                                        <div class="time">
+                                Raised by
+                                <span>51</span>
+                                 people                                in <span>45</span> months                        </div>
+                
+                <a href="#" class="donatebtn round5 btn1 donateButton">Donate Now</a>
+
+                                        <a href="#" class="fbs mt20 share-fb" data-pc="14_fb_p2">Share on Facebook</a>
+                        <a href="/web/20141030082225/http://www.gofundme.com/" class="delogo"></a>
+                        </div>
+</div>
+
+<!-- END Main Details Block -->
+<div style="clear: both;"></div>
+        
+<!-- Share bar -->
+<div id="top-share-bar" class="sharebar mt30 round5" 
+        data-total_shares="4453" 
+        data-facebook_pre="1403"
+        data-facebook_count="3638" 
+        data-twitter_count="815"
+>
+        <div class="big">4.4K</div>
+        <div class="biglbl">TOTAL<br> SHARES</div>
+        <div class="div"></div>
+        <!--todo add fb pc codes-->
+        <a href="#" class="fbshare mt10 share-fb" data-pc="14_fb_p3"></a>
+        <div class="count ml20">3.6K</div>
+        <div class="div"></div>
+        <a href="#" class="twshare mt10 share-tw" data-pc="14_fb_2"></a>
+        <div class="count ml13">815</div>
+</div>
+<!-- END Share bar -->
+
+        <!-- campaign organizer -->
+<div class="createdby mt30 round5">
+        <div class="cbimg">
+
+                <img src="/web/20141030082225im_/https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/HsTZSDw4avx.gif" />
+        </div>
+        <div class="cbdate">
+                Created January 24, 2011        </div>
+        <div class="cbname  ">
+                <a href="#" class="cbmail openContactLb" title="Contact the organizer of this campaign."></a>
+                World-Galactic Rich        </div>
+</div>
+<div style="clear: both;"></div>
+        <div class="donate_left mt30">
+
+                
+
+        <div class="left_bx round5">
+                <div class="section_head">
+                        UPDATE #25                        <div class="fr">4 DAYS AGO</div>
+                </div>
+
+                <div class="update_content">
+
+                        LISTEN! to Ashtar RADIO ANYTIME! at:<br />
+ <a href="/web/20141030082225/http://www.blogtalkradio.com/weareallonemovie/2014/10/26/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013" target="_blank" class="txt1" rel="nofollow">http://www.blogtalkradio.com/weareallonemovie/2014/10/26/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013</a><br />
+
+                        
+                        <div class="shareopts mt30">
+                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                 <a href="#" class="ml10 txt1 showAllUpdates">Show All</a>                                 <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                        </div>
+                </div>
+        </div>
+
+        <div id="allUpdates" style="display: none;">
+                
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #24                                        <div class="fr">3 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        NEED HEALING?go2:   <a href="/web/20141030082225/http://www.ashtarradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarRADIO.COM</a> <br />
+& The HEALING MOVIE: CRAVE A TRUE STORY about Healing addictions & the TABU Topic: Trauma of molestation among relatives. Speak Up! to Be HEALED! & so it is...  <a href="/web/20141030082225/https://www.youtube.com/watch?v=7MKSqmj71k0" target="_blank" class="txt1" rel="nofollow">https://www.youtube.com/watch?v=7MKSqmj71k0</a>  
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #23                                        <div class="fr">3 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                         &gt; Let&#039;s TALK! @  <a href="/web/20141030082225/http://www.weareallonemovie.com/" target="_blank" class="txt1" rel="nofollow">www.WeAreALLONeMOVIE.COM</a> <br />
+
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #22                                        <div class="fr">3 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        Let&#039;s TALK! @  <a href="/web/20141030082225/http://www.ashtarradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarRADIO.COM</a> <br />
+LOVE & LIGHT~ Beloveds Y&#039;aLL!!! Brothers & Sisters! from THE LIGHT!!!! & LOVE!!! 
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #21                                        <div class="fr">4 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        Go2:  <a href="/web/20141030082225/http://www.ashtartv.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarTV.COM</a>   <br />
+ <a href="/web/20141030082225/http://www.blogtalkradio.com/weareallonemovie/2014/06/22/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013" target="_blank" class="txt1" rel="nofollow">http://www.blogtalkradio.com/weareallonemovie/2014/06/22/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013</a><br />
+mwah! 
+                                        <iframe media_type="0" media_id="5LOHAcRFm5Y" class="mt20" title="YouTube video player" style="margin-bottom:20px;width:550px;height:385px;" src="/web/20141030082225if_/http://www.youtube.com/embed/5LOHAcRFm5Y/?rel=0&amp;wmode=transparent" frameborder="0" allowfullscreen="1"></iframe><div class="caption mb20">The Unicorn Collective: We Are One - Jun</div>
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #20                                        <div class="fr">4 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        Blessings! Help Your SELF! 
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #19                                        <div class="fr">4 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        Let&#039;s TALK. Chat or Skype@  <a href="/web/20141030082225/http://www.ashtartv.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarTV.COM</a>    a Brand New Ocean 3Times Bigger than all is Discovered! and Your Jaw Will Hit The Floor When You Find Out Where! Does This Prove Noah’s Flood?<br />
+<br />
+Help Your SELF! Hire me to HELP YOU AWAKEN & to EXPLAIN so much... just Put it this way... NOTHING You&#039;ve learned throughout your ENTIRE LIFE is as it seems... NOTHING! :)  <br />
+just OPEN your Mind & your HEART 
+                                        <iframe media_type="0" media_id="SXzO1p9raqc" class="mt20" title="YouTube video player" style="margin-bottom:20px;width:550px;height:385px;" src="/web/20141030082225if_/http://www.youtube.com/embed/SXzO1p9raqc/?rel=0&amp;wmode=transparent" frameborder="0" allowfullscreen="1"></iframe><div class="caption mb20"> a Brand New Ocean 3X Bigger DISCOVERED!</div>
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #18                                        <div class="fr">4 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        Donate Any Love here! @  <a href="/web/20141030082225/http://www.ashtartv.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarTV.COM</a>   or  <a href="/web/20141030082225/http://www.directoryofus.com/donate" target="_blank" class="txt1" rel="nofollow">www.DirectoryOfUS.com/donate</a><br />
+THE SECRET to BE OK IS: beloved just BE HAPPY :)  Every moment of Every Day! 
+                                        <iframe media_type="0" media_id="iYmJzb1O1jc" class="mt20" title="YouTube video player" style="margin-bottom:20px;width:550px;height:385px;" src="/web/20141030082225if_/http://www.youtube.com/embed/iYmJzb1O1jc/?rel=0&amp;wmode=transparent" frameborder="0" allowfullscreen="1"></iframe><div class="caption mb20">Constant Companions: www.WeRaLLONe.COM</div>
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #17                                        <div class="fr">4 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        Let&#039;s TALK. Chat. Skype@   <a href="/web/20141030082225/http://www.ashtarradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarRADIO.COM</a><br />
+Dratzo! We come again with much to discuss with you! Our Earth allies are now busily completing the numerous tasks that are required of them. These necessary projects are part of a larger picture. Mother Earth is transforming gradually into a true 5-D realm. This procedure is tied to a number of vital factors. The most crucial is, of course, your transformation into fully conscious Beings of Light. The dark cabal realizes that its current positions of power are quite fragile. A number of conditions are threatening to redirect vital economic realities. These economic and political conditions kept the dark in a position of dominance for the last thirteen millennia. The Anunnaki know that numerous depositories of ancient Atlantean records are on the verge of being publicly disclosed. These histories, along with an upcoming inevitable economic collapse involving their core assets, threaten their power. This has led to a recent series of countermeasures that are temporarily maintaining the illusion that “nothing has changed.” In reality, our allies are ready to demolish their ill-gotten assets and force them from power. The time for your freedom and prosperity rapidly approaches.<br />
+<br />
+   The present time is really the final standoff between the dark ones and their minions, and the many forces of the Light. The Light is winning this struggle as the dark’s resources are swiftly dwindling. This forces them to apply guile in an attempt to ensure that their power remains untarnished, but their “normal” methods are failing. The key to this is simply the fact that the world’s economies no longer wish to be dominated by fiat money stemming mostly from the fiat reserves of the U.S Federal Reserve Bank. This rising insurrection is leading to the bankruptcy of Western banking and the rise of a precious metal backed reset of the world’s currencies. This is also paving the way for the death of old “special interest” governance and the onset of new global realities. This reset is accelerating and is applying pressure to force the dark’s minions from power. The Light is also opening up networks for common law justice and for the arrest and conviction of a number of prominent dark government and banking participants.<br />
+<br />
+   These various events are only the start of programs to liberate you from your present condition of debt bondage. Our allies recognize what each of you has gone through since birth. You are wrapped in debt from your birth and serve the dark merely as collateral for their immense wealth. They spend imprudently and further maintain this system by careful use of war, hatred and divisions proclaimed by their bought politicians and bribed general military staffs. This corrupt system is to be stopped, transformed and reduced to a point where they are truly your servants. This “whittling-down” is taking precious time. Nonetheless, the dark, like the ancient Hydra, possesses many heads. New ones pop up when it is thought there are none left. The secret sacred societies and the enlightened ancient families created a means to truly decapitate these endless “heads” from its vile body! Thus, the final preparations to manifest a new reality continue to move forward. Our liaisons report that the dark’s institutions are in reality a fragile house of cards.<br />
+<br />
+   It is this one truth, which explains why the end of this game is finally at hand. The dark is now scurrying to find the last of the resources needed to keep these shenanigans up. Their global expeditions are failing. Meanwhile we have procured a series of agreements, which promise to end the dreadful tactics of the dark’s last minions. These processes are currently in force. We have contacted our Agarthan cousins and retained them as the prime guardians of these various procedures. Simultaneously, we have addressed these situations with the ancient families and your Ascended Masters. Programs are underway to complete, as swiftly as provided, steps that permit us to release, under the administration of the Ascended Masters, items intended to achieve peace, prosperity and new governance. We are being told that special parts of the military are fully cooperating with us. These, along with a number of legal elements, can restore common law as well as constitutional legalities for the new governance. The instrument for this initially is called NESARA!<br />
+<br />
+   Namaste! We are your Ascended Masters! We come to give you a brief report. At present, our associates are finishing a set of operations which are designed to force out the dark’s minions and prepare the way for victory. The Light has spent the last millennia waiting patiently for this blessed moment. The dark is reaching a point where it needs to surrender and ask for divine mercy. Over the centuries, we have watched as the dark either devised ways to diminish what we do or else denied to all that we have done anything to bring our blessings unto you. Now the tables are to be turned. We do not wish to deny them blessings, nor do we desire to let their malevolence continue. Instead they are to be isolated until measures can be taken to prevent any further trickery from succeeding. The time has come to bring in a new reality, and with it a new freedom for all. Hosanna! Hosanna! Hosanna!<br />
+<br />
+   We deliver unto you divine blessings and a decree that the grand jubilee commences! Long ago, when Lemuria was above the waves, humanity was conscious, free and a steward to all on this world. A great firmament was in the Heavens. The land was prosperous in all things. Tales of this were famous. Indeed, such tales still permeate the campfires of much of Polynesia, Australia, Africa and the Americas. These tales tell of the time before the rise of darkness in this realm, and it is time to return to that reality. It is time to renew the Earth, her ecosystems and even yourselves. Our service is to guide, to heal and to bless humanity. It is also a time to teach and update you. It is time to take you away from the falseness of the dark so you can learn in depth the truths of the Light! It is a time to reunite with your spiritual and space families. It is time for you to visit Agartha and learn about the inner joys of Life.<br />
+<br />
+   The Spirit of the Light descends in glory upon the Earth. This Light cleanses you from the hold of the dark and brings you into contact with the wonderment that is in each of you. We have an army filled with Light that resides in each of us. We have the ability to take this army and use it to cast out the dark. Use this, dear Ones, to bring this much-deserved realm into reality. Envision in your heart what you truly desire to change. Empower it and give it in Love and Joy to Heaven! Let this mighty energy forge it and quickly give it life. Bring this vision forth daily. Let its joys and energies manifest. Realize the power within you. Flow within this energy and give it in full willingness to Heaven. Each day, this vision becomes even more powerful. It is in this light that your collective energies can bolster what we do. Victory is assured. Let us together bring it in and manifest it. Hallelujah! Hallelujah! Hallelujah!<br />
+<br />
+   Today, we carried on with our message. The moment for your triumph approaches. It also heralds the mass landings and the final moves toward full consciousness. We rejoice in what is happening. We are ready to assist all in welcoming the fleet and in discovering the wonders that is Agartha! Know, dear Ones, that the countless Supply and never-ending Prosperity of Heaven are indeed yours! So Be It! Selamat Gajun! Selamat Ja! (Sirian for Be One! and Be in Joy!)<br />
+<br />
+more or hire me to Help You go Higher, put your Name at a Movie&#039;s Credits & Help us Make Movie at:   <a href="/web/20141030082225/http://www.weareallonemovie.com/" target="_blank" class="txt1" rel="nofollow">www.WeAreALLONeMOVIE.COM</a><br />
+<br />
+.<br />
+<br />
+.<br />
+<br />
+.
+                                        <iframe media_type="0" media_id="wfJcP_uV938" class="mt20" title="YouTube video player" style="margin-bottom:20px;width:550px;height:385px;" src="/web/20141030082225if_/http://www.youtube.com/embed/wfJcP_uV938/?rel=0&amp;wmode=transparent" frameborder="0" allowfullscreen="1"></iframe><div class="caption mb20">ET village @ Hawaii: www.WeRaLLONe.com </div>
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #16                                        <div class="fr">4 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        Beloved Radiant Heart: 
+                                        <iframe media_type="0" media_id="MGL2-CLQ96c" class="mt20" title="YouTube video player" style="margin-bottom:20px;width:550px;height:385px;" src="/web/20141030082225if_/http://www.youtube.com/embed/MGL2-CLQ96c/?rel=0&amp;wmode=transparent" frameborder="0" allowfullscreen="1"></iframe><div class="caption mb20">EARTH SIZE UFOs Around the SUN. JUNE 14&#039</div><img  class="round5 mt20 mb10" src="" /><div class="caption mb20"></div>
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #15                                        <div class="fr">5 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        Beloved Radiant Heart :)  In LaK&#039; eSh aLa KiN 
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #14                                        <div class="fr">5 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        &quot; I am Traveling around the World Clearing/Healing certain Spots & Souls on Earth turning them into The Divine LIGHT Please Help my Journey &quot;   <a href="/web/20141030082225/http://www.gofundme.com/1zpqg" target="_blank" class="txt1" rel="nofollow">http://www.gofundme.com/1zpqg</a><br />
+<br />
+via:  <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRADIO.COM</a>   ~ LISTEN! ANYTIME~ or LIVE on SATURAYS@ 8PM Los Angeles, CA Time. Broadcasting from Sacred spots around the World  <a href="/web/20141030082225/http://www.ashtartv.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarTV.COM</a> <br />
+<br />
+
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #13                                        <div class="fr">5 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        By GO 2:  <a href="/web/20141030082225/http://www.weareallonemovie.com/" target="_blank" class="txt1" rel="nofollow">www.WeAreALLONeMOVIE.COM</a><br />
+Help Me Get to Our Next Destination saving the  World!
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #12                                        <div class="fr">6 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        
+                                        <iframe media_type="0" media_id="hVJQIayDFBc" class="mt20" title="YouTube video player" style="margin-bottom:20px;width:550px;height:385px;" src="/web/20141030082225if_/http://www.youtube.com/embed/hVJQIayDFBc/?rel=0&amp;wmode=transparent" frameborder="0" allowfullscreen="1"></iframe><div class="caption mb20">Malaysian PM Admits Unidentified Mystery</div>
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #11                                        <div class="fr">6 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        HAPPY EASTER :) by:  <a href="/web/20141030082225/http://www.ashtar/" target="_blank" class="txt1" rel="nofollow">www.Ashtar</a>"‹SheranRADI"‹O.COM  Listen@  <a href="/web/20141030082225/http://www.blogtalkradio.com/weareallonemovie/2014/04/20/wwwashtarsheranradiocom-anytime-or-live-weekly-on-saturdays8pm-ca-time-d" target="_blank" class="txt1" rel="nofollow">http://www.blogtalkradio.com/weareallonemovie/2014/04/20/wwwashtarsheranradiocom-anytime-or-live-weekly-on-saturdays8pm-ca-time-d</a><br />
+<br />
+
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #10                                        <div class="fr">6 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        by:  <a href="/web/20141030082225/http://www.werallone.com/" target="_blank" class="txt1" rel="nofollow">www.WeRaLLONe.COM</a>  Lol Check Out My Interview "as Galactic Commander, Ashtar Sheran 
+                                        <iframe media_type="0" media_id="BYh6FxGMnAk" class="mt20" title="YouTube video player" style="margin-bottom:20px;width:550px;height:385px;" src="/web/20141030082225if_/http://www.youtube.com/embed/BYh6FxGMnAk/?rel=0&amp;wmode=transparent" frameborder="0" allowfullscreen="1"></iframe><div class="caption mb20">:) Lol Check Out My Interview </div>
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #9                                        <div class="fr">6 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        Help THE DIVINE LIGHT 
+                                        <iframe media_type="0" media_id="96lZ-VDVsLk" class="mt20" title="YouTube video player" style="margin-bottom:20px;width:550px;height:385px;" src="/web/20141030082225if_/http://www.youtube.com/embed/96lZ-VDVsLk/?rel=0&amp;wmode=transparent" frameborder="0" allowfullscreen="1"></iframe><div class="caption mb20">via: www.AshtarSheranRADIO.COM  Pt.1-7</div>
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #8                                        <div class="fr">6 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        To EXPLAIN & PREPARE  YOU! :)  Hire me per Hour~ Let's TALK!  <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRADIO.COM</a>  <br />
+& @  <a href="/web/20141030082225/http://www.monalizaproductions.com/" target="_blank" class="txt1" rel="nofollow">www.MonalizaProductions.com</a> WATCH MOVIE CRAVE~ Empowering & HEALING the DIVINE Female Energy. WATCH ANYTIME <br />
+<br />
+
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #7                                        <div class="fr">6 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        LISTEN! F370 R OK! @  <a href="/web/20141030082225/http://www.thegalacticfl.com/" target="_blank" class="txt1" rel="nofollow">www.TheGalacticFL.com</a>   Let's TALK!~ @  <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRADIO.COM</a>       Like me! @  <a href="/web/20141030082225/http://www.facebook.com/ashtarsheranradio" target="_blank" class="txt1" rel="nofollow">www.facebook.com/ashtarsheranradio</a>  Join@  <a href="/web/20141030082225/http://www.galacticfl.com/joinus" target="_blank" class="txt1" rel="nofollow">www.GalacticFL.com/joinus</a><br />
+ <a href="/web/20141030082225/https://www.facebook.com/groups/1477037175842858/" target="_blank" class="txt1" rel="nofollow">https://www.facebook.com/groups/1477037175842858/</a><br />
+@ <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRADIO.COM</a>   ANYTIME~or LIVE! on SATURDAYS or *Domingos En Espanol "both weekend days" @8PM CA/PT. 10PM CS      or 11PM NY/EST TIME.<br />
+<br />
+Ashtar Speaks: "Contact"<br />
+We, your Galactic Family, are in the process of organizing the physical contact with you. It is imminent.<br />
+<br />
+The contact between us will be individually down on your beloved planet Gaia. There will be neither mass landings nor a beaming aboard a ship. Rather we will visit those of you who have managed to raise their energies to a certain level that matches with our own energy.<br />
+<br />
+Please make no mistake: Such an encounter makes high demands on our energy vessels. Our energy levels are on different stages and we, to cope with your levels, have to lower our energy to a certain degree. Such degree is the bottom and to go further down could cause us serious damage. That is the reason why you have to meet us halfway.<br />
+<br />
+What can you expect from our contacts? How does the contact happen?<br />
+<br />
+We can assure you that we will not approach you suddenly out of the blue and cause you fear or any other unpleasant feelings. The contact will happen in a situation which you are familiar with.<br />
+<br />
+Each contact will be individually, tailor made so to speak, to cover the needs of each of you. There a plenty of possibilities how we can achieve our goal to meet you without frightening you "to the death". For some, the contact could happen while they are on a walk or preparing to relax in front of the TV. For others it could be whilst they are preparing for meditation in a quiet place of their home. The possibilities are endless but again, always focused on your well being.<br />
+<br />
+Although each contact will be individually and tailor-made, all contacts will have the same underlying principle:<br />
+<br />
+<br />
+The contact will happen while you are wide awake.<br />
+<br />
+<br />
+To be Continued... when you like me! :P @  <a href="/web/20141030082225/http://www.facebook.com/ashtarsheranradio" target="_blank" class="txt1" rel="nofollow">www.facebook.com/ashtarsheranradio</a><br />
+<br />
+or Let me Help You! go HIGHER~ 
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #6                                        <div class="fr">7 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        LISTEN I Know what happened to Flight 370!   <a href="/web/20141030082225/http://www.blogtalkradio.com/weareallonemovie" target="_blank" class="txt1" rel="nofollow">http://www.blogtalkradio.com/weareallonemovie</a><br />
+Let's TALK@  <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRadio.COM</a><br />
+Fyi: All Passangers, Crew & Boeing 777 are all OK!<br />
+according to multiple reliable sources.<br />
+Sponsored by:  <a href="/web/20141030082225/http://www.monalizaproductions.com/" target="_blank" class="txt1" rel="nofollow">www.MonalizaProductions.com</a> <br />
+<br />
+At the least ~ please read!   If you feel you want to help bring about this tremendous change about to descend on the planet, then please help circulate this news!  With love & light,  <br />
+<br />
+your brother from another mother, Ashtar Sheran Avatar. Spiritual Guide & Healer of all things~ but Only to those that BELIEVE~ & LIVE with/IN Their GOD/Goddess Heart. Let me Explain You~ Let me Prepare You~ Let me Guide YOU! Let's TALK! @  <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRadio.com</a><br />
+<br />
+ <br />
+<br />
+Listen ANYTIME! to Upcoming & Latest Radio Shows or LIVE! on SATURDAYS! @ 8PM CA. 10PM Midwest/CST. 11PM FL/NY EST TIME at:  <a href="/web/20141030082225/http://www.galacticfl.com/" target="_blank" class="txt1" rel="nofollow">www.GalacticFL.COM</a> <br />
+<br />
+Message from Matthew -- March 20, 2014 <br />
+ 21 March 2014 - 7:45am |  Luisa Vasconcellos <br />
+Channeler: <br />
+Suzanne Ward <br />
+ <br />
+With loving greetings from all souls at this station, this is Matthew, and now I shall speak only for myself. When the Malaysian aircraft went missing, I was assisting a civilization in another galaxy and had no knowledge of the event until three days later, when my mother first heard about it and asked me what I knew.<br />
+<br />
+Thereupon I contacted a colleague in Nirvana, whose investigation disclosed that three persons had been in an airplane immediately prior to arriving in Nirvana on the day the plane disappeared. My colleague told me their records show that they died of natural causes in accordance with their soul contracts, and he couldn't verify that they were on the plane in question.<br />
+<br />
+Since then, responsibilities and family visits have kept my mother's thoughts and time occupied, and when she asked today if I have verifiable information now, I told her yes, but I prefer that she receive it directly from my source, Ashtar.<br />
+Mother, he is awaiting your greeting.<br />
+                                                 ____________________<br />
+ <br />
+Ashtar, hello!  Matthew said you have information about the missing plane. He would like me to receive it directly from you instead of his paraphrasing what you told him. <br />
+ <br />
+Yes, Suzy, I know, and hello!  It's been quite a while since we talked, and I'm glad for this opportunity to be together again. After Matthew asked me to tell you what I know, I put together a little presentation of sorts and I'll get right to it.<br />
+<br />
+All persons aboard the missing airliner were relocated to a small planet that approximates your atmosphere and to some extent the topography, and the inhabitants are fairly similar to your population in appearance. When the plane developed serious malfunctions that couldn't be remedied, we shifted it into a higher dimension and set course for that planet. None of the soul contracts of the crew and passengers included such an adventure, but neither did they include death at that time. In cases like that, we are authorized to step in.<br />
+<br />
+The unexpected experience was real to them because all witnessed the plane's abrupt turn, yet surreal because they were flying through space unlike anything they had ever seen. There was no panic because immediately the rescuers used our communication system to tell them what was transpiring, and the energy of the loving explanation created a peaceful acceptance within those people whose future was being redirected. <br />
+     <br />
+The plane was dematerialized after all had disembarked. They were met by some of our crew members, who had taken on Earth body appearances and garb to ease the newcomers' first moments in their new land, and taken to what you would call an exclusive resort. It is the "starting-over" point for all Earth souls who are rescued by other civilizations, and there have been many of those occasions in your past centuries.<br />
+<br />
+During the first days the group received a "downloading" of the only language spoken in that world and basic knowledge of the population. It is a simple procedure, like the workings of your computers. After an orientation briefing and photographic overview of what the region offers, each person was given the choice of various types of living quarters, individual transportation mode, and employment or schooling. Each was given a paper that functions like a ticket to attend all events desired and plenty of the "tokens" that are used to obtain articles or services.<br />
+<br />
+From the resort, all were taken to the quarters they chose and given their chosen mode of private transportation, and food and all other basic necessities were provided for housekeeping. You could think of this as an unusually elaborate "welcome wagon" service. The newcomers' knowledge, talents and interests will be well used and appreciated in that world, and, just as on Earth, life there is as fulfilling and meaningful as each chooses to make it.    <br />
+<br />
+Now, Suzy, I'll answer the questions running around in your head. No, we couldn't put those people back on Earth. We had to act fast, but every possible factor was considered and going to that world was their best option"”it was the only option that could assure their survival.<br />
+We couldn't put the plane on a runway at its destination airport"”without landing clearance, it would have created chaos and danger to incoming and departing air traffic. And who could explain how that disabled craft suddenly showed up on the ground hours ahead of schedule? How could its sudden public appearance anywhere be explained? Well, it couldn't, but that wasn't the decisive factor. There weren't sufficient provisions in the plane, most essentially water, for all on board to live very long without replenishments, and there is no secluded place on your planet where we could put it down and guarantee those people's survival until they were found. <br />
+<br />
+We wish everyone in your world could know that they are alive and well on a planet much like Earth, but who would make such a statement? Who would believe it? Especially we wish the families and friends of the people who disappeared could know that their dear ones are living comfortably and happily in a world that is far better than yours is at the moment. <br />
+<br />
+Any more questions, Suzy? <br />
+<br />
+Thank you for answering the ones I had in mind, Ashtar. It's amazing how those people were so wonderfully treated and their living needs accommodated! Do you know if they and the people who love them can be reunited during this lifetime?<br />
+<br />
+No, I don't know, but I think it's very unlikely. The energy of love bonds assures reunion in spirit, but most of Earth's residents have a long way to go in raising their consciousness level before meeting up physically is within their reality. <br />
+<br />
+Could mediums, or readers, here contact the "plane" people and get information for their families?<br />
+<br />
+Telepathic communication is universe-wide, but making those connections would be difficult. Only exceptional intermediaries are clearly attuned to the vibrations of souls very far beyond Nirvana"”the world they'd need to reach is outside your solar system"”and here again you're dealing with lack of awareness. Most people on Earth believe only what they've personally experienced or have been taught, and telepathic communication isn't widespread in either category.<br />
+<br />
+Well, OK, but can the facts about what happened be told after lots of your spaceships land and ETs who are living here become known? <br />
+  <br />
+Yes, definitely!<br />
+<br />
+Ashtar, do you know when that will occur?<br />
+<br />
+Suzy, if I did, I'd shout it from your rooftop!  Not really, but we certainly would tell your leaders so it could come from official sources before numbers of us show up in our "native" bodies. It's like Matthew and Hatonn told you, God took charge of the timetable because only He can know when the collective psyche of your civilization is ready to welcome strangers like us. You can't even get along with each other yet!<br />
+<br />
+You're right, and it's terribly painful fo
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #5                                        <div class="fr">7 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        Here's the Update~ You are the First One to get it!  Lucky You :)<br />
+via:    <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRadio.com</a>   LIKE ME at:   <a href="/web/20141030082225/http://www.facebook.com/ashtarsheranradio" target="_blank" class="txt1" rel="nofollow">www.Facebook.com/ashtarsheranradio</a><br />
+<br />
+*Sponsored by: Lori Edixon 
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #4                                        <div class="fr">7 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        Via:  <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRadio.com</a> ANYTIME~ or SATURDAYS LIVE@ 8PM CA. 9PM MT. 10PM Midwest/CST. 11PM NY/FL EST TIME~ @  <a href="/web/20141030082225/http://www.galacticfl.com/" target="_blank" class="txt1" rel="nofollow">www.GalacticFL.COM</a>  or En Espanol@   <a href="/web/20141030082225/http://www.todosomos1.com/" target="_blank" class="txt1" rel="nofollow">www.ToDoSoMoS1.com</a>    <a href="/web/20141030082225/http://www.bilingualmag.com/" target="_blank" class="txt1" rel="nofollow">www.BilingualMag.com</a>   <br />
+<br />
+Let's TALK!~ Select an Option at:  <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRadio.com</a>  <br />
+<br />
+<br />
+*WATCH MOVIE ANYTIME: *CRAVE A TRUE STORY~ Empowering the Divine Female Energy @  <a href="/web/20141030082225/http://www.monalizaproductions.com/" target="_blank" class="txt1" rel="nofollow">www.MonalizaProductions.com</a> <br />
+<br />
+<br />
+* Dear Heart _<  Visit Me! for retreat & Be Healed/Recover 5 STARS Accommodations + 2 Hours Daily MEDITATIONS Sound/Drums ABSOLUTE HEALING  more info:  <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRadio.com</a> <br />
+<br />
+<br />
+<br />
+A Message from JESUS 2014 / Yeshua and the Company of Heaven: You Are Entering a Period of Deep, Deep Transformation "“ March, 2014 <br />
+ <br />
+Channeler: <br />
+ Fran Zepeda <br />
+<br />
+<br />
+ Greetings, fellow travelers of the Light. You are so magnificent. I just want to tell you that first off. It has been a while since I have greeted you through this channel, but nevertheless, I come in with full force and Light and Love to deliver this important message to you all.<br />
+<br />
+ You are entering a period of deep, deep transformation. For this I urge you to prepare yourselves in a very diligent and loving manner, dear ones. You do not want to miss the fragrant and deep and whole enhancement of your Beings as you learn to absorb and integrate more and more Light into your cells and overall Beings.<br />
+<br />
+ By now you are most likely becoming acquainted with yourselves as Whole Divine Beings of the Light, of magnificent creatures with so many abilities, albeit still dormant in some. However, these abilities are waiting just below the surface if you are not experiencing them already and they await you to embrace them and practice them.<br />
+<br />
+ Although you have heard this many times, these abilities have never been as accessible as they are now. As Light Quotient meets with your willingness to absorb and integrate, you have much in store for you.<br />
+<br />
+ My beloveds, the difference with many of you now is your growing acceptance of your divine loving nature and in that, is a catalyst to realize and display all the inherent abilities and perceptions that come with that complete acceptance and surrender to your whole self, complete with all your divine aspects becoming available and wanting to integrate with you.<br />
+<br />
+ Much is in store for you dear ones; can you feel the excitement of this in my words, my loving embracing words and feelings that I am attempting to convey through this channel? I am so pleased to be able to connect with you again and I also want to say that I have never left. I am bonding and connecting with all of you as you raise your vibrations to the level of consciousness conducive to the frequency of Christ Consciousness. We hang out together in that milieu more and more, and my dear ones, nothing could please me more. For you see, much can be accomplished and gained through staying in that vibration more and more, which is your natural habitat.<br />
+<br />
+<br />
+To Be Continued at:   <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRadio.com</a><br />
+<br />
+or LIKE US at:   <a href="/web/20141030082225/https://www.facebook.com/ashtarsheranradio" target="_blank" class="txt1" rel="nofollow">https://www.facebook.com/ashtarsheranradio</a><br />
+<br />
+<br />
+===<br />
+<br />
+Ashtar: "We Are Partners in Our Mission of Love" <br />
+"Greetings, Beloved Family!  And yes, we are absolutely exuberant with all that is taking place!  And you, Beloved Ones, are in the forefront of those assisting with your energies of Love and Light, for without you, and without your permission and the opening of your Hearts to our being One with you, we would not be able to accomplish all that is happening now.<br />
+<br />
+ <br />
+<br />
+"You heard the Masters,* yes, no nukes will be enabled or discharged on Planet Earth!  This is a directive which we are honored to be in the service of carrying out - the Mission that makes this so.  And yes, we have done so many times, more times than you have heard about and more times than are necessary for you to know.  Only know that because you have stepped up to where you are, and because you are shining such radiant Lights, we are empowered to do this on behalf of you and every living being upon Planet Earth and beyond, because a nuclear holocaust upon Planet Earth will reach out even beyond your solar system and will have multitudinous consequences, dark consequences.<br />
+ <br />
+To Be Continued at:   <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRadio.com</a><br />
+<br />
+or LIKE US at:   <a href="/web/20141030082225/https://www.facebook.com/ashtarsheranradio" target="_blank" class="txt1" rel="nofollow">https://www.facebook.com/ashtarsheranradio</a><br />
+<br />
+<br />
+===<br />
+<br />
+.<br />
+<br />
+ <br />
+Sponsored by: CRAVE A TRUE STORY ~ Written. Directed & Produced by *The DIVINE Mary Magdalene, the one that lived with JESUS 2014 Years ago.* SUPPORT the Resurrection of THE DIVINE FEMALE ENERGY on The NOW MOMENT~ WATCH MOVIE ONLY NOW~or ANYTIME~ :) @ <br />
+<br />
+<br />
+ <a href="/web/20141030082225/http://www.monalizaproductions.com/" target="_blank" class="txt1" rel="nofollow">www.MonalizaProductions.COM</a> <br />
+<br />
+<br />
+Channeler: Asket of Temmer, Pleiadian <br />
+ Well, dear human brethren of Earth, we are at a point in your history where we are meant to meet again. What do you suppose will happen in the near future? We are on the viewfinding equipment of many people who point their lenses to the sky, and so are others who are on our vibration, along with other factions who are not. We're all waiting for the moment of something to present itself to your consciousness, and then we will have the attention of more than we have now. There is nothing to fear in this, for we are not planning to cause any kind of conflict with anyone. If you can remain grounded in the knowingness that you have family lineage outside of your earthly home, you'll be fine and dandy.<br />
+<br />
+  <br />
+To Be Continued at:   <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRadio.com</a><br />
+<br />
+or LIKE US at:   <a href="/web/20141030082225/https://www.facebook.com/ashtarsheranradio" target="_blank" class="txt1" rel="nofollow">https://www.facebook.com/ashtarsheranradio</a><br />
+<br />
+<br />
+===<br />
+ <br />
+Sheldan Nidle Update - March 4, 2014 <br />
+<br />
+Selamat Bratzo! (Sirian for "Be in Satisfaction") We return now with some news. The RV issue continues to move forward as a number of new currencies are ready to be issued and exchanged. This is yet another sign that the power of the dark cabal is waning. On another front, approval was obtained on the final wordings of the new international banking regulations. These new rules are to lead to investigations that will permit governments to break up the illegal large banking institutions that created global fraud in the post-World War II period (1945-2013). Their greed-based manipulations and resultant cover-ups were the true cause of the numerous "wars" fought during this time period. Presently, a broad-based coalition of governments and well-placed individuals are legally proving the cause of this fraud and providing the needed evidence for arrests and many banking breakups. This will accelerate as new governance emerges and the prosperity programs start to be rolled out. However, this series of actions is only just a start.<br />
+<br />
+ The global jubilee that accompanies the rise of new governance will sweep away both old and new personal debt and prepare the way for prosperity to become the norm. This redistribution of wealth will join with formerly suppressed technologies and provide a means for you to repair the many grievous invasions of your living world. These actions will also transform your air and provide a means to clean up your polluted oceans and continents. You can then come together and truly develop what peace and global cooperation can provide. In the wake of all this is the matter of disclosure. We are to give you even more reasons to cooperate and start to tear down those issues that have long divided you. The coming lessons of your Ascended Masters can give further examples for the importance of these various actions. Together, you are a team that can easily solve the many immediate problems that face you as a united people. You can then truly appreciate the past wonders of Lemuria and Atlantis.<br />
+<br />
+ Atlantis had at her core a number of beliefs that were ultimately to lead to her demise some 13 millennia ago. Nonetheless, there is some good amid all this darkness. You are children of both ancient societies and you are shortly to reunite with those who survived the destruction of Atlantis and learn many things that you do not presently comprehend. In addition, you will learn from the wisdom collected by Agartha.  <br />
+To Be Continued at:   <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRadio.com</a><br />
+<br />
+or LIKE US at:   <a href="/web/20141030082225/https://www.facebook.com/ashtarsheranr" target="_blank" class="txt1" rel="nofollow">https://www.facebook.com/ashtarsheranr</a>
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #3                                        <div class="fr">8 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        Hi dear Heart _<  LISTEN to Our Radio Show ANYTIME~ or in 33 minutes@:  <a href="/web/20141030082225/http://www.thegalacticfl.com/" target="_blank" class="txt1" rel="nofollow">www.TheGalacticFL.COM</a>    <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRadio.COM</a>   
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #2                                        <div class="fr">8 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        *Blessings~ ADD ME~ in Facebook at:  <a href="/web/20141030082225/https://www.facebook.com/ricki.roses" target="_blank" class="txt1" rel="nofollow">https://www.facebook.com/ricki.roses</a>  <br />
+<br />
+*Listen to latest Radio Sh0w at:  <a href="/web/20141030082225/http://www.galacticfl.com/" target="_blank" class="txt1" rel="nofollow">www.GalacticFL.com</a><br />
+<br />
+*Let me HELP YOU~ GO HIGHER~ Let's TALK on The Phone, Chat or Skype~ Select an Option to Connect at:  <a href="/web/20141030082225/http://www.werallone.com/" target="_blank" class="txt1" rel="nofollow">www.WeRaLLONe.com</a> <br />
+ <a href="/web/20141030082225/http://www.ashtarsheranradio.com/" target="_blank" class="txt1" rel="nofollow">www.AshtarSheranRadio.com</a><br />
+<br />
+*Follow me: <br />
+ <a href="/web/20141030082225/https://twitter.com/archangelrich" target="_blank" class="txt1" rel="nofollow">https://twitter.com/archangelrich</a><br />
+<br />
+ <a href="/web/20141030082225/http://www.linkedin.com/profile/view?id=228929929&amp;goback=.abp_5835656391959793664_" target="_blank" class="txt1" rel="nofollow">http://www.linkedin.com/profile/view?id=228929929&goback=.abp_5835656391959793664_</a>*1_*1_*1_*1_*1_*1_*1_*1_*1_*1&trk=NUS_JOBCHANGE_updtr&sl=NPU_JC;787e77cbaffd971ed853dab868f111b8;-1;activity:5835656391959793664;<br />
+<br />
+HELP ME~ HELP HUMANITY by Making Movies.<br />
+<br />
+DONATE ANY LIGHT & LOVE~ Thanks in advance. Namaste ~ 
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                        
+                        <div class="left_bx round5">
+                                <div class="section_head">
+                                        UPDATE #1                                        <div class="fr">10 MONTHS AGO</div>
+                                </div>
+
+                                <div class="update_content">
+
+                                        Blessings~ Radiant Heart! 
+                                        
+                                        <div class="shareopts mt30">
+                                                <a href="#" class="txt1 subscribeUpdates">Subscribe to Updates</a>
+                                                <a href="#" class="smdtn fr donateButton" style="float: right;"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_up" style="float: right;"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_up" style="float: right;"></a>
+                                        </div>
+                                </div>
+                        </div>
+                                </div>
+
+<!-- Page Message -->
+<div class="pg_msg ">
+        
+<p>I am your brother from another mother, Ashtar Richard Sheran @ your service!<br /><br />Spiritual Guide. Reiki master. Healer of all things in Faith &amp; in Divine heart &lt;3<br /><br />PLEASE HELP MY WORK! DONATE ANY Amount Here!<br /><br />Thanks in advance!<br /><br />I am another You = Namaste<br /><br /><br />I am Ashtar @ your service!<br /><br />===<br /><br /><br />Update from the Galactic Federation of Light &amp; Love on October 28, 2014 <br />Selamat Jalwa! (Be in Everlasting Joy!) We come to you feeling joyous! Events continue to move forward. The time comes to bring forth announcements accompanied by the beginnings of a global prosperity. Several nations dedicated to bringing you a new financial system are ready to make a series of vital announcements that are to change forever how your realm uses its many currencies. In addition, a number of up-to-now secret gold and silver depositories are ready to put your global economy back to a worldwide precious metal standard. These events are to cause a temporary deflation once the new currieries are in place. Global fair trade can begin in earnest. These changes are to set the way for new governance. The corrupt and one-sided policies of government are to cease as the globe returns to a general standard of cooperation and world peace. It is time to alter how your world is run and prepare each of you to become participants in how government operates. This is just the first step to your many new responsibilities.<br /><br />   The world, which is now envisioned by Heaven, is to become fully participatory. You are to be educated by your Ascended Masters and by the temporary leaders of your national and local governments in a number of new realities. Further, the law is to switch to common law and to a faithful following in the intent and wordings of your constitution. This process is to be both fruitful and confusing to many. This new epoch is to culminate in our arrival and your transformation into fully conscious Beings of Light. The present is therefore a critical time in this process. The globe is changing from a place run ruthlessly by a series of dark masters to one where you can freely and responsibly express yourselves. This new realm is one in which you need to better understand what is to be expected of you. Hence, it is necessary that a period of weeks and months be employed to assist you in this grand transfer of power from the dark to the Light and each one of you.<br /><br />   You are to be readied to become mature, able Beings of Light, who gladly accept all that is expected of you. This process, as we have stated, requires you to take on a great deal of new knowledge and learn how best to use it to carry out the marvel of your life contract. You are to be provided with the counseling you need to carry this out successfully. The universe is about success, joy and an honoring of who you are. Each success leads to another. You are to build up a quiet confidence and to understand how this process operates. These energies drive our numerous galactic societies. The degree of mutual love and respect constantly grows. We know how each individual works to provide for the greater One. This grand sacred collective encompasses all humans and all Beings of Light. Out of it comes a divine service, which aids the Divine in unfolding the divine plan for physicality. We are deeply dedicated to this, and come to return you to your true and natural state.<br /><br />   This shift in your consciousness is just the start. Your present state of limited consciousness dropped your body and mind frequencies to an extremely low level. Heaven has been gradually raising this over the last four decades. Yet you are still far below the minimums required. This is why you need to use a Crystal Light Chamber to regain full consciousness. Full consciousness makes you knowledgeable about Spirit and the infinite realms of Heaven. During your three days in this living marvel, you are to discover your origins and become privy to your previous life contacts. You are also to learn about your Soul family and why you initially migrated to this solar system. You are here as a special collective, to look after Gaia and her many sister worlds. Once this solar system is restored, you are to learn about the amazing diversity of life that exists not only on this world, but also on the other water worlds in this Solar System. Much lies ahead for you to learn and master!<br /><br />   Blessings! We are your Ascended Masters! We arrive with much good news! Our associates are now completing a number of projects which are to lead to the distribution of all funds. At present, the last emissaries of the dark are doing everything they can to block this vital, sacred process. This operation is not to be stopped. The Agarthans and our space family are busily intervening and turning back the heinous acts used by these emissaries to prevent the proper delivery of your blessings. Our main heavenly counsels are most pleased with how these events are going. These things are also to lead to new governance, accompanied by a new prosperity-oriented financial system. These coming events are to aid in a broad healing of Gaia and your various societies. What is next is for us to put together and then present a number of specific lessons on the new realities. These are to set the stage for a number of subsequent events.<br /><br />   These coming events are to feature a global disclosure of not only our blessed space family, but also a full disclosure of Inner Earth. These new realities require that you open your hearts and minds to an entirely new picture of your living home, Gaia. Inner Earth is home to Agartha and its capital of Shamballah. Many religious societies have long known of Agartha and how the Anunnaki and their Earthy minions hid these realities from all of surface humanity. Those avatars sent to you by the Agarthans paved the way for us to find a secure refuge in these most gracious lands. Once there, we discovered a land of blessed ones who deeply support our mission to you. To aid this mission, the Agarthans send special Beings to explore the realities of your realm and assist us when necessary. We are most grateful for their actions.<br /><br />   The time ahead is to be one of specific actions to prepare you for the start of a prosperous and Light-directed realm. This realm is to reconnect to its ancestors in Inner Earth and restore direct relations with your spiritual and space families. Remember, dear Hearts, the long dark night of the Soul is ending. Heaven tells you that a time approaches to return to full consciousness. This process is to be completed in a number of simple steps. The initial ones are currently under way. When these first steps are completed, you are to be judged ready for first contact. Daily, we practice special prayers and ceremonies directed to the swift successes of these initial steps. Here, we ask you to graciously focus your energies along with ours to achieve these divine successes for this realm. Let us all be free and prosperous in this realm! Hosanna! Hosanna! Hosanna!<br /><br />   Today, we continued our messages. Let this one lead to prayer and a grand focus by you so that this global collective of humanity be set free and achieve the resources to carry out its grand destiny. Know, dear Ones, that the countless Supply and never-ending Prosperity of Heaven are indeed yours! So Be It! Selamat Gajun! Selamat Ja! (Sirian for Be One! and Be in Joy!)<br /><br />Website: Planetary Activation Organization<br /><br />===<br /><br />SaLuSa, October 24, 2014Dear Ones, we hear the cries of those who are those who feel that they have been abandoned, and try hard to find a purpose in life. In the midst of the turmoil that is going on they are confused and unable to see a future for themselves. If only they could grasp the enormity of what is taking place they might see that major changes are underway. The New Age commenced earlier this year when the old energies started to withdraw to be replaced by the new ones coming in, meaning that for the time being they have both influenced your thinking. However, the new energies will replace the old and bring about advances and changes, that will clearly indicate the path Mankind is taking. It is realised that you are confused by events taking place, but if you stand back and take a good look at them you will see that things are changing for the better. Yes, conflicts are still taking place and peace on Earth seems miles away, yet already the futility of war is being realised. Beings with an understanding of how to bring about peaceful solutions are rising up, and their voices will be heard and taken notice of.<br /><br />Try to see beyond the present unrest on Earth and know that your future is assured. Many groups from the higher levels are supporting you and using their influence to bring about peace. They cannot enforce their help upon you but are ready to do so when you respond in the right manner. When you first entered the last Age you were given the freewill choice to grow in accordance with your choice of progress. You were however always given guidance when you turned to Higher Beings for help. But often ignored it to go your own way, and consequently you set yourselves upon a path of your own choosing. In accordance with the freewill given you proceeded to grow but instead of working towards becoming one with each other, preferred to go it alone. All along you have been given guidance but in the final reckoning it is you who have decided the direction that you followed. So as you look back at Man’s history you are looking at the outcome of your choices.<br /><br />Today, you face a much more acceptable situation, as the influences that have kept you in a virtual state of war no longer have the power to keep you in that state. All around you there is a movement growing for peace and change that will become so powerful, that nothing will be able to stop its progress. The New Age has begun and the more of you that focus on it the quicker it will come into being. Many advances in technology await that moment, and when it comes you will leap ahead at a rapid pace. You will then find peace at last and there will be a great coming together of the people. All needs will gradually be satisfied and with our help at a pace that will surprise you. So we ask you to not allow your faith to ebb away, and know that the future has been seen and you will be lifted up out of your present demise. The end has been decreed and no one can change it, and unlike previous Ages, this one will have a “happy ending”. The majority of you will see that changes in your life time, and already some of them are taking place now.<br /><br />We are as always looking after you and Mother Earth, as she also is greatly involved in the changes that shall eventually see a new Earth emerge. These are of course changes that will not happen overnight, but it is as well that you know what the future holds and be prepared. Earth has been the place where you have made the most progress in a relatively short space of time. In mentioning it I remind you that you have lived many lives in all manner of different circumstances, and you are helped by your Guides to choose those that have the most benefit for you. You now find yourselves reaping the benefit of such experience, and many of you have progressed to the point of no longer needing to incarnate again in the lower vibrations. No one chooses who is ready to leave them, and it is by automatic selection based upon the level you have attained. Rejoice and be of good cheer as your long journey is almost over, and keep firmly within the Light.<br /><br />The whole Universe waits for the Human Race to move on, and it is a far greater moment in your evolution than you can probably appreciate. There will be much joy following your Ascension, and old friends and associates from many incarnations will join in the celebrations. We of the Galactic Federation who have closely followed your adventures will at last be able to show ourselves and meet you on Earth. We have much to do together in the near future, and we shall help speed up your arrival into the higher dimensions and assist you to settle in. These are exciting times regardless of what is taking place on Earth, as the New Age is emerging quicker than ever before.<br /><br />What is being shown to you in these closing stages of the old Age is the extremes of those who still cannot release beliefs that are holding them back. Yet the simple answer is to recognise and acknowledge that all souls are One. In such circumstances what you do to another you also do to yourself, because you cannot be disassociated from anything that happens. The “Oneness” is complete and as a collective you determine the path that Humanity takes. The only exception is when powers greater than those on Earth decide to step in and decide your future. This has often occurred at the end of a cycle when it is brought to a close. However, it does not interfere with your freewill, which you exercise at all times. Naturally there are always influences that will attract you one way or the other, allowing you to make your freewill choice. As an individual you make your own choice as to the path you take, yet there are certain stipulations that apply depending upon your ultimate goal.<br /><br />I am SaLuSa from Sirius, and as time passes I note that more souls are beginning to expand their consciousness and the Light is ever expanding. There is a distinct division taking place as those who have chosen the path of Light lift up out of the darkness. It is inevitable that they will move ahead and eventually take their place in the higher vibrations.<br /><br />Thank you SaLuSa.<br /> Mike Quinsey<br /><br />===<br /><br /><br /><br />
+</p></div>
+<!-- END Page Message -->
+                
+
+        <div class="left_bx rw round5 mt20">
+                <div class="section_head">
+                        WISH LIST
+                        <a href="#" class="fr txt1 donateButton">Contribute any amount to the items below.</a>
+                </div>
+
+                <div class="wishlistcontainer inmessage">
+                                                        <a href="#" title="Choose this Item" class="wishlist wishlistna donateButton" data-wl="13582">
+                                        <div class="title">$111 Needed</div>
+                                        <img src="/web/20141030082225im_/https://funds.gofundme.com/index.php?route=imageproxy&amp;url=http%3A%2F%2Fc413245.r45.cf1.rackcdn.com%2F13582_8282_1343849429.6655.jpg" class="img">
+                                        <div class="description">UFO Ride~Your Pic!/Name Film Credit</div>
+                                </a>
+                                                        <a href="#" title="Choose this Item" class="wishlist wishlistna donateButton" data-wl="14130">
+                                        <div class="title">$1,000 Needed</div>
+                                        <img src="/web/20141030082225im_/https://6986bc316d242d271da8-bd3b92f3b5c76b0724783ea4cbff23d2.ssl.cf1.rackcdn.com/8282_1401819756.6946_wl.jpg" class="img">
+                                        <div class="description">10 Hours Help by Tel.Chat or SKYPE</div>
+                                </a>
+                                                        <a href="#" title="Choose this Item" class="wishlist wishlistna donateButton" data-wl="14131">
+                                        <div class="title">$1,000 Needed</div>
+                                        <img src="/web/20141030082225im_/https://6986bc316d242d271da8-bd3b92f3b5c76b0724783ea4cbff23d2.ssl.cf1.rackcdn.com/8282_1401819883.3031_wl.jpg" class="img">
+                                        <div class="description">10Hrs Help by Tel/Skype anywhere!!!</div>
+                                </a>
+                        <div style='clear:both'></div>                                <a href="#" title="Choose this Item" class="wishlist wishlistna donateButton" data-wl="14940">
+                                        <div class="title">$1,000 Needed</div>
+                                        <img src="/web/20141030082225im_/https://funds.gofundme.com/index.php?route=imageproxy&amp;url=http%3A%2F%2Fc413245.r45.cf1.rackcdn.com%2F14940_8282_1343849596.7525.jpg" class="img">
+                                        <div class="description">10 Hrs I AM ABSOLUTE HEALING COURSE</div>
+                                </a>
+                                                        <a href="#" title="Choose this Item" class="wishlist wishlistna donateButton" data-wl="19133">
+                                        <div class="title">$33 Needed</div>
+                                        <img src="/web/20141030082225im_/https://funds.gofundme.com/index.php?route=imageproxy&amp;url=http%3A%2F%2Fc413245.r45.cf1.rackcdn.com%2F8282_1347615771.5089_wl.jpg" class="img">
+                                        <div class="description">GFL TShirt, Includes Shipping in US</div>
+                                </a>
+                                                        <a href="#" title="Choose this Item" class="wishlist wishlistna donateButton" data-wl="19135">
+                                        <div class="title">$50 Needed</div>
+                                        <img src="/web/20141030082225im_/https://funds.gofundme.com/index.php?route=imageproxy&amp;url=http%3A%2F%2Fc413245.r45.cf1.rackcdn.com%2F8282_1347617876.6485_wl.jpg" class="img">
+                                        <div class="description">GFL TShirt, Incl Shipping GLOBAL</div>
+                                </a>
+                        <div style='clear:both'></div>                                <a href="#" title="Choose this Item" class="wishlist wishlistna donateButton" data-wl="109463">
+                                        <div class="title">$100 Needed</div>
+                                        <img src="/web/20141030082225im_/https://6986bc316d242d271da8-bd3b92f3b5c76b0724783ea4cbff23d2.ssl.cf1.rackcdn.com/8282_1384869276.3511_wl.jpg" class="img">
+                                        <div class="description">1 Minute Radio Advertising to 10K P</div>
+                                </a>
+                                                        <a href="#" title="Choose this Item" class="wishlist wishlistna donateButton" data-wl="109464">
+                                        <div class="title">$100 Needed</div>
+                                        <img src="/web/20141030082225im_/https://funds.gofundme.com/index.php?route=imageproxy&amp;url=http%3A%2F%2Ft1.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQ_WCURzKKcSAlAxd0r-vZOmeiS0s8K9i9D91cnMKBsQ7BTTP93Px0te0E" class="img">
+                                        <div class="description">eBlast to 10,000 ppl Local.US.World</div>
+                                </a>
+                                                        <a href="#" title="Choose this Item" class="wishlist wishlistna donateButton" data-wl="139236">
+                                        <div class="title">$10 Needed</div>
+                                        <img src="/web/20141030082225im_/https://6986bc316d242d271da8-bd3b92f3b5c76b0724783ea4cbff23d2.ssl.cf1.rackcdn.com/8282_1392660654.4237_wl.jpg" class="img">
+                                        <div class="description">WATCH NOW! CRAVE A TRUE STORY FILM</div>
+                                </a>
+                        <div style='clear:both'></div>                                <a href="#" title="Choose this Item" class="wishlist wishlistna donateButton" data-wl="139238">
+                                        <div class="title">$20 Needed</div>
+                                        <img src="/web/20141030082225im_/https://6986bc316d242d271da8-bd3b92f3b5c76b0724783ea4cbff23d2.ssl.cf1.rackcdn.com/8282_1392660822.9069_wl.jpg" class="img">
+                                        <div class="description">ATTEND Online or in Person@ CRAVE E</div>
+                                </a>
+                                                        <a href="#" title="Choose this Item" class="wishlist wishlistna donateButton" data-wl="184415">
+                                        <div class="title">$10,000 Needed</div>
+                                        <img src="/web/20141030082225im_/https://6986bc316d242d271da8-bd3b92f3b5c76b0724783ea4cbff23d2.ssl.cf1.rackcdn.com/8282_1401819715.5385_wl.jpg" class="img">
+                                        <div class="description">Make a Wish! then BELIEVE! :D in</div>
+                                </a>
+                                                <div style="clear: both;"></div>
+                </div>
+        </div>
+
+                
+
+                <!-- Second Share Bar -->
+<div id="bottom-share-bar" class="sharebar s2 mt30 round5">
+        <div class="big">4.4K</div>
+        <div class="biglbl">TOTAL<br> SHARES</div>
+        <a href="#" class="fbshare mt10 ml60 share-fb" data-pc="14_fb_p4"></a>
+        <div class="div2"></div>
+        <a href="#" class="twshare mt10 share-tw" data-pc="14_tw_3"></a>
+        <div class="div2"></div>
+        <a href="#" class="smdtn mt10 donateButton"></a>
+        <div class="dash mt10 mb20"></div>
+        <div class="pglink mb10">COPY, PASTE & SHARE:
+                <span class="txt1">http://www.gofundme.com/WeRaLLONe</span>
+        </div>
+</div>
+<!-- END Second Share Bar -->
+
+<!-- Page Utilities -->
+<a href="/web/20141030082225/http://www.gofundme.com/" class="left_bx util mt30 round5" style="font-size: 14px;">
+        <span class="whatis">What is GoFundMe?</span>Fundraising made easy >></a>
+<a href="#" class="left_bx util_btn mt30 round5 contact openContactLb">CONTACT</a>
+<a href="#" class="left_bx util_btn mt30 round5 link widgetLb">LINK</a>
+<a href="#" class="left_bx util_btn mt30 round5 poster printSignLb">POSTER</a>
+<a href="#" class="left_bx util_btn mt30 round5 report openContactLb">REPORT</a>
+<!-- END Page Utilities -->
+                <!-- Comment Block -->
+        <div class="left_bx round5" id="commentBox">
+                <div class="section_head">
+
+                        NO COMMENTS YET
+                </div>
+
+                <div class="dcomment fbcomgood fadeOutMessage"  style="display: none;"  id="commentPostedMessage">
+                        Thanks! Your comment has been posted.
+                </div>
+
+                <div class="dcomment fbcomdel fadeOutMessage"  style="display: none;"  id="commentRemovedMessage">
+                        Your comment has been removed.
+                </div>
+
+                <!-- If visitor isn't connected to facebook this is the only div shown in this section-->
+                <div class="dcomment fbcom"  id="leaveCommentBox">
+                        Please use Facebook to leave a comment below:
+                        <a href="#" class="fbcon mt20 mb20 doFbComment"></a>
+                        <span class="fbcom_sub"><u>Nothing</u> gets posted to your wall. Only your Facebook name & photo are used.</span>
+                </div>
+
+                <!-- comment block starts here if user is facebook connected already-->
+                <div class="dcomment start" style="display: none;" id="commentInputBox">
+                        <div class="dpic">
+                                <img class="fb-photo" src="">
+                        </div>
+                        <div class="comname">
+                                <span class="fb_name"></span> <span class="comname_det">(Not <span class="fb_first_name"></span>? <a href="#" class="txt1 commentFbLogout">Sign Out</a>) </span>
+
+                                <form action="/web/20141030082225/http://www.gofundme.com/mvc.php?route=donate/postcomment" method="post" id="commentForm">
+                                        <textarea class="com_input round5 mt10 blink blink-check" name="Comments[text]" title="Type your comment here..." id="commentTextBox" autocomplete="off">Type your comment here...</textarea>
+                                        <input type="hidden" name="FBLogin[uid]"/>
+                                        <input type="hidden" name="FBLogin[token]"/>
+                                        <input type="hidden" name="Comments[firstname]" class="fb_name_val"/>
+                                        <input type="hidden" name="Comments[fund_id]" value="8282"/>
+                                        <a href="#" class="sub mt10 submitComment"></a>
+                                </form>
+                        </div>
+                        <div style="clear: both;"></div>
+                </div>
+
+                
+                        </div>
+
+<!-- END Comment Block -->
+<script>
+        $(function(){
+                $('#commentTextBox').autosize({append: ''});
+        });
+
+        
+</script>
+        </div>
+
+        
+<!-- Right column of donate under created by -->
+<div class="donate_right">
+
+        <!-- Recent Donors-->
+        <div class="right_bx mt30 round5">
+
+                
+                        <div class="section_head">
+                                51 DONATIONS
+                                <a href="#" class="toggleoff txt1 donationToggle">RECENT</a>
+
+                                <div class="toggle" style="display: none;">
+
+                                        
+                                                <a href="#" class="txt1 donationToggle">RECENT</a>
+                                                <div class="togbk"></div>
+                                                <a href="#" class="txt1 donationsPage" data-index="0" data-type="highest">HIGHEST</a>
+
+                                        
+                                </div>
+
+                                <input id="donationSort" type="hidden" value="recent"/>
+                        </div>
+                                                        <div class="doner">
+
+                                        
+                                                                                        <div class="dpic">
+                                                        <img src="/web/20141030082225im_/http://graph.facebook.com/1151485528/picture?type=square&amp;height=100&amp;width=100">
+                                                </div>
+                                        
+                                        <div class="ddeat">
+
+
+                                                <div class="damt txt1"><span>$</span>22</div>
+
+                                                                                                        <div class="dname">Mazie Miles</div>
+                                                
+                                                <div class="dtime">7 days ago
+                                                                                                        </div>
+                                        </div>
+
+                                        
+
+                                        
+                                </div>
+
+                                                        <div class="doner">
+
+                                        
+                                        
+                                        <div class="ddeat">
+
+
+                                                <div class="damt txt1"><span>$</span>33</div>
+
+                                                                                                        <div class="dname">Anonymous</div>
+                                                
+                                                <div class="dtime">1 month ago
+                                                                                                        </div>
+                                        </div>
+
+                                        
+
+                                        
+                                </div>
+
+                                                        <div class="doner">
+
+                                        
+                                        
+                                        <div class="ddeat">
+
+
+                                                <div class="damt txt1"><span>$</span>11</div>
+
+                                                                                                        <div class="dname">Mazie Miles</div>
+                                                
+                                                <div class="dtime">2 months ago
+                                                                                                        </div>
+                                        </div>
+
+                                                                                        <div class="dcom">Thank you for your friendship!</div>
+                                        
+
+                                        
+                                </div>
+
+                                                        <div class="doner">
+
+                                        
+                                        
+                                        <div class="ddeat">
+
+
+                                                <div class="damt txt1"><span>$</span>55</div>
+
+                                                                                                        <div class="dname">Jarin Beard</div>
+                                                
+                                                <div class="dtime">3 months ago
+                                                                                                        </div>
+                                        </div>
+
+                                                                                        <div class="dcom">Love & Light 2 u my dear friend. Namaste~</div>
+                                        
+
+                                        
+                                </div>
+
+                                                        <div class="doner">
+
+                                        
+                                        
+                                        <div class="ddeat">
+
+
+                                                <div class="damt txt1"><span>$</span>11</div>
+
+                                                                                                        <div class="dname">Anonymous</div>
+                                                
+                                                <div class="dtime">4 months ago
+                                                                                                        </div>
+                                        </div>
+
+                                        
+
+                                        
+                                </div>
+
+                                                        <div class="doner">
+
+                                        
+                                        
+                                        <div class="ddeat">
+
+
+                                                <div class="damt txt1"><span>$</span>100</div>
+
+                                                                                                        <div class="dname">Desmorah Kye</div>
+                                                
+                                                <div class="dtime">4 months ago
+                                                                                                        </div>
+                                        </div>
+
+                                                                                        <div class="dcom">Love you Ashtar!</div>
+                                        
+
+                                        
+                                </div>
+
+                                                        <div class="doner">
+
+                                        <div class="rewbox round5 mb20">GFL TSHIRT, INCLUDES SHIPPI...</div>
+                                        
+                                        <div class="ddeat">
+
+
+                                                <div class="damt txt1"><span>$</span>27</div>
+
+                                                                                                        <div class="dname">Anonymous</div>
+                                                
+                                                <div class="dtime">5 months ago
+                                                                                                        </div>
+                                        </div>
+
+                                        
+
+                                        
+                                </div>
+
+                                                        <div class="doner">
+
+                                        
+                                        
+                                        <div class="ddeat">
+
+
+                                                <div class="damt txt1"><span>$</span>11</div>
+
+                                                                                                        <div class="dname">Anonymous</div>
+                                                
+                                                <div class="dtime">5 months ago
+                                                                                                        </div>
+                                        </div>
+
+                                        
+
+                                        
+                                </div>
+
+                                                        <div class="doner">
+
+                                        <div class="rewbox round5 mb20">10 HRS I AM ABSOLUTE HEALIN...</div>
+                                        
+                                        <div class="ddeat">
+
+
+                                                <div class="damt txt1"><span>$</span>1,000</div>
+
+                                                                                                        <div class="dname">Anonymous</div>
+                                                
+                                                <div class="dtime">6 months ago
+                                                                                                        </div>
+                                        </div>
+
+                                        
+
+                                        
+                                </div>
+
+                                                        <div class="doner">
+
+                                        
+                                        
+                                        <div class="ddeat">
+
+
+                                                <div class="damt txt1"><span>$</span>21</div>
+
+                                                                                                        <div class="dname">Anonymous</div>
+                                                
+                                                <div class="dtime">6 months ago
+                                                                                                        </div>
+                                        </div>
+
+                                        
+
+                                        
+                                </div>
+
+                        
+                        <div class="donerscroll">
+
+                                                                        <a class="lr pleft" href="#" style="visibility: hidden;"></a>
+                                
+                                                                        <a href="#" class="lr pright donationsPage" data-index="10"  title="Show the Next 10 Donations"></a>
+                                
+                                <span>1-10</span> of <span>51</span> donations                        </div>
+
+                
+        </div>
+        <!-- END Recent Donor-->
+
+        <!-- Right Column GFM Ad-->
+        <a href="/web/20141030082225/http://www.gofundme.com/" class="right_bx mt30 round5 gfm_ad"></a>
+
+</div><!-- END Right Column -->
+<div style="clear: both;"></div>
+        <div class="afooter">
+                <div class="aftxt mt30">Bring your <a href="/web/20141030082225/http://www.gofundme.com/fundraising-ideas/">fundraising ideas</a> to life with an <a href="/web/20141030082225/http://www.gofundme.com/">online donation website</a> from GoFundMe!</div>
+                <a href="/web/20141030082225/http://www.gofundme.com/" class="ogo"></a>
+        </div>
+
+</div><!-- END a-->
+
+
+        <!--Post FB Share Lightbox-->
+        <div class="lb_overlay lightbox-cover" style="display: none;"></div>
+        <div class="gfm_lb" id="follow_lb" style="display: none;">
+                <div class="gfm_lb_outter">
+                        <div class="gfm_lb_main">
+                                <div class="head">
+                                        <a href="#" class="close closeLightbox"></a>
+                                </div>
+                                <div class="dtxt mt30 txt1">
+                                        Subscribe to Updates?
+                                        <span class="dtxt2">Connect our Facebook app to follow this campaign.</span>
+                                </div>
+                                <div class="foot">
+                                        <a href="#" class="folcamp mt30 followContinue"></a>
+                                        <a href="#" class="clwinload mt30 followLoading" style="display: none;"></a>
+                                        <div class="never mt20">We will never post without your permission.</div>
+                                </div>
+                        </div>
+                </div>
+        </div>
+
+        <!--Post Follow no friends found lightbox-->
+        <div class="gfm_lb" id="follow_thankyou_lb" style="display: none;">
+                <div class="gfm_lb_outter">
+                        <div class="gfm_lb_main">
+                                <div class="head">
+                                        <a href="#" class="close closeLightbox"></a>
+                                </div>
+                                <div class="dtxt mt30 txt1">
+                                        Thank You
+                                        <span class="dtxt2">You’ll be notified of new updates posted to this campaign.</span>
+                                </div>
+                                <div class="foot">
+                                        <a href="#" class="clwin round5 btn1 small closeLightbox">Close Window</a>
+                                </div>
+                                <div style="clear: both;"></div>
+                        </div>
+                </div>
+        </div>
+
+        <!--Post Follow friends found lightbox-->
+        <div class="gfm_lb" id="follow_thankyou_lbfriends" style="display: none;">
+                <div class="gfm_lb_outter">
+                        <div class="gfm_lb_main">
+
+                                <div class="head">
+                                        <a href="#" class="close closeLightbox"></a>
+                                </div>
+
+                                <div class="dtxt mt30 txt1">
+                                        <span id="friendsFoundLabel">
+
+                                        </span>
+                                        <span class="dtxt2">Click below to see how your friends use GoFundMe...</span>
+                                </div>
+
+                                <div class="lbl1">
+                                        <div class="lbl2 mb30">
+
+                                                <div id="friend_pic_container">
+                                                </div>
+
+                                        </div>
+                                </div>
+
+                                <div style="clear: both;"></div>
+
+                                <div class="foot">
+                                        <a href="#" class="clwin load round5 btn1 small" id="id_lnk_fbf" target="_blank">View My Friends</a>
+                                </div>
+
+                                <div style="clear: both;"></div>
+                        </div>
+                </div>
+        </div>
+
+        <!-- Print Sign Lightbox -->
+        <div class="gfm_lb" id="print_sign_lb" style="display: none">
+                <div class="gfm_lb_outter">
+                        <div class="gfm_lb_main">
+
+                                <div class="head">
+                                        <a href="#" class="close closeLightbox"></a>
+                                </div>
+
+                                <div class="dtxt mt30 txt1">
+                                        Print a Campaign Sign
+                                        <span class="dtxt2">A campaign sign is perfect for the office or local businesses.</span>
+                                        <img class="campaignsign mb30" src="" id="printsign_img"/>
+                                </div>
+
+                                <div class="foot">
+                                        <a href="#" class="clwin round5 btn1 small printSignButton">Print Sign</a>
+                                </div>
+                                <div style="clear: both;"></div>
+                        </div>
+                </div>
+        </div>
+
+        <!-- Link and Widget Lightbox -->
+        <div class="gfm_lb" id="widget_lb" style="display: none;">
+                <div class="gfm_lb_outter">
+                        <div class="gfm_lb_main">
+
+                                <div class="head">
+                                        <a href="#" class="close closeLightbox"></a>
+                                </div>
+
+                                <div class="share_container mb30">
+                                        <div class=" mt30 txt1">
+                                                <span class="sharetxt">Copy, paste &amp; share this campaign link:</span>
+                                                <input type="text" class="campaign_link" readonly="readonly" value="http://www.gofundme.com/WeRaLLONe" >
+                                        </div>
+                                        <div class="sharebar mt10 mb30">
+                                                <a href="#" class="smdtn donateButton" style="float: right"></a>
+                                                <a href="#" class="twshare mr10 share-tw" data-pc="14_tw_wg" style="float: right"></a>
+                                                <a href="#" class="fbshare mr10 share-fb" data-pc="14_fb_wg" style="float: right"></a>
+                                        </div>
+                                        <span class="sharetxt">Or, embed the widget on another website:</span>
+                                        <textarea class="widgetcode" readonly="readonly" id="widgetCode"></textarea>
+
+                                        <iframe class="widgetpreview mt30" id="widgetPreviewIframe" src="" frameborder="0" style="height: 364px; overflow: hidden; width: 258px;border: none;margin-left: 38px;background: transparent;" allowtransparency="true"></iframe>
+
+                                </div>
+                                <div style="clear: both;"></div>
+
+                        </div>
+                </div>
+        </div>
+
+        <!-- Manage your campaign Lightbox -->
+        <div class="gfm_lb" id="userManageLb" style="display: none;">
+                <div class="gfm_lb_outter">
+                        <div class="gfm_lb_main">
+
+                                <div class="head">
+                                        <a href="#" class="close closeLightbox"></a>
+                                </div>
+
+                                <div class="dtxt mt30 txt1">
+                                        Hi                                         <span class="dtxt2">Manage your campaign using the options below. <br>Not ? <a href="/web/20141030082225/http://funds.gofundme.com/index.php?route=index/signout"> Sign Out</a></span>
+                                </div>
+
+                                <a href="/web/20141030082225/http://funds.gofundme.com/index.php?route=fundmanager&amp;postupdate=1&amp;url=WeRaLLONe" class="lrgbtn round5 mt40 txt1" target="_blank"> POST AN UPDATE <span class="l2">Share new information on your campaign.</span></a>
+                                <a href="/web/20141030082225/http://funds.gofundme.com/index.php?route=share2/facebook&amp;url=WeRaLLONe" class="lrgbtn round5 mt20 txt1" target="_blank"> SHARE YOUR CAMPAIGN <span class="l2">Invite friends &amp; contacts to support your cause.</span></a>
+                                <a href="/web/20141030082225/http://funds.gofundme.com/index.php?route=edit2/customize&amp;url=WeRaLLONe" class="lrgbtn round5 mt20 mb20 txt1" target="_blank"> EDIT YOUR CAMPAIGN <span class="l2">Easily make changes to your campaign at any time.</span></a>
+
+                                <div class="body mb30">
+                                        Ok, I got it. <a href="#" class="linkb userManageStopShow"> Don’t show me this again.</a>
+                                </div>
+                                <div style="clear: both;"></div>
+
+                        </div>
+                </div>
+        </div>
+
+        <!-- Charity How it works Lightbox -->
+        <div class="gfm_lb" id="charityHIWLightbox" style="display: none;">
+                <div class="gfm_lb_outter">
+                        <div class="gfm_lb_main">
+
+                                <div class="head">
+                                        <a href="#" class="close closeLightbox"></a>
+                                </div>
+
+                                <div class="dtxt mt30 txt1">
+                                        How it Works
+                                        <span class="dtxt2">Donations to ‘Certified Charity’ campaigns get<br> delivered directly to the charity listed.</span>
+                                </div>
+
+                                <div class="lrgbtn nolink round5 mt40 txt1"> 1) YOU MAKE A DONATION <span class="l2">Payments are processed by FirstGiving.</span></div>
+                                <div class="lrgbtn nolink round5 mt20 txt1"> 2) CHECKS ARE ISSUED <span class="l2">Once a month, a check will be sent to the charity.</span></div>
+                                <div class="lrgbtn nolink round5 mt20 mb40 txt1"> 3) CHARITY RECEIVES MONEY <span class="l2">The listed charity receives their check directly.</span></div>
+
+                                <div class="foot">
+                                        <a href="#" class="clwin round5 btn1 small closeLightbox">Ok</a>
+                                </div>
+                                <div style="clear: both;"></div>
+
+                        </div>
+                </div>
+        </div>
+
+        <div class="gfm_lb" id="campaignFinishedLightbox" style="display: none;">
+                <div class="gfm_lb_outter">
+                        <div class="gfm_lb_main">
+
+                                <div class="head">
+                                        <a href="#" class="close closeLightbox"></a>
+                                </div>
+
+                                <div class="dtxt mt30 txt1">
+
+                                                                                        Donations are Complete!
+                                        
+                                                                                        <span class="dtxt2">The organizer has stopped donations.</span>
+                                                                        </div>
+
+                                <div class="foot">
+                                        <a href="#" class="clwin round5 btn1 small closeLightbox">Close Window</a>
+
+                                </div>
+                                <div style="clear: both;"></div>
+
+
+                        </div>
+                </div>
+        </div>
+
+
+<div class="gfm_lb" style="display: none;" id="contactLb">
+        <div class="gfm_lb_outter">
+                <div class="gfm_lb_main">
+
+                        <div class="head">
+                                <a href="#" class="close closeContact"></a>
+                        </div>
+
+                        <div id="landingContact">
+                                <a href="#" class="lrgbtn round5 mt40 txt1 contactUser"> CONTACT THE ORGANIZER <span class="l2">Your question is about this campaign.</span></a>
+                                <a href="/web/20141030082225/http://www.gofundme.com/contact?t=donation_page_question&amp;url=WeRaLLONe" target="_blank" class="lrgbtn round5 mt20 txt1"> ASK GOFUNDME A QUESTION <span class="l2">Get a 5-minute response from our support team.</span></a>
+                                <a href="/web/20141030082225/http://www.gofundme.com/contact?t=donation_page_report&amp;url=WeRaLLONe" target="_blank" class="lrgbtn round5 mt20 mb40 txt1"> REPORT FOR FRAUD <span class="l2">You know this campaign is breaking the law.</span></a>
+                        </div>
+
+                        <div id="contactLbForm" style="display: none;">
+
+                                <div class="con round5 mt20">
+                                        <div class="dpic">
+                                                <img src="/web/20141030082225im_/https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/HsTZSDw4avx.gif">
+                                        </div>
+
+                                        <div class="con_to">You're sending a message to...</div>
+                                        <div class="con_name">World-Galactic Rich</div>
+
+                                                                                        <div class="con_fb">2120 Friends</div>
+                                        
+                                        <div style="clear:both;"></div>
+                                </div>
+
+                                <div class="body">
+                                        <div class="su_form">
+                                                <form action="/web/20141030082225/http://www.gofundme.com/mvc.php?route=donate/postcontact&amp;url=WeRaLLONe" data-error="signupsubmiterror" id="contactForm">
+                                                        <div class="label label_firstname label_lastname">Your Real Name</div>
+                                                        <input type="text" class="field short help_txt blink blink-check" data-blinkunfocus="help_txt" value="First Name" title="First Name" name="Contact[firstname]" id="input_firstname" autocomplete="off">
+                                                        <input type="text" class="field short help_txt fr blink blink-check" data-blinkunfocus="help_txt" value="Last Name" title="Last Name" name="Contact[lastname]" id="input_lastname" autocomplete="off">
+
+                                                        <div class="label label_email">Your Email Address <span>(one that you check often)</span></div>
+                                                        <input class="field" type="text" name="Contact[email]" id="input_email" autocomplete="off">
+
+                                                        <div class="label label_message">Your message</div>
+                                                        <textarea class="field" style="min-height: 70px;" name="Contact[message]" id="input_message" autocomplete="off"></textarea>
+
+                                                        <div class="label label_captcha">Enter the letters you see on the right...</div>
+                                                        <input class="field short mb7" name="Contact[captcha]" id="input_captcha" autocomplete="off">
+
+                                                        <input name="Users[browser]" class="client-browser autofill_browser" type="hidden">
+                                                        <input name="Users[os]" class="client-os autofill_os" type="hidden">
+                                                        <input type="hidden" name="Contact[type]" id="contact_type_value" value="owner">
+
+                            <span class="capt">
+                                <!-- Add Captcha Here -->
+                            <img class="contact_captcha" src="/web/20141030082225im_/http://funds.gofundme.com/img/loading.gif" style="margin-top: -8px"/>
+                            </span>
+                                                </form>
+                                        </div>
+                                        Here by mistake? <a href="#" class="linkb backToLanding">Go Back</a>
+                                </div>
+                                <div style="clear: both;"></div>
+
+                                <div class="foot mt20">
+                                        <a href="#" class="clwin round5 btn1 small is_notloading" id="contactLbSend">Send</a>
+                                        <a href="#" class="clwinload mt30 followLoading is_loading" style="display: none;"></a>
+                                </div>
+                                <div style="clear: both;"></div>
+
+
+                        </div>
+
+                        <div id="contactThankYou" style="display: none;">
+                                <div class="dtxt mt30 txt1">
+                                        Thank You
+                                        <span class="dtxt2">Your message has been sent</span>
+                                </div>
+
+                                <div class="foot">
+                                        <a href="#" class="clwin round5 btn1 small closeContact">Close Window</a>
+
+                                </div>
+                                <div style="clear: both;"></div>
+                        </div>
+                </div>
+        </div>
+</div>
+
+<script>
+        $(function(){
+                $(".openContactLb").click(function(){
+                        $("#landingContact").show();
+                        $("#contactLbForm, #contactThankYou, .gfm_lb").hide();
+                        $("#contactLb").showAsLightbox(true);
+                        return false;
+                });
+
+                $(".closeContact").click(function(){
+                        $("#contactLb").closeLightbox();
+                        return false;
+                });
+
+                $(".contactUser").click(function(){
+                                                var captcha_image = '//www.gofundme.com/mvc.php?route=controls/securimageshow&sid=' + Math.random();
+                        $('.contact_captcha').attr('src', captcha_image);
+                        
+                        $("#landingContact").slideUp();
+                        $("#contactLbForm").slideDown();
+                        return false;
+                });
+
+                $(".backToLanding").click(function(){
+                        $("#landingContact").slideDown();
+                        $("#contactLbForm").slideUp();
+                        return false;
+                });
+
+                $("#contactLbSend").click(function(){
+                        fns.handlers.submit($("#contactForm"));
+                        return false;
+                });
+        });
+
+        function contactsent(){
+                $("#contactLb").scrollTo();
+                $("#contactThankYou").slideDown();
+                $("#contactLbForm").slideUp();
+                $(".error").removeClass("error");
+                $("input, textarea").val("");
+        }
+
+        fns.errors.signupsubmiterror = function(error,form){
+                werror=error;
+                wform = form;
+
+                $(".error").removeClass("error");
+                $('#input_'+error.field).addClass("error");
+                $('.label_'+error.field).addClass("error").scrollTo();
+
+                if (error.field == "captcha"){
+                        $('.contact_captcha').attr('src','/mvc.php?route=controls/securimageshow&sid=' + Math.random());
+                }
+        }
+</script><div class="gfm_lb" id="lb_notready" style="display:none;">
+        <div class="gfm_lb_outter">
+                <div class="gfm_lb_main">
+                        <div class="head">
+                                <a href="#" onclick="return closeNotReadyLB();" class="close"></a>
+                        </div>
+                        <div class="dtxt mt30 txt1">
+                                <span class="longtitle">This campaign is not ready to accept donations.</span>
+                                <span class="dtxt2">Please <a href="/web/20141030082225/http://www.gofundme.com/contact">contact support</a> with any questions.</span>
+                        </div>
+                        <div class="foot">
+                                <a href="#" onclick="return closeNotReadyLB();" class="clwin round5 btn1 small">Close Window</a>
+                        </div>
+                        <div style="clear: both;"></div>
+                </div>
+        </div>
+</div>
+<script type="text/javascript">
+        function showNotReadyLB(){
+                $('#lb_notready').showAsLightbox();
+        }
+
+        function closeNotReadyLB(){
+                $('#lb_notready').closeLightbox();
+                return false;
+        }
+</script>
+<input type="hidden" id="hidden_username" value="World-Galactic+Rich"/>
+<input type="hidden" id="hidden_fund_id" value="8282"/>
+<input type="hidden" id="hidden_fund_url" value="http%3A%2F%2Fwww.gofundme.com%2FWeRaLLONe"/>
+<input type="hidden" id="hidden_fund_min_url" value="http%3A%2F%2Fgofund.me%2FWeRaLLONe"/>
+<input type="hidden" id="hidden_fundname" value="HELP+US+MAKE+FILM%21+www.WeRaLLONe.com"/>
+<input type="hidden" id="hidden_templateid" value="3" />
+<input type="hidden" name="url" value="WeRaLLONe" id="fundUrl" />
+
+<script type="text/javascript" src="/web/20141030082225js_/http://funds.gofundme.com/js/3.0/facebook.js?v=11.8"></script>
+<script type="text/javascript" src="/web/20141030082225js_/http://funds.gofundme.com/js/3.0/GFM/follower.js?v=11.8"></script>
+
+<script>
+$('.donateButton').click(function () {
+                var url = "/web/20141030082225/https://www.gofundme.com/WeRaLLONe/donate";
+        if ($(this).data("wl") !== undefined) {
+                url += "&wl=" + $(this).data("wl");
+        } else if ($(this).data("amt") !== undefined) {
+                url += "&amt=" + $(this).data("amt");
+        }
+        try {
+                window.top.location.href = url;
+        } catch (e) {
+                location.href = url;
+        }
+        
+        return false;
+});
+
+$('.share-fb').click(function() {
+        $(".followContinue").show();
+        $('.followLoading').hide();
+        try              { GFM.Follower.post2feed.apply($(this)); }
+        catch (notready) { setTimeout(function() {GFM.Follower.post2feed.apply($(this))}, 1000); }
+        return false;
+});
+
+$(".closeLightbox").click(function(){
+        $(".gfm_lb:visible").closeLightbox();
+        return false;
+});
+
+//$(".gfm_lb").click(function(e){
+//        if(e.target === this){
+//                $(".gfm_lb:visible").closeLightbox();
+//                return false;
+//        }
+//});
+
+$('.followContinue').click(function() {
+        $(this).hide();
+        $(".subscribeUpdates").html("&nbsp;");
+        $('.followLoading').show();
+        GFM.Follower.fbconnect('id_share_btn');
+        return false;
+});
+
+function showDonationsStoppedLB(){
+        $('#campaignFinishedLightbox').showAsLightbox(true);
+}
+
+function showFbFriendsLb(x){
+        if (x.friend_count==1)
+                $('#friendsFoundLabel').html(x.friend_count+" Friend Found!");
+        else
+                $('#friendsFoundLabel').html(x.friend_count+" Friends Found!");
+
+        var buf = "",
+            flen = x.friends.length;
+
+        for (var i=0; i<flen; i++) {
+                if(i>4) break;
+                var curr = x.friends[i];
+
+                buf += "<div class='dpic2 mr20'>";
+                buf += '<a href="'+x.fbfurl+'" target="_blank"><img src="'+curr.picurl+'" title="'+curr.fbname+'"/></a>';
+                buf += "</div>";
+
+        }
+        $('#friend_pic_container').html(buf);
+        $('#friend_pic_container .dpic2').last().removeClass("mr20");
+        $('#id_lnk_fbf').attr('href', x.fbfurl);
+        $('#follow_lb').hide();
+        $('#follow_thankyou_lbfriends').showAsLightbox();
+}
+
+$('.share-tw').click(function () {
+        window_open('/web/20141030082225/https://twitter.com/intent/tweet?text='+ $('#hidden_fundname').val() +
+            '&url='+encodeURIComponent(decodeURIComponent($('#hidden_fund_min_url').val())+"?pc="+$(this).attr('data-pc'))+
+            '&via=gofundme'
+        );
+        return false;
+});
+
+function window_open(url)
+{
+        var width= 626;
+        var height=436;
+
+        var leftPosition, topPosition;
+        leftPosition = (window.screen.width / 2) - ((width / 2) + 10);
+        topPosition = (window.screen.height / 2) - ((height / 2) + 50);
+
+        var windowFeatures = "status=no,height=" + height + ",width=" + width + ",resizable=yes,left=" + leftPosition + ",top=" + topPosition + ",screenX=" + leftPosition + ",screenY=" + topPosition + ",toolbar=no,menubar=no,scrollbars=no,location=no,directories=no";
+        var social_w = window.open(url,'_blank', windowFeatures);
+
+        if(social_w)
+                social_w.focus();
+
+        return false;
+}
+
+var $a= $(".a");
+
+$a.on("click",".donationsPage",function(){
+        var type = ($(this).data("type") !== undefined ? $(this).data("type") : $("#donationSort").val()),
+            index = $(this).data("index");
+
+        $.ajax({url: '//www.gofundme.com/mvc.php?route=donate/pagingdonationsb&url=werallone&idx='+index+"&type="+type,
+                async: true,
+                type:"GET",
+                success: function(data)
+                {
+                        $('.donate_right').replaceWith(data);
+                        $('.donate_right').scrollTo();
+                }
+        });
+
+        return false;
+});
+
+$a.on("click",".donationToggle",function(){
+        $(".toggleoff,.toggle").toggle();
+        return false;
+});
+
+$a.on("click",".commentPaging",function(){
+        var index = $(this).data("index");
+
+        $.ajax({url: '//www.gofundme.com/mvc.php?route=donate/pagingcomments14&url=werallone&idx='+index,
+                async: true,
+                type:"GET",
+                success: function(data)
+                {
+                        $('#commentBox').replaceWith(data);
+                        $('#commentBox').scrollTo();
+                        checkComment();
+                }
+        });
+
+        return false;
+});
+
+$a.on("click",".doFbComment",function(){
+        GFM.facebook.fbAssoc(false,true,function(){
+                //change classes on the different states and slide down up instead of show hide
+                $("#leaveCommentBox").slideUp();
+                $("#commentInputBox").slideDown();
+        });
+        return false;
+});
+
+$a.on("click",".commentFbLogout",function(){
+        GFM.facebook.logOut(function(){
+                $("#commentInputBox").slideUp();
+                $("#leaveCommentBox").slideDown();
+        });
+        return false;
+});
+
+$a.on("click",".submitComment",function(){
+        fns.handlers.submit($("#commentForm"));
+        return false;
+});
+
+//callback on successfull comment
+function makecomment(cid)
+{
+        $.ajax({url: '//www.gofundme.com/mvc.php?route=donate/singlecomment&cid='+cid,
+                async: true,
+                type:"GET",
+                success: function(data)
+                {
+                        var $new = $(data);
+
+                        $new.hide();
+                        var numPrevComments = $(".singlecomment").length;
+                        if( numPrevComments > 0 ){
+                            $(".singleComment").first().before($new);
+                            $('#commentBox .section_head').html( "" + (numPrevComments+1) + " COMMENTS" );
+                        }else{//this is the first comment
+                            $("#commentInputBox").after($new);
+                            $('#commentBox .section_head').html("1 COMMENT");
+                        }
+
+                        $("#commentInputBox").fadeOut(function(){
+                            $new.slideDown();
+                            $("#commentPostedMessage").slideDown();
+                        });
+                        $("#commentTextBox").val("");
+
+                        setTimeout(function(){
+                                $(".fadeOutMessage:visible").slideUp(function(){
+                                    $("#commentInputBox").slideDown();
+                                });
+
+                        },3000);
+
+                        $(".comname_det span").each(function(){
+                                if(!$(this).hasClass("fb_first_name")) $(this).hide()
+                        });
+                        checkComment();
+                }
+        });
+}
+
+function checkComment(){
+        if($.cookie("enc_c") !== undefined){
+                $.ajax({
+                        url: "//www.gofundme.com/mvc.php?route=donate/commentcheck&url=werallone&encc="+ $.cookie("enc_c"),
+                        async: true,
+                        success: function(data){
+                                if(data != ""){
+                                        $("#commentId_"+data).show();
+                                }
+                        }
+                });
+        }
+}
+
+setTimeout(checkComment,100);
+
+$a.on("click",".deleteCommentToggle",function(){
+        var cId = $(this).data("id");
+        $("#commentId_"+cId).toggle();
+        $("#cConfirmId_"+cId).toggle();
+        return false;
+});
+
+$a.on("click",".confirmDeleteComment",function(){
+        var cId = $(this).data('id');
+        var $that = $(this);
+        $.ajax({
+                url: "//www.gofundme.com/mvc.php?route=donate/commentdelete&url=werallone&cid="+cId,
+                async: true,
+                success: function(data){
+                        $that.closest(".dcomment").slideUp();
+
+                        $("#commentInputBox,#leaveCommentBox").slideUp();
+                        $("#commentRemovedMessage").slideDown();
+
+                        setTimeout(function(){
+                                $(".fadeOutMessage").slideUp();
+                                $("#leaveCommentBox").slideDown();
+                        },3000);
+                }
+        });
+        return false;
+});
+
+$(".showAllUpdates").click(function(){
+        $("#allUpdates").show().children().first().scrollTo();
+        $(this).hide();
+        return false;
+});
+
+$(".subscribeUpdates").click(function(){
+        $(".followContinue").show();
+        $('.followLoading').hide();
+        $('#follow_lb').showAsLightbox(true);
+        return false;
+});
+
+$(".printSignLb").click(function(){
+        var $printImg = $('#printsign_img');
+
+        if ($printImg.attr('src') == "" ){
+                $printImg.attr('src','/web/20141030082225/http://funds.gofundme.com/index.php?route=printmedia/donationposter&url=WeRaLLONe&r=8229');
+        }
+
+        $('#print_sign_lb').showAsLightbox(true);
+        return false;
+});
+
+
+$(".printSignButton").click(function(){
+        var defaultParams = {
+                "width":       "800",   // Window width
+                "height":      "1010",   // Window height
+                "directories": "no",    // Show directories/Links bar?
+                "location":    "no",    // Show location/address bar?
+                "resizeable":  "yes",   // Make the window resizable?
+                "menubar":     "no",    // Show the menu bar?
+                "toolbar":     "no",    // Show the tool (Back button etc.) bar?
+                "scrollbars":  "yes",   // Show scrollbars?
+                "status":      "no"     // Show the status bar?
+        };
+
+        var w = window.open("/web/20141030082225/http://funds.gofundme.com/index.php?route=printmedia/donationposter&print=1&url=WeRaLLONe&r=2165", "printable", defaultParams);
+        $('#print_sign_lb').closeLightbox();
+        return false;
+});
+
+$(".charityLightbox").click(function(){
+        $("#charityHIWLightbox").showAsLightbox(true);
+        return false;
+});
+
+function getWidgetEmbedCode(){
+
+        var url = $('#fundUrl').val(),
+            template_id = $('#hidden_templateid').val();
+
+        return '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="258" height="338" title="Click Here to donate!" type="application/x-shockwave-flash">'
+            + '<param name="movie" value="//funds.gofundme.com/Widgetflex.swf" />'
+            + '<param name="quality" value="high" />'
+            + '<param name="flashvars" value="page='+url+'&template='+template_id+'" />'
+            + '<param name="wmode" value="transparent" />'
+            + '<embed allowScriptAccess="always" src="//funds.gofundme.com/Widgetflex.swf" quality="high" flashVars="page='+url+'&template='+template_id+'" type="application/x-shockwave-flash" wmode="transparent" width="258" height="338"></embed>'
+            + '</object>';
+
+}
+
+
+function getWidgetSourceUrl(){
+        var url = $('#fundUrl').val().replace('/','');
+
+        return url2="/web/20141030082225/http://funds.gofundme.com/index.php?route=widgets/typeb"+
+            "&url="+url+"&c=0&t="+$('#hidden_templateid').val();
+}
+
+function getParameterByName(name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+        return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+
+$(".widgetLb").click(function(){
+        $("#widgetCode").val(getWidgetEmbedCode());
+        $("#widgetPreviewIframe").attr("src",getWidgetSourceUrl() + "&iframe=1");
+
+        $("#widget_lb").showAsLightbox(true);
+        return false;
+});
+
+
+$(function(){
+        if(getParameterByName('notready') == 1){
+                showNotReadyLB();
+        }else if(getParameterByName('stop') == 1){
+                showDonationsStoppedLB();
+        }
+});
+
+$(".hidePartnerBar").click(function(){
+        $("#partnerBar").hide();
+        return false;
+});
+
+// refresh social counts
+$(function() {
+        
+        var top_bar = $('#top-share-bar');
+        var bottom_bar = $('#bottom-share-bar');
+
+        var counts = {
+                fb: top_bar.data('facebook_count'),
+                fb_pre: top_bar.data('facebook_pre'),
+                tw: top_bar.data('twitter_count'),
+                total: top_bar.data('total_shares')
+        };
+
+        var getFacebookCount = function(url, successFunc) {
+                $.getJSON('/web/20141030082225/https://api.facebook.com/method/fql.query?query=select%20total_count%20from%20link_stat%20where%20url=%27'+url+'%27&format=json', successFunc);
+        };
+
+        var saveSocial = function(t, c) {
+                $.ajax({
+                        dataType: 'json',
+                        contentType: 'application/json',
+                        url: "/mvc.php?route=donate/reset&t="+t+"&c="+c+"&u="+$('#hidden_fund_url').val()
+                });
+        };
+
+        var setSocialCount = function(type, count) {
+                var type_class = 'share-' + type;
+                var count_div = top_bar.find('.' + type_class).next();
+                var top_counts_div = top_bar.find('.big');
+                var bottom_counts_div = bottom_bar.find('.big');
+
+                count = isNaN(parseInt(count)) ? 0 : count;
+
+                if (count > 0){
+                        counts.total = counts.total + (count - counts[type]);
+                        counts[type] = count;
+
+                        if(type == 'fb') {
+                                counts.total += counts.fb_pre;
+                                counts.fb += counts.fb_pre;
+                        }
+
+                        count_div.text(prettyNumbers(counts.fb));
+                        top_counts_div.text(prettyNumbers(counts.total));
+                        bottom_counts_div.text(top_counts_div.text());
+
+                        saveSocial(type, count);
+                }
+        };
+
+        var prettyNumbers = function(x) {
+                if(x >= 1000000)
+                        return (Math.floor(x/100000)).toFixed(1)/10 + 'M';
+
+                if(x >= 10000)
+                        return Math.floor(x/1000) + 'K';
+
+                if(x >= 1000)
+                        return(Math.floor(x/100)).toFixed(1)/10 + 'K';
+
+                return x;
+        };
+
+        // should refresh
+        if(top_bar.hasClass('refresh-counts')) {
+                getFacebookCount($('#hidden_fund_url').val(), function(data) {
+                        var total = data[0].total_count;
+                        if(total < 0 || total == null) {
+                                total = 0;
+                        }
+
+                        setSocialCount('fb', total);
+                });
+        }
+        $('.youtube-replace').css('height','335px').css('width','595px');
+});
+
+
+</script>
+
+
+<!-- Begin Footer -->
+<div class="footbase">
+        <div class="footmain">
+                <div class="footsec footfeatured">
+
+                        <a href="/web/20141030082225/http://www.gofundme.com/press/" class="footnews"></a>
+                </div>
+                <div class="footdiv"></div>
+
+                <div class="footsec footlinks">
+                        <div class="linkbox" style="width: 188px;">
+                                <span class="txt1">GET STARTED</span>
+                                <a href="/web/20141030082225/http://www.gofundme.com/tour/" class="mt_10">How it Works</a>
+                                <a href="/web/20141030082225/http://www.gofundme.com/success/" >Success Stories</a>
+                                <a href="/web/20141030082225/http://www.gofundme.com/questions/">Common Questions</a>
+                                <a href="/web/20141030082225/http://www.gofundme.com/contact?t=donation_page_question&amp;url=WeRaLLONe">Ask a Question</a>
+                                <a href="/web/20141030082225/http://funds.gofundme.com/index.php?route=edit2/customize&amp;start=1">Sign Up Now</a>
+                        </div>
+
+                        <div class="linkbox" style="width: 199px;">
+                                <span class="txt1">LEARN MORE</span>
+                                <a href="/web/20141030082225/http://www.gofundme.com/tour" class="mt_10">Watch the Video</a>                                <a href="/web/20141030082225/http://www.gofundme.com/press/">GoFundMe Reviews</a>
+                                <a href="/web/20141030082225/http://www.gofundme.com/pricing/">Pricing & Fees</a>
+                                <a href="/web/20141030082225/http://www.gofundme.com/fundraising-ideas/">Fundraising Ideas</a>
+                                <a href="/web/20141030082225/http://www.gofundme.com/jobs/">We're Hiring!</a>
+                        </div>
+
+                        <div class="linkbox" style="width: 212px;">
+                                <span class="txt1">MAJOR EVENTS</span>
+                                <a href="/web/20141030082225/http://www.gofundme.com/Philippine-Typhoon-Relief-2013/" class="mt_10" >Philippine Typhoon</a>
+                                <a href="/web/20141030082225/http://www.gofundme.com/Colorado-Flood-Recovery">Colorado Flooding</a>
+                                <a href="/web/20141030082225/http://www.gofundme.com/OK">Oklahoma Tornadoes</a>
+                                <a href="/web/20141030082225/http://www.gofundme.com/BelieveinBoston">Believe in Boston</a>
+                                <a href="/web/20141030082225/http://www.gofundme.com/national-news">All Special Categories</a>
+                        </div>
+
+                        <div class="linkbox" style="width: 175px;">
+                                <span class="txt1">CONNECT WITH US</span>
+                                <a href="/web/20141030082225/http://www.gofundme.com/contact?t=donation_page_question&amp;url=WeRaLLONe" class="mt_10">Ask a Question</a>
+                                <a href="/web/20141030082225/http://www.gofundme.com/questions/">Common Questions</a>
+                                <a href="/web/20141030082225/http://support.gofundme.com/home">Help Center</a>
+                                <a href="/web/20141030082225/http://www.gofundme.com/team/">Meet the Team</a>
+                                <a href="/web/20141030082225/http://www.gofundme.com/media/">Media Center</a>
+                        </div>
+
+                        <a href="/web/20141030082225/http://www.gofundme.com/contact?t=donation_page_question&amp;url=WeRaLLONe" class="ft5"></a>
+                </div>
+
+                <div class="footdiv"></div>
+
+                <a href="/web/20141030082225/https://gofundme.zendesk.com/entries/22590777-Is-my-country-supported-" class="footcntry">Supported Currencies</a>
+
+                <!-- Facebook -->
+                <div class="footsocial" style="width: 100px; height: 19px; margin-left: 10px;">
+                        <iframe src="/web/20141030082225if_/http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.gofundme.com&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;margin-bottom: 10px;" allowTransparency="true"></iframe>
+                </div><!-- End Facebook -->
+
+                <!-- Twitter -->
+                <div class="footsocial">
+                        <a href="/web/20141030082225/https://twitter.com/gofundme" class="twitter-follow-button" data-show-count="false" >Follow @gofundme</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                </div><!-- End Twitter-->
+                <div class="cl"></div>
+
+                <div class="footdiv"></div>
+
+                <div class="footcopy">
+
+                        <a class="mr10" href="/web/20141030082225/http://www.gofundme.com/blog/">Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="/web/20141030082225/http://www.gofundme.com/privacy/">Privacy Policy </a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&copy; 2010 - 2014 GoFundMe
+                </div>
+        </div>
+</div>
+
+<!-- End Footer -->
+<script>
+
+        $(document).ready(function(){
+
+
+                //SIGN UP MOD
+                $('body').click(function() {
+                        $('.currency-select-div').hide();
+
+                });
+                $('.currency-select').click(function() {
+                        $('.currency-select-div').show();
+                        return false;
+                });
+
+                $('.currency-item').click(function() {
+                        $('.currency-select-div').hide();
+                        $('.currency-select').text($(this).text());
+                        $('.currency-mark').val($(this).attr('mark'));
+                        $('.currency-select').removeClass('c_usd c_gbp c_cad c_aud c_eur');
+                        $('.currency-select').addClass('c_'+$(this).text().toLowerCase());
+                        $('#currencyfield').val($(this).text());
+
+
+
+                        return false;
+                });
+                $('.pricefield-2').click(function () {
+                        setTimeout(function () {
+                                $('.pricefield-1').focus();
+                        }, 100);
+                        return false;
+                });
+                $('.pricefield-2').focusin(function () {
+                        setTimeout(function () {
+                                $('.pricefield-1').focus();
+                        }, 100);
+                        return false;
+                });
+
+                $('.signupmod-link').click(function () {
+                        $('form.signup-mod-form').eq(0).submit();
+                        return false;
+                });
+
+/*
+
+                //SEARHC MOD
+                $('.search-top').click(function() {
+
+                        if($('.search-term-top').val()==$('.search-term-top').attr('title'))
+                                return false;
+
+                        top.location='//www.gofundme.com/mvc.php?route=&term='+$('.search-term-top').val();
+                        return false;
+                });
+
+                $('.search-term-top').keypress( function(event) {
+                        if (event.keyCode == 13)
+                        {
+                                if($('.search-term-top').val()==$('.search-term-top').attr('title'))
+                                        return false;
+
+                                top.location='//www.gofundme.com/mvc.php?route=&term='+$('.search-term-top').val();
+
+                                return false;
+                        }
+                });
+
+                $('.search-left').click(function() {
+                        var searchVal = $('.search-term-left').val();
+
+                        if(searchVal==$('.search-term-left').attr('title') || searchVal == "")
+                                return false;
+
+                        var destination = '//www.gofundme.com/mvc.php?route=';
+
+                        var searchTerm = $("#subsearchTerm").val();
+
+                        if(searchTerm !== undefined && !isPotentialPostalCode(searchVal)){
+                                searchTerm += " AND " + val;
+                        }else{
+                                searchTerm = val;
+                        }
+
+
+
+                        if ($('.search_location_zip_filter').length > 0){
+                                destination +="&addterm="+encodeURIComponent(searchTerm)
+                                    +"&term="+$('.search_location_zip_filter').val()
+                                    +"&country="+$('.search_location_country_filter').val();
+                        }else if ($('.search_partner_filter').length > 0) {
+                                destination ="//www.gofundme.com/partner/"+$('.search_partner_filter').val()+"?term="+encodeURIComponent(searchTerm);
+                        }else if ($('.search_category_filter').length > 0){
+                                destination ="//www.gofundme.com/"+$('.search_category_filter').val()+"?term="+encodeURIComponent(searchTerm);
+                        }else{
+                                destination +="&term="+encodeURIComponent(searchTerm);
+                        }
+
+                        top.location=destination;
+                        return false;
+                });
+
+                $('.search-term-left').keypress( function(event) {
+                        if (event.keyCode == 13)
+                        {
+                                $('.search-left').click();
+                                return false;
+                        }
+                });
+
+                $('.search-main').click(function() {
+
+
+                        if($('.search-term-main').val()==$('.search-term-main').attr('title'))
+                                return false;
+
+                        top.location='//www.gofundme.com/mvc.php?route=&term='+$('.search-term-main').val();
+                        return false;
+                });
+
+                $('.search-term-main').keypress( function(event) {
+                        if (event.keyCode == 13)
+                        {
+                                if($('.search-term-main').val()==$('.search-term-main').attr('title'))
+                                        return false;
+
+                                top.location='//www.gofundme.com/mvc.php?route=&term='+$('.search-term-main').val();
+
+                                return false;
+                        }
+                });
+
+*/
+
+        });
+
+</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "/web/20141030082225/https://ssl." : "/web/20141030082225/http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if (typeof(_gat) == 'object') 
+{
+	var pageTracker = _gat._getTracker("UA-5577581-4");
+			pageTracker._trackPageview();
+	}
+</script>
+<script type="text/javascript">
+var _sf_async_config={uid:10613,domain:"funds.gofundme.com",useCanonical:true};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+
+
+
+
+</body>
+</html>
+
+
+<!-- cache-miss 30th October 2014 03:22:22 -->
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 8:22:25 Oct 30, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:58:35 Sep 13, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

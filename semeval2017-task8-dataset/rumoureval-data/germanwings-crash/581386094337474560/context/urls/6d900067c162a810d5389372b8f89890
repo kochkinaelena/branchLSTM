@@ -1,0 +1,1431 @@
+<!DOCTYPE html><html lang="ms" data-cast-api-enabled="true"><head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app17.us.archive.org";archive_analytics.values.server_ms=279;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+<!-- Start Wayback Rewrite JS Include -->
+<script type="text/javascript" src="/static/js/jwplayer/jwplayer.js" ></script>
+<script type="text/javascript" src="/static/js/video-embed-rewriter.js"></script>
+<script type="text/javascript">
+function initYTVideo(id){
+    _wmVideos_.init("/web/", id);
+}
+</script>
+<!-- End Wayback Rewrite JS Include -->
+
+<script>var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},span: {},info: {}});},tick: function(l, t, n) {ytcsi.gt(n).tick[l] = t || +new Date();},span: function(l, s, n) {ytcsi.gt(n).span[l] = (typeof s == 'number') ? s :+new Date() - ytcsi.data_.tick[l];},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;}};ytcsi.perf = window.performance || window.mozPerformance ||window.msPerformance || window.webkitPerformance;ytcsi.tick('_start', ytcsi.perf ? ytcsi.perf.timing.responseStart : null);if (document.webkitVisibilityState == 'prerender') {ytcsi.info('prerender', 1);document.addEventListener('webkitvisibilitychange', function() {ytcsi.tick('_start');}, false);}</script>  <script>
+    try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (element.className.match(/(^| )yt-can-buffer( |$)/)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}
+    (function(){function a(b,g,k){var h=document.getElementsByTagName("html")[0],e=[h.className];b&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(e.push("guide-pinned"),g&&e.push("show-guide"));k&&(b=(window.innerWidth||document.documentElement.clientWidth)-21-50,1251<=(window.innerWidth||document.documentElement.clientWidth)&&g&&(b-=230),e.push(" ",1262<=b?"content-snap-width-3":1056<=b?"content-snap-width-2":"content-snap-width-1"));h.className=e.join(" ")}
+var c=["yt","www","masthead","sizing","runBeforeBodyIsReady"],d=this;c[0]in d||!d.execScript||d.execScript("var "+c[0]);for(var f;c.length&&(f=c.shift());)c.length||void 0===a?d[f]?d=d[f]:d=d[f]={}:d[f]=a;})();
+yt.www.masthead.sizing.runBeforeBodyIsReady(false,true,false);
+  </script>
+
+
+
+        <script src="/web/20140804175712js_/http://s.ytimg.com/yts/jsbin/www-scheduler-vfltpmjOU/www-scheduler.js" type="text/javascript" name="www-scheduler"></script>
+
+
+    <script>var ytimg = {};ytimg.count = 1;ytimg.preload = function(src) {var img = new Image();var count = ++ytimg.count;ytimg[count] = img;img.onload = img.onerror = function() {delete ytimg[count];};img.src = src;};</script>
+
+
+
+  <link rel="stylesheet" href="/web/20140804175712cs_/http://s.ytimg.com/yts/cssbin/www-core-webp-vflWZ1t4l.css" name="www-core">
+<script>if (window.ytcsi) {window.ytcsi.tick("ce", null, '');}</script>  
+      <script>ytimg.preload("/web/20140804175712/http://r10---sn-nwj7kney.googlevideo.com\/crossdomain.xml");ytimg.preload("/web/20140804175712/http://r10---sn-nwj7kney.googlevideo.com\/generate_204");</script>
+
+            <script src="/web/20140804175712js_/http://s.ytimg.com/yts/jsbin/html5player-ms_MY-vflQkyDve/html5player.js" type="text/javascript" name="html5player"></script>
+
+  <script>
+    if (window.ytcsi && ytcsi.perf) {
+      ytcsi.info('h5jse', ytcsi.perf.now());
+    }
+  </script>
+
+      <link rel="stylesheet" href="/web/20140804175712cs_/http://s.ytimg.com/yts/cssbin/www-player-webp-vfl2dDbcB.css" name="www-player">
+
+
+<title>Crash test of a F-4 Phantom - YouTube</title><link rel="search" type="application/opensearchdescription+xml" href="http://www.youtube.com/opensearch?locale=ms_MY" title="Carian Video YouTube"><link rel="shortcut icon" href="/web/20140804175712im_/http://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico" type="image/x-icon">     <link rel="icon" href="//s.ytimg.com/yts/img/favicon_32-vflWoMFGx.png" sizes="32x32"><link rel="canonical" href="http://www.youtube.com/watch?v=AB4IEa7jTJw"><link rel="alternate" media="handheld" href="http://m.youtube.com/watch?v=AB4IEa7jTJw"><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.youtube.com/watch?v=AB4IEa7jTJw"><link rel="shortlink" href="http://youtu.be/AB4IEa7jTJw">      <meta name="title" content="Crash test of a F-4 Phantom">
+
+      <meta name="description" content="A 1992 report by Sugano et al describes an experiment involving the crash of an F-4D Phangom jet fighter jet into a 10-foot-thick (3.04 meters) concrete bloc...">
+
+      <meta name="keywords" content="F-4, f4, phantom, crash, 911">
+
+      <link rel="alternate" href="android-app://com.google.android.youtube/http/youtube.com/watch/AB4IEa7jTJw">
+
+
+      <link rel="alternate" type="application/json+oembed" href="http://www.youtube.com/oembed?format=json&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAB4IEa7jTJw" title="Crash test of a F-4 Phantom">
+  <link rel="alternate" type="text/xml+oembed" href="http://www.youtube.com/oembed?format=xml&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAB4IEa7jTJw" title="Crash test of a F-4 Phantom">
+
+        <meta property="og:site_name" content="YouTube">
+    <meta property="og:url" content="http://www.youtube.com/watch?v=AB4IEa7jTJw">
+    <meta property="og:title" content="Crash test of a F-4 Phantom">
+    <meta property="og:image" content="http://i.ytimg.com/vi/AB4IEa7jTJw/hqdefault.jpg">
+
+      <meta property="og:description" content="A 1992 report by Sugano et al describes an experiment involving the crash of an F-4D Phangom jet fighter jet into a 10-foot-thick (3.04 meters) concrete bloc...">
+
+    <meta property="al:ios:app_store_id" content="544007664">
+    <meta property="al:ios:app_name" content="YouTube">
+      <meta property="al:ios:url" content="vnd.youtube://www.youtube.com/watch?v=AB4IEa7jTJw&amp;feature=applinks">
+    <meta property="al:android:url" content="http://www.youtube.com/watch?v=AB4IEa7jTJw&amp;feature=applinks">
+    <meta property="al:android:app_name" content="YouTube">
+    <meta property="al:android:package" content="com.google.android.youtube">
+    <meta property="al:web:url" content="http://www.youtube.com/watch?v=AB4IEa7jTJw&amp;feature=applinks">
+
+    <meta property="og:type" content="video">
+        <meta property="og:video" content="http://www.youtube.com/v/AB4IEa7jTJw?version=3&amp;autohide=1">
+      <meta property="og:video:type" content="application/x-shockwave-flash">
+      <meta property="og:video:width" content="480">
+      <meta property="og:video:height" content="360">
+
+    <meta property="fb:app_id" content="87741124305">
+
+        <meta name="twitter:card" content="player">
+    <meta name="twitter:site" content="@youtube">
+    <meta name="twitter:url" content="http://www.youtube.com/watch?v=AB4IEa7jTJw">
+    <meta name="twitter:title" content="Crash test of a F-4 Phantom">
+    <meta name="twitter:description" content="A 1992 report by Sugano et al describes an experiment involving the crash of an F-4D Phangom jet fighter jet into a 10-foot-thick (3.04 meters) concrete bloc...">
+    <meta name="twitter:image" content="http://i.ytimg.com/vi/AB4IEa7jTJw/hqdefault.jpg">
+    <meta name="twitter:app:name:iphone" content="YouTube">
+    <meta name="twitter:app:id:iphone" content="544007664">
+    <meta name="twitter:app:name:ipad" content="YouTube">
+    <meta name="twitter:app:id:ipad" content="544007664">
+      <meta name="twitter:app:url:iphone" content="vnd.youtube://www.youtube.com/watch?v=AB4IEa7jTJw&amp;feature=applinks">
+      <meta name="twitter:app:url:ipad" content="vnd.youtube://www.youtube.com/watch?v=AB4IEa7jTJw&amp;feature=applinks">
+    <meta name="twitter:app:name:googleplay" content="YouTube">
+    <meta name="twitter:app:id:googleplay" content="com.google.android.youtube">
+    <meta name="twitter:app:url:googleplay" content="http://www.youtube.com/watch?v=AB4IEa7jTJw">
+      <meta name="twitter:player" content="https://www.youtube.com/embed/AB4IEa7jTJw">
+      <meta name="twitter:player:width" content="480">
+      <meta name="twitter:player:height" content="360">
+
+  
+  <link rel="stylesheet" href="/web/20140804175712cs_/http://s.ytimg.com/yts/cssbin/www-pageframe-webp-vflg7xlfq.css" name="www-pageframe">
+<script>if (window.ytcsi) {window.ytcsi.tick("cl", null, '');}</script></head>    <body dir="ltr" class="  ltr  webkit webkit-537     site-center-aligned site-as-giant-card appbar-hidden     not-nirvana-dogfood not-nirvana-playlist  not-watch8    delayed-frame-styles-not-in  " id="body">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.youtube.com/watch?v=AB4IEa7jTJw";
+
+var firstYear = 1996;
+var displayDay = "4";
+var displayMonth = "Aug";
+var displayYear = "2014";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(525, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.youtube.com/watch?v=AB4IEa7jTJw" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20140804175712" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20140309014730/http://www.youtube.com/watch?v=AB4IEa7jTJw" title="9 Mar 2014">MAR</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 17:57:12 Aug 4, 2014">AUG</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20150414235907/http://www.youtube.com/watch?v=AB4IEa7jTJw" title="14 Apr 2015"><strong>APR</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20140731164121/http://www.youtube.com/watch?v=AB4IEa7jTJw" title="16:41:21 Jul 31, 2014"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 17:57:12 Aug 4, 2014">4</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20150414235907/http://www.youtube.com/watch?v=AB4IEa7jTJw" title="23:59:07 Apr 14, 2015"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20110507003221/http://www.youtube.com/watch?v=AB4IEa7jTJw" title="7 May 2011"><strong>2011</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 17:57:12 Aug 4, 2014">2014</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20151205064153/http://www.youtube.com/watch?v=AB4IEa7jTJw" title="5 Dec 2015"><strong>2015</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20140804175712*/http://www.youtube.com/watch?v=AB4IEa7jTJw" title="See a list of every capture for this URL">13 captures</a>
+           <div class="r" title="Timespan for captures of this URL">28 Oct 06 - 22 Mar 16</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="525"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=525_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000100_2007:-1:001000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000010000000_2012:-1:000000000000_2013:-1:000000000000_2014:7:102000110000_2015:-1:000200000002_2016:-1:001000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+  <div id="early-body"></div>
+  <div id="body-container"><form name="logoutForm" method="POST" action="/web/20140804175712/http://www.youtube.com/logout"><input type="hidden" name="action_logout" value="1"></form><div id="masthead-positioner">  
+  <div id="yt-masthead-container" class="yt-grid-box yt-base-gutter"><div id="yt-masthead" class=""><div class="yt-masthead-logo-container ">    <a id="logo-container" href="/web/20140804175712/http://www.youtube.com/" title="Laman utama YouTube" class="     spf-link 
+"><img id="logo" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Laman utama YouTube"><span class="content-region">NL</span></a>
+  <div id="appbar-guide-button-container">
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle appbar-guide-clickable-ancestor" type="button" onclick=";return false;" id="appbar-guide-button" aria-controls="appbar-guide-menu" aria-label="Panduan"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-appbar-guide yt-sprite" alt=""></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+    <div id="appbar-guide-button-notification-check" class="yt-valign">
+      <img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="appbar-guide-notification-icon yt-valign-content yt-sprite" alt="">
+    </div>
+  </div>
+  <div id="appbar-main-guide-notification-container"></div>
+</div><div id="yt-masthead-signin"><span id="appbar-onebar-upload-group"><a href="/web/20140804175712/http://www.youtube.com/upload" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=mhsb" id="upload-btn"><span class="yt-uix-button-content">Muat naik </span></a></span><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" type="button" onclick=";window.location.href=this.getAttribute('href');return false;" href="https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=ms&amp;uilel=3&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dsign_in_button%26hl%3Dms%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DAB4IEa7jTJw%26app%3Ddesktop&amp;passive=true"><span class="yt-uix-button-content">Log masuk </span></button></div><div id="yt-masthead-content"><form id="masthead-search" class="search-form consolidated-form" action="/web/20140804175712/http://www.youtube.com/results" onsubmit="if (_gel(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false;"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" type="submit" onclick="if (_gel('masthead-search-term').value == '') return false; _gel('masthead-search').submit(); return false;;return true;" id="search-btn" tabindex="2" dir="ltr"><span class="yt-uix-button-content">Cari </span></button><div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr"><label><input id="masthead-search-term" autocomplete="off"  class="search-term yt-uix-form-input-bidi" name="search_query" value="" type="text" tabindex="1" title="Cari"></label></div></form></div></div></div>
+    <div id="masthead-appbar-container" class="clearfix"><div id="masthead-appbar"><div id="appbar-content" class=""></div></div></div>
+
+</div><div id="masthead-positioner-height-offset"></div><div id="page-container"><div id="page" class="  watch      watch-non-stage-mode   clearfix"><div id="guide" class="yt-scrollbar">    <div id="appbar-guide-menu" class="appbar-menu appbar-guide-menu-layout appbar-guide-clickable-ancestor">
+    <div id="guide-container">
+      <div class="guide-module-content guide-module-loading">
+          <p class="yt-spinner">
+      <img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img yt-sprite" alt="Ikon pemuatan">
+
+    <span class="yt-spinner-message">
+Memuatkan...
+    </span>
+  </p>
+
+      </div>
+    </div>
+  </div>
+
+</div><div id="alerts" class="content-alignment">      
+
+
+
+</div><div id="header"></div><div id="player" class="      watch-small  "><div id="theater-background"></div>  <div id="player-mole-container">
+
+    <div id="player-unavailable" class="    hid    player-width player-height    player-unavailable ">
+              <img class="icon meh" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-icon="//s.ytimg.com/yts/img/meh7-vflGevej7.png" alt="">
+  <div class="content">
+    <h1 id="unavailable-message" class="message">
+            Video ini tidak tersedia.
+    </h1>
+    <div id="unavailable-submessage" class="submessage">
+    </div>
+  </div>
+
+
+    </div>
+
+      <div id="player-api" class="player-width player-height off-screen-target player-api"></div>
+
+          <script>if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}</script>
+    <script>var ytplayer = ytplayer || {};ytplayer.config = {"assets": {"css": "\/\/s.ytimg.com\/yts\/cssbin\/www-player-webp-vfl2dDbcB.css", "js": "\/\/s.ytimg.com\/yts\/jsbin\/html5player-ms_MY-vflQkyDve\/html5player.js", "html": "\/html5_player_template"}, "sts": 16283, "min_version": "8.0.0", "url": "/web/20140804175712/http://s.ytimg.com\/yts\/swfbin\/player-vfl2Y2Exx\/watch_as3.swf", "html5": true, "args": {"referrer": "/web/20140804175712/https://eplaya.burningman.com\/viewtopic.php?f=56\u0026t=15454\u0026start=300", "no_get_video_log": "1", "enablejsapi": 1, "watermark": ",/web/20140804175712/http://s.ytimg.com\/yts\/img\/watermark\/youtube_watermark-vflHX6b6E.png,/web/20140804175712/http://s.ytimg.com\/yts\/img\/watermark\/youtube_hd_watermark-vflAzLcD6.png", "plid": "AAT_0W7quRUND9ZL", "eventid": "4MjfU9qdOZC60AGOz4DoBg", "sdetail": "p:eplaya.burningman.com\/viewtopi", "cosver": "6.1", "vq": "auto", "atc": "a=3\u0026b=CPxcN3_trx-407dSQTc_27E8JLE\u0026c=1407174881\u0026d=1\u0026e=AB4IEa7jTJw\u0026c3a=24\u0026c1a=1\u0026hh=o__d5sywez5pTri6OBpFqHFpe0A", "enablecsi": "1", "cr": "MY", "host_language": "ms", "tmi": "1", "title": "Crash test of a F-4 Phantom", "cos": "Windows", "sourceid": "r", "pltype": "contentugc", "t": "1", "length_seconds": 419, "ptk": "youtube_none", "fmt_list": "43\/320x240\/99\/0\/0,18\/320x240\/9\/0\/115,5\/320x240\/7\/0\/0,36\/320x240\/99\/1\/0,17\/176x144\/99\/1\/0", "cbr": "Chrome", "loaderUrl": "/web/20140804175712/http://www.youtube.com\/watch?v=AB4IEa7jTJw", "watch_xlb": "/web/20140804175712/http://s.ytimg.com\/yts\/xlbbin\/watch-strings-ms_MY-vflt8mKeK.xlb", "keywords": "F-4,f4,phantom,crash,911", "video_id": "AB4IEa7jTJw", "dash": "1", "ucid": "UCrSmrx76bzHn90QpwLvIZOw", "url_encoded_fmt_stream_map": "type=video%2Fwebm%3B+codecs%3D%22vp8.0%2C+vorbis%22\u0026itag=43\u0026url=http%3A%2F%2Fr10---sn-nwj7kney.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26ratebypass%3Dyes%26sver%3D3%26ipbits%3D0%26itag%3D43%26initcwndbps%3D1102375%26ip%3D192.99.32.115%26key%3Dyt5%26sparams%3Did%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Cratebypass%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26ms%3Dau%26source%3Dyoutube%26mv%3Du%26upn%3DgaxPdXtOP7Q%26id%3Do-AJ7Vn-MrjmB1t1S38ouIjdb3d-ns8c4PcZETBSa0ZopD%26mt%3D1407174764%26fexp%3D900356%252C902408%252C927622%252C931983%252C934024%252C934030%252C940650%252C946023%26signature%3DCCCBA9BC58DC58998A1DDB13B706DDE8B064F660.0AAFD16BFB14375C528544D55838768605EAA725%26expire%3D1407196481\u0026fallback_host=tc.v10.cache7.googlevideo.com\u0026quality=medium,type=video%2Fmp4%3B+codecs%3D%22avc1.42001E%2C+mp4a.40.2%22\u0026itag=18\u0026url=http%3A%2F%2Fr10---sn-nwj7kney.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26ratebypass%3Dyes%26sver%3D3%26ipbits%3D0%26itag%3D18%26initcwndbps%3D1102375%26ip%3D192.99.32.115%26key%3Dyt5%26sparams%3Did%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Cratebypass%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26ms%3Dau%26source%3Dyoutube%26mv%3Du%26upn%3DgaxPdXtOP7Q%26id%3Do-AJ7Vn-MrjmB1t1S38ouIjdb3d-ns8c4PcZETBSa0ZopD%26mt%3D1407174764%26fexp%3D900356%252C902408%252C927622%252C931983%252C934024%252C934030%252C940650%252C946023%26signature%3D762FA0148B9569FC65CC34DC70709429BA297E82.0B23DA669A97D3E338D7669FE3983ED97FEB1301%26expire%3D1407196481\u0026fallback_host=tc.v4.cache7.googlevideo.com\u0026quality=medium,type=video%2Fx-flv\u0026itag=5\u0026url=http%3A%2F%2Fr10---sn-nwj7kney.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26sver%3D3%26ipbits%3D0%26itag%3D5%26initcwndbps%3D1102375%26ip%3D192.99.32.115%26key%3Dyt5%26sparams%3Did%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26ms%3Dau%26source%3Dyoutube%26mv%3Du%26upn%3DgaxPdXtOP7Q%26id%3Do-AJ7Vn-MrjmB1t1S38ouIjdb3d-ns8c4PcZETBSa0ZopD%26mt%3D1407174764%26fexp%3D900356%252C902408%252C927622%252C931983%252C934024%252C934030%252C940650%252C946023%26signature%3DCE7C6973E95DE1770B032B0A3163AA0FA0DA0227.F5CC8C10AF65E74A7D77176666841DDAF1ABEE25%26expire%3D1407196481\u0026fallback_host=tc.v19.cache1.googlevideo.com\u0026quality=small,type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026itag=36\u0026url=http%3A%2F%2Fr10---sn-nwj7kney.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26sver%3D3%26ipbits%3D0%26itag%3D36%26initcwndbps%3D1102375%26ip%3D192.99.32.115%26key%3Dyt5%26sparams%3Did%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26ms%3Dau%26source%3Dyoutube%26mv%3Du%26upn%3DgaxPdXtOP7Q%26id%3Do-AJ7Vn-MrjmB1t1S38ouIjdb3d-ns8c4PcZETBSa0ZopD%26mt%3D1407174764%26fexp%3D900356%252C902408%252C927622%252C931983%252C934024%252C934030%252C940650%252C946023%26signature%3D6BDEDAED1A8BA615E03A60216C5C191FCA8C6333.F33FDB7412C8D9B47D9C3CF6C514E2E694FD9A52%26expire%3D1407196481\u0026fallback_host=tc.v23.cache2.googlevideo.com\u0026quality=small,type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026itag=17\u0026url=http%3A%2F%2Fr10---sn-nwj7kney.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26sver%3D3%26ipbits%3D0%26itag%3D17%26initcwndbps%3D1102375%26ip%3D192.99.32.115%26key%3Dyt5%26sparams%3Did%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26ms%3Dau%26source%3Dyoutube%26mv%3Du%26upn%3DgaxPdXtOP7Q%26id%3Do-AJ7Vn-MrjmB1t1S38ouIjdb3d-ns8c4PcZETBSa0ZopD%26mt%3D1407174764%26fexp%3D900356%252C902408%252C927622%252C931983%252C934024%252C934030%252C940650%252C946023%26signature%3DB788F46449A9D6534163FAD39E28CEB1DF33B85A.7935419E7D1A8F1340493E19D848CD026F5CC266%26expire%3D1407196481\u0026fallback_host=tc.v15.cache7.googlevideo.com\u0026quality=small", "hl": "ms_MY", "loudness": -71.7799987793, "fexp": "900356,902408,927622,931983,934024,934030,940650,946023", "dashmpd": "/web/20140804175712/http://manifest.googlevideo.com\/api\/manifest\/dash\/mm\/31\/upn\/GBazcxXf2qw\/gcr\/my\/cmbypass\/yes\/playback_host\/r10---sn-nwj7kney.googlevideo.com\/as\/fmp4_audio_clear%2Cwebm_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm_sd_hd_clear%2Cwebm2_sd_hd_clear\/ipbits\/0\/itag\/0\/sver\/3\/ip\/192.99.32.115\/key\/yt5\/sparams\/as%2Ccmbypass%2Cgcr%2Cid%2Cip%2Cipbits%2Citag%2Cplayback_host%2Csource%2Cexpire\/ms\/au\/source\/youtube\/mv\/u\/mws\/yes\/id\/o-AJ7Vn-MrjmB1t1S38ouIjdb3d-ns8c4PcZETBSa0ZopD\/mt\/1407174764\/fexp\/900356%2C902408%2C927622%2C931983%2C934024%2C934030%2C940650%2C946023\/signature\/C18147073C03B8E4131AA8DAD042BDE9260B8988.310D75B1DBB9B8BF61661E2922AA64C62A10A6C7\/expire\/1407196481", "adaptive_fmts": "type=video%2Fmp4%3B+codecs%3D%22avc1.4d400d%22\u0026url=http%3A%2F%2Fr10---sn-nwj7kney.googlevideo.com%2Fvideoplayback%3Fgir%3Dyes%26itag%3D133%26ip%3D192.99.32.115%26mm%3D31%26ms%3Dau%26mt%3D1407174764%26mv%3Du%26upn%3DwFbtyxkr5z8%26id%3Do-AJ7Vn-MrjmB1t1S38ouIjdb3d-ns8c4PcZETBSa0ZopD%26signature%3D85CEB9033D43C37F4EE648F2ABF0C79B3C434B7C.2217DA9CFE5D74F258420E2F22A3EDCFE47903C6%26mws%3Dyes%26key%3Dyt5%26expire%3D1407196481%26sver%3D3%26dur%3D417.285%26clen%3D12717417%26fexp%3D900356%252C902408%252C927622%252C931983%252C934024%252C934030%252C940650%252C946023%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26lmt%3D1394554009694469%26source%3Dyoutube%26initcwndbps%3D1102375\u0026size=320x240\u0026index=672-1711\u0026lmt=1394554009694469\u0026itag=133\u0026bitrate=248025\u0026clen=12717417\u0026init=0-671,type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=http%3A%2F%2Fr10---sn-nwj7kney.googlevideo.com%2Fvideoplayback%3Fgir%3Dyes%26itag%3D242%26ip%3D192.99.32.115%26mm%3D31%26ms%3Dau%26mt%3D1407174764%26mv%3Du%26upn%3DwFbtyxkr5z8%26id%3Do-AJ7Vn-MrjmB1t1S38ouIjdb3d-ns8c4PcZETBSa0ZopD%26signature%3D5BA766188DF8E71E1851D086175D15752632A3D6.C573F514FFE2CC4CF9B113365F96EDF036B3D879%26mws%3Dyes%26key%3Dyt5%26expire%3D1407196481%26sver%3D3%26dur%3D417.284%26clen%3D7534190%26fexp%3D900356%252C902408%252C927622%252C931983%252C934024%252C934030%252C940650%252C946023%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26lmt%3D1403774129029918%26source%3Dyoutube%26initcwndbps%3D1102375\u0026size=320x240\u0026index=234-1651\u0026lmt=1403774129029918\u0026itag=242\u0026bitrate=201847\u0026clen=7534190\u0026init=0-233,type=video%2Fmp4%3B+codecs%3D%22avc1.4d400c%22\u0026url=http%3A%2F%2Fr10---sn-nwj7kney.googlevideo.com%2Fvideoplayback%3Fgir%3Dyes%26itag%3D160%26ip%3D192.99.32.115%26mm%3D31%26ms%3Dau%26mt%3D1407174764%26mv%3Du%26upn%3DwFbtyxkr5z8%26id%3Do-AJ7Vn-MrjmB1t1S38ouIjdb3d-ns8c4PcZETBSa0ZopD%26signature%3D70FC3E390221B30B590DFA3E28205BB4F549655D.CDBC6FC2C26A57C9B8A2E5CCB5C0D7F58F340090%26mws%3Dyes%26key%3Dyt5%26expire%3D1407196481%26sver%3D3%26dur%3D417.285%26clen%3D5875360%26fexp%3D900356%252C902408%252C927622%252C931983%252C934024%252C934030%252C940650%252C946023%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26lmt%3D1394554009275813%26source%3Dyoutube%26initcwndbps%3D1102375\u0026size=192x144\u0026index=673-1712\u0026lmt=1394554009275813\u0026itag=160\u0026bitrate=115831\u0026clen=5875360\u0026init=0-672,type=audio%2Fmp4%3B+codecs%3D%22mp4a.40.2%22\u0026url=http%3A%2F%2Fr10---sn-nwj7kney.googlevideo.com%2Fvideoplayback%3Fgir%3Dyes%26itag%3D140%26ip%3D192.99.32.115%26mm%3D31%26ms%3Dau%26mt%3D1407174764%26mv%3Du%26upn%3DwFbtyxkr5z8%26id%3Do-AJ7Vn-MrjmB1t1S38ouIjdb3d-ns8c4PcZETBSa0ZopD%26signature%3D054FB97B7ACBAD11FFB555457C197B595D69D705.069076F9BF58A75399C8942DADB7B359B6069D00%26mws%3Dyes%26key%3Dyt5%26expire%3D1407196481%26sver%3D3%26dur%3D418.168%26clen%3D6642056%26fexp%3D900356%252C902408%252C927622%252C931983%252C934024%252C934030%252C940650%252C946023%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26lmt%3D1394554008679249%26source%3Dyoutube%26initcwndbps%3D1102375\u0026index=592-1127\u0026lmt=1394554008679249\u0026itag=140\u0026bitrate=128059\u0026clen=6642056\u0026init=0-591,type=audio%2Fwebm%3B+codecs%3D%22vorbis%22\u0026url=http%3A%2F%2Fr10---sn-nwj7kney.googlevideo.com%2Fvideoplayback%3Fgir%3Dyes%26itag%3D171%26ip%3D192.99.32.115%26mm%3D31%26ms%3Dau%26mt%3D1407174764%26mv%3Du%26upn%3DwFbtyxkr5z8%26id%3Do-AJ7Vn-MrjmB1t1S38ouIjdb3d-ns8c4PcZETBSa0ZopD%26signature%3D9A032B7FDDD7E23FE60BA70C5CF87E936AA711AC.38A2BE4C81A7D8788A2E874815E2157998125010%26mws%3Dyes%26key%3Dyt5%26expire%3D1407196481%26sver%3D3%26dur%3D418.088%26clen%3D4429826%26fexp%3D900356%252C902408%252C927622%252C931983%252C934024%252C934030%252C940650%252C946023%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26lmt%3D1403774129029918%26source%3Dyoutube%26initcwndbps%3D1102375\u0026index=4452-5162\u0026lmt=1403774129029918\u0026itag=171\u0026bitrate=89177\u0026clen=4429826\u0026init=0-4451", "idpj": "-9", "storyboard_spec": "/web/20140804175712/http://i.ytimg.com\/sb\/AB4IEa7jTJw\/storyboard3_L$L\/$N.jpg|48#27#100#10#10#0#default#IadePjgEFHFO6V_lZi9Xmvf_-CQ|60#45#85#10#10#5000#M$M#Ts3fLaRXQCvCu9tbuAU9mSKDc84|120#90#85#5#5#5000#M$M#uUPzMCtHo5BTqmsFOvRatLuKIq0", "csi_page_type": "watch,watch7_html5", "account_playback_token": "QUFFLUhqbDU1WWdRdXNkUVRoYVJ1bHk0MmZwUThMaW81Z3xBQ3Jtc0ttN2hmeWJjTzFtXzJtV2ZNTnI3SGM3SU5lb1pmbkE4VkhCeHNIZkdBdjQ3LUczN1duZ1pXbkZGQ241Y0pZbU5pSlNMeVRWbTJaeV9DclUtZU14cm1Kb2FkVHZEdEVmR1BJQXVSYmNCTUNXdUloOFNiUQ==", "c": "WEB", "cbrver": "35.0.1916.153", "timestamp": 1407174881, "ldpj": "-23"}, "url_v8": "/web/20140804175712/http://s.ytimg.com\/yts\/swfbin\/player-vfl2Y2Exx\/cps.swf", "params": {"allowfullscreen": "true", "allowscriptaccess": "always", "bgcolor": "#000000"}, "attrs": {"id": "movie_player"}, "url_v9as2": "/web/20140804175712/http://s.ytimg.com\/yts\/swfbin\/player-vfl2Y2Exx\/cps.swf"};(function() {if (!!window.yt) {yt.player.Application.create("player-api", ytplayer.config);ytplayer.config.loaded = true;}}());
+initYTVideo('id/o-AJ7Vn-MrjmB1t1S38ouIjdb3d-ns8c4PcZETBSa0ZopD');</script>
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+<div id="content" class="  content-alignment      yt-card
+">    <div id="watch7-container" class="">
+    <div id="watch7-main-container">
+      <div id="watch7-main" class="clearfix">
+        <div id="watch7-content" class="watch-content " itemscope itemid="" itemtype="http://schema.org/VideoObject"
+        >
+              <link itemprop="url" href="http://www.youtube.com/watch?v=AB4IEa7jTJw">
+    <meta itemprop="name" content="Crash test of a F-4 Phantom">
+    <meta itemprop="description" content="A 1992 report by Sugano et al describes an experiment involving the crash of an F-4D Phangom jet fighter jet into a 10-foot-thick (3.04 meters) concrete bloc...">
+    <meta itemprop="paid" content="False">
+
+      <meta itemprop="channelId" content="UCrSmrx76bzHn90QpwLvIZOw">
+      <meta itemprop="videoId" content="AB4IEa7jTJw">
+
+      <meta itemprop="duration" content="PT6M59S">
+      <meta itemprop="unlisted" content="False">
+
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <link itemprop="url" href="http://www.youtube.com/user/unviaggiatore">
+        </span>
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <link itemprop="url" href="https://plus.google.com/104873475560772156481">
+        </span>
+
+    <link itemprop="thumbnailUrl" href="http://i.ytimg.com/vi/AB4IEa7jTJw/hqdefault.jpg">
+    <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject">
+      <link itemprop="url" href="http://i.ytimg.com/vi/AB4IEa7jTJw/hqdefault.jpg">
+      <meta itemprop="width" content="480">
+      <meta itemprop="height" content="360">
+    </span>
+
+      <link itemprop="embedURL" href="https://www.youtube.com/embed/AB4IEa7jTJw">
+      <meta itemprop="playerType" content="HTML5 Flash">
+      <meta itemprop="width" content="480">
+      <meta itemprop="height" content="360">
+
+      <meta itemprop="isFamilyFriendly" content="True">
+      <meta itemprop="regionsAllowed" content="AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW">
+
+              <div id="watch-header" class="">
+        <div id="watch7-headline" class="clearfix">
+    <h1 id="watch-headline-title" class="yt">
+      
+
+
+  
+
+
+  <span id="eow-title" class="watch-title  " dir="ltr" title="Crash test of a F-4 Phantom">
+    Crash test of a F-4 Phantom
+  </span>
+
+    </h1>
+  </div>
+
+      <div id="watch7-user-header" class=" spf-link "><a href="/web/20140804175712/http://www.youtube.com/channel/UCrSmrx76bzHn90QpwLvIZOw" class="yt-user-photo  yt-uix-sessionlink" data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=watch" >    <span class="video-thumb  yt-thumb yt-thumb-48 g-hovercard"
+        data-ytid="UCrSmrx76bzHn90QpwLvIZOw"
+      >
+      <span class="yt-thumb-square">
+        <span class="yt-thumb-clip">
+          <img src="/web/20140804175712im_/https://yt3.ggpht.com/-UFGYe7N1FGY/AAAAAAAAAAI/AAAAAAAAAAA/2k_lcjzyBRI/s88-c-k-no/photo.jpg" alt="unviaggiatore" width="48"  height="48" >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+</a><div class="yt-user-info"><a href="/web/20140804175712/http://www.youtube.com/channel/UCrSmrx76bzHn90QpwLvIZOw" class="g-hovercard yt-uix-sessionlink yt-user-name " data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=watch" dir="ltr" data-ytid="UCrSmrx76bzHn90QpwLvIZOw" data-name="watch">unviaggiatore</a></div><span id="watch7-subscription-container"><span class=" yt-uix-button-subscription-container with-preferences" ><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-subscribe-branded yt-uix-button-has-icon yt-uix-subscription-button yt-can-buffer" type="button" onclick=";return false;" aria-live="polite" aria-role="button" aria-busy="false" data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=watch&amp;ved=CAEQmys" data-style-type="branded" data-href="https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=ms&amp;uilel=3&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dsubscribe%26action_handle_signin%3Dtrue%26hl%3Dms%26continue_action%3DQUFFLUhqbW0xRzZ4YlpIM1J3NDlpREZoYUNRS1MyX2E0d3xBQ3Jtc0tubGMyQ3JJSU55MjdES2JBcnpDMDlMeTdkVEN6SEtnVVJ6UnphTy1zQmU3TkM5cGt1NUlxV1J1YlgwX29ia3d0OGI2eklsWUtHMUVBT0lqMDUwZndzbW9hVHh6MzB3bm44VW4xRi10WkRHYmNyQ0lFZl9fSklubEs0bTVranl0NjVBME1TbTBoWDJCRlhxQm9HWUtIMkoyVmNOenV0OEpnb0xhZEQxRVhyYndNTjVrMUNBVXF6WURVUjFWaGVMeThiMXlvRkg%253D%26next%3D%252Fchannel%252FUCrSmrx76bzHn90QpwLvIZOw%26app%3Ddesktop&amp;passive=true" data-channel-external-id="UCrSmrx76bzHn90QpwLvIZOw"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-subscribe yt-sprite" alt=""></span><span class="yt-uix-button-content"><span class="subscribe-label" aria-label="Langgan">Langgan</span><span class="subscribed-label" aria-label="Nyahlanggan">Melanggan</span><span class="unsubscribe-label" aria-label="Nyahlanggan">Nyahlanggan</span> </span></button><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon yt-uix-subscription-preferences-button" type="button" onclick=";return false;" data-channel-external-id="UCrSmrx76bzHn90QpwLvIZOw"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-subscription-preferences yt-sprite" alt=""></span></button><span class="yt-subscription-button-subscriber-count-branded-horizontal" title="82">82</span>  <span class="yt-subscription-button-disabled-mask" title=""></span>
+  
+  <div class="yt-uix-overlay " data-overlay-style="primary"data-overlay-shape="tiny">
+    
+        <div class="yt-dialog hid ">
+    <div class="yt-dialog-base">
+      <span class="yt-dialog-align"></span>
+      <div class="yt-dialog-fg">
+        <div class="yt-dialog-fg-content">
+            <div class="yt-dialog-header">
+                <h2 class="yt-dialog-title">
+                        Pilihan langganan
+
+
+                </h2>
+            </div>
+          <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+    <div class="yt-spinner-img"></div><div class="yt-dialog-waiting-text">Memuatkan...</div>
+  </div>
+
+          </div>
+          <div class="yt-dialog-content">
+              <div class="subscription-preferences-overlay-content-container">
+    <div class="subscription-preferences-overlay-loading ">
+        <p class="yt-spinner">
+      <img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img yt-sprite" alt="Ikon pemuatan">
+
+    <span class="yt-spinner-message">
+Memuatkan...
+    </span>
+  </p>
+
+    </div>
+    <div class="subscription-preferences-overlay-content">
+    </div>
+  </div>
+
+          </div>
+          <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay"></div>
+  <div class="yt-dialog-working-bubble">
+    <div class="yt-dialog-waiting-content">
+      <div class="yt-spinner-img"></div><div class="yt-dialog-waiting-text">Dijalankan...</div>
+    </div>
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  </div>
+
+</span></span><div id="watch7-views-info"><div class="watch-view-count">164,780</div>
+  <div class="video-extras-sparkbars">
+    <div class="video-extras-sparkbar-likes" style="width: 93.9393939394%"></div>
+    <div class="video-extras-sparkbar-dislikes" style="width: 6.06060606061%"></div>
+  </div>
+    <span class="video-extras-likes-dislikes">
+        <img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="icon-watch-stats-like yt-sprite" title="Suka" alt="">
+  <span class="likes-count">124</span>
+
+      &nbsp;&nbsp;&nbsp;
+        <img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="icon-watch-stats-dislike yt-sprite" title="Tidak Suka" alt="">
+  <span class="dislikes-count">8</span>
+
+    </span>
+</div></div>
+  </div>
+        <div id="watch7-action-buttons" class="clearfix">
+    <div id="watch7-sentiment-actions">
+      
+
+
+
+<span id="watch-like-dislike-buttons" class="yt-uix-button-group " data-vote-state="2" data-button-toggle-group="optional"><span class="yt-uix-clickcard"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-has-icon yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" id="watch-like" title="" data-position="bottomright" data-orientation="vertical" data-force-position="true" data-like-tooltip="Saya menyukainya" data-unlike-tooltip="Berhenti menyukai" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-watch-like yt-sprite" alt=""></span><span class="yt-uix-button-content">Suka </span></button>  <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Log masuk ke YouTube</h3>
+    <div class="watch7-hovercard-message">
+      Daftar masuk dengan Akaun Google anda (YouTube, Google+, Gmail, Orkut, Picasa atau Chrome) untuk menyukai video <span class="yt-user-name  g-hovercard" dir="ltr" data-ytid="UCrSmrx76bzHn90QpwLvIZOw">unviaggiatore</span>.
+
+    </div>
+      <ul class="watch7-hovercard-icon-strip clearfix">
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-youtube-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-gplus-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-gmail-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-picasa-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-chrome-icon"></div>
+        </li>
+      </ul>
+    <div class="watch7-hovercard-account-line">
+      <a href="/web/20140804175712/https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=ms&amp;uilel=3&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3D__FEATURE__%26hl%3Dms%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DAB4IEa7jTJw%26app%3Ddesktop&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg"><span class="yt-uix-button-content">Log masuk </span></a>
+    </div>
+  </div>
+</span><span class="yt-uix-clickcard"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" id="watch-dislike" title="Saya tidak menyukainya" data-position="bottomright" data-orientation="vertical" data-force-position="true" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-watch-dislike yt-sprite" alt="Saya tidak menyukainya"></span></button>  <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Log masuk ke YouTube</h3>
+    <div class="watch7-hovercard-message">
+      Daftar masuk dengan Akaun Google anda (YouTube, Google+, Gmail, Orkut, Picasa atau Chrome) untuk tidak menyukai video <span class="yt-user-name  g-hovercard" dir="ltr" data-ytid="UCrSmrx76bzHn90QpwLvIZOw">unviaggiatore</span>.
+
+    </div>
+      <ul class="watch7-hovercard-icon-strip clearfix">
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-youtube-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-gplus-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-gmail-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-picasa-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-chrome-icon"></div>
+        </li>
+      </ul>
+    <div class="watch7-hovercard-account-line">
+      <a href="/web/20140804175712/https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=ms&amp;uilel=3&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3D__FEATURE__%26hl%3Dms%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DAB4IEa7jTJw%26app%3Ddesktop&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg"><span class="yt-uix-button-content">Log masuk </span></a>
+    </div>
+  </div>
+</span></span>
+    </div>
+    <div id="watch7-secondary-actions"  class="yt-uix-button-group" data-button-toggle-group="required">
+      <span ><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text action-panel-trigger  yt-uix-button-toggled yt-uix-tooltip" type="button" onclick=";return false;" title="" data-trigger-for="action-panel-details" data-button-toggle="true"><span class="yt-uix-button-content">Mengenai </span></button></span>
+        <span ><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="" data-trigger-for="action-panel-share" data-button-toggle="true"><span class="yt-uix-button-content">Kongsi </span></button></span>
+
+      <span class="yt-uix-clickcard"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text action-panel-trigger addto-button  yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" title="" data-upsell="playlist" data-trigger-for="action-panel-none-addto" data-position="bottomleft" data-orientation="vertical" data-button-toggle="true"><span class="yt-uix-button-content">Tambah pada </span></button>  <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Log masuk ke YouTube</h3>
+    <div class="watch7-hovercard-message">
+      Daftar masuk dengan Akaun Google anda (YouTube, Google+, Gmail, Orkut, Picasa atau Chrome) untuk menambah video <span class="yt-user-name  g-hovercard" dir="ltr" data-ytid="UCrSmrx76bzHn90QpwLvIZOw">unviaggiatore</span> ke senarai main anda.
+
+    </div>
+      <ul class="watch7-hovercard-icon-strip clearfix">
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-youtube-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-gplus-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-gmail-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-picasa-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-chrome-icon"></div>
+        </li>
+      </ul>
+    <div class="watch7-hovercard-account-line">
+      <a href="/web/20140804175712/https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=ms&amp;uilel=3&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3D__FEATURE__%26hl%3Dms%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DAB4IEa7jTJw%26app%3Ddesktop&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg"><span class="yt-uix-button-content">Log masuk </span></a>
+    </div>
+  </div>
+</span>
+
+
+        <span ><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="Statistik" data-trigger-for="action-panel-stats" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-action-panel-stats yt-sprite" alt="Statistik"></span></button></span>
+
+      <span ><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="Laporkan" data-trigger-for="action-panel-report" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-action-panel-report yt-sprite" alt="Laporkan"></span></button></span>
+    </div>
+  </div>
+
+        <div id="watch7-action-panels" class="yt-uix-button-panel      yt-card-has-expander">
+      <div id="action-panel-details" class="action-panel-content       yt-card-has-expander">
+    <div id="watch-description" class="yt-uix-expander yt-uix-expander-collapsed yt-uix-button-panel not-watch8-metadata">
+      <div id="watch-description-content">
+        <div id="watch-description-clip">
+          <p id="watch-uploader-info">
+              <strong>Dimuat naik pada 17 Mei 2006</strong>
+          </p>
+          <div id="watch-description-text">
+            <p id="eow-description" >A 1992 report by Sugano et al describes an experiment involving the crash of an F-4D Phangom jet fighter jet into a 10-foot-thick (3.04 meters) concrete block at 480 mph (772 km/h). In the experiment, the fighter is reduced to confetti, leaving no large pieces of debris.</p>
+          </div>
+              <div id="watch-description-extras" class="yt-uix-expander-body">
+    <ul class="watch-extras-section">
+          <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+
+      <li>
+        <h4 class="title">
+Kategori
+        </h4>
+        <div class="content">
+              <p id="eow-category">
+    <a href="/web/20140804175712/http://www.youtube.com/howto" class=" yt-uix-sessionlink     spf-link " data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg">Cara &amp; Gaya</a>
+  </p>
+
+        </div>
+      </li>
+      <li>
+        <h4 class="title">Lesen</h4>
+        <div class="content">
+            <p id="eow-reuse">
+Lesen YouTube Standard
+  </p>
+
+        </div>
+      </li>
+    </ul>
+  </div>
+
+        </div>
+          <ul id="watch-description-extra-info">
+            
+          </ul>
+      </div>
+        <div class="toggle-wrapper yt-uix-expander-head">
+    <div class="yt-uix-expander-collapsed-body">
+        <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text toggle-button" type="button" onclick=";return false;"><span class="yt-uix-button-content">Tunjukkan lagi </span></button>
+
+    </div>
+    <div class="yt-uix-expander-body">
+        <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text toggle-button" type="button" onclick=";return false;"><span class="yt-uix-button-content">Tunjukkan kurang </span></button>
+
+    </div>
+  </div>
+
+    </div>
+  </div>
+
+      <div id="action-panel-share" class="action-panel-content hid">
+      <div id="watch-actions-share-loading">
+    <div class="action-panel-loading">
+        <p class="yt-spinner">
+      <img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img yt-sprite" alt="Ikon pemuatan">
+
+    <span class="yt-spinner-message">
+Memuatkan...
+    </span>
+  </p>
+
+    </div>
+  </div>
+  <div id="watch-actions-share-panel"></div>
+
+  </div>
+
+        <div id="action-panel-addto" class="action-panel-content hid" data-auth-required="true">
+    <div class="action-panel-loading">
+        <p class="yt-spinner">
+      <img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img yt-sprite" alt="Ikon pemuatan">
+
+    <span class="yt-spinner-message">
+Memuatkan...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+      <div id="action-panel-stats" class="action-panel-content hid">
+    <div class="action-panel-loading">
+        <p class="yt-spinner">
+      <img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img yt-sprite" alt="Ikon pemuatan">
+
+    <span class="yt-spinner-message">
+Memuatkan...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+      <div id="action-panel-report" class="action-panel-content hid" data-auth-required="true">
+    <div class="action-panel-loading">
+        <p class="yt-spinner">
+      <img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img yt-sprite" alt="Ikon pemuatan">
+
+    <span class="yt-spinner-message">
+Memuatkan...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+      <div id="action-panel-login" class="action-panel-content hid">
+    <div class="action-panel-login">
+      <a href="/web/20140804175712/https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=ms&amp;uilel=3&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3D__FEATURE__%26hl%3Dms%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DAB4IEa7jTJw%26app%3Ddesktop&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg"><span class="yt-uix-button-content">Log masuk </span></a>
+    </div>
+  </div>
+
+  <div id="action-panel-ratings-disabled" class="action-panel-content hid">
+      <div id="watch-actions-ratings-disabled" class="watch-actions-panel">
+    <em>Rating telah dilumpuhkan untuk video ini.</em>
+  </div>
+
+  </div>
+
+  <div id="action-panel-rental-required" class="action-panel-content hid">
+      <div id="watch-actions-rental-required" class="watch-actions-panel">
+    <strong>Rating tersedia apabila video telah disewa.</strong>
+  </div>
+
+  </div>
+
+  <div id="action-panel-error" class="action-panel-content hid">
+    <div class="action-panel-error">
+      Ciri ini tidak tersedia sekarang. Sila cuba lagi nanti.
+    </div>
+  </div>
+
+    <div id="watch7-action-panel-footer">
+      <hr class="yt-horizontal-rule ">
+    </div>
+  </div>
+
+
+          <div class="cmt_iframe_holder" data-href="http://www.youtube.com/watch?v=AB4IEa7jTJw" data-viewtype="FILTERED" style="display: none;"></div>
+
+  <div id="watch-discussion" class="     yt-card-has-expander">
+              
+  
+  <div class="comments-iframe-container">
+    <div id="comments-test-iframe"></div>
+    <div id="distiller-spinner" class="action-panel-loading">
+        <p class="yt-spinner">
+      <img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img yt-sprite" alt="Ikon pemuatan">
+
+    <span class="yt-spinner-message">
+Memuatkan...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+
+  </div>
+
+
+        </div>
+        <div id="watch7-sidebar" class="watch-sidebar">
+                <div id="watch7-sidebar-playlist">
+      
+    </div>
+  <div id="watch7-sidebar-contents" class="watch-sidebar-gutter       yt-card-has-expander">
+    <div id="watch7-sidebar-offer">
+      
+    </div>
+
+    <div id="watch7-sidebar-discussion"></div>
+
+    <div id="watch7-sidebar-ads">
+      
+    </div>
+
+    <div id="watch7-sidebar-modules">
+                <div class="watch-sidebar-section">
+    <div class="watch-sidebar-body">
+      <ul id="watch-related" class="video-list">
+          <li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=gV4rvTxcMSY" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CAUQzRooAA"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="gV4rvTxcMSY"><img data-thumb="//i.ytimg.com/vi_webp/gV4rvTxcMSY/default.webp" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">10:56</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="gV4rvTxcMSY"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="9/11:  The Absurdity of the No-Planes-in-New York Theory">
+    9/11:  The Absurdity of the No-Planes-in-New York Theory
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCqnP0Tzr_b5zPsDiKoiGuMw"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCqnP0Tzr_b5zPsDiKoiGuMw">Anthony Lawson</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">252,017 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=QprQcfr45fk" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CAYQzRooAQ"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="QprQcfr45fk"><img data-thumb="//i.ytimg.com/vi_webp/QprQcfr45fk/default.webp" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">4:52</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="QprQcfr45fk"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="Vought F-8 Crusader vs. McDonnell Douglas F-4 Phantom II">
+    Vought F-8 Crusader vs. McDonnell Douglas F-4 Phantom II
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCssiXLP9dtYTE-mnsG2Islw"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCssiXLP9dtYTE-mnsG2Islw">jaglavaksoldier</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">127,921 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=YmXvQqEcJZ8" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CAcQzRooAg"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="YmXvQqEcJZ8"><img data-thumb="//i.ytimg.com/vi_webp/YmXvQqEcJZ8/default.webp" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">5:07</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="YmXvQqEcJZ8"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="RF4 RightNow NOISE! RF-4 F4 Phantom F-4">
+    RF4 RightNow NOISE! RF-4 F4 Phantom F-4
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCxDrrIR89zpTRMOJNtCU1qw"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCxDrrIR89zpTRMOJNtCU1qw">f4flys</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">271,029 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=YVDdjLQkUV8" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CAgQzRooAw"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="YVDdjLQkUV8"><img data-thumb="//i.ytimg.com/vi/YVDdjLQkUV8/default.jpg" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">6:17</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="YVDdjLQkUV8"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="911 Case Study: Pentagon Flight 77">
+    911 Case Study: Pentagon Flight 77
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCVIqbgm--cA_uJPT_FNwfpw"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCVIqbgm--cA_uJPT_FNwfpw">Mike Wilson</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">4,811,420 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=WKCl3lfAx1Q" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CAkQzRooBA"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="WKCl3lfAx1Q"><img data-thumb="//i.ytimg.com/vi_webp/WKCl3lfAx1Q/default.webp" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">2:57</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="WKCl3lfAx1Q"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="C-130 YMC-130H Lockheed Hercules flight test accident crash">
+    C-130 YMC-130H Lockheed Hercules flight test accident crash
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC8u20Mx_QPtZbldCZi2wZtg"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UC8u20Mx_QPtZbldCZi2wZtg">gmcjetpilot</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">18,067,487 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=1yOd1ABPsIw" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CAoQzRooBQ"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="1yOd1ABPsIw"><img data-thumb="//i.ytimg.com/vi_webp/1yOd1ABPsIw/default.webp" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">2:41</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="1yOd1ABPsIw"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="F16 Attack">
+    F16 Attack
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCKKAbCKXqkHQUiOOi9pf2Jw"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCKKAbCKXqkHQUiOOi9pf2Jw">molly mollyisagooddog</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">440,075 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=xKxOCwh7JsU" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CAsQzRooBg"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="xKxOCwh7JsU"><img data-thumb="//i.ytimg.com/vi/xKxOCwh7JsU/default.jpg" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">1:10</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="xKxOCwh7JsU"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="starfighter low pass">
+    starfighter low pass
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCBCcEsHznSqhynH7LC8rQwA"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCBCcEsHznSqhynH7LC8rQwA">RECottrell1999</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">773,036 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item"><a href="/web/20140804175712/http://www.youtube.com/watch?v=ApM_f-jBlP0&amp;list=PLBD2F6F9B26DFEAAD" class="related-playlist yt-pl-thumb-link  spf-link  yt-uix-sessionlink" data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=rellist&amp;ved=CAwQzhooBw">
+  <span class="yt-pl-thumb  is-small">
+      
+      <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img data-thumb="//i.ytimg.com/vi/ApM_f-jBlP0/default.jpg" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+
+      <span class="sidebar">
+        <span class="yt-pl-sidebar-content yt-valign">
+          <span class="yt-valign-container">
+                <span class="formatted-video-count-label">
+      <b>57</b> video
+    </span>
+
+            <img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-pl-icon yt-pl-icon-reg yt-sprite" alt="">
+          </span>
+        </span>
+      </span>
+        <span class="yt-pl-thumb-overlay">
+          <span class="yt-pl-thumb-overlay-content">
+            <img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="play-icon yt-sprite" alt="">
+            <span class="yt-pl-thumb-overlay-text">
+Mainkan semua
+            </span>
+          </span>
+        </span>
+  </span>
+<span dir="ltr" class="title" title="airshow vids">airshow vids</span><span class="stat attribution">oleh <b><span class=" g-hovercard" data-ytid="UCV9nacOmArPMCuqkZne0KsA">Wil Cornejo</span></b></span></a></li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=MpyYmCdj3i4" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CA0QzRooCA"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="MpyYmCdj3i4"><img data-thumb="//i.ytimg.com/vi/MpyYmCdj3i4/default.jpg" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">4:52</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="MpyYmCdj3i4"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="F-4  Phantom US NAVY">
+    F-4  Phantom US NAVY
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCUqsSZLm1rKeonQ4yOEWxwg"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCUqsSZLm1rKeonQ4yOEWxwg">Liam Zimol</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">64,048 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=1-JS8c5zd_s" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CA4QzRooCQ"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="1-JS8c5zd_s"><img data-thumb="//i.ytimg.com/vi_webp/1-JS8c5zd_s/default.webp" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">5:15</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="1-JS8c5zd_s"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="F-4 Phantom - Luftwaffe">
+    F-4 Phantom - Luftwaffe
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCUqsSZLm1rKeonQ4yOEWxwg"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCUqsSZLm1rKeonQ4yOEWxwg">Liam Zimol</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">155,695 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=Aa1Ba_NEobs" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CA8QzRooCg"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="Aa1Ba_NEobs"><img data-thumb="//i.ytimg.com/vi/Aa1Ba_NEobs/default.jpg" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">21:50</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Aa1Ba_NEobs"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="Ejection Decision - A second Too Late! (1981)">
+    Ejection Decision - A second Too Late! (1981)
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UClyDDqcDsXp3KQ7J5gyIMuQ"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UClyDDqcDsXp3KQ7J5gyIMuQ">AIRBOYD</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">1,103,280 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=ljt3XaRu3MQ" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CBAQzRooCw"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="ljt3XaRu3MQ"><img data-thumb="//i.ytimg.com/vi/ljt3XaRu3MQ/default.jpg" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">5:47</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="ljt3XaRu3MQ"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="F4 PHANTOM RC JET">
+    F4 PHANTOM RC JET
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCmhz_9rdsgJKM1Gbbt38sbg"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCmhz_9rdsgJKM1Gbbt38sbg">ASBEABLAH</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">44,851 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=RKyGDWeblQw" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CBEQzRooDA"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="RKyGDWeblQw"><img data-thumb="//i.ytimg.com/vi/RKyGDWeblQw/default.jpg" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">2:30</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="RKyGDWeblQw"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="Magnet Gun">
+    Magnet Gun
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCmEVJT7zJ535HiOb1frvoHw"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCmEVJT7zJ535HiOb1frvoHw">gilbondfac</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">9,653,210 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=faB5bIdksi8" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CBIQzRooDQ"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="faB5bIdksi8"><img data-thumb="//i.ytimg.com/vi/faB5bIdksi8/default.jpg" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">0:33</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="faB5bIdksi8"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="f-22 raptor crash landing">
+    f-22 raptor crash landing
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCtZ62YLBl5AIIoNdFfkP94Q"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCtZ62YLBl5AIIoNdFfkP94Q">HRQPK</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">2,054,108 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=TbMDqHezW8Q" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CBMQzRooDg"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="TbMDqHezW8Q"><img data-thumb="//i.ytimg.com/vi_webp/TbMDqHezW8Q/default.webp" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">3:13</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="TbMDqHezW8Q"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="F4 Phantom Engine Start Up and Take Off">
+    F4 Phantom Engine Start Up and Take Off
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCH_UXbYnrM0oTz__vynoixQ"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCH_UXbYnrM0oTz__vynoixQ">jss747</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">411,497 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=X2wYvr20nAg" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CBQQzRooDw"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="X2wYvr20nAg"><img data-thumb="//i.ytimg.com/vi/X2wYvr20nAg/default.jpg" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">3:41</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="X2wYvr20nAg"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="F117 Stealth Jet Crash">
+    F117 Stealth Jet Crash
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCgd5i1RVeP1lPkBs4N9ZvbA"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCgd5i1RVeP1lPkBs4N9ZvbA">robertcg7900</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">1,963,224 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=v3iRu71PGDA" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CBUQzRooEA"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="v3iRu71PGDA"><img data-thumb="//i.ytimg.com/vi/v3iRu71PGDA/default.jpg" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">1:23</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="v3iRu71PGDA"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="Train Crash Test @ 160km/h (99.4 Miles) into 50 tonne Metal Block">
+    Train Crash Test @ 160km/h (99.4 Miles) into 50 tonne Metal Block
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCuUFu9rydzNai3IB_WC-5kg"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCuUFu9rydzNai3IB_WC-5kg">John Smith</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">3,856,178 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=nIc-t-7vkZs" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CBYQzRooEQ"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="nIc-t-7vkZs"><img data-thumb="//i.ytimg.com/vi/nIc-t-7vkZs/default.jpg" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">3:51</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="nIc-t-7vkZs"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="Twin-turbine F4 Phantom RC model maiden flight">
+    Twin-turbine F4 Phantom RC model maiden flight
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCQ2sg7vS7JkxKwtZuFZzn-g"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCQ2sg7vS7JkxKwtZuFZzn-g">xjet</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">1,556,421 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=hItRbr8UWDo" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CBcQzRooEg"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="hItRbr8UWDo"><img data-thumb="//i.ytimg.com/vi/hItRbr8UWDo/default.jpg" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">1:40</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="hItRbr8UWDo"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="F-4 Phantom Crash">
+    F-4 Phantom Crash
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCj3DmXwab8ffI0yDMrg4c5A"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCj3DmXwab8ffI0yDMrg4c5A">neffwaffe</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">37,953 tontonan</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/web/20140804175712/http://www.youtube.com/watch?v=5joEoIjN4MI" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg&amp;feature=related&amp;ved=CBgQzRooEw"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="5joEoIjN4MI"><img data-thumb="//i.ytimg.com/vi/5joEoIjN4MI/default.jpg" src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" aria-hidden="true" alt="" width="120" height="90" ><span class="video-time">4:53</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Tonton Kemudian" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="5joEoIjN4MI"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite" alt="Tonton Kemudian"></span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+</span>  <span dir="ltr" class="title" title="F-16 Start Up Sequence">
+    F-16 Start Up Sequence
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCDeVoJ53QX2ANNkWXGOjrNw"
+          data-name="related"
+        >
+        oleh <b><span class=" g-hovercard" data-ytid="UCDeVoJ53QX2ANNkWXGOjrNw">flightlevel69</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">992,196 tontonan</span>
+</a>
+</li>
+      </ul>
+    </div>   </div> 
+
+    </div>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div id="watch7-hidden-extras">
+        <div style="visibility: hidden; height: 0px; padding: 0px; overflow: hidden;">
+  </div>
+
+    </div>
+  </div>
+
+</div></div></div></div>  <div id="footer-container" class="yt-base-gutter"><div id="footer"><div id="footer-main"><div id="footer-logo"><a href="/web/20140804175712/http://www.youtube.com/" title="Laman utama YouTube"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="footer-logo-icon yt-sprite" alt=""></a></div>  <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" type="button" onclick=";return false;" id="yt-picker-language-button" data-button-menu-id="arrow-display" data-button-action="yt.www.picker.load" data-picker-position="footer" data-picker-key="language" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-footer-language yt-sprite" alt=""></span><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Bahasa:
+  </span>
+  Bahasa Malaysia
+ </span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-country-button" data-button-menu-id="arrow-display" data-button-action="yt.www.picker.load" data-picker-position="footer" data-picker-key="country" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Negara:
+  </span>
+  Belanda
+ </span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-safetymode-button" data-button-menu-id="arrow-display" data-button-action="yt.www.picker.load" data-picker-position="footer" data-picker-key="safetymode" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Keselamatan:
+  </span>
+Dimatikan
+ </span><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+
+
+      </li>
+  </ul>
+    <a href="/web/20140804175712/http://support.google.com/youtube/?hl=ms" class="yt-uix-button  yt-uix-button-menu-item upload-menu-item yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=4MjfU9qdOZC60AGOz4DoBg" id="google-help"><span class="yt-uix-button-icon-wrapper"><img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-questionmark yt-sprite" alt=""></span><span class="yt-uix-button-content">Bantuan
+ </span></a>
+      <div id="yt-picker-language-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner">
+      <img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img yt-sprite" alt="Ikon pemuatan">
+
+    <span class="yt-spinner-message">
+Memuatkan...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-country-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner">
+      <img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img yt-sprite" alt="Ikon pemuatan">
+
+    <span class="yt-spinner-message">
+Memuatkan...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-safetymode-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner">
+      <img src="/web/20140804175712im_/http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img yt-sprite" alt="Ikon pemuatan">
+
+    <span class="yt-spinner-message">
+Memuatkan...
+    </span>
+  </p>
+
+  </div>
+
+</div><div id="footer-links"><ul id="footer-links-primary">  <li><a href="/web/20140804175712/http://www.youtube.com/yt/about/ms/">Perihal</a></li>
+  <li><a href="/web/20140804175712/http://www.youtube.com/yt/press/ms/">Akhbar &amp; Blog</a></li>
+  <li><a href="/web/20140804175712/http://www.youtube.com/yt/copyright/ms/">Hak Cipta</a></li>
+  <li><a href="/web/20140804175712/http://www.youtube.com/yt/creators/">Pencipta &amp; Rakan Kongsi</a></li>
+  <li><a href="/web/20140804175712/http://www.youtube.com/yt/advertise/">Pengiklanan</a></li>
+  <li><a href="/web/20140804175712/http://www.youtube.com/yt/dev/ms/">Pemaju</a></li>
+  <li><a href="/web/20140804175712/https://plus.google.com/+youtube" dir="ltr">+YouTube</a></li>
+</ul><ul id="footer-links-secondary">  <li><a href="/web/20140804175712/http://www.youtube.com/t/terms">Syarat</a></li>
+  <li><a href="/web/20140804175712/https://www.google.com/intl/ms/policies/privacy/">Privasi</a></li>
+  <li><a href="/web/20140804175712/http://www.youtube.com/yt/policyandsafety/ms/">
+Dasar &amp; Keselamatan
+  </a></li>
+  <li><a href="/web/20140804175712/http://support.google.com/youtube/?hl=ms" onclick="return yt.www.feedback.start(59);" class="reportbug">Hantar maklum balas</a></li>
+  <li><a href="/web/20140804175712/http://www.youtube.com/testtube">Cuba sesuatu yang baharu!</a></li>
+  <li></li>
+</ul></div></div></div>
+
+
+      <div class="yt-dialog hid " id="feed-privacy-lb">
+    <div class="yt-dialog-base">
+      <span class="yt-dialog-align"></span>
+      <div class="yt-dialog-fg">
+        <div class="yt-dialog-fg-content">
+          <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+    <div class="yt-spinner-img"></div><div class="yt-dialog-waiting-text">Memuatkan...</div>
+  </div>
+
+          </div>
+          <div class="yt-dialog-content">
+              <div id="feed-privacy-dialog">
+  </div>
+
+          </div>
+          <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay"></div>
+  <div class="yt-dialog-working-bubble">
+    <div class="yt-dialog-waiting-content">
+      <div class="yt-spinner-img"></div><div class="yt-dialog-waiting-text">Dijalankan...</div>
+    </div>
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<div class="hid">    <div id="shared-addto-watch-later-login" class="hid">
+      <a href="/web/20140804175712/https://accounts.google.com/ServiceLogin?service=youtube&amp;hl=ms&amp;uilel=3&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dplaylist%26hl%3Dms%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DAB4IEa7jTJw%26app%3Ddesktop&amp;passive=true" class="sign-in-link">Log masuk</a> untuk menambah pada Tonton Kemudian
+
+    </div>
+  <div id="yt-uix-videoactionmenu-menu" class="yt-ui-menu-content">
+    <div class="hide-on-create-pl-panel">
+      <h3>
+Tambah pada
+      </h3>
+    </div>
+    <div class="add-to-widget">
+    </div>
+  </div>
+</div><script>if (window.ytcsi) {window.ytcsi.tick("hr", null, '');}</script>  <script>var ytspf = ytspf || {};ytspf.enabled = true;ytspf.config = {};ytspf.config['navigate-limit'] = 10;ytspf.config['navigate-lifetime'] = 64800000;</script>  <script src="/web/20140804175712js_/http://s.ytimg.com/yts/jsbin/spf-vflL8HvmX/spf.js" type="text/javascript" name="spf"></script>
+  <script src="/web/20140804175712js_/http://s.ytimg.com/yts/jsbin/www-en_US-vflhmlJJ5/base.js" name="www/base"></script>
+<script>spf.script.path({'www/': '//s.ytimg.com/yts/jsbin/www-en_US-vflhmlJJ5/'});var ytdepmap = {"www/base": null, "www/common": "www/base", "www/watch": "www/common", "www/videomanager": "www/common", "www/subscriptionmanager": "www/common", "www/results_starwars": "www/common", "www/results_star_trek": "www/common", "www/results": "www/common", "www/results_harlemshake": "www/common", "www/results_fibonacci": "www/common", "www/promo_join_network": "www/common", "www/legomap": "www/common", "www/feed": "www/common", "www/experiments": "www/common", "www/downloadreports": "www/common", "www/dashboard": "www/common", "www/channels": "www/common", "www/channels_accountupload": "www/common", "www/watch_webdrivertorso": "www/watch", "www/watch_videoshelf": "www/watch", "www/watch_transcript": "www/watch", "www/watch_speedyg": "www/watch", "www/watch_promos": "www/watch", "www/watch_missilecommand": "www/watch", "www/watch_live": "www/watch", "www/watch_editor": "www/watch", "www/watch_edit": "www/watch", "www/watch_commentsrealtime": "www/watch", "www/watch_commentsmoderation": "www/watch", "www/watch_autoplayrenderer": "www/watch", "www/channels_edit": "www/channels"};spf.script.declare(ytdepmap);</script><script>if (window.ytcsi) {window.ytcsi.tick("je", null, '');}</script>      <script>
+    yt.setConfig({
+      'VIDEO_ID': "AB4IEa7jTJw",
+      'THUMB_NON_DELAY_LOAD_COUNT': 0,
+      'THUMB_LOADER_PAUSE_MS': 0,
+      'THUMB_LOADER_GROUP_PX': 400,
+      'THUMB_LOADER_IGNORE_FOLD': false,
+      'WAIT_TO_DELAYLOAD_FRAME_CSS': true,
+      'IS_UNAVAILABLE_PAGE': false,
+
+      'JS_PAGE_MODULES': [
+        'www/watch',
+        ''       ],
+
+
+
+      'REPORTVIDEO_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-reportvideo-vflHRM5qB\/www-reportvideo.js",
+      'REPORTVIDEO_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-watch-reportvideo-webp-vflRe-LL_.css",
+
+
+
+
+      'WATCH_MISSILECOMMAND_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-watch-missilecommand-vflbbP2J7\/www-watch-missilecommand.js",
+      'WATCH_MISSILECOMMAND_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-watch-missile-command-webp-vfl9eaIzr.css",
+
+      'ENABLE_AUTO_LARGE': true    });
+
+
+    yt.setConfig({'EMBED_HTML_TEMPLATE': "\u003ciframe width=\"__width__\" height=\"__height__\" src=\"__url__\" frameborder=\"0\" allowfullscreen\u003e\u003c\/iframe\u003e",'EMBED_HTML_URL': "\/\/www.youtube.com\/embed\/__videoid__",'FLASH_UPGRADE': "\u003cdiv class=\"yt-alert yt-alert-default yt-alert-error  yt-alert-player\"\u003e  \u003cdiv class=\"yt-alert-icon\"\u003e\n    \u003cimg s\u0072c=\"/web/20140804175712/http://s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" class=\"icon master-sprite yt-sprite\" alt=\"\"\u003e\n  \u003c\/div\u003e\n\u003cdiv class=\"yt-alert-buttons\"\u003e\u003c\/div\u003e\u003cdiv class=\"yt-alert-content\" role=\"alert\"\u003e    \u003cspan class=\"yt-alert-vertical-trick\"\u003e\u003c\/span\u003e\n    \u003cdiv class=\"yt-alert-message\"\u003e\n            Anda perlu menaik taraf Pemain Adobe Flash untuk menonton video ini. \u003cbr\u003e \u003ca href=\"/web/20140804175712/http://get.adobe.com\/flashplayer\/\"\u003eMuat Turunnya dari  Adobe.\u003c\/a\u003e\n    \u003c\/div\u003e\n\u003c\/div\u003e\u003c\/div\u003e",'PLAYER_FALLBACK': "Penyemak imbas yang disokong oleh Adobe Flash Palyer atau HTML5 diperlukan untuk main balik video. \u003cbr\u003e \u003ca href=\"/web/20140804175712/http://get.adobe.com\/flashplayer\/\"\u003eDapatkan Flash Player terbaharu\u003c\/a\u003e \u003cbr\u003e \u003ca href=\"\/html5\"\u003eKetahui lebih lanjut mengenai menaik taraf kepada penyemak imbas HTML5\u003c\/a\u003e",'QUICKTIME_FALLBACK': "Adobe Flash Player atau QuickTime diperlukan untuk main balik video. \u003cbr\u003e \u003ca href=\"/web/20140804175712/http://get.adobe.com\/flashplayer\/\"\u003eDapatkan Pemain Flash terkini \u003c\/a\u003e \u003cbr\u003e \u003ca href=\"/web/20140804175712/http://www.apple.com\/quicktime\/download\/\"\u003eDapatkan versi terkini QuickTime\u003c\/a\u003e"});
+
+    yt.setConfig({
+      'TIMING_WFF': true,
+      'YPC_CAN_RATE_VIDEO': true,
+
+
+
+
+
+
+        'RELATED_PLAYER_ARGS': {"rvs": "iurlmq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2FgV4rvTxcMSY%2Fmqdefault.webp\u0026length_seconds=656\u0026iurlhq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2FgV4rvTxcMSY%2Fhqdefault.webp\u0026session_data=feature%3Dendscreen\u0026id=gV4rvTxcMSY\u0026title=9%2F11%3A++The+Absurdity+of+the+No-Planes-in-New+York+Theory\u0026author=Anthony+Lawson,iurlmq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2FQprQcfr45fk%2Fmqdefault.webp\u0026length_seconds=292\u0026iurlhq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2FQprQcfr45fk%2Fhqdefault.webp\u0026session_data=feature%3Dendscreen\u0026id=QprQcfr45fk\u0026title=Vought+F-8+Crusader+vs.+McDonnell+Douglas+F-4+Phantom+II\u0026author=jaglavaksoldier,iurlmq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2FYmXvQqEcJZ8%2Fmqdefault.webp\u0026length_seconds=307\u0026iurlhq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2FYmXvQqEcJZ8%2Fhqdefault.webp\u0026session_data=feature%3Dendscreen\u0026id=YmXvQqEcJZ8\u0026title=RF4+RightNow+NOISE%21+RF-4+F4+Phantom+F-4\u0026author=f4flys,id=YVDdjLQkUV8\u0026session_data=feature%3Dendscreen\u0026title=911+Case+Study%3A+Pentagon+Flight+77\u0026length_seconds=377\u0026author=Mike+Wilson,iurlmq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2FWKCl3lfAx1Q%2Fmqdefault.webp\u0026length_seconds=177\u0026iurlhq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2FWKCl3lfAx1Q%2Fhqdefault.webp\u0026session_data=feature%3Dendscreen\u0026id=WKCl3lfAx1Q\u0026title=C-130+YMC-130H+Lockheed+Hercules+flight+test+accident+crash\u0026author=gmcjetpilot,iurlmq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2F1yOd1ABPsIw%2Fmqdefault.webp\u0026length_seconds=161\u0026iurlhq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2F1yOd1ABPsIw%2Fhqdefault.webp\u0026session_data=feature%3Dendscreen\u0026id=1yOd1ABPsIw\u0026title=F16+Attack\u0026author=molly+mollyisagooddog,id=xKxOCwh7JsU\u0026session_data=feature%3Dendscreen\u0026title=starfighter+low+pass\u0026length_seconds=70\u0026author=RECottrell1999,thumbnail_ids=ApM_f-jBlP0\u0026list=PLBD2F6F9B26DFEAAD\u0026video_id=ApM_f-jBlP0\u0026session_data=feature%3Dendscreen\u0026playlist_title=airshow+vids\u0026playlist_length=57,id=MpyYmCdj3i4\u0026session_data=feature%3Dendscreen\u0026title=F-4++Phantom+US+NAVY\u0026length_seconds=292\u0026author=Liam+Zimol,iurlmq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2F1-JS8c5zd_s%2Fmqdefault.webp\u0026length_seconds=315\u0026iurlhq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2F1-JS8c5zd_s%2Fhqdefault.webp\u0026session_data=feature%3Dendscreen\u0026id=1-JS8c5zd_s\u0026title=F-4+Phantom+-+Luftwaffe\u0026author=Liam+Zimol,id=Aa1Ba_NEobs\u0026session_data=feature%3Dendscreen\u0026title=Ejection+Decision+-+A+second+Too+Late%21+%281981%29\u0026length_seconds=1310\u0026author=AIRBOYD,id=ljt3XaRu3MQ\u0026session_data=feature%3Dendscreen\u0026title=F4+PHANTOM+RC+JET\u0026length_seconds=347\u0026author=ASBEABLAH"},
+
+
+
+
+          'BG_P': "4+oY8tcUXpWz8CbtkNwR46uOyR7LUgc7UDFwyoUilZUCvf1fH5p+DWa2aXeoxIffs61QDXCoKw8OvCMSekvsOlsdRfAMQfTJ0gWhUio9yF4LC0BKLA+3OoM5bbjcpxCDvZyH6wVXaS+JKKfORkLMoSsmVRGjzCm\/Zm4N5BqvJVVIvASv+L79Ou7u6oGO266Z6EhzDDpfbgZeDyR+jl12axRa5rcYNDuiodMthEKJeycB3+2a\/fo4qHIwhDGxyDJxoYUvP3moteTs9ZUYwFOKjUNt2VwHCRuaL2YuIbo2PbWsJwuj53805K18+7i4mCB+8bK7LAyzUrelJ39RacxneUgdjA7fhj5sEk8pG\/E25byTT7ZWg0\/SO7SnOu478nouxKfHufBmakk7wQQIC4kte2lDVdjKWU9\/QzypX9D\/i5BSyOlc\/Rc1Qht0NijEs17iD8GlpkYjnETSzsjk1zDbMdSxWfYW7dI3MENFWw5q51MvDYjBoi0JsNvO7nb9G1bCuhIJ\/90VLcRucgnya0GPM7eTmE7AWTgA8vSwzlFzwQUdXsfPndSlrSqvJfVwZVQZk+ntg2Do3d0BR4HSZPPvJghbaeW7aNj766sznLYZcx96edGtnijC4XLsR+S3Zo269CHR3q\/P3O8gquPDZSleizS\/XLr7v2PJDLvHtjvs8Thu6clvFRmsr+bss8KcojzvrIFnlYAZBvbvXDBPTyMwm+1hk+fLp7PcN5cmjhl99KTznzO00Svjd1uSgkMrh47DnjIEggY5yt7yfSh\/911ZRpPqxK8\/ISz+pAPSgkYsk0vY\/zoIrGLfYRc5t7lih3RJZapsr+dFcIw0Df28L39nW9JgAmXtqf2qYuG5Xv2M9qeyfbplbbHwRqyaYoQk6YxVddS0EwKvR2i3aSUq+5NL3tO9kRUfKzIw7e9L1wfHmBo5t2Q\/aY\/v2ja9TURFMnvRnWb3AFxlZ05WMY06eDllOjySvroN6\/K9FHQUpSPU8QJszuB07nHXKKuud9y2lvbts7+lUvrA25BtdugQ48Ow129pi2GmuA9Io1RJVUe2sVOInXGvkhAjLkKoMPkd+ZPc8X65OW9MOcgS8+B9Bp5G6cSFSV\/PzDcQNpyBAVdRNfcKZRuNw5QgXLOz2m3qRiLCgUZz20EYsDwydZYFsu7CpswzEzIn9KxJV+P+F4padtmTXTdGIddJ8LgGpW1t9rE+VHjn2y9DkpTCg5Qj2rNGFe7zrM9\/D5D4O\/apf1yOrOvtD9FK0YPk0kKh5jlyz4ga0aHuPF8lkk1C6vkOhEJZLmRqT+3p1ucwaq1+79P7edimwzERAkiETRMuvcGeKuh3uqNeU3a8+E2xDlTv4f6KrBrmCk\/n9R2\/zp7TvXBcyoOD7pLPMvmhoPJI9xyAXGR5kRgPa6dHk0Tp7fRx1o+4EZqtIn6rEY5e5GACOvRwTaxhakFnPbNnSEnTgJKA+YqUO+5TvfRFtlStpOZ0lTwv+maCaAQLhn6wQ4HWNpbBWnvso\/HTbiZYazQaSF0Go1U6VOH8OYtgzif324kDi6Vx6E9kr3H5Ww+nlqD\/hS2rJsjKC8juQhAovkWomi8prMBMSCFzJ5sGaq80o\/iK8IDeqNR5MP9hi4O4s\/wQ1KtzGo2x8vQDz6DbuaqKnwsfbrQqOrLKnZowkaenyoxaSDiI5431DErG0aQSda2\/I6fsFo5\/\/ujYvtlQFRJc46txr6d7UWzEfrtVnsbeMGpgSKBkZONOHnEWLmNeUS9fMqjvKd+HaDxkJRzmVP4EBHR\/6Bjaksy3HKGrZAI+jzuyfJiwtwJaOEQ\/nZS+fxIwByWr9Mh0LNfGOc7hhsiqoUGmG1h7WR6iMlh3WuXEsiVBzrAAXJWd\/Emd1LTcZTh3FxVsWmTCtMV4iq6ndB\/CS5kr2CysqDkhKtJGTebDhlc5fUfuTmE7Vaq1HXn8S2yb2OEb+SUEVXjeY\/wWWCJj4PpZNw5\/OD27bCaDBB46U8iv\/pUpyXcyhDGioogEbOLXh1Vq8GQcFO9RKCxydQwaKaWzgAMBNmRqv1xESIaqnA5MQFO0zhxnbovOuNsLFi7xqLEJoufZyDPjXact3ucCWPnaEBOtsmfyLnYnmv+dLGqlv67duky+wfC03Au6ZerCT8HSCW+FJ7UqZRRzhKis2Mj\/fAVQ4f6ymRucfLAvSJwc9F9aVOSVwpykWytjWPefMZJZKQ8wmm6wLTSeds6RXYubY5Xr7RLKDATxnOrorjt\/CFhTC4v9l6GjtkCh4BIwzpJ7FHcmUyJxsGso5inGMIEsaMpVMoFOO5iXt8aUCinxRfP6tXghcB0bQQIQywEwoU6VY1M2bxCtDMuzflCwe6NFTNpOV3QhK+iNV\/rzDj5o2oMM9TMIyJ1TCax29gYMmgPvigWn49Lc2i04IOtuzUl8d2UWZP3Sd\/W6LfMFh5mW4rw9z0UfPMSz5WujjKHRoV7UjWcfKn\/LL5FkmDwJMR3hKCP6CQi3YlpSYpWyUGx9I1MYPo\/vgqRFjDRYz7LP+tVVJTVv4mIviecoIog6Jc0I5Fqv2RbnrvDhTU\/fNnWDcYnA5gnxtEedndgRbtn0wL2HzqO+uRd8NFrnUKQ3Ccc1fPZvINo9imOxW7fyhIYwzn+EoG7C3ZC4Ihbe+Zkq79JlNICf5XIdbio5tvzPF+c+oVLZEAyjNbrAFxlHj42tfUcVEpVKCxM\/PSBONhq2A1coJsWeNQzpMGpbMBuFqdGyQKIuMiOf5zO2Jt1BOTO1\/obvnG5TYtP4ljhaTRtxyJCzP+D59TfS+VqNCR5J2h1p62zXunPx4IIefRaoJ\/O12yhnv+BYdF1dZnI3\/h+lQjXS3SxuNENtK7kqcqkQShU2sMX9Wp3p4gcJD8bbY5wqPpG7azLsdCkoWf1MSQ8p1Fv8WRlj+7\/W81Fz77GrOJOgpxsM1ZTWuP4efdJtUvDy4ZNV1HBqJ4Gs9MzlAlh3+9bCt8y93SX3e1U+RVQxSkO6Ztf4bhOL408VVkc7\/dwTpJWt2gCFAynyRL75OMctwlwiVEIo7EzkdQpYLidHrVRujYCtbcVGPsNYStNQBUDz\/FSw9X\/kkZJ9gj8XWCarTVizE2jgKh+U8X7wJKKW5H3B9Vt7JmByLBNVU8tsr4RoFJi6q7jHYzcQuuy4sl8jtDPw7O\/TcKWy1RQaSG\/PqlaXqqY0nTDrPhtZGDB8x+DwuI89Cqh5sMGIUX749e0UYGTDTY6etjpG3lq5QaOzlIy\/5MNv5HtS0Dn+8qZ5qnC2LHwz1OgdzNz\/ltNoBuQ2hK39hBG2c9ffslKFqoBdmBnybt82JqGhGh4UdR20ihp0fqBp7BR\/pPWD5lQqGpRFpxc54Y5oYYa5sEYO7zX1zyNfsgQPHJmMndBHlnI0vDMbUBl323HR1JWnLJxXNBAChO3x8yo8NIP7LGfky2v0LpEZyE\/hDEAHtP5ruxjoco8u8cEcVttiO1cdZ6uy4ZKDplWEmr8fdwL7NB3DQBXj\/8W8nT7zdVYELXgikjFzlsuoaUYuGtYZgLvJ5m+SdhLwSj3DzOBI31yODu2wKm8xeyYnAoKigbOn65KwD3ODLBFer009VVtaFGjQrbXtxK0VqG9qmdj+0OdVQHez79Fi2JjLMvA83OfiX1D6ppvXxCu1sPHHpUJ6AWrGD8j27kboWtEoeUednSqUGTp7uR5\/v3hx7wGe3I9kiQrElEM9InjNUzCoV1uQToc2o+1j59x3orc1d3ul5bvwZjEUjYmk17msRIkAndGd+AhINheH409gedrH\/nA3swrnx9ht2Q6KZQnek6mu+zH7\/9ni9MnJzEwm6uwITgf8sTy6h2Pq\/7x+jC5FDFXeR\/JPOIWkhvToDjGLenGa1fj1ko\/v56CABnZy7DeCRmbAzdmrq\/TR6noc6emwa4MKOaBZvljvubvcF3fXIx37RlPcjq5oV89C11WMo9iUXywld0YDAj+qkHUFj+hXBl8QYViwshZfQPPKvcRiIXntJfrD923Q85PipTjHAaKKB9x1FGDfHCekhalYWqJ2eaNh8d4gmbQe0X6PrFrqkH1PP0+d8oj57I5JNTlNhvpGMS5XdAJnURPbCyRRonABi34TDZOG5sCKvjAK93E7UQHJeJ\/GBfKBH7fL8jOkekpmxtMbDes8jbP8HBA0RwnX4dMTZjaMP5izZc+m6JsSOiL7mFvrtjHRdaAZ\/Pu7b4fZNZeVG\/qAINpU+jD1HCbibZ1MFEcaCv\/DqRRpZ7f\/Ic6onVI+8M+e5jU5UN63wfhsBqPyLGz82VKLCMLsqlC08f0rabyIvm4smggKO2f7wALHCV8W35YeQKO2Ik+q7\/oJzMGRPXw2wN83oetrwjoInSdYX4LG6pbUht53q62wN+XOI9m39hlw+Uffa8b6qq\/X11t2IEhB9qeuCU3IQj+b5zMiJlyL\/dAvfe9lLViTgTNGYRpQz9WjeQinNkM07ku0I\/XgyJUI\/i1oGzypORBuFjsGA9VwpsDOc2G6yHp6pfDZCup0Q1wTkbDtXao3+DnwNl6t7Jp19N5dRRt8x6Yd81bDdWJCMGwJFEZ194UGYK2Bsl7jV3yi3qxfY0nwP5IXdtDpmG9q5esyW+nxgz5TAYYGx4CMBIOTtX9kDD\/0dkJj6\/02LrFLRQXdiTrr1P5no1eGyuxI9hMMRuPvMXDnH\/jUM7BRDz9wScg64p7w17Bf1SAP9c2C+aEZw\/mXVeuR5FIRSOJqPDdg1+1bXy249sQKnMrB9WgaEI0CwromeMG0L+yI9iPZjG2YSODcjVKgkcP\/dLVylbtIyIEb2SVzVfTktGtmWWr12G7lr6lK9\/qnuKLxfxdj2is+YXe+HOHmu47nmGc+qse92o9gm4Js+Zw98LfU0MSvzv2Q4Z3dACuMIngtKNMVsVnqIWWbBSyFsGeUiZPhHl5OtURg7hqdPyDA4R8A8fwS4\/nBRxV9ZP4dR6ZOfqTESZjjnZJBz5ClIWlg05AppEWZdL7XaVb3GbKcbPaVrg68eAE2fYRijQN71h7pX7BQwVOoYKcdLw3UItJlyBvoqVxQodA5u4vHXHIQ5iK+gMegfpBzzSoR3iZxZFETgp0\/R6NcTiMyIHoWZfXMuj7gOuTp6a16Bg7Ws7PPEuWVWg\/3G76B9fridQHlLlZGtJo\/cm\/u6uYyTxJaSy\/Lm0iZYNFE47utoQbEEk0UavlpqBwFa2MXb6hmcggd8BNkcQPTIh0f3E1HCEjPf5g9nBvZ2wGDHcu45vnHxqFt+Pk+PN9mpeWitQh5tgo3mBj+vWqxBn8\/MQipFODCTR46NgiVVgQA6zHGNIDKAoPfxuvz43QjYMSzj+1iy6MjOYCSwewM4U\/n\/Aa64rVP4lEtjuAMi3Y3XaMWDkT9yaAiHgdgA6ahx8xen\/TWkeaC9j8iGFX6YPvCEtrblvEYAxO0JmZOf5YGVH9glngUGholCdnanrxcxX01qdWPCqFfSrcP+QJxP24p27eh7V43iIQJPvTs+WHo6CtttHIKMK34rO331imFv+Uz6Z6jnzn85uKNZDfgnrouAiZkxkcfXNJwCJboUM6UX+FlhmiWGiWtoB0306YPS12KYzqzLVMjemaGuBSpmXlLupwzEotRr8ViobbcUGIkq1QJ0ZSvskU5VaeU+q\/i4OMIh\/UnR6tIQU6CecoKJPZkH\/ZYqY3nwkn2N1FtYdksrQjiESw4PDDsdznSmnJSvykfReahQaz+yNEVIDM7AkoCbUB0gs2oGuK3cBL3G+Y3EOPJ5XB2Zu8TcDym9Bf63XhXAf+6Zslc43gCFG0CNndUh3F8Sl+fHYFpPprhiT76Tb1WpyF20iGzg41F59OKZZOJv0eKv3HXBGpga+Bw96TzaXp0GaOIo2amn4OUBAeGZyZm0pkR6MgJb19h4d06smqAt9rGKY7XQXDVPnH5roiV\/5QrKxSn66W5K+7\/wZ1JUk85HWHwZQr37gvylT6tR1CUpKWM1Q6NUS9+SX6hXN837RIK8wGPpGBUmmn\/F2\/gw41YNVuXVphRVg4jd4A4O4qW3Cf9wb5kYLtjWx6alorBCuQDc1sc1bAT8fIyTfcGyHeVzs5ck5aVgqioiON7jVWDdoWgVjCXsfzCB+czEhGxGt8fgsvA9k71BOriPv0nlxORjfKt+ao+lshdJ\/ME8qS1hKi6lGeW5yO5q6w0UwBqkJclgorzzj5qGUS1JI88Vyd152X3PUEI50n1cn3bp8ifpJj8D\/LC6d8Qovud6rNmI3q2WaKr0I4AwtiwE9XUte1kCCwfPGFAwBbJektT2nvtAt5xaDuXInx+0U1u9xwM3UKFUz4ZxO7Mv4\/VpIvNowRdc2JnW8sNn6XXAAHFXrBRmjXDodlSFAgJWws7\/0T\/EWhFk3hpX5dFZLAGIuhkYJZM1fVNc0W1BjdwAF762qkeU4Yg3o10fhGzy7q3oQ4wz2mlK8uEYZtavZ\/DtXKKEVUEIwqtR9A9xyeiUy9028kzP1\/flqcvCxw1fboQdvQpWAD\/Bod0QqZ44FWIIKz6HSc3l12F6HIWJeDFuE\/4IEcTBG3+1HrtJcG0XAc+Dv\/8vTxQJ9EPxldyuuB3iex8KvlfGeN0eaUGaf9FT6pjHgAQvnHC3ah6+vAgtRkhB13Mzc15b7qk1f7evql6vt7SMg9KBasK+azHTT6p3gBFIs2dTMIbUNJnLyWlUK+vnz3Vx6lF31W6WnBXAruucmllZwzO4Fvau4D39aacUhflXyyprWb7sLRrbnzwgxB6Io+MFBxG8IPFOBB3Ak6EVkRFXONdOu6w6vpkDJ6tbinwd5uJOPI8wQxBJLfI5MItedwisgph94hGF4pJdyErLlSLdQhK9Mt72kSNdyPUd7qmpvHGaKyMbXBZHegs72Bn5o5jSb4iYHfWzUTK6QErhcm9dsCIJOfWO\/KzyiTUO2uFXh3wc2\/BLSPvoBB1vwH7pKcrZLV8DVzMmiCY5uAZAKJa0OFw4nCAgL2roGDKMquqrKkDJnCnDv0zzlAVETmh5ZyqnYcr0hqg0uDlcP8ExomVS4Qlc\/sUHaAiszddTdgTQU7cah9j6h5R15iYbdLmTeLmM1B+Dhjmdp4Vk2oOGh7Shuj20laL4pOVDezgO4RZStF1j8DSG7nQxy0xKLTyyUEeWEQaOVLYjHKk2PXCBeP2NLexSpDwRuP29B2FF9MQNeyYLmd+loZ4qUkUR7413H0+PxzE4Uoncz0y+cfd\/wZQODVI27OY41gsKIX4+3k57wIMtbBEPz+uWBfx4Ic1LKFdAAY3zfvB4XyhNnvkuiBWkoNTu17DZfD\/WHTN0rnGSLmHhroWQohrociFGaPtKQLRI20yqkurqOi34wvcNo238IRa81D7g8X8Szdt8l5vQYc60KPJdmbtAKpWCi5uCOWGKS7iD9vEEHWRuXYQRuXi9AmTL6A\/MiZ3GiNFKgVbF5Q7KZ7jCi0le9NV6GVcGEvgUHDUEDcA2XJdsboaQJn\/VYaXaNizReP57e7Pan80lvEaSPBkb71sQ\/mFlYbH6SYH4cZ6VQ3M5Z45bPjsQi0JHMZ9lMceKjCayorgRI96dGPBnlxv59geG1f4bwYa\/QvjPaRsCXz8OBXztFJNOcbtRJSHJ05hMslEQCys6Epc0j4ptJmqzrcr6Ym6bZTbjRKX8epWhJNTmEObh+YcQfjSC0OlyTQ8z3UmasxYk6fE2XXPeJ2McoW9sO1IgqyWH\/TU\/+BiNWTI9bgF2+M8XYZ02snnuPY8+6SzKyHv3l1ZVlpm09kDvEW\/Uigu49wYrpS\/rHA+gyuJKcg8G7QSKBMAYxxAe18WXrky3gJPC0AvRKTlypig0LvG6wyDCZrVSPqxkaqBiVfBxAS6qZFgh3a2ePdWeK3E1LVIis3i3tcTLAo9poW+QRmEz7VrM\/JeJ5ieOU1Y\/s6oMkPas8tXQbGsZGsqUiTrGXAJqqz0Bgv7X1aMM8AIVdfeUdTcTYQFEynLCL5E6\/gk+vk7WUWU89K0eRLg7mHhuTGvyiI\/YRsJz+4FUatYwLAEmLgyDJckWJVDwd6m0qmREkwL8PH5pKvGAcoqzStHk3M0WOgXSC9ZleFyFVfc78lcLFlDL\/xTasq37ZUlYrmckMIwge8KAzPEU5\/y7x1AUIqq1PETqHYpegR7HLihFj8D3Nr0lApJGH8kaA5Es2ALqOPXczaFbrfxoDFPzTvDoWq+d++qhj4nSwsMpfxUtJWfF973RQoFLFpML6Rkf6Fjf4nIN8IvIvVV6GM7rZOSwu8fw\/RtdkulZrFiiihj+yq6ioE9rgvjFd8TBuBMeQXQaALQlSBz5hlCvqDO2UG4xPBEYC9Ocgr9IToNqBDLoB3rS1i6qM86rmY73QTuv+ay8iif6XgwP6ZBAu37wAdu+9QVam7zo+\/l6Dha79RBzrfUI9UHKyvuPzguuKxfBXYb+vZ+FKXdPyoZkCxJ+Jiph2hjT7rzbDBC0EJl4nnPWZ1LJ+3E4dO4edb4xN+7ioesqojCh211f51q3fq4ZDlIInLzz50SvoGg7+Lk\/VfdKKEiKpCqssbbXRGNPqMOt42Oyf36s18SlKJ5PFMvSnRqxfSV+CRi9lxWDzzW1FDYhhFVY3whHN9YufG4FKgvLTLXGRIKhNTQZdaSqjSh+Xo204y+UMS+zxIHZiTN+8QyDwZW0+jzgGxs\/7jciOvOuozCOZJympMhPOdqjeqXm+ekSHNmWPCZdvQpL+M+zbbRQa\/i96+HUIH\/Be3mTbyTtHaXMxzhAtKP\/6K+4ZkWGlxwKjrucEmDeunIHazS1dr93hHVX+SwQkcyyOsf3pl0yhTbojaGCTqpHhn+Mtqf4AFg5kEgdZ4sIuVFL8LIYiyY8UkkkLS56Q5r\/fcCGR\/1JjjkVtBR35IB96mXm0RO7dypeKFpcBIcLaka0YJeJvKQ1LLRM7S1zMVUDjnhsKjIwQ5MyVro86NxnadTrgVIMFwJ5V8Yk1xHnToy1bAE76ED68W22wuBNl1y4Cgf8MvywJK5B7wJTD9VU5LvOnSTDLOFevX8UsYugKcjQJ8e1hJ9bUluqefNOWgXBdzwMPNySNxoT8y13yHZu6sdTyAW2LiTTHhrEROuvjnib+Y2gjQzFZYRTsYFhK47ZV5FDmr17JCmM+3mbGNQ8AM\/e+2Y3WUO6sellMXGiNXsegey\/xH8Ow2HN\/JHDljxz8SA\/r5BiE4UfiJ8zB4rToURp9\/4DvYjUIPjc4FISZeiRwye7Ls7DozOUt+yzoEDNyHAuK5nqGSTmhO\/+RsbMj65rGUf1AE7MWMq6DBkTLBBe1LQOTAr",
+          'BG_IU': "\/\/www.google.com\/js\/bg\/-Vvtx4nI8SHe_WYPalc1ijR-UNJ9GZaWikvdqm7tI20.js",
+
+      'HL_LOCALE': "ms_MY",
+      'TTS_URL': null,
+      'JS_DELAY_LOAD': 0,
+      'LIST_AUTO_PLAY_VALUE': 1,
+      'SHUFFLE_VALUE': 0,
+      'SKIP_RELATED_ADS': false,
+      'SKIP_TO_NEXT_VIDEO': false,
+      'SPF_PREFETCH': false,
+      'SPF_PREFETCH_MAX': 0,
+      'RESUME_COOKIE_NAME': null,
+      'LIST_END_TIME': null,
+      'CONVERSION_CONFIG_DICT': {},
+      'RESOLUTION_TRACKING_ENABLED': false,
+      'MEMORY_TRACKING_ENABLED': false,
+      'ADBLOCK_TRACKING_ENABLED': false,
+      'NAVIGATION_TRACKING_ENABLED': false,
+      'WATCH_LEGAL_TEXT_ENABLE_AUTOSCROLL': true,
+      'SHARE_ON_VIDEO_END': true,
+      'SHARE_ON_VIDEO_START': false,
+      'ADS_DATA': {"show_instream": false, "show_pyv": true, "pyv_vars": {"iframe_json": "{\"google_ad_client\": \"ca-pub-6219811747049371\", \"google_max_num_ads\": 1, \"google_lact\": -1, \"google_ad_block\": \"3\", \"google_ad_channel\": \"PyvWatchInRelated+PyvYTWatch+PyvWatchNoAdX+lpw+afv_ugc+yt_no_cp+afv_user_unviaggiatore+afv_user_id_rSmrx76bzHn90QpwLvIZOw+yt_mpvid_AAT_0W7rKfywFbVq+yt_no_3pas+yt_no_ap+ytdevice_1+Vertical_19+Vertical_160+Vertical_162+Vertical_366+Vertical_397+Vertical_1247\", \"google_ad_type\": \"text\", \"google_video_doc_id\": \"yt_AB4IEa7jTJw\", \"google_only_pyv_ads\": true, \"google_ad_output\": \"js\", \"google_page_url\": \"http:\\\/\\\/www.youtube.com\\\/video\\\/AB4IEa7jTJw\", \"google_language\": \"ms\"}"}, "check_status": false, "use_gut": false, "show_afv": false, "log_pyv": false, "show_afc": false},
+      'PLAYBACK_ID': "AAT_0W7quRUND9ZL",
+      'IS_ACTIVE_LIVE_VIDEO': false,
+      'IS_DISTILLER': true,
+      'SHARE_CAPTION': null,
+      'SHARE_REFERER': "",
+      'PLAYLIST_INDEX': null
+    });
+
+    yt.setMsg({
+      'LOADING': "Memuatkan..."    });
+
+
+      yt.setMsg({
+    'UNBLOCK_USER': "Adakah anda pasti anda mahu menyahsekat pengguna ini?",
+    'BLOCK_USER': "Adakah anda pasti anda mahu menyekat pengguna ini?"
+  });
+  yt.setConfig('BLOCK_USER_AJAX_XSRF', 'QUFFLUhqbllIbmRUZEhqcHZUem5uVHRRbFVzRUdPWFd1Z3xBQ3Jtc0tuOHlVM25hdHFlc1psbDBRQnU3cHIzdzVCOHVZZHZaODlyOGJMRE0wSVhaUkVVTTg5Y3NjcllVTC1VQ1VYcEFsQVFabjVGT09PNGFHdjFmMDB2RFJjU3FoZVdYS0RjanhxdHJBS0Z2VnFLdWFmR3F1U0xPbnZqRUpUcTliUDNna0JuY2xVeTlWbXQ2TG5ncnBMVjhWZGc3czlXT1E=');
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+      yt.setConfig({
+    'GUIDED_HELP_LOCALE': "ms_MY",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+
+
+      
+      yt.setConfig('DISTILLER_CONFIG', {"video_id": "AB4IEa7jTJw", "signin_url": "/web/20140804175712/https://accounts.google.com\/ServiceLogin?service=youtube\u0026hl=ms\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dcomments%26hl%3Dms%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DAB4IEa7jTJw%26app%3Ddesktop\u0026passive=true", "privacy_setting": "PUBLIC", "host_override": "/web/20140804175712/https://plus.googleapis.com", "channel_id": "UCrSmrx76bzHn90QpwLvIZOw", "page_size": null, "owner_id": "rSmrx76bzHn90QpwLvIZOw", "reauth": false, "query": "/web/20140804175712/http://www.youtube.com\/watch?v=AB4IEa7jTJw"});
+
+
+  </script>
+
+
+<script>yt.setConfig({'EVENT_ID': "4MjfU9qdOZC60AGOz4DoBg",'PAGE_NAME': "watch",'LOGGED_IN': false,'SESSION_INDEX': null,'FORMATS_FILE_SIZE_JS': ["%s B", "%s KB", "%s MB", "%s GB", "%s TB"],'DELEGATED_SESSION_ID': null,'GAPI_HOST': "/web/20140804175712/https://apis.google.com",'GAPI_HINT_PARAMS': "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.ZgMbf97wsK0.O\/m=__features__\/rt=j\/d=1\/rs=AItRSTMKRpkCIa40hbsPiL8w0-a9gPRW2A",'GAPI_LOCALE': "ms_MY",'UNIVERSAL_HOVERCARDS': true,'VISITOR_DATA': "CgtVcjd4MTRtc3ZPMA%3D%3D",'APIARY_HOST': "",'APIARY_HOST_FIRSTPARTY': "",'INNERTUBE_CONTEXT_HL': "ms",'INNERTUBE_CONTEXT_GL': "NL",'INNERTUBE_CONTEXT_CLIENT_VERSION': "20140722",'INNERTUBE_API_KEY': "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",'INNERTUBE_API_VERSION': "v1",'GOOGLEPLUS_HOST': "/web/20140804175712/https://plus.google.com",'PAGEFRAME_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-pageframe-vflq6yea5\/www-pageframe.js",'JS_COMMON_MODULE': "\/\/s.ytimg.com\/yts\/jsbin\/www-en_US-vflhmlJJ5\/common.js",'PAGE_FRAME_DELAYLOADED_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-pageframedelayloaded-webp-vflLpL0V6.css",'GUIDE_DELAY_LOAD': true,'GUIDE_DELAYLOADED_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-guide-webp-vflkPe9fO.css",'GUIDED_HELP_FIND_VIDEO_MANAGER_ENABLED': false,'GUIDED_HELP_CREATOR_STUDIO_ENABLED': true,'PREFETCH_CSS_RESOURCES' : ["\/\/s.ytimg.com\/yts\/cssbin\/www-player-webp-vfl2dDbcB.css",''         ],'PREFETCH_JS_RESOURCES': ["\/\/s.ytimg.com\/yts\/jsbin\/html5player-ms_MY-vflQkyDve\/html5player.js",''         ],'SAFETY_MODE_PENDING': false,'I18N_PLURAL_RULES': function(n) { return 'other'; },'LOCAL_DATE_TIME_CONFIG': {"amPms": null, "shortWeekdays": ["Ahd", "Isn", "Sel", "Rab", "Kha", "Jum", "Sab"], "weekdays": ["Ahad", "Isnin", "Selasa", "Rabu", "Khamis", "Jumaat", "Sabtu"], "formatShortDate": "d MMM yyyy", "formatLongDateOnly": "d MMMM yyyy", "shortMonths": ["Jan", "Feb", "Mac", "Apr", "Mei", "Jun", "Jul", "Ogo", "Sep", "Okt", "Nov", "Dis"], "formatWeekdayShortTime": "EE H:mm", "months": ["Januari", "Februari", "Mac", "April", "Mei", "Jun", "Julai", "Ogos", "September", "Oktober", "November", "Disember"], "formatLongDate": "d MMMM yyyy H:mm"},'PAGE_CL': 72399710,'PAGE_BUILD_TIMESTAMP': "Fri Aug  1 07:54:38 2014 (1406904878)",'PLAYER_PERSISTENCE_REFACTOR': true,'FEEDBACK_BUCKET_ID': "Watch",'FEEDBACK_LOCALE_LANGUAGE': "ms",'FEEDBACK_LOCALE_EXTRAS': {"experiments": "900356,902022,902408,906001,911507,912714,912719,912725,912909,914950,916928,916929,918119,918121,919389,920605,920609,921603,921910,921911,922413,922804,925011,927006,927622,927626,927881,927891,929237,929507,929509,929940,929943,930812,930819,931017,931020,931339,931341,931943,931950,931967,931983,933218,934024,934030,934032,934113,935020,935670,935707,937003,937217,937422,937424,937817,938006,938302,938632,938639,938681,938703,938705,939201,940641,940650,941414,941416,941810,941815,943301,943407,944702,945117,945401,945827,946023,947204,949001,949302,951601", "accept_language": null, "is_partner": "", "is_branded": "", "logged_in": false, "guide_subs": "NA"}});  yt.setConfig({
+    'GUIDED_HELP_LOCALE': "ms_MY",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+yt.setConfig('SPF_SEARCH_BOX', true);yt.setMsg({'ADDTO_WATCH_LATER': "Tonton Kemudian",'ADDTO_WATCH_LATER_ADDED': "Ditambah",'ADDTO_WATCH_LATER_ERROR': "Ralat",'ADDTO_WATCH_QUEUE': "Baris Gilir Tontonan",'ADDTO_WATCH_QUEUE_ADDED': "Ditambah",'ADDTO_WATCH_QUEUE_ERROR': "Ralat",'ADDTO_TV_QUEUE': "Baris Gilir TV"});    yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqbllIbmRUZEhqcHZUem5uVHRRbFVzRUdPWFd1Z3xBQ3Jtc0tuOHlVM25hdHFlc1psbDBRQnU3cHIzdzVCOHVZZHZaODlyOGJMRE0wSVhaUkVVTTg5Y3NjcllVTC1VQ1VYcEFsQVFabjVGT09PNGFHdjFmMDB2RFJjU3FoZVdYS0RjanhxdHJBS0Z2VnFLdWFmR3F1U0xPbnZqRUpUcTliUDNna0JuY2xVeTlWbXQ2TG5ncnBMVjhWZGc3czlXT1E=",
+    'XSRF_REDIRECT_TOKEN': "LPml1usX2BhkK1wruMVJEedmrbt8MTQwNzI2MTI4MUAxNDA3MTc0ODgx",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+
+  yt.setConfig('FEED_PRIVACY_CSS_URL', "\/\/s.ytimg.com\/yts\/cssbin\/www-feedprivacydialog-webp-vfliOuSbn.css");
+
+  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);
+yt.setConfig({'SBOX_JS_URL': "\/\/s.ytimg.com\/yts\/jsbin\/www-searchbox-vfl9adFcD\/www-searchbox.js",'SBOX_SETTINGS': {"HAS_ON_SCREEN_KEYBOARD": false, "PQ": "", "REQUEST_LANGUAGE": "ms", "EXPERIMENT_ID": -1, "SESSION_INDEX": null, "REQUEST_DOMAIN": "nl", "PSUGGEST_TOKEN": null},'SBOX_LABELS': {"SUGGESTION_DISMISSED_LABEL": "Cadangan ditolak", "SUGGESTION_DISMISS_LABEL": "Ketepikan"}});  yt.setConfig({
+    'YPC_LOADER_ENABLED': true,
+    'YPC_LOADER_CONFIGS': "\/ypc_config_ajax",
+    'YPC_LOADER_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-ypc-vflm9X8dC\/www-ypc.js",
+    'YPC_LOADER_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-ypc-webp-vfljh7jN_.css",
+    'YPC_LOADER_CALLBACKS': ['yt.www.ypc.checkout.init', 'yt.www.ypc.subscription.init']
+  });
+  yt.setConfig('GOOGLE_HELP_CONTEXT', "watch");
+ytcsi.span('st', 202);yt.setConfig({'TIMING_ACTION': "watch,watch7_html5",'TIMING_INFO': {"ei": "4MjfU9qdOZC60AGOz4DoBg", "yt_spf": 0, "yt_li": 0, "yt_lt": "cold", "yt_pl": 0, "e": "900356,902408,927622,931983,934024,934030,940650,946023", "yt_ad": 0}});  yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqbllIbmRUZEhqcHZUem5uVHRRbFVzRUdPWFd1Z3xBQ3Jtc0tuOHlVM25hdHFlc1psbDBRQnU3cHIzdzVCOHVZZHZaODlyOGJMRE0wSVhaUkVVTTg5Y3NjcllVTC1VQ1VYcEFsQVFabjVGT09PNGFHdjFmMDB2RFJjU3FoZVdYS0RjanhxdHJBS0Z2VnFLdWFmR3F1U0xPbnZqRUpUcTliUDNna0JuY2xVeTlWbXQ2TG5ncnBMVjhWZGc3czlXT1E=",
+    'XSRF_REDIRECT_TOKEN': "LPml1usX2BhkK1wruMVJEedmrbt8MTQwNzI2MTI4MUAxNDA3MTc0ODgx",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);
+if (window.ytcsi) {window.ytcsi.tick("jl", null, '');}</script>
+</body></html>
+
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 17:57:12 Aug 4, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:13:22 Sep 13, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

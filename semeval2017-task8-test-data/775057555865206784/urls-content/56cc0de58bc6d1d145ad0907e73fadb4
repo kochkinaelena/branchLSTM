@@ -1,0 +1,810 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 13 Dec 2016 14:21:04 GMT
+Content-Type: text/html;charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+X-Cache: 0
+Content-Type-Options: nosniff
+X-XSS-PROTECTION: 1; mode=block
+Cache-Control: public, must-revalidate, max-age=86400
+Pragma: cache
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=25920000; includeSubDomains; preload
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="IMG/favicon.ico" />
+    <title>WikiLeaks - Hillary Clinton Email Archive</title>
+
+    <link href="/bootstrap/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/bootstrap/css/cerulean.min.css" rel="stylesheet">
+    <link href="/bootstrap/css/new-gen.css" rel="stylesheet">
+    <link href="/bootstrap/css/submit.css" rel="stylesheet">
+    <link href="/bootstrap/css/search.css" rel="stylesheet">
+    <link href="/assets/marker.css" rel="stylesheet">
+    <link href="/assets/clinton-emails.css" rel="stylesheet">
+    <link rel="stylesheet" href="/calendar/daterangepicker.css" />
+    <style type="text/css"> #search_mail form#searchform  input { max-width: 500px; float: right } </style>
+</head>
+<body>
+    <div id="submit_wlkey" class="submit_elem">
+	<div class="container">
+		<div class="text-center"><div class="submit_buttons btn-group" role="group">
+			<a href="#submit_help_contact" class="btn-wl btn-wl-empty">How to contact WikiLeaks?</a>
+			<a href="#submit_help_tor" class="btn-wl btn-wl-empty">What is Tor?</a>
+			<a href="#submit_help_tips" class="btn-wl btn-wl-empty">Tips for Sources</a>
+			<a href="#submit_help_after" class="btn-wl btn-wl-empty">After Submitting</a>
+		</div></div>
+		<p>This key's fingerprint is A04C 5E09 ED02 B328 03EB  6116 93ED 732E 9231 8DBA</p>
+		<pre>
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQQNBFUoCGgBIADFLp+QonWyK8L6SPsNrnhwgfCxCk6OUHRIHReAsgAUXegpfg0b
+rsoHbeI5W9s5to/MUGwULHj59M6AvT+DS5rmrThgrND8Dt0dO+XW88bmTXHsFg9K
+jgf1wUpTLq73iWnSBo1m1Z14BmvkROG6M7+vQneCXBFOyFZxWdUSQ15vdzjr4yPR
+oMZjxCIFxe+QL+pNpkXd/St2b6UxiKB9HT9CXaezXrjbRgIzCeV6a5TFfcnhncpO
+ve59rGK3/az7cmjd6cOFo1Iw0J63TGBxDmDTZ0H3ecQvwDnzQSbgepiqbx4VoNmH
+OxpInVNv3AAluIJqN7RbPeWrkohh3EQ1j+lnYGMhBktX0gAyyYSrkAEKmaP6Kk4j
+/ZNkniw5iqMBY+v/yKW4LCmtLfe32kYs5OdreUpSv5zWvgL9sZ+4962YNKtnaBK3
+1hztlJ+xwhqalOCeUYgc0Clbkw+sgqFVnmw5lP4/fQNGxqCO7Tdy6pswmBZlOkmH
+XXfti6hasVCjT1MhemI7KwOmz/KzZqRlzgg5ibCzftt2GBcV3a1+i357YB5/3wXE
+j0vkd+SzFioqdq5Ppr+//IK3WX0jzWS3N5Lxw31q8fqfWZyKJPFbAvHlJ5ez7wKA
+1iS9krDfnysv0BUHf8elizydmsrPWN944Flw1tOFjW46j4uAxSbRBp284wiFmV8N
+TeQjBI8Ku8NtRDleriV3djATCg2SSNsDhNxSlOnPTM5U1bmh+Ehk8eHE3hgn9lRp
+2kkpwafD9pXaqNWJMpD4Amk60L3N+yUrbFWERwncrk3DpGmdzge/tl/UBldPoOeK
+p3shjXMdpSIqlwlB47Xdml3Cd8HkUz8r05xqJ4DutzT00ouP49W4jqjWU9bTuM48
+LRhrOpjvp5uPu0aIyt4BZgpce5QGLwXONTRX+bsTyEFEN3EO6XLeLFJb2jhddj7O
+DmluDPN9aj639E4vjGZ90Vpz4HpN7JULSzsnk+ZkEf2XnliRody3SwqyREjrEBui
+9ktbd0hAeahKuwia0zHyo5+1BjXt3UHiM5fQN93GB0hkXaKUarZ99d7XciTzFtye
+/MWToGTYJq9bM/qWAGO1RmYgNr+gSF/fQBzHeSbRN5tbJKz6oG4NuGCRJGB2aeXW
+TIp/VdouS5I9jFLapzaQUvtdmpaeslIos7gY6TZxWO06Q7AaINgr+SBUvvrff/Nl
+l2PRPYYye35MDs0b+mI5IXpjUuBC+s59gI6YlPqOHXkKFNbI3VxuYB0VJJIrGqIu
+Fv2CXwy5HvR3eIOZ2jLAfsHmTEJhriPJ1sUG0qlfNOQGMIGw9jSiy/iQde1u3ZoF
+so7sXlmBLck9zRMEWRJoI/mgCDEpWqLX7hTTABEBAAG0x1dpa2lMZWFrcyBFZGl0
+b3JpYWwgT2ZmaWNlIEhpZ2ggU2VjdXJpdHkgQ29tbXVuaWNhdGlvbiBLZXkgKFlv
+dSBjYW4gY29udGFjdCBXaWtpTGVha3MgYXQgaHR0cDovL3dsY2hhdGMzcGp3cGxp
+NXIub25pb24gYW5kIGh0dHBzOi8vd2lraWxlYWtzLm9yZy90YWxrKSA8Y29udGFj
+dC11cy11c2luZy1vdXItY2hhdC1zeXN0ZW1Ad2lraWxlYWtzLm9yZz6JBD0EEwEK
+ACcCGwMFCwkIBwMFFQoJCAsFFgIDAQACHgECF4AFAlb6cdIFCQOznOoACgkQk+1z
+LpIxjbrlqh/7B2yBrryWhQMGFj+xr9TIj32vgUIMohq94XYqAjOnYdEGhb5u5B5p
+BNowcqdFB1SOEvX7MhxGAqYocMT7zz2AkG3kpf9f7gOAG7qA1sRiB+R7mZtUr9Kv
+fQSsRFPb6RNzqqB9I9wPNGhBh1YWusUPluLINwbjTMnHXeL96HgdLT+fIBa8ROmn
+0fjJVoWYHG8QtsKiZ+lo2m/J4HyuJanAYPgL6isSu/1bBSwhEIehlQIfXZuS3j35
+12SsO1Zj2BBdgUIrADdMAMLneTs7oc1/PwxWYQ4OTdkay2deg1g/N6YqM2N7rn1W
+7A6tmuH7dfMlhcqw8bf5veyag3RpKHGcm7utDB6k/bMBDMnKazUnM2VQoi1mutHj
+kTCWn/vF1RVz3XbcPH94gbKxcuBi8cjXmSWNZxEBsbirj/CNmsM32Ikm+WIhBvi3
+1mWvcArC3JSUon8RRXype4ESpwEQZd6zsrbhgH4UqF56pcFT2ubnqKu4wtgOECsw
+K0dHyNEiOM1lL919wWDXH9tuQXWTzGsUznktw0cJbBVY1dGxVtGZJDPqEGatvmiR
+o+UmLKWyxTScBm5o3zRm3iyU10d4gka0dxsSQMl1BRD3G6b+NvnBEsV/+KCjxqLU
+vhDNup1AsJ1OhyqPydj5uyiWZCxlXWQPk4p5WWrGZdBDduxiZ2FTj17hu8S4a5A4
+lpTSoZ/nVjUUl7EfvhQCd5G0hneryhwqclVfAhg0xqUUi2nHWg19npPkwZM7Me/3
++ey7svRUqxVTKbXffSOkJTMLUWqZWc087hL98X5rfi1E6CpBO0zmHeJgZva+PEQ/
+ZKKi8oTzHZ8NNlf1qOfGAPitaEn/HpKGBsDBtE2te8PF1v8LBCea/d5+Umh0GELh
+5eTq4j3eJPQrTN1znyzpBYkR19/D/Jr5j4Vuow5wEE28JJX1TPi6VBMevx1oHBuG
+qsvHNuaDdZ4F6IJTm1ZYBVWQhLbcTginCtv1sadct4Hmx6hklAwQN6VVa7GLOvnY
+RYfPR2QA3fGJSUOg8xq9HqVDvmQtmP02p2XklGOyvvfQxCKhLqKi0hV9xYUyu5dk
+2L/A8gzA0+GIN+IYPMsf3G7aDu0qgGpi5Cy9xYdJWWW0DA5JRJc4/FBSN7xBNsW4
+eOMxl8PITUs9GhOcc68Pvwyv4vvTZObpUjZANLquk7t8joky4Tyog29KYSdhQhne
+oVODrdhTqTPn7rjvnwGyjLInV2g3pKw/Vsrd6xKogmE8XOeR8Oqk6nun+Y588Nsj
+XddctWndZ32dvkjrouUAC9z2t6VE36LSyYJUZcC2nTg6Uir+KUTs/9RHfrvFsdI7
+iMucdGjHYlKc4+YwTdMivI1NPUKo/5lnCbkEDQRVKAhoASAAvnuOR+xLqgQ6KSOO
+RTkhMTYCiHbEsPmrTfNA9VIip+3OIzByNYtfFvOWY2zBh3H2pgf+2CCrWw3WqeaY
+wAp9zQb//rEmhwJwtkW/KXDQr1k95D5gzPeCK9R0yMPfjDI5nLeSvj00nFF+gjPo
+Y9Qb10jp/Llqy1z35Ub9ZXuA8ML9nidkE26KjG8FvWIzW8zTTYA5Ezc7U+8HqGZH
+VsK5KjIO2GOnJiMIly9MdhawS2IXhHTV54FhvZPKdyZUQTxkwH2/8QbBIBv0OnFY
+3w75Pamy52nAzI7uOPOU12QIwVj4raLC+DIOhy7bYf9pEJfRtKoor0RyLnYZTT3N
+0H4AT2YeTra17uxeTnI02lS2Jeg0mtY45jRCU7MrZsrpcbQ464I+F411+AxI3NG3
+cFNJOJO2HUMTa+2PLWa3cERYM6ByP60362co7cpZoCHyhSvGppZyH0qeX+BU1oyn
+5XhT+m7hA4zupWAdeKbOaLPdzMu2Jp1/QVao5GQ8kdSt0n5fqrRopO1WJ/S1eoz+
+Ydy3dCEYK+2zKsZ3XeSC7MMpGrzanh4pk1DLr/NMsM5L5eeVsAIBlaJGs75Mp+kr
+ClQL/oxiD4XhmJ7MlZ9+5d/o8maV2K2pelDcfcW58tHm3rHwhmNDxh+0t5++i30y
+BIa3gYHtZrVZ3yFstp2Ao8FtXe/1ALvwE4BRalkh+ZavIFcqRpiF+YvNZ0JJF52V
+rwL1gsSGPsUY6vsVzhpEnoA+cJGzxlor5uQQmEoZmfxgoXKfRC69si0ReoFtfWYK
+8Wu9sVQZW1dU6PgBB30X/b0Sw8hEzS0cpymyBXy8g+itdi0NicEeWHFKEsXa+HT7
+mjQrMS7c84Hzx7ZOH6TpX2hkdl8Nc4vrjF4iff1+sUXj8xDqedrg29TseHCtnCVF
+kfRBvdH2CKAkbgi9Xiv4RqAP9vjOtdYnj7CIG9uccek/iu/bCt1y/MyoMU3tqmSJ
+c8QeA1L+HENQ/HsiErFGug+Q4Q1SuakHSHqBLS4TKuC+KO7tSwXwHFlFp47GicHe
+rnM4v4rdgKic0Z6lR3QpwoT9KwzOoyzyNlnM9wwnalCLwPcGKpjVPFg1t6F+eQUw
+WVewkizhF1sZBbED5O/+tgwPaD26KCNuofdVM+oIzVPOqQXWbaCXisNYXoktH3Tb
+0X/DjsIeN4TVruxKGy5QXrvo969AQNx8Yb82BWvSYhJaXX4bhbK0pBIT9fq08d5R
+IiaN7/nFU3vavXa+ouesiD0cnXSFVIRiPETCKl45VM+f3rRHtNmfdWVodyXJ1O6T
+ZjQTB9ILcfcb6XkvH+liuUIppINu5P6i2CqzRLAvbHGunjvKLGLfvIlvMH1mDqxp
+VGvNPwARAQABiQQlBBgBCgAPAhsMBQJW+nHeBQkDs5z2AAoJEJPtcy6SMY26Qtgf
+/0tXRbwVOBzZ4fI5NKSW6k5A6cXzbB3JUxTHMDIZ93CbY8GvRqiYpzhaJVjNt2+9
+zFHBHSfdbZBRKX8N9h1+ihxByvHncrTwiQ9zFi0FsrJYk9z/F+iwmqedyLyxhIEm
+SHtWiPg6AdUM5pLu8GR7tRHagz8eGiwVar8pZo82xhowIjpiQr0Bc2mIAusRs+9L
+jc+gjwjbhYIg2r2r9BUBGuERU1A0IB5Fx+IomRtcfVcL/JXSmXqXnO8+/aPwpBuk
+bw8sAivSbBlEu87P9OovsuEKxh/PJ65duQNjC+2YxlVcF03QFlFLGzZFN7Fcv5JW
+lYNeCOOz9NP9TTsR2EAZnacNk75/FYwJSJnSblCBre9xVA9pI5hxb4zu7CxRXuWc
+QJs8Qrvdo9k4Jilx5U9X0dsiNH2swsTM6T1gyVKKQhf5XVCS4bPWYagXcfD9/xZE
+eAhkFcAuJ9xz6XacT9j1pw50MEwZbwDneV93TqvHmgmSIFZow1aU5ACp+N/ksT6E
+1wrWsaIJjsOHK5RZj/8/2HiBftjXscmL3K8k6MbDI8P9zvcMJSXbPpcYrffw9A6t
+ka9skmLKKFCcsNJ0coLLB+mw9DVQGc2dPWPhPgtYZLwG5tInS2bkdv67qJ4lYsRM
+jRCW5xzlUZYk6SWD4KKbBQoHbNO0Au8Pe/N1SpYYtpdhFht9fGmtEHNOGPXYgNLq
+VTLgRFk44Dr4hJj5I1+d0BLjVkf6U8b2bN5PcOnVH4Mb+xaGQjqqufAMD/IFO4Ro
+TjwKiw49pJYUiZbw9UGaV3wmg+fue9To1VKxGJuLIGhRXhw6ujGnk/CktIkidRd3
+5pAoY5L4ISnZD8Z0mnGlWOgLmQ3IgNjAyUzVJRhDB5rVQeC6qX4r4E1xjYMJSxdz
+Aqrk25Y//eAkdkeiTWqbXDMkdQtig2rY+v8GGeV0v09NKiT+6extebxTaWH4hAgU
+FR6yq6FHs8mSEKC6Cw6lqKxOn6pwqVuXmR4wzpqCoaajQVz1hOgD+8QuuKVCcTb1
+4IXXpeQBc3EHfXJx2BWbUpyCgBOMtvtjDhLtv5p+4XN55GqY+ocYgAhNMSK34AYD
+AhqQTpgHAX0nZ2SpxfLr/LDN24kXCmnFipqgtE6tstKNiKwAZdQBzJJlyYVpSk93
+6HrYTZiBDJk4jDBh6jAx+IZCiv0rLXBM6QxQWBzbc2AxDDBqNbea2toBSww8HvHf
+hQV/G86Zis/rDOSqLT7e794ezD9RYPv55525zeCk3IKauaW5+WqbKlwosAPIMW2S
+kFODIRd5oMI51eof+ElmB5V5T9lw0CHdltSM/hmYmp/5YotSyHUmk91GDFgkOFUc
+J3x7gtxUMkTadELqwY6hrU8=
+=BLTH
+-----END PGP PUBLIC KEY BLOCK-----
+		</pre>
+	</div>
+</div>
+
+<div id="submit_help_contact" class="submit_elem">
+	<div class="container">
+		<div class="text-center"><div class="submit_buttons btn-group" role="group">
+			<a href="#submit_help_contact" class="btn-wl">How to contact WikiLeaks?</a>
+			<a href="#submit_help_tor" class="btn-wl btn-wl-empty">What is Tor?</a>
+			<a href="#submit_help_tips" class="btn-wl btn-wl-empty">Tips for Sources</a>
+			<a href="#submit_help_after" class="btn-wl btn-wl-empty">After Submitting</a>
+		</div></div>
+
+		<h3>Contact</h3>
+		<p>If you need help using Tor you can contact WikiLeaks for assistance in setting it up using our simple webchat available at: <a href="https://wikileaks.org/talk">https://wikileaks.org/talk</a></p>
+		<p>If you can use Tor, but need to contact WikiLeaks for other reasons use our secured webchat available at <b>http://wlchatc3pjwpli5r.onion</b></p>
+		<p>We recommend contacting us over Tor if you can.</p>
+	</div>
+</div>
+
+<div id="submit_help_tor" class="submit_elem">
+	<div class="container">
+		<div class="text-center"><div class="submit_buttons btn-group" role="group">
+			<a href="#submit_help_contact" class="btn-wl btn-wl-empty">How to contact WikiLeaks?</a>
+			<a href="#submit_help_tor" class="btn-wl">What is Tor?</a>
+			<a href="#submit_help_tips" class="btn-wl btn-wl-empty">Tips for Sources</a>
+			<a href="#submit_help_after" class="btn-wl btn-wl-empty">After Submitting</a>
+		</div></div>
+
+		<h3>Tor</h3>
+		<p><a href="https://www.torproject.org">Tor</a> is an encrypted anonymising network that makes it harder to intercept internet communications, or see where communications are coming from or going to.</p>
+		<p>In order to use the WikiLeaks public submission system as detailed above you can download the Tor Browser Bundle, which is a Firefox-like browser available for Windows, Mac OS X and GNU/Linux and pre-configured to connect using the anonymising system Tor.</p>
+		<h4>Tails</h4>
+		<p>If you are at high risk and you have the capacity to do so, you can also access the submission system through a secure operating system called <a href="https://tails.boum.org">Tails</a>. Tails is an operating system launched from a USB stick or a DVD that aim to leaves no traces when the computer is shut down after use and automatically routes your internet traffic through Tor. Tails will require you to have either a USB stick or a DVD at least 4GB big and a laptop or desktop computer.</p>
+	</div>
+</div>
+
+<div id="submit_help_tips" class="submit_elem">
+	<div class="container">
+		<div class="text-center">
+			<div class="submit_buttons btn-group" role="group">
+				<a href="#submit_help_contact" class="btn-wl btn-wl-empty">How to contact WikiLeaks?</a>
+				<a href="#submit_help_tor" class="btn-wl btn-wl-empty">What is Tor?</a>
+				<a href="#submit_help_tips" class="btn-wl">Tips for Sources</a>
+				<a href="#submit_help_after" class="btn-wl btn-wl-empty">After Submitting</a>
+			</div>
+		</div>
+
+		<h3>Tips</h3>
+		<p>Our submission system works hard to preserve your anonymity, but we recommend you also take some of your own precautions. Please review these basic guidelines. </p>
+		<div>
+			<h4>1. Contact us if you have specific problems</h4>
+			<p>If you have a very large submission, or a submission with a complex format, or are a high-risk source, please <a href="#submit_help_contact">contact us</a>. In our experience it is always possible to find a custom solution for even the most seemingly difficult situations.</p>
+		</div>
+		<div>
+			<h4>2. What computer to use</h4>
+			<p>If the computer you are uploading from could subsequently be audited in an investigation, consider using a computer that is not easily tied to you. Technical users can also use <a href="https://tails.boum.org">Tails</a> to help ensure you do not leave any records of your submission on the computer.</p>
+		</div>
+		<div>
+			<h4>3. Do not talk about your submission to others</h4>
+			<p>If you have any issues talk to WikiLeaks. We are the global experts in source protection – it is a complex field. Even those who mean well often do not have the experience or expertise to advise properly. This includes other media organisations.</p>
+		</div>
+
+	</div>
+</div>
+
+<div id="submit_help_after" class="submit_elem">
+	<div class="container">
+		<div class="text-center">
+			<div class="submit_buttons btn-group" role="group">
+				<a href="#submit_help_contact" class="btn-wl btn-wl-empty">How to contact WikiLeaks?</a>
+				<a href="#submit_help_tor" class="btn-wl btn-wl-empty">What is Tor?</a>
+				<a href="#submit_help_tips" class="btn-wl btn-wl-empty">Tips for Sources</a>
+				<a href="#submit_help_after" class="btn-wl">After Submitting</a>
+			</div>
+		</div>
+
+		<h3>After</h3>
+
+		<div>
+			<h4>1. Do not talk about your submission to others</h4>
+			<p>If you have any issues talk to WikiLeaks. We are the global experts in source protection – it is a complex field. Even those who mean well often do not have the experience or expertise to advise properly. This includes other media organisations.</p>
+		</div>
+
+		<div>
+			<h4>2. Act normal</h4>
+			<p>If you are a high-risk source, avoid saying anything or doing anything after submitting which might promote suspicion. In particular, you should try to stick to your normal routine and behaviour.</p>
+		</div>
+
+		<div>
+			<h4>3. Remove traces of your submission</h4>
+			<p>If you are a high-risk source and the computer you prepared your submission on, or uploaded it from, could subsequently be audited in an investigation, we recommend that you format and dispose of the computer hard drive and any other storage media you used.</p>
+			<p>In particular, hard drives retain data after formatting which may be visible to a digital forensics team and flash media (USB sticks, memory cards and SSD drives) retain data even after a secure erasure. If you used flash media to store sensitive data, it is important to destroy the media.</p>
+			<p>If you do this and are a high-risk source you should make sure there are no traces of the clean-up, since such traces themselves may draw suspicion.</p>
+			<div>
+				<h4>4. If you face legal action</h4>
+				<p>If a legal action is brought against you as a result of your submission, there are organisations that may help you. The Courage Foundation is an international organisation dedicated to the protection of journalistic sources. You can find more details at <a href="https://www.couragefound.org">https://www.couragefound.org</a>.</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="submit" class="submit_banner">
+	<div class="container">
+		<div class="page-header">
+			<h1>Submit documents to WikiLeaks</h1>
+			<a class="remove-button" href="#"><span class="glyphicon glyphicon-remove-circle"></span></a>
+		</div>
+		<p>WikiLeaks publishes documents of political or historical importance that are censored or otherwise suppressed. We specialise in strategic global publishing and large archives.</p>
+		<p>The following is the address of our secure site where you can anonymously upload your documents to WikiLeaks editors. You can only access this submissions system through Tor. (See our <a href="#submit_help_tor">Tor tab</a> for more information.) We also advise you to read our <a href="#submit_help_tips">tips for sources</a> before submitting.</p>
+
+		<div class="alert alert-info">
+			<div class="onion-url">wlupld3ptjvsgwqw.onion</div>
+			<div>
+				Copy this address into your Tor browser. Advanced users, if they wish, can also add a further layer of encryption to their submission using <a href="#submit_wlkey">our public PGP key</a>.
+			</div>
+		</div>
+
+		<p>If you cannot use Tor, or your submission is very large, or you have specific requirements, WikiLeaks provides several alternative methods. <a href="#submit_help_contact">Contact us</a> to discuss how to proceed.</p>
+	</div>
+</div>
+<div id="submit_help_buttons" class="submit_elem">
+	<div class="container">
+		<div class="text-center">
+			<div class="submit_buttons btn-group" role="group">
+				<a href="#submit_help_contact" class="btn-wl btn-wl-empty">How to contact WikiLeaks?</a>
+				<a href="#submit_help_tor" class="btn-wl btn-wl-empty">What is Tor?</a>
+				<a href="#submit_help_tips" class="btn-wl btn-wl-empty">Tips for Sources</a>
+				<a href="#submit_help_after" class="btn-wl btn-wl-empty">After Submitting</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+    <div id="main">
+        
+
+<link href="/static/css/styles_topnav.css" rel="stylesheet">
+<link href="/static/css/styles_sidenav.css" rel="stylesheet">
+<div class="top-navigation">
+  <nav class="navbar">
+      <a href="#menu" class="mobile-only hot-dog nav-element">
+      </a>
+    <div class="nav-logo">
+      <a href="https://wikileaks.org">
+        <h1>WikiLeaks</h1>
+      </a>
+    </div>
+    <div class="action-buttons">
+      <a class="button-face support-link" href="https://wikileaks.spreadshirt.com/" target="_blank">Shop</a>
+      <a class="button-face donate-link" href="https://shop.wikileaks.org/donate">Donate</a>
+      <a class="button-face submit-link" href="#submit">Submit</a>
+    </div>
+    <form class="global-search" method="get" action="https://search.wikileaks.org/">
+      <input type="text" name="q" placeholder="Search">
+      <button class="btn-search" type="submit"></button>
+    </form>
+    <div class="main-nav">
+      
+        <ul class="first-level">
+          
+            <li>
+              <a class=" leaks-menu-item" href="https://wikileaks.org/-Leaks-.html">Leaks</a>
+            </li>
+          
+            <li>
+              <a class=" news-menu-item" href="https://wikileaks.org/-News-.html">News</a>
+            </li>
+          
+            <li>
+              <a class=" about-menu-item" href="https://wikileaks.org/-About-66-.html">About</a>
+            </li>
+          
+            <li>
+              <a class=" partners-menu-item" href="https://wikileaks.org/-Partners-.html">Partners</a>
+            </li>
+          
+        </ul>
+      
+    </div>
+  </nav>
+</div><nav id="menu" class="side-nav rub">
+  <div class="menu-wrapper">
+    <a class="close-btn nav-element" href="#"></a>
+    
+      <ul class="first-level">
+        
+          <li>
+            <a class=" leaks-menu-item" href="https://wikileaks.org/-Leaks-.html">Leaks</a>
+            
+          </li>
+        
+          <li>
+            <a class=" news-menu-item" href="https://wikileaks.org/-News-.html">News</a>
+            
+          </li>
+        
+          <li>
+            <a class=" about-menu-item" href="https://wikileaks.org/-About-66-.html">About</a>
+            
+          </li>
+        
+          <li>
+            <a class=" partners-menu-item" href="https://wikileaks.org/-Partners-.html">Partners</a>
+            
+          </li>
+        
+      </ul>
+    
+    <aside class="friends mobile-only">
+      
+        <ul class="first-level">
+          
+            <li>
+              <a href="https://our.wikileaks.org" target="_blank">our.wikileaks.org</a>
+            </li>
+          
+            <li>
+              <a href="https://www.torproject.org/" target="_blank">Tor Project</a>
+            </li>
+          
+            <li>
+              <a href="https://tails.boum.org/" target="_blank">Tails</a>
+            </li>
+          
+            <li>
+              <a href="https://www.couragefound.org/" target="_blank">Courage</a>
+            </li>
+          
+            <li>
+              <a href="https://www.bitcoin.org/" target="_blank">Bitcoin</a>
+            </li>
+          
+        </ul>
+      
+    </aside>
+    <aside class="social mobile-only">
+      <ul>
+        <li>
+          <a href="https://www.facebook.com/wikileaks" class="nav-element" target="_blank" alt="Facebook">
+            <img class="img-responsive" src="/static/img/fb-logo.png" alt="Facebook" title="Facebook page" />
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/wikileaks" class="nav-element" target="_blank" alt="Twitter">
+            <img class="img-responsive" src="/static/img/twitter-logo.png" alt="Twitter" title="Twitter page" />
+          </a>
+        </li>
+      </ul>
+    </aside>
+  </div>
+</nav>
+
+        <div class="container-fluid row-fluid">
+
+
+            <div class="col-xs-12 col-sm-12 col-md-12 container-text" id="right-pane">
+
+
+                    
+	<div class="content">
+		<h1>Hillary Clinton Email Archive</h1>
+		<p class="lead"><a href="/clinton-emails/">Back to the Search</a></p>
+	</div>
+	<div class="tabbable">
+		<ul class="nav nav-tabs">
+			<li role="presentation" class="in active"><a href="#content" data-toggle="tab" class="topTab">View email</a></li>
+				<li role="presentation" class="in"><a href="#source" data-toggle="tab" class="topTab">View original PDF</a></li>
+			<li role="presentation" class="in"><a href="#share" data-toggle="tab" class="topTab">Share document</a></li>
+		</ul>
+
+		<div class="tab-content">
+
+			<div class="tab-pane fade in active" id="content">
+				<h2>ARTICLE I MENTIONED</h2>
+				<header id="header">
+					From: <span title="Original: Abedin, Huma">Huma Abedin</span>
+					To: <span title="Original: Hillary Clinton">Hillary Clinton</span>
+					Date: 2013-01-04 10:10
+					Subject: ARTICLE I MENTIONED
+				</header>
+
+
+
+				<div class="email-content" id="uniquer">
+					<span class="unclassified">UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05797604 Date: 11/30/2015</span>
+
+                                                                                                      RELEASE
+
+                                                                                                      IN FULL
+
+<span class="inlinemeta">From:	                             Abedin, Huma &lt;AbedinH@state.gov&gt;
+Sent:	                             Friday, January 4, 2013 5:10 PM
+</span>
+<span class="inlinemeta">To:
+Subject:	                          Article I mentioned
+</span>
+
+Hillary Clinton's Blood Clot Treatment And The Need For Privacy By Dr. Marc Siegel FOX News Thursday, January 3, 2013
+
+Secretary of State Hillary Clinton's happy departure from Columbia Presbyterian Hospital the day after New Year's was
+not shrouded in mystery - nor was it announced with great fanfare. This is as it should be. A powerful politician's health
+
+is naturally of great interest to the public and can even serve as a learning tool for various diseases for other people at
+risk for them. But keep in mind that these high-profile individuals are human beings who are entitled to their privacy,
+and their physicians are bound by the same HIPPA laws that govern all medical details for all patients.
+
+In fact Secretary Clinton's neurologist at Columbia, who I heard from yesterday, is a top national expert on strokes, brain
+clots, bleeds, and head trauma. She couldn't be in better hands. Her condition, Right Transverse Sinus Thrombosis, is a
+
+fancy term for a blood clot forming in one of the main sinuses (a drain) of the brain. This clot can lead to brain swelling
+or a stroke, and it is certainly life threatening. However, in a situation where it is found incidentally and no symptoms
+have been exhibited, the risk is less because the brain's venous system may have found another way to drain while the
+
+clot is in the process of being dissolved.
+
+It is the body itself which dissolves the clot, not the anti-coagulants (heparin followed by Coumadin), but the latter
+prevent further clots from forming as the brain is healing. Now that Mrs. Clinton has been on blood thinners successfully
+for a few days, her risk of a stroke or other serious complication has decreased dramatically.
+
+She is going home because her blood tests are no doubt showing that her Coumadin dose is therapeutic.
+
+Why did this clot in the brain occur in the first place? Studies have shown that head trauma, which followed Secretary
+Clinton's faint a month ago, is one likely contributor, along with the dehydration that she probably suffered from a
+gastrointestinal virus a month ago and the associated diarrhea. Though the mechanism of a clot in the leg is more
+
+generally linked with immobility, there have been reports of venous clots in the brain occurring after prolonged sitting
+on planes.
+
+Since she suffered another blood clot in 1998, she now requires a hematological work-up to make sure she doesn't have
+an underlying tendency to form blood clots in the first place - known as hypercoagulability. If she does have that
+tendency, she will require a more prolonged or even permanent course of blood thinners, as well as an investigation to
+
+ make sure there is no blood-thickening malignancy. This work-up cannot be completed until she is off Coumadin, which
+ interferes with some of the results.
+
+ Blood thinners are likely to be successful in Hillary Clinton's case, and she can look forward to a full recovery with the
+ help of her careful devoted physicians. Her illness is a reminder to all of us in the media, journalist and physician alike,
+ that health care is primarily a private matter, not a time for lurid interest and certainly not a time for political criticism.
+
+ When it comes to celebrities and public leaders like Secretary Clinton, the urge to speculate and pontificate is high - but
+ the high road is lined with respect and restraint.
+
+ Dr. Marc Siegel is an associate professor of medicine and medical director of Doctor Radio at NYU Langone Medical
+
+ Center. He is a member of the Fox News Medical A Team and author of The Inner Pulse: Unlocking the Secret Code of
+ Sickness and Health.
+				</div>
+
+
+			</div>
+
+				<div class="tab-pane fade in" id="source">
+					<iframe src="/pdfjs/web/viewer.html?file=/clinton-emails/Clinton_Email_November_Release/C05797604.pdf#zoom=page-width" style="width:100%; height:600px"></iframe>
+					<p><a href="/clinton-emails/Clinton_Email_November_Release/C05797604.pdf" download>Download Clinton_Email_November_Release/C05797604.pdf</a></p>
+				</div>
+
+			<div class="tab-pane fade in" id="share">
+				<form>
+
+					<div class="form-group">
+						<label for="permalink">Permalink</label>
+						<input type="text" name="permalink" id="permalink" class="form-control" value="https://www.wikileaks.org/clinton-emails/emailid/17243">
+					</div>
+					<div class="form-group">
+						<label for="pdflink">Direct link to PDF</label>
+						<input type="text" name="pdflink" id="pdflink" class="form-control" value="https://www.wikileaks.org/clinton-emails/Clinton_Email_November_Release/C05797604.pdf" />
+					</div>
+					<div class="form-group">
+						<label for="embed">Embed code</label>
+						<input type="text" name="embed" id="embed" class="form-control"
+							value='&lt;iframe src="https://www.wikileaks.org/clinton-emails/emailid/17243?embed=1"&gt;&lt;/iframe&gt;'>
+						</textarea>
+					</div>
+
+				</form>
+
+			</div>
+
+
+		</div>
+		<p style="margin-top: 10px"><a href="https://www.wikileaks.org/plusd/">See Also US Diplomatic Cable Search</a></p>
+	</div>
+
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+    <script type="text/javascript" src="/assets/mootools-core-and-more.js"></script>
+<script type="text/javascript" src="/assets/efatmarker.min.js"></script>
+<div id="efm-button">
+	<div id="efm-menu">
+		<h3 style="margin:0 0 2px 0">e-Highlighter</h3>
+		<a id="efm-permalink" class="efm-need-highlight" href="" style="margin-bottom:0;padding-bottom:0;"></a>
+		<p style="margin-top:0;padding-top:0" class="efm-need-highlight">Click to send permalink to address bar, or right-click to copy permalink.</p>
+		<p style="margin:0.5em 0;padding:0;border-top:1px dotted #ccc;height:1px"></p>
+		<a id="efm-unhighlightall" class="efm-need-highlight">Un-highlight all</a>
+		<a id="efm-unhighlight">Un-highlight selection<span>u</span></a>
+		<a id="efm-highlight">Highlight selection<span>h</span></a>
+	</div>
+</div>
+<script type="text/javascript">
+
+(function(){
+		window.addEvent('domready', function(){
+
+		if(window.jQuery) {
+			jQuery("#efm-highlight,#efm-unhighlight,#efm-unhighlightall,.topTab").click(function() {
+				updateLinks();
+			});
+
+		}
+		var markerButton = $('efm-button');
+		if ( markerButton ) {
+			eMarker = new EFatMarker($('uniquer'));
+			eMarker.tokenToSpans();
+			markerButton.addEvent('mousedown', function(){
+				eMarker.interpretSelection(true);
+				return false;
+			});
+
+			$('efm-unhighlightall').addEvent('mousedown', function(){
+				eMarker.unhighlightAll(true);
+				return false;
+			});
+			$('efm-unhighlight').addEvent('mousedown', function(){
+				eMarker.unhighlightSelection(true);
+				return false;
+			});
+			$('efm-highlight').addEvent('mousedown', function(){
+				eMarker.highlightSelection(true);
+				return false;
+			});
+			$('efm-permalink').addEvent('mousedown', function(){
+				window.location.href = this.href;
+				return false;
+			});
+			var updateLinks = function() {
+				if(window.jQuery && jQuery("input#permalink")) {
+					var pm = jQuery("input#permalink");
+					var pt = jQuery("input#embed");
+					var url = jQuery("#efm-permalink").attr("href");
+					var hashurl = "";
+					if(url.indexOf('#') != -1) {
+						hashurl = "#" + url.substring(url.indexOf('#')+1);
+					}
+					pm.val(url);
+
+					pt.val(
+						'<iframe src="https://www.wikileaks.org/clinton-emails/emailid/17243?embed=1' +
+						hashurl +
+						'"></iframe>'
+
+					);
+				}
+			}
+			if (Keyboard) {
+				var keyboard = new Keyboard({
+					defaultEventType: 'keyup',
+					events: {
+						'h': function(){
+							eMarker.highlightSelection(true);
+							updateLinks();
+
+
+						},
+						'u': function(){
+							eMarker.unhighlightSelection(true);
+							updateLinks();
+						}
+					}
+				});
+				keyboard.activate();
+			}
+			eMarker.syncDOM();
+			if (eMarker.hasSpans()) {
+				var scroll = new Fx.Scroll(
+					window, {
+						offset: {
+							'x': 0,'y': -100
+						}
+					}
+				),
+				highlights = $$('#uniquer .efm-hi');
+				if (highlights.length > 0) {
+					scroll.toElement(highlights[0]);
+				}
+			}
+		}
+	});
+})();
+</script>
+
+<!-- /efatmarker -->
+
+    <script src="/bootstrap/js/jquery.min.js"></script>
+    <script type="text/javascript">
+		var $j = jQuery.noConflict();
+	</script>
+	<script src="/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/calendar/moment.min.js"></script>
+    <script src="/calendar/daterangepicker.js"></script>
+    <script>
+        if(window.jQuery) {
+            jQuery("#advFrom a").click(function() {
+                jQuery("#mfrom").val(jQuery(this).attr("data-name"));
+                return false;
+            });
+            jQuery("#advTo a").click(function() {
+                jQuery("#mto").val(jQuery(this).attr("data-name"));
+                return false;
+            });
+            jQuery("a#showTo").click(function() {
+                jQuery('#advTo').slideToggle();
+                jQuery(this).html(jQuery(this).html().replace(/(Show|Hide)/, function(m) {
+                    var a = {Show: "Hide", Hide: "Show"};
+                    return a[m];
+                }));
+                return false;
+            });
+            jQuery("a#showFrom").click(function() {
+                jQuery('#advFrom').slideToggle();
+                jQuery(this).html(jQuery(this).html().replace(/(Show|Hide)/, function(m) {
+                    var a = {Show: "Hide", Hide: "Show"};
+                    return a[m];
+                }));
+                return false;
+            });
+            jQuery("input.daterange").daterangepicker({
+                autoUpdateInput: false,
+                showDropdowns: true,
+                startDate: "2009-01-01",
+                endDate: "2014-12-14",
+                minDate: "1995-03-02",
+                maxDate: "2014-12-14",
+                locale: {
+                    "format": "YYYY-MM-DD",
+                    cancelLabel: 'Clear'
+                },
+                "ranges": {
+                    "All": [
+                        "1995-03-02",
+                        "2014-12-31"
+                    ],
+                    "2009": [
+                        "2009-01-01",
+                        "2009-12-31"
+                    ],
+                    "2010": [
+                        "2010-01-01",
+                        "2010-12-31"
+                    ],
+                    "2011": [
+                        "2011-01-01",
+                        "2011-12-31"
+                    ],
+                    "2012": [
+                        "2012-01-01",
+                        "2012-12-31"
+                    ],
+                    "2013": [
+                        "2013-01-01",
+                        "2013-12-31"
+                    ],
+                    "2014": [
+                        "2014-01-01",
+                        "2014-12-31"
+                    ],
+                }
+            }, function(start, end, label) {
+                jQuery("#date_from").val(start.format("YYYY-MM-DD"));
+                jQuery("#date_to").val(end.format("YYYY-MM-DD"));
+            });
+
+            jQuery('input.daterange').on('apply.daterangepicker', function(ev, picker) {
+                jQuery(this).val(picker.startDate.format('YYYY-MM-DD') + ' to ' + picker.endDate.format('YYYY-MM-DD'));
+            });
+
+            jQuery('input.daterange').on('cancel.daterangepicker', function(ev, picker) {
+                jQuery(this).val('');
+                jQuery("#date_from").val('');
+                jQuery("#date_to").val('');
+            });
+
+        }
+    </script>
+    
+
+<link href="/static/css/styles_footer.css" rel="stylesheet">
+<footer id="page-footer" class="footer-recommendations">
+  <div class="footer-wrapper">
+    <div class="recommendation-container">
+      <a href="#" class="top">Top</a>
+      
+        <ul class="recommendation-links">
+          
+            <li class="recommendation">
+              <a href="https://our.wikileaks.org" target="_blank">
+                <div class="teaser"><img class="spip_logos" alt="" src="/IMG/arton666.png?1479930944" width="360" height="240" /></div>
+                <p>
+<p>WL Research Community - user contributed research based on documents published by WikiLeaks.</p>
+</p>
+              </a>
+            </li>
+          
+            <li class="recommendation">
+              <a href="https://www.torproject.org/" target="_blank">
+                <div class="teaser"><img class="spip_logos" alt="" src="/IMG/arton401.png?1467279700" width="300" height="180" /></div>
+                <p>
+<p>Tor is an encrypted anonymising network that makes it harder to intercept internet communications, or see where communications are coming from or going to.</p>
+</p>
+              </a>
+            </li>
+          
+            <li class="recommendation">
+              <a href="https://tails.boum.org/" target="_blank">
+                <div class="teaser"><img class="spip_logos" alt="" src="/IMG/arton405.png?1467279700" width="446" height="223" /></div>
+                <p>
+<p>Tails is a live operating system, that you can start on almost any computer from a DVD, USB stick, or SD card. It aims at preserving your privacy and anonymity.</p>
+</p>
+              </a>
+            </li>
+          
+            <li class="recommendation">
+              <a href="https://www.couragefound.org/" target="_blank">
+                <div class="teaser"><img class="spip_logos" alt="" src="/IMG/arton404.png?1467279700" width="357" height="50" /></div>
+                <p>
+<p>The Courage Foundation is an international organisation that supports those who risk life or liberty to make significant contributions to the historical record.</p>
+</p>
+              </a>
+            </li>
+          
+            <li class="recommendation">
+              <a href="https://www.bitcoin.org/" target="_blank">
+                <div class="teaser"><img class="spip_logos" alt="" src="/IMG/arton403.png?1467279700" width="300" height="64" /></div>
+                <p>
+<p>Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network.</p>
+</p>
+              </a>
+            </li>
+          
+        </ul>
+      
+      <ul class="social-links">
+        <li>
+          <a href="https://www.facebook.com/wikileaks" target="_blank" alt="Facebook">
+            <img src="/static/img/fb-logo.png" alt="Facebook" title="Facebook page" />
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/wikileaks" target="_blank" alt="Twitter">
+            <img src="/static/img/twitter-logo.png" alt="Twitter" title="Twitter page" />
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
