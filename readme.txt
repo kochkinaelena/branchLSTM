@@ -11,6 +11,8 @@ http://alt.qcri.org/semeval2017/task8/index.php?id=data-and-tools
 Additionally, GoogleNews pre-trained word vectors should be downloaded from:
 https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
 
+bestparams_GN.txt - parameters used in the competition and paper.
+
 This code contains the following files:
 
  - preprocssing.py
