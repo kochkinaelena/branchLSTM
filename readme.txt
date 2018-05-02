@@ -10,6 +10,8 @@ http://alt.qcri.org/semeval2017/task8/index.php?id=data-and-tools
 
 Additionally, GoogleNews pre-trained word vectors should be downloaded from:
 https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
+GoogleNews-vectors-negative300.bin should be placed in the same directory 
+as code, or it's location can be changed in loadW2vModel function.
 
 bestparams_GN.txt - parameters used in the competition and paper.
 
