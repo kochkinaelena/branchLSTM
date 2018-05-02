@@ -546,7 +546,6 @@ for sset in whichset:
     branch_arrays[sset] = np.asarray(temp_list)
     mask = np.asarray(mask_list)
     rmdoublemask = np.asarray(rmdoublemask)
-#    ids = np.asarray(ids)
     if sset != 'test':
         padlabel = np.asarray(padlabel)
     # save to files
@@ -554,7 +553,6 @@ for sset in whichset:
     np.save(os.path.join(path_to_save_sets, 'mask'), mask)
     np.save(os.path.join(path_to_save_sets, 'branch_arrays'),
             branch_arrays[sset])
-#    np.save(os.path.join(path_to_save_sets, 'ids'), ids)
     with open(os.path.join(path_to_save_sets, 'ids.pkl'), 'wb') as f:
         pickle.dump(ids, f)
     if sset != 'test':
