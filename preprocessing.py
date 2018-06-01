@@ -27,6 +27,12 @@ from nltk.corpus import stopwords
 from copy import deepcopy
 from gensim.models import word2vec
 import pickle
+
+# Import NLTK data
+nltk_data_location = os.path.dirname(os.path.realpath(__file__))
+nltk.download('punkt', download_dir=nltk_data_location)
+
+
 #%%
 def load_dataset():
     # load labels and split for task A
@@ -254,7 +260,7 @@ def loadW2vModel():
     # LOAD PRETRAINED MODEL
     global model
     print ("Loading the model")
-    model = word2vec.Word2Vec.load_word2vec_format(
+    model = gensim.models.KeyedVectors.load_word2vec_format(
             'GoogleNews-vectors-negative300.bin', binary=True)
     print ("Done!")
 
