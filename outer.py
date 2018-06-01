@@ -157,11 +157,13 @@ def main():
     params_file = options.params_file
     
     if psearch:
+        print "\nStarting parameter search...\n"
         params = parameter_search(ntrials)
         print(params)
         eval(params)
     else:
         with open(params_file, 'rb') as f:
+            print "\nLoading best set of model parameters...\n"
             params = pickle.load(f)
         print (params)
         eval(params)
