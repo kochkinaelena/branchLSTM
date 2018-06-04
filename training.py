@@ -282,7 +282,7 @@ def objective_train_model(params):
                               'ID': pickle.dumps(uniq_dev_id)}
               }
 
-    print("1-MacroF loss = ", output['loss'])
+    print("1-accuracy loss = ", output['loss'])
 
     stop = timeit.default_timer()
     print("Time: ", stop - start)
