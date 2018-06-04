@@ -49,23 +49,40 @@ from optparse import OptionParser
 #%%
 
 
-def parameter_search(ntrials):
+def parameter_search(ntrials, is_test=False):
     start = timeit.default_timer()
     trials = Trials()
-   
-    search_space= { 'num_dense_layers': hp.choice('nlayers',[1,2,3,4]),
-                    'num_dense_units': hp.choice('num_dense', [100, 200, 300,
-                                                               400, 500]), 
-                    'num_epochs': hp.choice('num_epochs',  [30, 50, 70, 100]),
-                    'num_lstm_units': hp.choice('num_lstm_units',  [100, 200,
-                                                                    300]),
-                    'num_lstm_layers': hp.choice('num_lstm_layers', [1,2]),
-                    'learn_rate': hp.choice('learn_rate',[1e-4, 3e-4, 1e-3]), 
-                    'mb_size': hp.choice('mb_size', [32, 64, 100, 120]),
-                    'l2reg': hp.choice('l2reg', [0.0, 1e-4, 3e-4, 1e-3]),
-                    'rng_seed': hp.choice('rng_seed', [364]) 
+
+    if is_test:
+        # Unrealistic values for parameters; for testing use only
+        search_space= { 'num_dense_layers': hp.choice('nlayers',[1, 2, 3, 4]),
+                        'num_dense_units': hp.choice('num_dense', [2, 3, 4, 5]),
+                        'num_epochs': hp.choice('num_epochs',  [3, 5, 7, 10]),
+                        'num_lstm_units': hp.choice('num_lstm_units',  [2, 3]),
+                        'num_lstm_layers': hp.choice('num_lstm_layers', [1, 2]),
+                        'learn_rate': hp.choice('learn_rate',[1e-4, 3e-4, 1e-3]),
+                        'mb_size': hp.choice('mb_size', [32, 64, 100, 120]),
+                        'l2reg': hp.choice('l2reg', [0.0, 1e-4, 3e-4, 1e-3]),
+                        'rng_seed': hp.choice('rng_seed', [364])
     }
-       
+    else:
+        # Parameter values tested for SemEval-2017 Task 8
+        search_space= { 'num_dense_layers': hp.choice('nlayers',[1,2,3,4]),
+                        'num_dense_units': hp.choice('num_dense', [100, 200, 300,
+                                                                   400, 500]),
+                        'num_epochs': hp.choice('num_epochs',  [30, 50, 70, 100]),
+                        'num_lstm_units': hp.choice('num_lstm_units',  [100, 200,
+                                                                        300]),
+                        'num_lstm_layers': hp.choice('num_lstm_layers', [1,2]),
+                        'learn_rate': hp.choice('learn_rate',[1e-4, 3e-4, 1e-3]),
+                        'mb_size': hp.choice('mb_size', [32, 64, 100, 120]),
+                        'l2reg': hp.choice('l2reg', [0.0, 1e-4, 3e-4, 1e-3]),
+                        'rng_seed': hp.choice('rng_seed', [364])
+        }
+
+
+
+
     best = fmin(objective_train_model,
         space=search_space,
         algo=tpe.suggest,
@@ -147,23 +164,31 @@ def main():
     parser.add_option('--ntrials', dest='ntrials', default=10,
                       help='Number of trials: default=%default')
     parser.add_option(
-            '--params', dest='params_file', default='output/bestparams.txt',
+            '--params', dest='params_file', default='output/bestparams_semeval2017.txt',
             help='Location of parameter file: default=%default')
+    parser.add_option(
+            '--test', dest='is_test', default=False,
+            help='Run with test parameters: default=%default')
+
     
     
     (options, args) = parser.parse_args()
     psearch = options.psearch
     ntrials = int(options.ntrials)
+    is_test = options.is_test
     params_file = options.params_file
     
     if psearch:
-        print "\nStarting parameter search...\n"
-        params = parameter_search(ntrials)
+        if is_test:
+            print '\nStarting parameter search using test parameters...\n'
+        else:
+            print '\nStarting parameter search...\n'
+        params = parameter_search(ntrials, is_test)
         print(params)
         eval(params)
     else:
         with open(params_file, 'rb') as f:
-            print "\nLoading best set of model parameters...\n"
+            print '\nLoading best set of model parameters from ', params_file, '...\n'
             params = pickle.load(f)
         print (params)
         eval(params)

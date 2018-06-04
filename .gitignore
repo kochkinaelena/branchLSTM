@@ -1,5 +1,6 @@
-# Pre-trained vectors based on Google News (very large file)
-GoogleNews-vectors-negative300.bin
+# Downloaded datasets (apart from the instructions)
+/downloaded_data/*
+!/downloaded_data/README.md
 
 # NLTK data
 /tokenizers
