@@ -1,9 +1,11 @@
 # Downloaded Data
 
 
-The following datasets need to be downloaded and placed into this directory:
+The following datasets need to be downloaded and placed into this directory.
 
-## Google News 
+To download from the command line, use the instructions at the end of this page.
+
+## Google News
 
 Download and extract the pre-trained word vector dataset based on [Google News](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing) (this is a large file of approximately 1.5Gb).
 
@@ -19,3 +21,21 @@ Download and extract the following two files from the SemEval-2017 Task 8 page:
 The training and development data are from Zubiaga A, Liakata M, Procter R, Wong Sak Hoi G, Tolmie P (2016) [*Analysing How People Orient to and Spread Rumours in Social Media by Looking at Conversational Threads.*](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150989) PLoS ONE 11(3): e0150989.
 
 For more information on the task and data, see the [SemEval-2017 Task 8](http://alt.qcri.org/semeval2017/task8/) webpage.
+
+## To download via the command line:
+
+### Download
+
+Google News: `wget https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz`
+
+Training and development data: `wget https://s3-eu-west-1.amazonaws.com/downloads.gate.ac.uk/pheme/semeval2017-task8-dataset.tar.bz2`
+
+Test data: `wget http://alt.qcri.org/semeval2017/task8/data/uploads/rumoureval2017-test.tar.bz2`
+
+### Extract
+
+Google News: `gzip -d GoogleNews-vectors-negative300.bin.gz`
+
+Training and development data: `tar -xf semeval2017-task8-dataset.tar.bz2`
+
+Test data: `tar -xf rumoureval2017-test.tar.bz2`
