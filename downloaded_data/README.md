@@ -22,20 +22,23 @@ The training and development data are from Zubiaga A, Liakata M, Procter R, Wong
 
 For more information on the task and data, see the [SemEval-2017 Task 8](http://alt.qcri.org/semeval2017/task8/) webpage.
 
-## To download via the command line:
+## To download via the command line
 
 ### Download
 
-Google News: `wget https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz`
+```
+cd <your-branchLSTM-directory>/downloaded_data
+wget https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz
+wget https://s3-eu-west-1.amazonaws.com/downloads.gate.ac.uk/pheme/semeval2017-task8-dataset.tar.bz2
+wget http://alt.qcri.org/semeval2017/task8/data/uploads/rumoureval2017-test.tar.bz2
+```
 
-Training and development data: `wget https://s3-eu-west-1.amazonaws.com/downloads.gate.ac.uk/pheme/semeval2017-task8-dataset.tar.bz2`
+### Extract and tidy up
 
-Test data: `wget http://alt.qcri.org/semeval2017/task8/data/uploads/rumoureval2017-test.tar.bz2`
-
-### Extract
-
-Google News: `gzip -d GoogleNews-vectors-negative300.bin.gz`
-
-Training and development data: `tar -xf semeval2017-task8-dataset.tar.bz2`
-
-Test data: `tar -xf rumoureval2017-test.tar.bz2`
+```
+gzip -d GoogleNews-vectors-negative300.bin.gz
+tar -xf semeval2017-task8-dataset.tar.bz2
+tar -xf rumoureval2017-test.tar.bz2
+rm semeval2017-task8-dataset.tar.bz2
+rm rumoureval2017-test.tar.bz2
+```
