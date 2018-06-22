@@ -45,7 +45,7 @@ def listdir_nohidden(path):
     newfolds = [i for i in folds if i[0] != '.']
     return newfolds   
 #%% load labels and split for task A    
-path_to_split ='semeval2017-task8-dataset/traindev'
+path_to_split = os.path.join('downloaded_data','semeval2017-task8-dataset', 'traindev')
 devfile = 'rumoureval-subtaskA-dev.json'
 with open(os.path.join(path_to_split,devfile)) as f:
     for line in f:
@@ -57,7 +57,7 @@ with open(os.path.join(path_to_split,trainfile)) as f:
 dev_tweets = dev.keys()
 train_tweets = train.keys()
 #%%
-path_to_folds ='semeval2017-task8-dataset/rumoureval-data'
+path_to_folds = os.path.join('downloaded_data', 'semeval2017-task8-dataset', 'rumoureval-data')
 folds=listdir_nohidden(path_to_folds) 
 cvfolds = {}
 allconv = []
@@ -152,7 +152,7 @@ for nfold,fold in enumerate(folds):
     allconv = []
 #%%
 # read testing data
-path_to_test = 'semeval2017-task8-test-data'
+path_to_test = os.path.join('downloaded_data', 'semeval2017-task8-test-data')
 test_folders = listdir_nohidden(path_to_test)
 conversation = {}
 for tfldr in test_folders:
@@ -184,7 +184,7 @@ for tfldr in test_folders:
     train_dev_split['test'].append(conversation.copy())
         
 #%%
-path_to_split ='semeval2017-task8-dataset/traindev'
+path_to_split = os.path.join('downloaded_data', 'semeval2017-task8-dataset', 'traindev')
 devfile = 'rumoureval-subtaskA-dev.json'
 with open(os.path.join(path_to_split,devfile)) as f:
     for line in f:
