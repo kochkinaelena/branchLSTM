@@ -5,8 +5,12 @@
 # NLTK data
 /tokenizers
 
-# Generated folders
+# Preprocessed data
 /saved_data
+
+# Results (apart from the set used in SemEval-2017 Task 8)
+/output/*
+!/output/bestparams_semeval2017.txt
 
 # macOS-specific hidden files
 .DS_Store
