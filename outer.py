@@ -38,7 +38,7 @@ import timeit
 import os
 import pickle
 import json
-os.environ["THEANO_FLAGS"]="floatX=float32"
+#os.environ["THEANO_FLAGS"]="floatX=float32"
 #os.environ["THEANO_FLAGS"]="floatX=float32,dnn.enabled=False,cxx=icpc,
 #                            device=gpu0,nvcc.compiler_bindir=icpc,
 #                            gcc.cxxflags=-march=native"

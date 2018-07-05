@@ -14,8 +14,8 @@ import os
 import pickle
 from hyperopt import STATUS_OK
 from training import build_nn,iterate_minibatches
-theano.config.floatX = 'float32'
-theano.config.warn_float64 = 'raise'
+#theano.config.floatX = 'float32'
+#theano.config.warn_float64 = 'raise'
 #%%
 
 
