@@ -41,7 +41,7 @@ Running the parameter search should take approximately (***edit***) on an NC6 VM
 
 Once you have your account, log into the Azure portal and start the process of creating your VM.
 * Click on "Create a resource" and select "Ubuntu Server 16.04 LTS".
-* In the "Basics" panel, you will need to select "VM disk type = HDD". Other options may be set as you wish (see [this page]() for general instructions).
+* In the "Basics" panel, you will need to select "VM disk type = HDD". Other options may be set as you wish (see [this page](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal) for general instructions).
 * In the "Size" panel, select NC6 - this is the smallest GPU available, but is sufficient for our purposes.
 * Change the options in the final panels if you want, and then create the resource.
 
