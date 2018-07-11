@@ -7,19 +7,17 @@ https://www.aclweb.org/anthology/S/S17/S17-2083.pdf).
 
 This version of the code uses Python 2.7 with the Lasagne and Theano libraries.
 
-## Installation and usage instructions
+## Option 1: Installation on a local machine
 
-Start by cloning this repository, and then follow the instructions below to download the additional datasets and set up the dependencies.
-
-
-### 1. Download datasets
+To begin, clone this repository.
+```
+git clone https://github.com/kochkinaelena/branchLSTM.git
+```
 
 The datasets from the SemEval-2017 Task 8 challenge and a Word2Vec model pretrained on the Google News dataset are required.
 
 These files should be placed in the `downloaded_data` folder.
 Instructions for acquiring these files may be found in the [README](downloaded_data/README.md) inside the `downloaded_data` folder.
-
-### 2a. Installation: local machine
 
 We recommend creating a new virtual environment and installing the required packages via `pip`.
 ```
@@ -29,7 +27,8 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-### 2b. Installation: Microsoft Azure Data Science VM
+
+## Option 2: Installation on a Microsoft Azure VM
 
 While it is possible to load and apply the final model on a typical desktop/laptop, GPU resources are highly recommended if you want to run the full parameter search.
 
@@ -38,60 +37,76 @@ Free trial accounts are available for [students](https://azure.microsoft.com/en-
 
 Running the parameter search should take approximately (***edit***) on an NC6 VM.
 
-#### Set up the VM
+### Set up the VM
 
-We will use Microsoft's *Data Science Virtual Machine for Linux (Ubuntu)*.
+Once you have your account, log into the Azure portal and start the process of creating your VM.
+* Click on "Create a resource" and select "Ubuntu Server 16.04 LTS".
+* In the "Basics" panel, you will need to select "VM disk type = HDD". Other options may be set as you wish (see [this page]() for general instructions).
+* In the "Size" panel, select NC6 - this is the smallest GPU available, but is sufficient for our purposes.
+* Change the options in the final panels if you want, and then create the resource.
 
-This VM comes with CUDA and associated tools pre-installed.
-If preferred, you can use a VM that is not preconfigured (for instance, the *Ubuntu Server 16.04 LTS*), but you will have to install CUDA to use the GPU-enabled features.
+_Note: If you have trouble finding the NC6 option, make sure the HDD disk type is specified or try changing the location._
 
-Instructions for creating the VM are available [here](https://docs.microsoft.com/en-gb/azure/machine-learning/data-science-virtual-machine/dsvm-ubuntu-intro).
-When configuring the VM, select the following options:
-* Basics/VM disk type: HDD
-* Size: NC6 (if not available, change the location and ensure that disk type is HDD)
+### Install CUDA
 
-#### Install required packages
+Once you have logged into the VM, run the commands below to install the CUDA toolkit.
+```
+wget https://developer.nvidia.com/compute/cuda/8.0/Prod2/local_installers/cuda-repo-ubuntu1604-8-0-local-ga2_8.0.61-1_amd64-deb
+mv cuda-repo-ubuntu1604-8-0-local-ga2_8.0.61-1_amd64-deb cuda-repo-ubuntu1604-8-0-local-ga2_8.0.61-1_amd64.deb
+sudo dpkg -i cuda-repo-ubuntu1604-8-0-local-ga2_8.0.61-1_amd64.deb
+sudo apt-get update
+sudo apt-get install cuda
+```
 
-* Create a virtual environment for this installation.
-The *Data Science Virtual Machine for Linux (Ubuntu)* comes with Anaconda Python, so we use `conda` to create the virtual environment.
+Specify the paths to CUDA by adding the following to your `.bashrc` file:  
 ```
-cd <your-branchLSTM-directory>
-conda create -n env python=2.7
-source activate env
+export CUDA_HOME=/usr/local/cuda-8.0
+export LD_LIBRARY_PATH=${CUDA_HOME}/lib64
+export PATH=${CUDA_HOME}/bin:${PATH}
 ```
-* Install the packages from `requirements.txt`.
-```
-pip install -r requirements.txt
-```
-* Additionally, install the `pygpu` package (we use `conda` as it can also install `libgpuarray`).
-```
-conda install pygpu=0.6.9
-```
-* Add the following to your `.bashrc` file:  
-`export CUDA_HOME=/usr/local/cuda-8.0`  
-`export LD_LIBRARY_PATH=${CUDA_HOME}/lib64`  
-`export PATH=${CUDA_HOME}/bin:${PATH}`  
-and then reload.
+and then reload with
 ```
 source ~/.bashrc
 ```
 
-### 3. Construct and apply the model
+### Download branchLSTM
+
+Clone the git repo and move into the branchLSTM directory.
+```
+git clone https://github.com/kochkinaelena/branchLSTM.git
+cd branchLSTM
+```
+Follow the instructions in the [README](../downloaded_data/README.md) for details of how to download the datasets needed for this project.
+
+### Install python packages
+
+`pip` is not preinstalled on this VM, so we must do that before creating a virtual environment.
+Having activated the virtual environment, we install all required packages listed in `requirements.txt`.
+```
+sudo apt install python-pip
+pip install virtualenv
+virtualenv env
+source env/bin/activate
+pip install -r requirements.txt
+```
+
+
+## Construct and apply the model
 
 * Run the preprocessing stage to convert the data into a format that is compatible with Lasagne.
 ```
 python preprocessing.py
 ```
-* [Optional; GPU recommended] Determine the optimal set of hyperparameters, which will be saved to `output/bestparams.txt`. If GPU resources are unavailable, skip this step and use the hyperparameters saved in `output/bestparams_semeval2017.txt`.
+* _[Optional; GPU recommended]_ Determine the optimal set of hyperparameters, which will be saved to `output/bestparams.txt`. If GPU resources are unavailable, skip this step and use the hyperparameters saved in `output/bestparams_semeval2017.txt`.
 ```
-THEANO_FLAGS='floatX=float32,device=cuda' python outer.py --search=True --ntrials=100
+THEANO_FLAGS='floatX=float32,device=gpu' python outer.py --search=True --ntrials=100
 ```
 * Construct the model using the optimal set of hyperparameters and apply to the test dataset.
 ```
 THEANO_FLAGS='floatX=float32' python outer.py
 ```
 By default, the command above reads the hyperparameters from `output/bestparams_semeval2017.txt`.
-Hyperparameters saved elsewhere can be specified with
+Hyperparameters saved elsewhere can be specified with (for example)
 ```
   THEANO_FLAGS='floatX=float32' python outer.py --params='output/bestparams.txt'
 ```
