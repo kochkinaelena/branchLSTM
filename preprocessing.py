@@ -27,10 +27,16 @@ from nltk.corpus import stopwords
 from copy import deepcopy
 from gensim.models import word2vec
 import pickle
+
+# Import NLTK data
+nltk_data_location = os.path.dirname(os.path.realpath(__file__))
+nltk.download('punkt', download_dir=nltk_data_location)
+
+
 #%%
 def load_dataset():
     # load labels and split for task A
-    path_to_split = 'semeval2017-task8-dataset/traindev'
+    path_to_split = os.path.join('downloaded_data', 'semeval2017-task8-dataset/traindev')
     devfile = 'rumoureval-subtaskA-dev.json'
     with open(os.path.join(path_to_split, devfile)) as f:
         for line in f:
@@ -43,8 +49,8 @@ def load_dataset():
     train_tweets = train.keys()
     #%%
     # load folds and conversations
-    path_to_folds = 'semeval2017-task8-dataset/rumoureval-data'
-    folds = os.listdir(path_to_folds)
+    path_to_folds = os.path.join('downloaded_data', 'semeval2017-task8-dataset/rumoureval-data')
+    folds = sorted(os.listdir(path_to_folds))
     newfolds = [i for i in folds if i[0] != '.']
     folds = newfolds
     cvfolds = {}
@@ -57,7 +63,7 @@ def load_dataset():
     train_dev_split['test'] = []
     for nfold, fold in enumerate(folds):
         path_to_tweets = os.path.join(path_to_folds, fold)
-        tweet_data = os.listdir(path_to_tweets)
+        tweet_data = sorted(os.listdir(path_to_tweets))
         newfolds = [i for i in tweet_data if i[0] != '.']
         tweet_data = newfolds
         conversation = {}
@@ -65,7 +71,7 @@ def load_dataset():
             flag = 0
             conversation['id'] = foldr
             path_src = path_to_tweets+'/'+foldr+'/source-tweet'
-            files_t = os.listdir(path_src)
+            files_t = sorted(os.listdir(path_src))
             with open(os.path.join(path_src, files_t[0])) as f:
                     for line in f:
                         src = json.loads(line)
@@ -91,7 +97,7 @@ def load_dataset():
                 print "Tweet has no text", src['id']
             tweets = []
             path_repl = path_to_tweets+'/'+foldr+'/replies'
-            files_t = os.listdir(path_repl)
+            files_t = sorted(os.listdir(path_repl))
             newfolds = [i for i in files_t if i[0] != '.']
             files_t = newfolds
             for repl_file in files_t:
@@ -138,15 +144,15 @@ def load_dataset():
 
 #%%
 # read testing data
-    path_to_test = 'semeval2017-task8-test-data'
-    test_folders = os.listdir(path_to_test)
+    path_to_test = os.path.join('downloaded_data', 'semeval2017-task8-test-data')
+    test_folders = sorted(os.listdir(path_to_test))
     newfolds = [i for i in test_folders if i[0] != '.']
     test_folders = newfolds
     conversation = {}
     for tfldr in test_folders:
         conversation['id'] = tfldr
         path_src = path_to_test+'/'+tfldr+'/source-tweet'
-        files_t = os.listdir(path_src)
+        files_t = sorted(os.listdir(path_src))
         with open(os.path.join(path_src, files_t[0])) as f:
             for line in f:
                 src = json.loads(line)
@@ -154,7 +160,7 @@ def load_dataset():
         conversation['source'] = src
         tweets = []
         path_repl = path_to_test+'/'+tfldr+'/replies'
-        files_t = os.listdir(path_repl)
+        files_t = sorted(os.listdir(path_repl))
         newfolds = [i for i in files_t if i[0] != '.']
         files_t = newfolds
         for repl_file in files_t:
@@ -254,8 +260,8 @@ def loadW2vModel():
     # LOAD PRETRAINED MODEL
     global model
     print ("Loading the model")
-    model = word2vec.Word2Vec.load_word2vec_format(
-            'GoogleNews-vectors-negative300.bin', binary=True)
+    model = gensim.models.KeyedVectors.load_word2vec_format(
+            os.path.join('downloaded_data', 'GoogleNews-vectors-negative300.bin'), binary=True)
     print ("Done!")
 
 

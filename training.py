@@ -20,8 +20,8 @@ import timeit
 import pickle
 from hyperopt import STATUS_OK
 from sklearn.metrics import accuracy_score
-theano.config.floatX = 'float32'
-theano.config.warn_float64 = 'raise'
+#theano.config.floatX = 'float32'
+#theano.config.warn_float64 = 'raise'
 
 #%%
 
