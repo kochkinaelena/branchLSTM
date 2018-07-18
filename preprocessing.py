@@ -356,7 +356,18 @@ def tweet2features(tw, i, branch, conversation):
         if negationword in tokens:
             hasnegation += 1
 
-    charcount = len(tw['text'])
+    # Character count using len(text) depends on whether a wide or narrow build of Python was used.
+    # Early work on this project was all done using a narrow build, so we'll ensure lengths on a wide build of Python
+    # are consistent with the narrow build. We therefore consider emojis and other surrogate pair unicode characters to
+    # have length=2, but we can change this to length=1 by removing one of the substitute "U" characters in the first
+    # regular expression.
+    tmp_tw_text = tw["text"].encode('raw_unicode_escape')
+    tmp_tw_text = re.sub("(\\\\U[0-9A-Fa-f]{8})", "UU", tmp_tw_text)
+    tmp_tw_text = re.sub("(\\\\u[0-9A-Fa-f]{4})", "U", tmp_tw_text)
+    charcount = len(tmp_tw_text)
+
+    print len(tw["text"]), "\t", charcount, "\t\t", tw["text"].encode('raw_unicode_escape'), "\t\t", tmp_tw_text
+
     wordcount = len(nltk.word_tokenize(re.sub(r'([^\s\w]|_)+',
                                               '',
                                               tw['text'].lower())))
