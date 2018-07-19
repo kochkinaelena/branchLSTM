@@ -352,17 +352,27 @@ if __name__ == "__main__":
         print ""
 
 
-    print ("Table 5: Confusion matrix")
+    print "\n\n--- Table 5 ---"
+    print "\nConfusion matrix\n"
 
     true = []
     pred = []
 
+    # Generate lists of true and predicted classes for all tweets in the test set
     for k in test_truevals.keys():
-
         true.append(test_truevals[k])
         pred.append(submission[k])
 
-    print (confusion_matrix(true,pred))
+    # Generate the confusion matrix and the list of labels (as above, in sorted class order as long as each class
+    # appears once, which they all do).
+    conf_mat = confusion_matrix(true, pred)
+    class_labels_mat = ("Lab \\ Pred",) + tuple(sorted(class_labels))
+
+    # Print the header and then the confusion matrix
+    print "%-12s%-12s%-12s%-12s%-12s" % class_labels_mat
+    for lab, conf_row in zip(sorted(class_labels), conf_mat):
+        row = (lab,) + tuple(conf_row)
+        print "%-12s%-12i%-12i%-12i%-12i" % row
 
 
     print "\n\n--- Table 3 ---"
