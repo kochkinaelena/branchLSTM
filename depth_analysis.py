@@ -325,13 +325,35 @@ if __name__ == "__main__":
 
     print (confusion_matrix(true,pred))
 
-    print ("Table 3: Results on testing set")
-    print ("Accuracy ", accuracy_score(true, pred))
-    print ("Macroavg precision, recall, fscore, support = ", precision_recall_fscore_support(true, pred, average='macro'))
-    print ("Per class precision, recall, fscore, support = ", precision_recall_fscore_support(true, pred))
+    # Define some useful labels for table rows and columns
+    labels = ("Precision", "Recall", "F-score", "Support")
+    class_labels = ("Support", "Deny", "Query", "Comment")
+    class_labels_gap = ("",) + class_labels
 
+    print "\n\n--- Table 3 ---"
 
+    print "\nPart 1: Results on testing set"
 
+    print "\nAccuracy =", accuracy_score(true, pred)
+
+    print "\nMacro-average:"
+    macroavg_prfs = precision_recall_fscore_support(true, pred, average='macro')
+    for lab, val in zip(labels, macroavg_prfs):
+        if val is not None:
+            print "%-12s%-12.4f" % (lab, val)
+        else:
+            print "%-12s%-12s" % (lab, "--")
+
+    print "\nPer-class:"
+    perclass_prfs = precision_recall_fscore_support(true, pred)
+    print "%-12s%-12s%-12s%-12s%-12s" % class_labels_gap
+    for lab, vals in zip(labels, perclass_prfs):
+        if lab is "Support":
+            print "%-12s%-12i%-12i%-12i%-12i" % (lab, vals[0], vals[1], vals[2], vals[3])
+        else:
+            print "%-12s%-12.4f%-12.4f%-12.4f%-12.4f" % (lab, vals[0], vals[1], vals[2], vals[3])
+
+    print "\nPart 2: Results on development set"
     trials_file = os.path.join("output", "trials.txt")
 
     if os.path.exists(trials_file):
@@ -364,4 +386,4 @@ if __name__ == "__main__":
         print ("Macroavg precision, recall, fscore, support = ", precision_recall_fscore_support(devtrue, devpred, average='macro'))
         print ("Per class precision, recall, fscore, support = ", precision_recall_fscore_support(devtrue, devpred))
     else:
-        print "\nCould not find trials file; unable to generate results for dev set in Table 3."
+        print "\nCould not find trials.txt; unable to generate results for development set in Table 3.\n"
