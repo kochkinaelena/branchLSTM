@@ -416,19 +416,36 @@ if __name__ == "__main__":
         with open('result_dev.json', 'w') as outfile:
            json.dump(dev_results_dict, outfile)
 
-        with open('result_dev_GN.json', 'r') as outfile:
+        with open('result_dev.json', 'r') as outfile:
             dev_predictions = json.load(outfile)
 
         devtrue = []
         devpred = []
 
+        # Generate lists of true and predicted classes for all tweets in the development set
         for k in dev.keys():
-
             devtrue.append(dev[k])
             devpred.append(dev_predictions[k])
-        print ("Table 3: Results on development set")
-        print ("Accuracy ", accuracy_score(devtrue, devpred))
-        print ("Macroavg precision, recall, fscore, support = ", precision_recall_fscore_support(devtrue, devpred, average='macro'))
-        print ("Per class precision, recall, fscore, support = ", precision_recall_fscore_support(devtrue, devpred))
+
+        #  Output is in the same format as the earlier part of Table 3
+        print "\nAccuracy =", accuracy_score(devtrue, devpred)
+
+        print "\nMacro-average:"
+        dev_macroavg_prfs = precision_recall_fscore_support(devtrue, devpred, average='macro')
+        for lab, val in zip(labels, dev_macroavg_prfs):
+            if val is not None:
+                print "%-12s%-12.4f" % (lab, val)
+            else:
+                print "%-12s%-12s" % (lab, "--")
+
+        print "\nPer-class:"
+        dev_perclass_prfs = precision_recall_fscore_support(devtrue, devpred)
+        print "%-12s%-12s%-12s%-12s%-12s" % class_labels_gap
+        for lab, vals in zip(labels, dev_perclass_prfs):
+            if lab is "Support":
+                print "%-12s%-12i%-12i%-12i%-12i" % (lab, vals[0], vals[1], vals[2], vals[3])
+            else:
+                print "%-12s%-12.4f%-12.4f%-12.4f%-12.4f" % (lab, vals[0], vals[1], vals[2], vals[3])
+
     else:
         print "\nCould not find trials.txt; unable to generate results for development set in Table 3.\n"
