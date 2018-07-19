@@ -309,10 +309,44 @@ if __name__ == "__main__":
                                                           depth_predictions[depthgr])
 
         depth_result[depthgr] = [mactest_F, mictest_F, test_F]
-    print("Table 4: Number of tweets per depth and performance at each of the depths.")
-    print(depth_result)
 
-    #%%
+
+    # Define some useful labels for table rows and columns
+    labels = ("Precision", "Recall", "F-score", "Support")
+    class_labels = ("Support", "Deny", "Query", "Comment")
+    class_labels_gap = ("",) + class_labels
+
+    copy_depth_result = depth_result
+
+    print "\n\n--- Table 4 ---"
+    print "\nNumber of tweets per depth and performance at each of the depths\n"
+
+    # Print the column headers
+    table_four_headers = ("Depth", "Accuracy", "MacroF") + class_labels
+    for col in table_four_headers:
+        print "%-11s" % col,
+    print ""
+
+    #  Print results in depth level order
+    for depth in sorted(depth_result):
+
+        # Work out which class the accuracy values refer to (precision_recall_fscore_support() outputs values in the
+        # sorted order of the unique class values of tweets at that depth)
+        depth_class_accuracy = depth_result[depth][2]
+        depth_class_labels = sorted(set(depth_labels[depth]))
+
+        # Print the results at each depth
+        print "%-12s%-12.4f%-11.4f" % \
+              (depth, depth_result[depth][1], depth_result[depth][0]),
+        for lab in class_labels:
+            if lab.lower() in depth_class_labels:
+                class_ind = depth_class_labels.index(lab.lower())
+                print "%-11.4f" % depth_class_accuracy[class_ind],
+            else:
+                print "%-11.4f" % 0.0,
+        print ""
+
+
     print ("Table 5: Confusion matrix")
 
     true = []
@@ -325,10 +359,6 @@ if __name__ == "__main__":
 
     print (confusion_matrix(true,pred))
 
-    # Define some useful labels for table rows and columns
-    labels = ("Precision", "Recall", "F-score", "Support")
-    class_labels = ("Support", "Deny", "Query", "Comment")
-    class_labels_gap = ("",) + class_labels
 
     print "\n\n--- Table 3 ---"
 
