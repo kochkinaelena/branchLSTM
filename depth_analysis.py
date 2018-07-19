@@ -322,7 +322,7 @@ if __name__ == "__main__":
     print "\nNumber of tweets per depth and performance at each of the depths\n"
 
     # Print the column headers
-    table_four_headers = ("Depth", "Accuracy", "MacroF") + class_labels
+    table_four_headers = ("Depth", "# tweets", "# Support", "# Deny", "# Query", "# Comment", "Accuracy", "MacroF") + class_labels
     for col in table_four_headers:
         print "%-11s" % col,
     print ""
@@ -331,13 +331,18 @@ if __name__ == "__main__":
     for depth in sorted(depth_result):
 
         # Work out which class the accuracy values refer to (precision_recall_fscore_support() outputs values in the
-        # sorted order of the unique class values of tweets at that depth)
+        # sorted order of the unique classes of tweets at that depth)
         depth_class_accuracy = depth_result[depth][2]
         depth_class_labels = sorted(set(depth_labels[depth]))
 
-        # Print the results at each depth
-        print "%-12s%-12.4f%-11.4f" % \
-              (depth, depth_result[depth][1], depth_result[depth][0]),
+        # Print the depth and classes of tweets at that depth
+        print "%-12s%-11i" % (depth, len(depth_labels[depth])),
+        for lab in class_labels:
+            print "%-11i" % depth_labels[depth].count(lab.lower()),
+
+        # Print the accuracy, macro-F and class-specific performance at each depth
+        print "%-12.4f%-11.4f" % \
+              (depth_result[depth][1], depth_result[depth][0]),
         for lab in class_labels:
             if lab.lower() in depth_class_labels:
                 class_ind = depth_class_labels.index(lab.lower())
