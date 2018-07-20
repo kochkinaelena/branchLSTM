@@ -7,43 +7,12 @@ import pickle
 from outer import convertlabeltostr
 import numpy
 
+from preprocessing import tree2branches
+
 import matplotlib
 if "Darwin" in os.uname():
     matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
-
-def tree2branches(root):
-    node = root
-    parent_tracker = []
-    parent_tracker.append(root)
-    branch = []
-    branches = []
-    i=0
-    while True:
-        node_name = node.keys()[i]
-        #print node_name
-        branch.append(node_name)
-        # get children of the node
-        first_child = node.values()[i] # actually all chldren, all tree left under this node
-        if first_child != []: # if node has children
-            node = first_child      # walk down
-            parent_tracker.append(node)
-            siblings = first_child.keys()
-            i=0 # index of a current node
-        else:
-            branches.append(deepcopy(branch))
-            i=siblings.index(node_name) # index of a current node
-            while i+1>=len(siblings): # if the node does not have next siblings
-                if node is parent_tracker[0]: # if it is a root node
-                    return branches
-                del parent_tracker[-1]
-                del branch[-1]
-                node = parent_tracker[-1]      # walk up ... one step
-                node_name = branch[-1]
-                siblings = node.keys()
-                i=siblings.index(node_name)
-            i=i+1    # ... walk right
-            del branch[-1]
 
 
 def listdir_nohidden(path):
@@ -85,6 +54,7 @@ def examine_hyperparameter_optimisation(results, best_id):
             for id in all_best_ids:
                 print "%-17.4f" % results[id]["Params"][param],
             print ""
+            
 
 if __name__ == "__main__":
 
