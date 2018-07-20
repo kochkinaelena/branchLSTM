@@ -45,11 +45,12 @@ def tree2branches(root):
             i=i+1    # ... walk right
             del branch[-1]
 
-#%%
+
 def listdir_nohidden(path):
     folds = os.listdir(path)
     newfolds = [i for i in folds if i[0] != '.']
     return newfolds
+
 
 def examine_hyperparameter_optimisation(results):
 
@@ -65,6 +66,7 @@ def examine_hyperparameter_optimisation(results):
     plt.xlabel("Iteration")
     plt.ylabel("Loss")
     plt.savefig(os.path.join("output", "hyperparameter_loss_values.pdf"))
+
 
 if __name__ == "__main__":
 
@@ -335,8 +337,6 @@ if __name__ == "__main__":
     class_labels = ("Support", "Deny", "Query", "Comment")
     class_labels_gap = ("",) + class_labels
 
-    copy_depth_result = depth_result
-
     print "\n\n--- Table 4 ---"
     print "\nNumber of tweets per depth and performance at each of the depths\n"
 
@@ -425,7 +425,7 @@ if __name__ == "__main__":
            trials = pickle.load(f)
 
         # Extract results for dev data - we need to examine the best trial
-        best_trial_id = trials.results.index(min(trials.results, key=lambda x: x["loss"]))
+        best_trial_id = trials.best_trial["tid"]
         print "\nBest trial =", best_trial_id, "with loss", trials.results[best_trial_id]["loss"]
 
         dev_result_id = pickle.loads(trials.attachments["ATTACH::%d::ID" % best_trial_id])
@@ -467,6 +467,12 @@ if __name__ == "__main__":
                 print "%-12s%-12i%-12i%-12i%-12i" % (lab, vals[0], vals[1], vals[2], vals[3])
             else:
                 print "%-12s%-12.4f%-12.4f%-12.4f%-12.4f" % (lab, vals[0], vals[1], vals[2], vals[3])
+
+        # New - print out the best combination of hyperparameters
+        print "\n--- New Table ---\n"
+        print "The best combination of hyperparameters, found in trial", best_trial_id, ", was:"
+        for param, param_value in trials.best_trial["result"]["Params"].iteritems():
+            print "\t", param, "=", param_value
 
         # New - let's examine the loss function at each iteration of the hyperparameter tuning process
         print "\n--- New Figure ---"
