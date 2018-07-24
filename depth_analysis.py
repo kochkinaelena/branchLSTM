@@ -1,24 +1,16 @@
 import os
 import json
-from copy import deepcopy
-from sklearn.metrics import  precision_recall_fscore_support, accuracy_score
-from sklearn.metrics import confusion_matrix
-import pickle
-from outer import convertlabeltostr
 import numpy
+import pickle
+from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
 
-from preprocessing import tree2branches
+from outer import convertlabeltostr
+from preprocessing import load_dataset
 
 import matplotlib
 if "Darwin" in os.uname():
     matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
-
-
-def listdir_nohidden(path):
-    folds = os.listdir(path)
-    newfolds = [i for i in folds if i[0] != '.']
-    return newfolds
 
 
 def load_true_labels(dataset_name):
@@ -38,151 +30,7 @@ def load_true_labels(dataset_name):
     return tweet_label_dict
 
 
-def load_data():
-
-    # load labels and split for task A
-    path_to_split = os.path.join('downloaded_data', 'semeval2017-task8-dataset', 'traindev')
-    devfile = 'rumoureval-subtaskA-dev.json'
-    with open(os.path.join(path_to_split,devfile)) as f:
-        for line in f:
-            dev = json.loads(line)
-    trainfile = 'rumoureval-subtaskA-train.json'
-    with open(os.path.join(path_to_split,trainfile)) as f:
-        for line in f:
-            train = json.loads(line)
-    dev_tweets = dev.keys()
-    train_tweets = train.keys()
-    #%%
-    path_to_folds = os.path.join('downloaded_data', 'semeval2017-task8-dataset', 'rumoureval-data')
-    folds=listdir_nohidden(path_to_folds)
-    cvfolds = {}
-    allconv = []
-    weird_conv = []
-    weird_struct = []
-    train_dev_split = {}
-    train_dev_split['dev'] = []
-    train_dev_split['train'] = []
-    train_dev_split['test'] = []
-    for nfold,fold in enumerate(folds):
-        path_to_tweets = os.path.join(path_to_folds, fold)
-        tweet_data =  listdir_nohidden(path_to_tweets)
-        conversation = {}
-        for foldr in tweet_data:
-            flag = 0
-            conversation['id']=foldr
-
-            path_src = path_to_tweets+'/'+foldr+'/source-tweet'
-            files_t=listdir_nohidden(path_src)
-            with open(os.path.join(path_src,files_t[0])) as f:
-                    for line in f:
-                        src = json.loads(line)
-                        src['used']=0
-                        scrcid = src['id_str']
-                        # add set and label to tweet info
-                        # first find the tweet in one of the sets
-                        # foldr - src tweet id
-                        if scrcid in dev_tweets:
-                            src['set'] = 'dev'
-                            src['label'] = dev[scrcid]
-                            flag = 'dev'
-                        elif scrcid in train_tweets:
-                            src['set'] = 'train'
-                            src['label'] = train[scrcid]
-                            flag = 'train'
-                        else:
-                            print ("Tweet was not found in any of the sets! ID: ",
-                                   foldr)
-            conversation ['source'] = src
-            if src['text'] is None:
-                print ("Tweet has no text", src['id'])
-            tweets = []
-            path_repl = path_to_tweets+'/'+foldr+'/replies'
-            files_t=listdir_nohidden(path_repl)
-            for repl_file in files_t:
-                with open(os.path.join(path_repl, repl_file)) as f:
-                    for line in f:
-                        tw = json.loads(line)
-                        tw['used']=0
-                        replyid = tw['id_str']
-                        if replyid in dev_tweets:
-                            tw['set'] = 'dev'
-                            tw['label'] = dev[replyid]
-    #                        train_dev_tweets['dev'].append(tw)
-                            if flag=='train':
-                                print ("On no! The tree is split between sets",
-                                       foldr)
-                        elif replyid in train_tweets:
-                            tw['set'] = 'train'
-                            tw['label'] = train[replyid]
-    #                        train_dev_tweets['train'].append(tw)
-                            if flag=='dev':
-                                print ("On no! The tree is split between sets",
-                                       foldr)
-                        else:
-                            print ("Tweet was not found in any of the sets! ID: ",
-                                   foldr)
-                        tweets.append(tw)
-                        if tw['text'] is None:
-                            print ("Tweet has no text", tw['id'])
-            conversation['replies'] = tweets
-            path_struct = path_to_tweets+'/'+foldr+'/structure.json'
-            with open(path_struct) as f:
-                    for line in f:
-                        struct = json.loads(line)
-
-            if len(struct)>1:
-    #            print "Structure has more than one root",
-                new_struct = {}
-                new_struct[foldr] = struct[foldr]
-                struct = new_struct
-                weird_conv.append(conversation.copy())
-                weird_struct.append(struct)
-                # Take the item from the strucutre that's key is same as source tweet id
-
-            conversation['structure'] = struct
-            branches = tree2branches(conversation['structure'])
-            conversation['branches'] = branches
-            train_dev_split[flag].append(conversation.copy())
-            allconv.append(conversation.copy())
-        cvfolds[fold] = allconv
-        allconv = []
-    #%%
-    # read testing data
-    path_to_test = os.path.join('downloaded_data', 'semeval2017-task8-test-data')
-    test_folders = listdir_nohidden(path_to_test)
-    conversation = {}
-    for tfldr in test_folders:
-        conversation['id']=tfldr
-        path_src = path_to_test+'/'+tfldr+'/source-tweet'
-        files_t=listdir_nohidden(path_src)
-        with open(os.path.join(path_src,files_t[0])) as f:
-            for line in f:
-                src = json.loads(line)
-                src['used']=0
-        conversation ['source'] = src
-        tweets = []
-        path_repl = path_to_test+'/'+tfldr+'/replies'
-        files_t=listdir_nohidden(path_repl)
-        for repl_file in files_t:
-            with open(os.path.join(path_repl, repl_file)) as f:
-                for line in f:
-                    tw = json.loads(line)
-                    tw['used']=0
-            tweets.append(tw)
-        conversation['replies'] = tweets
-        path_struct = path_to_test+'/'+tfldr+'/structure.json'
-        with open(path_struct) as f:
-            for line in f:
-                struct = json.loads(line)
-        conversation['structure'] = struct
-        branches = tree2branches(conversation['structure'])
-        conversation['branches'] = branches
-        train_dev_split['test'].append(conversation.copy())
-
-    return train_dev_split
-
-
-def load_test_depth_pred_true(train_dev_split):
+def load_test_depth_pred_true():
 
     # Read the predictions of the model
     submission_file = os.path.join("output", "predictions.txt")
@@ -191,6 +39,8 @@ def load_test_depth_pred_true(train_dev_split):
     # And then the corresponding test data
     test_truevals = load_true_labels("test")
 
+    # Load the full dataset and get the list of test tweets and their properties
+    train_dev_split = load_dataset()
     alltestinfo = train_dev_split['test']
 
     alltestbranches = []
@@ -492,9 +342,8 @@ def print_table_five(true, pred):
 if __name__ == "__main__":
 
     # First load the full set of tweets.
-    # Then calculate the depth and extract the true and predicted labels for teh test set specifically.
-    td_split = load_data()
-    tweet_depth, test_predicted_labels, test_labels = load_test_depth_pred_true(td_split)
+    # Then calculate the depth and extract the true and predicted labels for the test set specifically.
+    tweet_depth, test_predicted_labels, test_labels = load_test_depth_pred_true()
 
     # If it is present, load data from trials file and format in the same way as the submitted files
     # (return None if the trials file is not available)
