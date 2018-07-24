@@ -5,29 +5,12 @@ import pickle
 from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
 
 from outer import convertlabeltostr
-from preprocessing import load_dataset
+from preprocessing import load_dataset, load_true_labels
 
 import matplotlib
 if "Darwin" in os.uname():
     matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
-
-
-def load_true_labels(dataset_name):
-
-    # Training and development datasets should be stored in the downloaded_data folder (see installation instructions).
-    # The test data is kept in the repo for now.
-    traindev_path = os.path.join("downloaded_data", "semeval2017-task8-dataset", "traindev")
-    data_files = {"dev": os.path.join(traindev_path, "rumoureval-subtaskA-dev.json"),
-                  "train": os.path.join(traindev_path, "rumoureval-subtaskA-train.json"),
-                  "test": "subtaska.json"}
-
-    # Load the dictionary containing the tweets and labels from the .json file
-    with open(data_files[dataset_name]) as f:
-        for line in f:
-            tweet_label_dict = json.loads(line)
-
-    return tweet_label_dict
 
 
 def load_test_depth_pred_true():

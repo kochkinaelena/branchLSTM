@@ -25,22 +25,31 @@ import nltk
 import re
 from nltk.corpus import stopwords
 from copy import deepcopy
-from gensim.models import word2vec
 import pickle
+
+
+def load_true_labels(dataset_name):
+
+    # Training and development datasets should be stored in the downloaded_data folder (see installation instructions).
+    # The test data is kept in the repo for now.
+    traindev_path = os.path.join("downloaded_data", "semeval2017-task8-dataset", "traindev")
+    data_files = {"dev": os.path.join(traindev_path, "rumoureval-subtaskA-dev.json"),
+                  "train": os.path.join(traindev_path, "rumoureval-subtaskA-train.json"),
+                  "test": "subtaska.json"}
+
+    # Load the dictionary containing the tweets and labels from the .json file
+    with open(data_files[dataset_name]) as f:
+        for line in f:
+            tweet_label_dict = json.loads(line)
+
+    return tweet_label_dict
 
 
 def load_dataset():
 
     # Load labels and split for task A
-    path_to_split = os.path.join('downloaded_data', 'semeval2017-task8-dataset/traindev')
-    devfile = 'rumoureval-subtaskA-dev.json'
-    with open(os.path.join(path_to_split, devfile)) as f:
-        for line in f:
-            dev = json.loads(line)
-    trainfile = 'rumoureval-subtaskA-train.json'
-    with open(os.path.join(path_to_split, trainfile)) as f:
-        for line in f:
-            train = json.loads(line)
+    dev = load_true_labels("dev")
+    train = load_true_labels("train")
     dev_tweets = dev.keys()
     train_tweets = train.keys()
 
