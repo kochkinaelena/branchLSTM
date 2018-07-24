@@ -162,19 +162,6 @@ def load_data():
         conversation['branches'] = branches
         train_dev_split['test'].append(conversation.copy())
 
-    #%%
-    path_to_split = os.path.join('downloaded_data', 'semeval2017-task8-dataset', 'traindev')
-    devfile = 'rumoureval-subtaskA-dev.json'
-    with open(os.path.join(path_to_split,devfile)) as f:
-        for line in f:
-            dev = json.loads(line)
-    trainfile = 'rumoureval-subtaskA-train.json'
-    with open(os.path.join(path_to_split,trainfile)) as f:
-        for line in f:
-            train = json.loads(line)
-    dev_tweets = dev.keys()
-    train_tweets = train.keys()
-
     # Read the predictions of the model
     submission_file = os.path.join("output", "predictions.txt")
     submission = json.load(open(submission_file, 'r'))
