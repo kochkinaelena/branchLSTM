@@ -77,7 +77,7 @@ def load_trials_data():
 
         # Transform to submission format and save
         dev_results_dict = dict(zip(dev_result_id, strpred))
-        with open("result_dev.json", "w") as outfile:
+        with open(os.path.join("output", "predictions_dev.txt"), "w") as outfile:
             json.dump(dev_results_dict, outfile)
     else:
         best_trial_id = None
