@@ -21,6 +21,23 @@ def listdir_nohidden(path):
     return newfolds
 
 
+def load_true_labels(dataset_name):
+
+    # Training and development datasets should be stored in the downloaded_data folder (see installation instructions).
+    # The test data is kept in the repo for now.
+    traindev_path = os.path.join("downloaded_data", "semeval2017-task8-dataset", "traindev")
+    data_files = {"dev": os.path.join(traindev_path, "rumoureval-subtaskA-dev.json"),
+                  "train": os.path.join(traindev_path, "rumoureval-subtaskA-train.json"),
+                  "test": "subtaska.json"}
+
+    # Load the dictionary containing the tweets and labels from the .json file
+    with open(data_files[dataset_name]) as f:
+        for line in f:
+            tweet_label_dict = json.loads(line)
+
+    return tweet_label_dict
+
+
 def load_data():
 
     # load labels and split for task A
@@ -162,17 +179,17 @@ def load_data():
         conversation['branches'] = branches
         train_dev_split['test'].append(conversation.copy())
 
+    return train_dev_split
+
+
+def load_test_depth_pred_true(train_dev_split):
+
     # Read the predictions of the model
     submission_file = os.path.join("output", "predictions.txt")
     submission = json.load(open(submission_file, 'r'))
 
     # And then the corresponding test data
-    testfile = 'subtaska.json'
-    with open(testfile) as f:
-        for line in f:
-            test_truevals = json.loads(line)
-    #%%
-    # use train_dev_split from preprocessing
+    test_truevals = load_true_labels("test")
 
     alltestinfo = train_dev_split['test']
 
@@ -187,7 +204,7 @@ def load_data():
             if tweetid in branch:
                 depthinfo[tweetid] = branch.index(tweetid)
 
-    return depthinfo, submission, test_truevals, dev
+    return depthinfo, submission, test_truevals
 
 
 def load_trials_data():
@@ -474,11 +491,14 @@ def print_table_five(true, pred):
 
 if __name__ == "__main__":
 
-    # From the supplied files, load the tweet depth, predicted (test) labels, test labels and development labels.
-    tweet_depth, test_predicted_labels, test_labels, dev_labels = load_data()
+    # First load the full set of tweets.
+    # Then calculate the depth and extract the true and predicted labels for teh test set specifically.
+    td_split = load_data()
+    tweet_depth, test_predicted_labels, test_labels = load_test_depth_pred_true(td_split)
 
     # If it is present, load data from trials file and format in the same way as the submitted files
     # (return None if the trials file is not available)
+    dev_labels = load_true_labels("dev")
     best_trial, best_loss, dev_predicted_labels = load_trials_data()
 
     # Analyse the results separately at each depth
