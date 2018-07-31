@@ -366,7 +366,11 @@ def tweet2features(tw, i, branch, conversation):
     tmp_tw_text = re.sub("(\\\\u[0-9A-Fa-f]{4})", "U", tmp_tw_text)
     charcount = len(tmp_tw_text)
 
-    print len(tw["text"]), "\t", charcount, "\t\t", tw["text"].encode('raw_unicode_escape'), "\t\t", tmp_tw_text
+    # To print the character counts before and after this change, along with the tweets themselves, uncomment below
+    # print len(tw["text"]), "\t", charcount, \
+    #       "\t\t", tw["text"],\
+    #       "\t\t", tw["text"].encode('raw_unicode_escape'), \
+    #       "\t\t", tmp_tw_text
 
     wordcount = len(nltk.word_tokenize(re.sub(r'([^\s\w]|_)+',
                                               '',
