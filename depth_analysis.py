@@ -8,8 +8,7 @@ from outer import convertlabeltostr
 from preprocessing import load_dataset, load_true_labels
 
 import matplotlib
-if "Darwin" in os.uname():
-    matplotlib.use('TkAgg')
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 
@@ -278,7 +277,7 @@ def print_extra_details(best_trial_id):
         for param in trials.results[all_best_ids[0]]["Params"]:
             print "%-17s" % param,
             for id in all_best_ids:
-                print "%-17.3f" % trials.results[id]["Params"][param],
+                print "%-17.5g" % trials.results[id]["Params"][param],
             print ""
 
     print "\nFigure showing hyperparameter optimisation progress can be found in the output folder.\n"
