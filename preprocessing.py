@@ -25,30 +25,35 @@ import nltk
 import re
 from nltk.corpus import stopwords
 from copy import deepcopy
-from gensim.models import word2vec
 import pickle
 
-# Import NLTK data
-nltk_data_location = os.path.dirname(os.path.realpath(__file__))
-nltk.download('punkt', download_dir=nltk_data_location)
+
+def load_true_labels(dataset_name):
+
+    # Training and development datasets should be stored in the downloaded_data folder (see installation instructions).
+    # The test data is kept in the repo for now.
+    traindev_path = os.path.join("downloaded_data", "semeval2017-task8-dataset", "traindev")
+    data_files = {"dev": os.path.join(traindev_path, "rumoureval-subtaskA-dev.json"),
+                  "train": os.path.join(traindev_path, "rumoureval-subtaskA-train.json"),
+                  "test": "subtaska.json"}
+
+    # Load the dictionary containing the tweets and labels from the .json file
+    with open(data_files[dataset_name]) as f:
+        for line in f:
+            tweet_label_dict = json.loads(line)
+
+    return tweet_label_dict
 
 
-#%%
 def load_dataset():
-    # load labels and split for task A
-    path_to_split = os.path.join('downloaded_data', 'semeval2017-task8-dataset/traindev')
-    devfile = 'rumoureval-subtaskA-dev.json'
-    with open(os.path.join(path_to_split, devfile)) as f:
-        for line in f:
-            dev = json.loads(line)
-    trainfile = 'rumoureval-subtaskA-train.json'
-    with open(os.path.join(path_to_split, trainfile)) as f:
-        for line in f:
-            train = json.loads(line)
+
+    # Load labels and split for task A
+    dev = load_true_labels("dev")
+    train = load_true_labels("train")
     dev_tweets = dev.keys()
     train_tweets = train.keys()
-    #%%
-    # load folds and conversations
+
+    # Load folds and conversations
     path_to_folds = os.path.join('downloaded_data', 'semeval2017-task8-dataset/rumoureval-data')
     folds = sorted(os.listdir(path_to_folds))
     newfolds = [i for i in folds if i[0] != '.']
@@ -135,15 +140,16 @@ def load_dataset():
                 struct = new_struct
                 weird_conv.append(conversation.copy())
                 weird_struct.append(struct)
-                # Take item from strucutre if key is same as source tweet id
+                # Take item from structure if key is same as source tweet id
             conversation['structure'] = struct
+            branches = tree2branches(conversation['structure'])
+            conversation['branches'] = branches
             train_dev_split[flag].append(conversation.copy())
             allconv.append(conversation.copy())
         cvfolds[fold] = allconv
         allconv = []
 
-#%%
-# read testing data
+    # Load testing data
     path_to_test = os.path.join('downloaded_data', 'semeval2017-task8-test-data')
     test_folders = sorted(os.listdir(path_to_test))
     newfolds = [i for i in test_folders if i[0] != '.']
@@ -175,9 +181,11 @@ def load_dataset():
             for line in f:
                 struct = json.loads(line)
         conversation['structure'] = struct
+        branches = tree2branches(conversation['structure'])
+        conversation['branches'] = branches
         train_dev_split['test'].append(conversation.copy())
+
     return train_dev_split
-#%%
 
 
 def tree2branches(root):
@@ -407,158 +415,166 @@ def convertlabel(label):
     else:
         print(label)
 
-# Create train X, train Y, dev X, dev Y
+def preprocess_data():
+    # Create train X, train Y, dev X, dev Y
 
-#%%
-loadW2vModel()
-#find max branch length
-train_dev_split = load_dataset()
+    #%%
+    loadW2vModel()
+    #find max branch length
+    train_dev_split = load_dataset()
 
-max_branch_len = {}
-max_branch_len['train'] = 0
-max_branch_len['dev'] = 0
-max_branch_len['test'] = 0
+    max_branch_len = {}
+    max_branch_len['train'] = 0
+    max_branch_len['dev'] = 0
+    max_branch_len['test'] = 0
 
-whichset = ['train', 'dev', 'test']
-special = []
+    whichset = ['train', 'dev', 'test']
+    special = []
 
-# first put everything in dict contatining lists for each set
-branch_list = {}
-branch_list['train'] = []
-branch_list['dev'] = []
-branch_list['test'] = []
-# also store labels
+    # first put everything in dict contatining lists for each set
+    branch_list = {}
+    branch_list['train'] = []
+    branch_list['dev'] = []
+    branch_list['test'] = []
+    # also store labels
 
-label_list = {}
-label_list['train'] = []
-label_list['dev'] = []
-label_list['test'] = []
-# also store IDs
+    label_list = {}
+    label_list['train'] = []
+    label_list['dev'] = []
+    label_list['test'] = []
+    # also store IDs
 
-ID_list = {}
-ID_list['train'] = []
-ID_list['dev'] = []
-ID_list['test'] = []
+    ID_list = {}
+    ID_list['train'] = []
+    ID_list['dev'] = []
+    ID_list['test'] = []
 
-rmdoublemask_list = {}
-rmdoublemask_list['train'] = []
-rmdoublemask_list['dev'] = []
-rmdoublemask_list['test'] = []
+    rmdoublemask_list = {}
+    rmdoublemask_list['train'] = []
+    rmdoublemask_list['dev'] = []
+    rmdoublemask_list['test'] = []
 
-dumplabel = {}
-dumplabel['train'] = []
-dumplabel['dev'] = []
-dumplabel['test'] = []
+    dumplabel = {}
+    dumplabel['train'] = []
+    dumplabel['dev'] = []
+    dumplabel['test'] = []
 
-for sset in whichset:
-    for conversation in train_dev_split[sset]:
-        branches = tree2branches(conversation['structure'])
-        all_br_len = []
-        alltweets = [item for sublist in branches for item in sublist]
-        uniqtweets = list(np.unique(alltweets))
-        j = uniqtweets.index(conversation['source']['id_str'])
-        del uniqtweets[j]   # now uniqtweets are replies only
-        allrepliesfromfoldr = []
-        for item in conversation['replies']:
-            allrepliesfromfoldr.append(item['id_str'])
-        if allrepliesfromfoldr != uniqtweets:
-            # print "No correspondence between structure and replies"
-            # print conversation['id']
-            special.append(conversation['id'])
+    for sset in whichset:
+        for conversation in train_dev_split[sset]:
+            all_br_len = []
+            alltweets = [item for sublist in conversation['branches'] for item in sublist]
+            uniqtweets = list(np.unique(alltweets))
+            j = uniqtweets.index(conversation['source']['id_str'])
+            del uniqtweets[j]   # now uniqtweets are replies only
+            allrepliesfromfoldr = []
+            for item in conversation['replies']:
+                allrepliesfromfoldr.append(item['id_str'])
+            if allrepliesfromfoldr != uniqtweets:
+                # print "No correspondence between structure and replies"
+                # print conversation['id']
+                special.append(conversation['id'])
 
-        conversation['branches'] = branches
+            for branch in conversation['branches']:
+                branch_rep = []  # list of all tweets in the branch
+                temp_rmd = []
+                temp_label = []
+                temp_id = []
+                all_br_len.append(len(branch))
+                for i, tweetid in enumerate(branch):
+                    # find tweet instance
+                    if i == 0:
+                        tweet = conversation['source']
+                    else:
+                        # tweet = {}
+                        for response in conversation['replies']:
+                            if tweetid == response['id_str']:
+                                tweet = response
+                                break
+                    if sset != 'test':
+                        label = tweet['label']
+                        temp_label.append(convertlabel(label))  # convertlabel
 
-        for branch in branches:
-            branch_rep = []  # list of all tweets in the branch
-            temp_rmd = []
-            temp_label = []
-            temp_id = []
-            all_br_len.append(len(branch))
-            for i, tweetid in enumerate(branch):
-                # find tweet instance
-                if i == 0:
-                    tweet = conversation['source']
-                else:
-                    # tweet = {}
-                    for response in conversation['replies']:
-                        if tweetid == response['id_str']:
-                            tweet = response
-                            break
+                    temp_id.append(tweet['id_str'])
+                    if tweet['used']:
+                        # if tweet has been processed then take the representation
+                        representation = tweet['representation']
+                        temp_rmd.append(0)
+                    else:
+                        # if tweet is new then
+                        # get tweet's representation
+                        representation = tweet2features(tweet, i,
+                                                        branch, conversation)
+                        tweet['representation'] = representation
+                        tweet['used'] = 1
+                        temp_rmd.append(1)
+                    branch_rep.append(representation)
+                branch_list[sset].append(branch_rep)
+                rmdoublemask_list[sset].append(temp_rmd)
+                ID_list[sset].append(temp_id)
                 if sset != 'test':
-                    label = tweet['label']
-                    temp_label.append(convertlabel(label))  # convertlabel
+                    label_list[sset].append(temp_label)
+            if max(all_br_len) > max_branch_len[sset]:
+                max_branch_len[sset] = max(all_br_len)
+    #%%
+    # after that  transform those lists in numpy array,
+    # get masks needed and saveto files
 
-                temp_id.append(tweet['id_str'])
-                if tweet['used']:
-                    # if tweet has been processed then take the representation
-                    representation = tweet['representation']
-                    temp_rmd.append(0)
-                else:
-                    # if tweet is new then
-                    # get tweet's representation
-                    representation = tweet2features(tweet, i,
-                                                    branch, conversation)
-                    tweet['representation'] = representation
-                    tweet['used'] = 1
-                    temp_rmd.append(1)
-                branch_rep.append(representation)
-            branch_list[sset].append(branch_rep)
-            rmdoublemask_list[sset].append(temp_rmd)
-            ID_list[sset].append(temp_id)
+    branch_arrays = {}
+    num_features = 314
+
+    for sset in whichset:
+        path_to_saved_data = 'saved_data'
+        path_to_save_sets = os.path.join(path_to_saved_data, sset)
+        if not os.path.exists(path_to_save_sets):
+            os.makedirs(path_to_save_sets)
+        temp_list = []
+        mask_list = []
+        padlabel = []
+        rmdoublemask = []
+        ids = []
+        for j, branch in enumerate(branch_list[sset]):
+            # first put all tweets in branch to the temp array
+            temp = np.zeros((max_branch_len[sset], num_features),
+                            dtype=np.float32)
+            temp_mask = np.zeros((max_branch_len[sset]), dtype=np.int32)
+            temp_padlabel = np.zeros((max_branch_len[sset]), dtype=np.int32)
+            temp_rmdoublemask = np.zeros((max_branch_len[sset]), dtype=np.int32)
+            temp_ids = np.zeros((max_branch_len[sset]))
+            temp_ids = [str(a) for a in temp_ids]
+            for i, tweet in enumerate(branch):
+                temp[i] = tweet
+                temp_mask[i] = 1
+                temp_rmdoublemask[i] = rmdoublemask_list[sset][j][i]
+                temp_ids[i] = ID_list[sset][j][i]
+                if sset != 'test':
+                    temp_padlabel[i] = label_list[sset][j][i]
+            temp_list.append(temp)
+            mask_list.append(temp_mask)
+            rmdoublemask.append(temp_rmdoublemask)
+            ids.extend(temp_ids)
             if sset != 'test':
-                label_list[sset].append(temp_label)
-        if max(all_br_len) > max_branch_len[sset]:
-            max_branch_len[sset] = max(all_br_len)
-#%%
-# after that  transform those lists in numpy array,
-# get masks needed and saveto files
-
-branch_arrays = {}
-num_features = 314
-
-for sset in whichset:
-    path_to_saved_data = 'saved_data'
-    path_to_save_sets = os.path.join(path_to_saved_data, sset)
-    if not os.path.exists(path_to_save_sets):
-        os.makedirs(path_to_save_sets)
-    temp_list = []
-    mask_list = []
-    padlabel = []
-    rmdoublemask = []
-    ids = []
-    for j, branch in enumerate(branch_list[sset]):
-        # first put all tweets in branch to the temp array
-        temp = np.zeros((max_branch_len[sset], num_features),
-                        dtype=np.float32)
-        temp_mask = np.zeros((max_branch_len[sset]), dtype=np.int32)
-        temp_padlabel = np.zeros((max_branch_len[sset]), dtype=np.int32)
-        temp_rmdoublemask = np.zeros((max_branch_len[sset]), dtype=np.int32)
-        temp_ids = np.zeros((max_branch_len[sset]))
-        temp_ids = [str(a) for a in temp_ids]
-        for i, tweet in enumerate(branch):
-            temp[i] = tweet
-            temp_mask[i] = 1
-            temp_rmdoublemask[i] = rmdoublemask_list[sset][j][i]
-            temp_ids[i] = ID_list[sset][j][i]
-            if sset != 'test':
-                temp_padlabel[i] = label_list[sset][j][i]
-        temp_list.append(temp)
-        mask_list.append(temp_mask)
-        rmdoublemask.append(temp_rmdoublemask)
-        ids.extend(temp_ids)
+                padlabel.append(temp_padlabel)
+        branch_arrays[sset] = np.asarray(temp_list)
+        mask = np.asarray(mask_list)
+        rmdoublemask = np.asarray(rmdoublemask)
         if sset != 'test':
-            padlabel.append(temp_padlabel)
-    branch_arrays[sset] = np.asarray(temp_list)
-    mask = np.asarray(mask_list)
-    rmdoublemask = np.asarray(rmdoublemask)
-    if sset != 'test':
-        padlabel = np.asarray(padlabel)
-    # save to files
-    np.save(os.path.join(path_to_save_sets, 'rmdoublemask'), rmdoublemask)
-    np.save(os.path.join(path_to_save_sets, 'mask'), mask)
-    np.save(os.path.join(path_to_save_sets, 'branch_arrays'),
-            branch_arrays[sset])
-    with open(os.path.join(path_to_save_sets, 'ids.pkl'), 'wb') as f:
-        pickle.dump(ids, f)
-    if sset != 'test':
-        np.save(os.path.join(path_to_save_sets, 'padlabel'), padlabel)
+            padlabel = np.asarray(padlabel)
+        # save to files
+        np.save(os.path.join(path_to_save_sets, 'rmdoublemask'), rmdoublemask)
+        np.save(os.path.join(path_to_save_sets, 'mask'), mask)
+        np.save(os.path.join(path_to_save_sets, 'branch_arrays'),
+                branch_arrays[sset])
+        with open(os.path.join(path_to_save_sets, 'ids.pkl'), 'wb') as f:
+            pickle.dump(ids, f)
+        if sset != 'test':
+            np.save(os.path.join(path_to_save_sets, 'padlabel'), padlabel)
+
+
+if __name__ == "__main__":
+
+    # Import NLTK data
+    nltk_data_location = os.path.dirname(os.path.realpath(__file__))
+    nltk.download('punkt', download_dir=nltk_data_location)
+
+    # Import the data, preprocess it and store in the saved_data folder
+    preprocess_data()
