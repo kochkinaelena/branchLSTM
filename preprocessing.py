@@ -357,12 +357,10 @@ def tweet2features(tw, i, branch, conversation):
             hasnegation += 1
 
     # Character count using len(text) depends on whether a wide or narrow build of Python was used.
-    # Early work on this project was all done using a narrow build, so we'll ensure lengths on a wide build of Python
-    # are consistent with the narrow build. We therefore consider emojis and other surrogate pair unicode characters to
-    # have length=2, but we can change this to length=1 by removing one of the substitute "U" characters in the first
-    # regular expression.
+    # Let's set the count to be equivalent to that computed on a wide build, i.e. all unicode characters are counted as
+    # length 1.
     tmp_tw_text = tw["text"].encode('raw_unicode_escape')
-    tmp_tw_text = re.sub("(\\\\U[0-9A-Fa-f]{8})", "UU", tmp_tw_text)
+    tmp_tw_text = re.sub("(\\\\U[0-9A-Fa-f]{8})", "U", tmp_tw_text)
     tmp_tw_text = re.sub("(\\\\u[0-9A-Fa-f]{4})", "U", tmp_tw_text)
     charcount = len(tmp_tw_text)
 
