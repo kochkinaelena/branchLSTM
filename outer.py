@@ -42,19 +42,19 @@ import json
 #os.environ["THEANO_FLAGS"]="floatX=float32,dnn.enabled=False,cxx=icpc,
 #                            device=gpu0,nvcc.compiler_bindir=icpc,
 #                            gcc.cxxflags=-march=native"
-from hyperopt import fmin, tpe, hp, Trials #rand
+import numpy
+from hyperopt import fmin, tpe, hp, Trials
 from training import objective_train_model
 from predict import eval_train_model
 from optparse import OptionParser
-#%%
 
 
-def parameter_search(ntrials, is_test=False):
+def parameter_search(ntrials, hyperopt_seed, is_test=False):
     start = timeit.default_timer()
     trials = Trials()
 
     if is_test:
-        # Unrealistic values for parameters; for testing use only
+        # Unrealistic values of parameters; for testing use only
         search_space= { 'num_dense_layers': hp.choice('nlayers',[1, 2, 3, 4]),
                         'num_dense_units': hp.choice('num_dense', [2, 3, 4, 5]),
                         'num_epochs': hp.choice('num_epochs',  [3, 5, 7, 10]),
@@ -80,39 +80,38 @@ def parameter_search(ntrials, is_test=False):
                         'rng_seed': hp.choice('rng_seed', [364])
         }
 
-
-
-
+    # Find the best set of hyperparameters (with TPE algorithm)
     best = fmin(objective_train_model,
-        space=search_space,
-        algo=tpe.suggest,
-        max_evals=ntrials,
-        trials=trials)
-        
-    print ("Best params: ", best)
+                space=search_space,
+                algo=tpe.suggest,
+                max_evals=ntrials,
+                trials=trials,
+                rstate=numpy.random.RandomState(hyperopt_seed))
     
     params = trials.best_trial['result']['Params']
+
+    print "\nBest hyperparameters are:"
+    for hp_name, hp_value in params.items():
+        print "%-20s%-.5g" % (hp_name, hp_value)
         
     out_path = 'output'
     if not os.path.exists(out_path):
             os.makedirs(out_path)
     
-    f = open(os.path.join(out_path,'trials.txt'), "w+")
+    f = open(os.path.join(out_path, 'trials.txt'), "w+")
     pickle.dump(trials, f)
     f.close()
     
-    f = open(os.path.join(out_path,'bestparams.txt'), "w+")
+    f = open(os.path.join(out_path, 'bestparams.txt'), "w+")
     pickle.dump(params, f)
     f.close()
     
-    print ("saved trials and params")
+    print "\nSaved trials and optimal hyperparameters to trials.txt and bestparams.txt"
     
     stop = timeit.default_timer()
-    print ("Time: ",stop - start)  
+    print "Total time: ", stop - start, "\n"
     
     return params
-
-#%%
 
 
 def convertlabeltostr(label):
@@ -163,6 +162,8 @@ def main():
             help='Whether parameter search should be done: default=%default')
     parser.add_option('--ntrials', dest='ntrials', default=10,
                       help='Number of trials: default=%default')
+    parser.add_option('--hseed', dest='hseed', default=None,
+            help="Value of the rng seed passed to hyperopt's fmin function: default=%default")
     parser.add_option(
             '--params', dest='params_file', default='output/bestparams_semeval2017.txt',
             help='Location of parameter file: default=%default')
@@ -175,6 +176,9 @@ def main():
     (options, args) = parser.parse_args()
     psearch = options.psearch
     ntrials = int(options.ntrials)
+    hyperopt_seed = options.hseed
+    if hyperopt_seed is not None:
+        hyperopt_seed = int(hyperopt_seed)
     is_test = options.is_test
     params_file = options.params_file
     
@@ -183,7 +187,7 @@ def main():
             print '\nStarting parameter search using test parameters...\n'
         else:
             print '\nStarting parameter search...\n'
-        params = parameter_search(ntrials, is_test)
+        params = parameter_search(ntrials, hyperopt_seed, is_test)
         print(params)
         eval(params)
     else:
