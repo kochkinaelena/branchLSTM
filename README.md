@@ -8,6 +8,16 @@ https://www.aclweb.org/anthology/S/S17/S17-2083.pdf).
 This version of the code uses Python 2.7 with the Lasagne and Theano libraries.
 
 
+## Table of Contents
+
+- [Reproducible Research Champions](#reproducible-research-champions)
+- [Option 1: Installation on a local machine](option-1-installation-on-a-local-machine)
+- [Option 2: Installation on a Microsoft Azure VM with GPU](#option-2-installation-on-a-microsoft-azure-vm-with-gpu)
+- [Run with the hyperparameters used in the paper](#run-with-the-hyperparameters-used-in-the-paper)
+- [Run with a new set of optimised hyperparameters](#run-with-a-new-set-of-optimised-hyperparameters)
+- [Code structure](#code-structure)
+- [Contact](#contact)
+
 ## Reproducible Research Champions
 
 In May 2018, Elena Kochkina was selected as one of the Alan Turing Institute's Reproducible Research Champions - academics who encourage and promote reproducible research through their own work, and who want to take their latest project to the "next level" of reproducibility.
@@ -44,7 +54,7 @@ pip install -r requirements.txt
 ```
 
 
-## Option 2: Installation on a Microsoft Azure VM
+## Option 2: Installation on a Microsoft Azure VM with GPU
 
 While it is possible to load and apply the final model on a typical desktop/laptop, GPU resources are highly recommended if you want to run the full hyperparameter search.
 
