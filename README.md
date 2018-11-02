@@ -11,7 +11,7 @@ This version of the code uses Python 2.7 with the Lasagne and Theano libraries.
 ## Table of Contents
 
 - [Reproducible Research Champions](#reproducible-research-champions)
-- [Option 1: Installation on a local machine](option-1-installation-on-a-local-machine)
+- [Option 1: Installation on a local machine](#option-1-installation-on-a-local-machine)
 - [Option 2: Installation on a Microsoft Azure VM with GPU](#option-2-installation-on-a-microsoft-azure-vm-with-gpu)
 - [Run with the hyperparameters used in the paper](#run-with-the-hyperparameters-used-in-the-paper)
 - [Run with a new set of optimised hyperparameters](#run-with-a-new-set-of-optimised-hyperparameters)
