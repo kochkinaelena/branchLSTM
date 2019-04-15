@@ -67,11 +67,10 @@ Running the hyperparameter search should take approximately 5-6 hours on an NC6 
 
 Once you have your account, log into the Azure portal and start the process of creating your VM.
 * Click on "Create a resource" and select "Ubuntu Server 16.04 LTS".
-* In the "Basics" panel, you will need to select "VM disk type = HDD". Other options may be set as you wish (see [this page](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal) for general instructions).
-* In the "Size" panel, select NC6 - this is the smallest GPU available, but is sufficient for our purposes.
-* Change the options in the final panels if you want, and then create the resource.
-
-_Note: If you have trouble finding the NC6 option, make sure the HDD disk type is specified or try changing the location._
+* This will take you to the "Basics" panel. Apart from "Size", set the options as you wish (see [this page](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal) for general instructions).
+* In the "Size" section, click on "Change size". Search for an "NC6" - this is the smallest GPU available, but is sufficient for our purposes.
+  * _Note: If you have trouble finding the NC6 option, remove the filters above the table or try changing the location._
+* Click the "Next: Disks" button. The default options in this panel and the following panels should be suitable (although you can change the options if you want). Click through them until you review and create the resource.
 
 ### Install CUDA
 
