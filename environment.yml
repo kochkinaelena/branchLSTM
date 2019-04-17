@@ -41,3 +41,4 @@ dependencies:
       - subprocess32==3.5.2
       - Theano==0.8.2
       - urllib3==1.23
+      - wget
