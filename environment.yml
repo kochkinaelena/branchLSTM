@@ -17,7 +17,7 @@ dependencies:
       - docutils==0.14
       - future==0.16.0
       - futures==3.2.0
-      - gensim==1.0.0
+      - gensim==1.0.0 --install-options="--no-chache-dir"
       - hyperopt==0.1
       - idna==2.7
       - jmespath==0.9.3
@@ -41,4 +41,3 @@ dependencies:
       - subprocess32==3.5.2
       - Theano==0.8.2
       - urllib3==1.23
-      - --no-cache-dir
