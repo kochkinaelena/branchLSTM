@@ -20,7 +20,7 @@ f3 = wget.download(
 )
 
 # extract the datasets
-cmd1 = ["gzip", "-d" f1]
+cmd1 = ["gzip", "-d", f1]
 subprocess.call(cmd1)
 
 cmd2 = ["tar", "-xf", f2]
