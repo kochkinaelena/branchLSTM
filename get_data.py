@@ -29,6 +29,9 @@ subprocess.call(cmd2)
 cmd3 = ["tar", "-xf", f3]
 subprocess.call(cmd3)
 
-# Tidy up
+# tidy up
 os.remove("semeval2017-task8-dataset.tar.bz2")
 os.remove("rumoureval2017-test.tar.bz2")
+
+# change directory back up
+os.chdir("..")
