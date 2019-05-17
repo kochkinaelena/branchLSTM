@@ -70,7 +70,7 @@ Once you have your account, log into the Azure portal and start the process of c
   * Search for and select "Ubuntu Server".
   * Select the "Ubuntu Server 16.04 LTS" software plan, and then press "Create".
 * This will take you to the "Basics" panel.
-  * Apart from "Size", set the options as you wish (see [this page](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal) for general instructions).
+  * Apart from "Size", set the options as you wish. Make sure you set up either a password or an ssh key and open the appropriate port. [This page](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal) goes into more detail on how to set up an Azure VM.
   * In the "Size" section, click on "Change size". Search for an "NC6" - this is the smallest GPU available, but is sufficient for our purposes.
   * _Note: If you have trouble finding the NC6 option, remove the filters above the table or try changing the location (we used "West Europe")._
 * Click the "Next: Disks" button. The default options in this panel and the following panels should be suitable (although you can change the options if you want). Click through them until you review and create the resource.
@@ -204,6 +204,8 @@ python depth_analysis.py
     * `--params`: specifies filepath to file with parameters if `--search=False` (default `--params=output/bestparams_semeval2017`)
     * `-h`, `--help`: explains the command line arguments
 
+`depth_analysis.txt`
+  * Generates the data used for the tables in the paper.
 
 `bestparams_semeval2017.txt`
   * This file stores the parameters used in the competition and paper
