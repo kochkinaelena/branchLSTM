@@ -15,6 +15,7 @@ This version of the code uses Python 2.7 with the Lasagne and Theano libraries.
 - [Option 2: Installation on a Microsoft Azure VM with GPU](#option-2-installation-on-a-microsoft-azure-vm-with-gpu)
 - [Run with the hyperparameters used in the paper](#run-with-the-hyperparameters-used-in-the-paper)
 - [Run with a new set of optimised hyperparameters](#run-with-a-new-set-of-optimised-hyperparameters)
+- [Run in Binder](#run-in-binder)
 - [Code structure](#code-structure)
 - [Contact](#contact)
 
@@ -167,6 +168,53 @@ python3 scorer/scorerA.py "subtaska.json" "output/predictions.txt"
 python depth_analysis.py
 ```
 
+## Run in Binder
+
+To launch this repo in Binder, click the badge below.
+
+[![Binder](http://13.95.18.33/badge_logo.svg)](http://13.95.18.33/v2/gh/sgibson91/branchLSTM/sgibson91python-runtime-patch?urlpath=lab)
+
+When the Binder launches, you will be met with a JupyterLab environment.
+Select a Python 2 Console.
+We then follow the instructions in ["Run with the hyperparameters used in the paper"](#run-with-the-hyperparameters-used-in-the-paper).
+
+* Run the preprocessing stage to convert the data into a format that is compatible with Lasagne.
+
+  ```
+  %run preprocessing.py
+  ```
+
+  **NOTES:**
+  * The keystroke SHIFT+ENTER executes the command.
+  * You can tell the script has finished executing as the square brackets (`[ ]`) on the left of the command will change from containing an asterisk (`*`) to a number (e.g. `1`).
+
+* Construct the model using the optimal set of hyperparameters and apply to the test dataset. The hyperparameters will be loaded from `output/bestparams_semeval2017.txt`.
+
+  ```
+  %run outer.py THEANO_FLAGS='floatX=float32'
+  ```
+
+  The results are saved in `output/predictions.txt` in a format compatible with the scoring script.
+
+* Evaluate the performance of the model with the official SemEval-2017 scoring script.
+  This script uses Python 3 rather than Python 2, so we need to open a Python 3 Console.
+
+  In the menu bar, click "File" --> "New Launcher".
+  Then from the Launcher, select a Python 3 Console and run the following command:
+
+  ```
+  %run scorer/scorerA.py "subtaska.json" "output/predictions.txt"
+  ```
+
+* We can also generate the results that populate most of the tables in the paper (a couple of these, indicated in the output, require files generated during the hyperparameter optimisation process).
+
+  Go back to the Python 2 Console which is the tab marked "Console 1" and run the following:
+
+  ```
+  %run depth_analysis.py
+  ```
+
+  You will receive an error due to the missing files from the hyperparameter optimization, but this is expected.
 
 ## Code structure
 
