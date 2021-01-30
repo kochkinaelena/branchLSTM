@@ -18,7 +18,7 @@ kiwisolver==1.0.1
 -e git+https://github.com/Lasagne/Lasagne.git@8772ebbbaf15951f2deb1bc2d76940ebd8ad2076#egg=Lasagne
 matplotlib==2.2.2
 networkx==1.11
-nltk==3.2.4
+nltk==3.4.5
 nose==1.3.7
 numpy==1.11.1
 pymongo==3.6.1
